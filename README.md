@@ -1,23 +1,23 @@
 
-###Репозиторий Web UI
-
+Репозиторий Web UI
+--
 https://github.com/xeloo/medoc2021
 
 
-###СРЕДА ЗАПУСКА
-
+СРЕДА ЗАПУСКА
+--
 Java 14+
 
 
-###СБОРКА
-
+СБОРКА
+--
 ~~~
 gradle assemble
 ~~~
 
 
-####РАЗРАБОТЧИКИ
-
+РАЗРАБОТЧИКИ
+--
 Силич Александр https://t.me/AlexanderSilich
 
 
