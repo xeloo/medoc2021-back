@@ -1,0 +1,19 @@
+D09A d09a-pereviazochnyi-material Перевязочный материал
+D09AA d09aa-pereviazochnyi-material-propitannyi-protivomikrobnymi-preparatami Перевязочный материал, пропитанный противомикробными препаратами
+D09AB d09ab-binty-s-preparatami-tcinka Бинты с препаратами цинка
+D09AX d09ax-parafinovye-poviazki Парафиновые повязки
+D09AA01 d09aa01-framitcetin Фрамицетин
+D09AA02 d09aa02-fuzidovaia-kislota Фузидовая кислота
+D09AA03 d09aa03-nitrofural Нитрофурал
+D09AA04 d09aa04-fenilmerkuriia-nitrat-fenilrtuti-nitrat Фенилмеркурия нитрат (фенилртути нитрат)
+D09AA05 d09aa05-benzododetcinii Бензододециний
+D09AA06 d09aa06-triclozan Триклозан
+D09AA07 d09aa07-tcetilpiridinii Цетилпиридиний
+D09AA08 d09aa08-aliuminiia-khrorogidrat Алюминия хророгидрат
+D09AA09 d09aa09-povidon-iod Повидон-йод
+D09AA10 d09aa10-cliohinol Клиохинол
+D09AA11 d09aa11-benzalkoniia-khlorid Бензалкония хлорид
+D09AA12 d09aa12-khlorgeksidin Хлоргексидин
+D09AA13 d09aa13-iodoform Йодоформ
+D09AB01 d09ab01-binty-s-preparatami-tcinka-bez-dopolnitelnykh-dobavok Бинты с препаратами цинка без дополнительных добавок
+D09AB02 d09ab02-binty-s-preparatami-tcinka-s-dopolnitelnymi-dobavkami Бинты с препаратами цинка с дополнительными добавками

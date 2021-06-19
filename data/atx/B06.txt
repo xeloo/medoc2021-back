@@ -1,0 +1,15 @@
+B06A b06a-prochie-gematologicheskie-preparaty Прочие гематологические препараты
+B06AA b06aa-fermentnye-preparaty Ферментные препараты
+B06AB b06ab-prochie-gematologicheskie-preparaty Прочие гематологические препараты
+B06AC b06ac-sredstva-dlia-lecheniia-nasledstvennogo-angionevroticheskogo-otyoka Средства для лечения наследственного ангионевротического отёка
+B06AA02 b06aa02-fibrinolizin-i-dezoksiribonucleaza Фибринолизин и дезоксирибонуклеаза
+B06AA03 b06aa03-gialuronidaza Гиалуронидаза
+B06AA04 b06aa04-himotripsin Химотрипсин
+B06AA07 b06aa07-tripsin Трипсин
+B06AA10 b06aa10-dezoksiribonucleaza Дезоксирибонуклеаза
+B06AA55 b06aa55-streptokinaza-v-kombinatcii-s-drugimi-preparatami Стрептокиназа в комбинации с другими препаратами
+B06AB02 b06ab02-gematin Гематин
+B06AC01 b06ac01-c1-ingibitor-na-osnove-plazmy C1-ингибитор на основе плазмы
+B06AC02 b06ac02-inkatibant Инкатибант
+B06AC03 b06ac03-ekallantid Экаллантид
+B06AC04 b06ac04-konestat-alfa Конестат альфа

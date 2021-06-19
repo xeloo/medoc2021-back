@@ -1,0 +1,28 @@
+M05B m05b-preparaty-vliiaiushchie-na-strukturu-i-mineralizatciiu-kostei Препараты, влияющие на структуру и минерализацию костей
+M05BA m05ba-bisfosfonaty Бисфосфонаты
+M05BB m05bb-bisfosfonaty-v-kombinatcii-s-drugimi-preparatami Бисфосфонаты в комбинации с другими препаратами
+M05BC m05bc-kostnye-morfogeneticheskie-proteiny-bmp Костные морфогенетические протеины (BMP)
+M05BX m05bx-drugie-preparaty-vliiaiushchie-na-strukturu-i-mineralizatciiu-kostei Другие препараты, влияющие на структуру и минерализацию костей
+M05BA01 m05ba01-etidronovaia-kislota Этидроновая кислота
+M05BA02 m05ba02-claudronovaia-kislota Клодроновая кислота
+M05BA03 m05ba03-pamidronovaia-kislota Памидроновая кислота
+M05BA04 m05ba04-alendronovaia-kislota Алендроновая кислота
+M05BA05 m05ba05-tiludronovaia-kislota Тилудроновая кислота
+M05BA06 m05ba06-ibandronovaia-kislota Ибандроновая кислота
+M05BA07 m05ba07-rizedronovaia-kislota Ризедроновая кислота
+M05BA08 m05ba08-zoledronovaia-kislota Золедроновая кислота
+M05BB01 m05bb01-etidronovaia-kislota-i-kaltcii-dlia-posledovatelnogo-priema Этидроновая кислота и кальций, для последовательного приема
+M05BB02 m05bb02-rizedronovaia-kislota-i-kaltcii-dlia-posledovatelnogo-priema Ризедроновая кислота и кальций, для последовательного приема
+M05BB03 m05bb03-alendronovaia-kislota-i-kolekaltciferol Алендроновая кислота и колекальциферол
+M05BB04 m05bb04-rizedronovaia-kislota-kaltcii-i-kolekaltciferol-dlia-posledovatelnogo-priema Ризедроновая кислота, кальций и колекальциферол, для последовательного приема
+M05BB05 m05bb05-alendronovaia-kislota-kaltcii-i-kolekaltciferol-dlia-posledovatelnogo-priema Алендроновая кислота, кальций и колекальциферол, для последовательного приема
+M05BB06 m05bb06-alendronovaia-kislota-i-alfakaltcidol-dlia-posledovatelnogo-priema Алендроновая кислота и альфакальцидол, для последовательного приема
+M05BB07 m05bb07-rizedronovaia-kislota-i-kolekaltciferol Ризедроновая кислота и колекальциферол
+M05BB08 m05bb08-zoledronovaia-kislota-kaltcii-i-kolekaltciferol-dlia-posledovatelnogo-priema Золедроновая кислота, кальций и колекальциферол, для последовательного приема
+M05BC01 m05bc01-dibotermin-alfa Диботермин альфа
+M05BC02 m05bc02-eptotermin-alfa Эптотермин альфа
+M05BX01 m05bx01-ipriflavon Иприфлавон
+M05BX02 m05bx02-aliuminiia-khlorgidrat Алюминия хлоргидрат
+M05BX03 m05bx03-strontciia-ranelat Стронция ранелат
+M05BX04 m05bx04-denosumab Деносумаб
+M05BX53 m05bx53-strontciia-ranelat-i-kolekaltciferol Стронция ранелат и колекальциферол

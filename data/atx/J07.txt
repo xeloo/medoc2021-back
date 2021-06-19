@@ -1,0 +1,65 @@
+J07A j07a-vaktciny-profilaktiki-bakterialnyh-infektciy Вакцины для профилактики бактериальных инфекций
+J07B j07b-vaktciny-virusnye Вакцины вирусные
+J07C j07c-kombinatcii-protivovirusnykh-i-protivobakterialnykh-vaktcin Комбинации противовирусных и противобактериальных вакцин
+J07AC j07ac-vaktciny-sibireiazvennye Вакцины сибиреязвенные
+J07AD j07ad-vaktciny-brutcelleznye Вакцины бруцеллезные
+J07AE j07ae-vaktciny-holernye Вакцины холерные
+J07AG j07ag-vakciny-protiv-haemophilus-influenzae-b Вакцины против Haemophilus influenzae B
+J07AH j07ah-vaktciny-meningokokkovye Вакцины менингококковые
+J07AK j07ak-vaktciny-chumnye Вакцины чумные
+J07AL j07al-protivopnevmokokkovye-vaktciny Противопневмококковые вакцины
+J07AM j07am-protivostolbniachnye-vaktciny Противостолбнячные вакцины
+J07AN j07an-protivotuberkuleznye-vaktciny Противотуберкулезные вакцины
+J07AP j07ap-protivobriushnotifoznye-vaktciny Противобрюшнотифозные вакцины
+J07AR j07ar-protivosypnotifoznye-vaktciny Противосыпнотифозные вакцины
+J07AC01 j07ac01-sibireiazvennyi-antigen Сибиреязвенный антиген
+J07AD01 j07ad01-brutcelleznyi-antigen Бруцеллезный антиген
+J07AE01 j07ae01-inaktivirovannyi-tcelnyi-vibrion-holery Инактивированный цельный вибрион холеры
+J07AE02 j07ae02-vaktcina-protiv-holery-zhivaia-attenuirovannaia Вакцина против холеры живая аттенуированная
+J07AE51 j07ae51-inaktivirovannyi-tcelnyi-vibrion-holery-v-kombinatcii-s-protivobriushnotifoznoi-vaktcinoi Инактивированный цельный вибрион холеры в комбинации с противобрюшнотифозной вакциной
+J07AG01 j07ag01-haemophilus-influenzae-b-antigen-ochishchennyi-koniugirovannyi Haemophilus influenzae B антиген очищенный конъюгированный
+J07AH01 j07ah01-meningokokka-a-antigen-polisaharidnyi-ochishchennyi Менингококка A антиген полисахаридный очищенный
+J07AH04 j07ah04-meningokokkovyi-tetravalentnyi-antigen-polisaharidnyi-ochishchennyi Менингококковый тетравалентный антиген полисахаридный очищенный
+J07AK01 j07ak01-chumnye-bakterii-tcelnye-inaktivirovannye Чумные бактерии цельные инактивированные
+J07AL02 j07al02-pnevmokokkovyi-ochishchennyi-polisaharidnyi-antigen-koniugirovannyi Пневмококковый очищенный полисахаридный антиген конъюгированный
+J07AM51 j07am51-stolbniachnyi-toksin-v-kombinatcii-s-difteriinym-toksinom Столбнячный токсин в комбинации с дифтерийным токсином
+J07AN01 j07an01-tuberkuleznaia-zhivaia-oslablennaia-vaktcina Туберкулезная живая ослабленная вакцина
+J07AP03 j07ap03-briushnotifoznykh-bakterii-ochishchennyi-polisaharidnyi-antigen Брюшнотифозных бактерий очищенный полисахаридный антиген
+J07AR01 j07ar01-inaktivirovannye-tcelnye-bakterii-vozbuditelei-sypnogo-tifa Инактивированные цельные бактерии возбудителей сыпного тифа
+J07BA j07ba-protivoentcefalitnye-vaktciny Противоэнцефалитные вакцины
+J07BB j07bb-protivogrippoznye-vaktciny Противогриппозные вакцины
+J07BC j07bc-protivogepatitnye-vaktciny Противогепатитные вакцины
+J07BD j07bd-protivokorevye-vaktciny Противокоревые вакцины
+J07BE j07be-vaktcina-dlia-profilaktiki-parotita Вакцина для профилактики паротита
+J07BF j07bf-protivomielitnye-vaktciny Противомиелитные вакцины
+J07BG j07bg-vaktciny-protiv-beshenstva Вакцины против бешенства
+J07BJ j07bj-vaktciny-protiv-krasnuhi Вакцины против краснухи
+J07BK j07bk-vaktciny-protiv-vetrianoi-ospy Вакцины против ветряной оспы
+J07BL j07bl-vaktciny-protiv-zheltoi-lihoradki Вакцины против желтой лихорадки
+J07BM j07bm-vaktciny-protiv-papillomavirusnoi-infektcii Вакцины против папилломавирусной инфекции
+J07BX j07bx-drugie-protivovirusnye-vaktciny Другие противовирусные вакцины
+J07BA01 j07ba01-virus-cleshchevogo-entcefalita-inaktivirovannyi-tcelnyi Вирус клещевого энцефалита - инактивированный цельный
+J07BA02 j07ba02-virus-iaponskogo-entcefalita-inaktivirovannyi-tcelnyi Вирус японского энцефалита - инактивированный цельный
+J07BA03 j07ba03-virus-iaponskogo-entcefalita-zhivoi-oslablennyi Вирус японского энцефалита - живой ослабленный
+J07BB01 j07bb01-virus-grippa-inaktivirovannyi-tcelnyi-virus Вирус гриппа — инактивированный цельный вирус
+J07BB02 j07bb02-virus-grippa-ochishchennyi-antigen Вирус гриппа — очищенный антиген
+J07BC01 j07bc01-virus-gepatita-v-ochishchennyi-antigen Вирус гепатита В — очищенный антиген
+J07BC02 j07bc02-virus-gepatita-a-ochishchennyi-antigen Вирус гепатита А — очищенный антиген
+J07BC20 j07bc20-vaktciny-gepatitnye-v-kombinatcii Вакцины гепатитные в комбинации
+J07BD01 j07bd01-virus-kori-zhivoi-oslablennyi Вирус кори — живой ослабленный
+J07BD51 j07bd51-virus-kori-v-kombinatcii-s-virusom-parotita-zhivoi-oslablennyi Вирус кори в комбинации с вирусом паротита — живой ослабленный
+J07BD52 j07bd52-virus-kori-v-kombinatcii-s-virusami-parotita-i-krasnuhi-zhivoi-oslablennyi Вирус кори в комбинации с вирусами паротита и краснухи — живой ослабленный
+J07BE01 j07be01-virus-parotita-zhivoi-oslablennyi Вирус паротита — живой ослабленный
+J07BF03 j07bf03-virus-poliomielita-trekhvalentnyi-inaktivirovannyi Вирус полиомиелита — трехвалентный инактивированный
+J07BG01 j07bg01-virus-beshenstva-inaktivirovannyi-tcelnyi Вирус бешенства — инактивированный цельный
+J07BJ01 j07bj01-virus-krasnuhi-zhivoi-oslablennyi Вирус краснухи — живой ослабленный
+J07BK01 j07bk01-virus-vetriannoi-ospy-oslablennyi-zhivoi Вирус ветрянной оспы — ослабленный живой
+J07BL01 j07bl01-virus-zheltoi-lihoradki-zhivoi-oslablennyi Вирус желтой лихорадки — живой ослабленный
+J07BM01 j07bm01-virus-papillomy-virusy-cheloveka-tipov-6-11-16-18 Вирус папилломы (вирусы человека типов 6, 11, 16, 18)
+J07BM02 j07bm02-virus-papillomy-virusy-cheloveka-tipov-16-i-18 Вирус папилломы (вирусы человека типов 16 и 18)
+J07BM03 j07bm03-virus-papillomy-virusy-cheloveka-tipov-6-11-16-18-31-33-45-52-58 Вирус папилломы (вирусы человека типов 6, 11, 16, 18, 31, 33, 45, 52, 58)
+J07BX01 j07bx01-virus-ospy-naturalnoi-zhivoi-oslablennyi Вирус оспы натуральной - живой ослабленный
+J07CA j07ca-kombinatciia-protivovirusnykh-i-protivobakterialnykh-vaktcin Комбинация противовирусных и противобактериальных вакцин
+J07CA02 j07ca02-vaktcina-protiv-difterii-kocliusha-stolbniaka Вакцина против дифтерии-коклюша-столбняка
+J07CA05 j07ca05-vaktcina-protiv-difterii-gepatita-v-kocliusha-i-stolbniaka Вакцина против дифтерии, гепатита В, коклюша и столбняка
+J07CA06 j07ca06-vaktcina-protiv-difterii-haemophilus-influenzae-b-kocliusha-poliomielita-stolbniaka Вакцина против дифтерии, Haemophilus influenzae B, коклюша, полиомиелита, столбняка 

@@ -1,0 +1,54 @@
+N07A n07a-parasimpatomimetiki Парасимпатомиметики
+N07B n07b-preparaty-primeniaemye-pri-psihologicheskikh-ili-fiziologicheskikh-zavisimostiakh-ot-razlichnykh-veshchestv Препараты, применяемые при психологических или физиологических зависимостях от различных веществ
+N07C n07c-preparaty-dlia-ustraneniia-golovokruzheniia Препараты для устранения головокружения
+N07X n07x-drugie-preparaty-dlia-lecheniia-zabolevanii-nervnoi-sistemy Другие препараты для лечения заболеваний нервной системы
+N07AA n07aa-antiholinesteraznye-preparaty Антихолинэстеразные препараты
+N07AB n07ab-holina-efiry Холина эфиры
+N07AX n07ax-prochie-parasimpatomimetiki Прочие парасимпатомиметики
+N07AA01 n07aa01-neostigmina-bromid Неостигмина бромид
+N07AA02 n07aa02-piridostigmina-bromid Пиридостигмина бромид
+N07AA03 n07aa03-distigmina-bromid Дистигмина бромид
+N07AA30 n07aa30-ambenoniia-khlorid Амбенония хлорид
+N07AA51 n07aa51-neostigmina-bromid-v-kombinatcii-s-drugimi-preparatami Неостигмина бромид в комбинации с другими препаратами
+N07AB01 n07ab01-karbahol Карбахол
+N07AB02 n07ab02-betanehol Бетанехол
+N07AX01 n07ax01-pilokarpin Пилокарпин
+N07AX02 n07ax02-holina-alfostcerat Холина альфосцерат
+N07AX03 n07ax03-tcevimelin Цевимелин
+N07BA n07ba-preparaty-primeniaemye-pri-nikotinovoi-zavisimosti Препараты, применяемые при никотиновой зависимости
+N07BB n07bb-preparaty-primeniaemye-pri-alkogolnoi-zavisimosti Препараты, применяемые при алкогольной зависимости
+N07BC n07bc-sredstva-dlia-lecheniia-opiatnoi-zavisimosti Средства для лечения опиатной зависимости
+N07BA01 n07ba01-nikotin Никотин
+N07BA03 n07ba03-vareniclin Варениклин
+N07BB01 n07bb01-disulfiram Дисульфирам
+N07BB02 n07bb02-karbimid-kaltciia Карбимид кальция
+N07BB03 n07bb03-akamprosat Акампросат
+N07BB04 n07bb04-naltrekson Налтрексон
+N07BB05 n07bb05-nalmefen Налмефен
+N07BC01 n07bc01-buprenorfin Бупренорфин
+N07BC02 n07bc02-metadon Метадон
+N07BC03 n07bc03-levatcetilmetadol Левацетилметадол
+N07BC04 n07bc04-lofeksidin Лофексидин
+N07BC05 n07bc05-levometadon Левометадон
+N07BC06 n07bc06-diamorfin Диаморфин
+N07BC51 n07bc51-buprenorfin-v-kombinatcii-s-drugimi-preparatami Бупренорфин в комбинации с другими препаратами
+N07CA n07ca-preparaty-dlia-ustraneniia-golovokruzheniia Препараты для устранения головокружения
+N07CA01 n07ca01-betagistin Бетагистин
+N07CA02 n07ca02-tcinnarizin Циннаризин
+N07CA03 n07ca03-flunarizin Флунаризин
+N07CA04 n07ca04-atcetilleutcin Ацетиллеуцин
+N07CA52 n07ca52-tcinnarizin-v-kombinatcii-s-drugimi-preparatami Циннаризин в комбинации с другими препаратами
+N07XA n07xa-gangliozidy-i-ikh-proizvodnye Ганглиозиды и их производные
+N07XX n07xx-prochie-preparaty-dlia-lecheniia-zabolevanii-nervnoi-sistemy Прочие препараты для лечения заболеваний нервной системы
+N07XX01 n07xx01-tirilazad Тирилазад
+N07XX02 n07xx02-riluzol Рилузол
+N07XX03 n07xx03-ksaliproden Ксалипроден
+N07XX04 n07xx04-natriia-oksibat Натрия оксибат
+N07XX05 n07xx05-amifampridin Амифампридин
+N07XX06 n07xx06-tetrabenazin Тетрабеназин
+N07XX07 n07xx07-fampridin Фампридин
+N07XX08 n07xx08-tafamidis Тафамидис
+N07XX09 n07xx09-dimetilfumarat Диметилфумарат
+N07XX10 n07xx10-lahinimod Лахинимод
+N07XX11 n07xx11-pitolisant Питолисант
+N07XX59 n07xx59-dekstrometorfan-v-kombinatcii-s-drugimi-preparatami Декстрометорфан в комбинации с другими препаратами

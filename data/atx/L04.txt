@@ -1,0 +1,55 @@
+L04A l04a-immunodepressanty Иммунодепрессанты
+L04AA l04aa-selektivnye-immunodepressanty Селективные иммунодепрессанты
+L04AB l04ab-ingibitory-faktora-nekroza-opuholi-alfa-fno-alfa Ингибиторы фактора некроза опухоли альфа (ФНО-альфа)
+L04AC l04ac-ingibitory-interleikina Ингибиторы интерлейкина
+L04AD l04ad-ingibitory-kaltcinevrina Ингибиторы кальциневрина
+L04AX l04ax-prochie-immunodepressanty Прочие иммунодепрессанты
+L04AA02 l04aa02-mooreomonab-cd3 Муромонаб-CD3
+L04AA03 l04aa03-immunoglobulin-antilimfotcitarnyi-konskii Иммуноглобулин антилимфоцитарный (конский)
+L04AA04 l04aa04-immunoglobulin-antitimotcitarnyi-krolichii Иммуноглобулин антитимоцитарный (кроличий)
+L04AA06 l04aa06-mikofenolovaia-kislota Микофеноловая кислота
+L04AA10 l04aa10-sirolimus Сиролимус
+L04AA13 l04aa13-leflunomid Лефлуномид
+L04AA15 l04aa15-alefatcept Алефацепт
+L04AA18 l04aa18-everolimus Эверолимус
+L04AA19 l04aa19-gusperimus Гусперимус
+L04AA21 l04aa21-efalizumab Эфализумаб
+L04AA22 l04aa22-abetimus Абетимус
+L04AA23 l04aa23-natalizumab Натализумаб
+L04AA24 l04aa24-abatatcept Абатацепт
+L04AA25 l04aa25-ekulizumab Экулизумаб
+L04AA26 l04aa26-belimumab Белимумаб
+L04AA27 l04aa27-fingolimod Финголимод
+L04AA28 l04aa28-belatatcept Белатацепт
+L04AA29 l04aa29-tofatcitinib Тофацитиниб
+L04AA31 l04aa31-teriflunomid Терифлуномид
+L04AA32 l04aa32-apremilast Апремиласт
+L04AA33 l04aa33-vedolizumab Ведолизумаб
+L04AA34 l04aa34-alemtuzumab Алемтузумаб
+L04AA35 l04aa35-begelomab Бегеломаб
+L04AB01 l04ab01-etanertcept Этанерцепт
+L04AB02 l04ab02-infliksimab Инфликсимаб
+L04AB03 l04ab03-afelimomab Афелимомаб
+L04AB04 l04ab04-adalimumab Адалимумаб
+L04AB05 l04ab05-tcertolizumaba-pegol Цертолизумаба пэгол
+L04AB06 l04ab06-golimumab Голимумаб
+L04AC01 l04ac01-daclizumab Даклизумаб
+L04AC02 l04ac02-baziliksimab Базиликсимаб
+L04AC03 l04ac03-anakinra Анакинра
+L04AC04 l04ac04-rilonatcept Рилонацепт
+L04AC05 l04ac05-ustekinumab Устекинумаб
+L04AC07 l04ac07-totcilizumab Тоцилизумаб
+L04AC08 l04ac08-kanakinumab Канакинумаб
+L04AC09 l04ac09-briakinumab Бриакинумаб
+L04AC10 l04ac10-sekukinumab Секукинумаб
+L04AC11 l04ac11-siltuksimab Силтуксимаб
+L04AC12 l04ac12-brodalumab Бродалумаб
+L04AD01 l04ad01-tciclosporin Циклоспорин
+L04AD02 l04ad02-takrolimus Такролимус
+L04AD03 l04ad03-voclosporin Воклоспорин
+L04AX01 l04ax01-azatioprin Азатиоприн
+L04AX02 l04ax02-talidomid Талидомид
+L04AX03 l04ax03-metotreksat Метотрексат
+L04AX04 l04ax04-lenalidomid Леналидомид
+L04AX05 l04ax05-pirfenidon Пирфенидон
+L04AX06 l04ax06-pomalidomid Помалидомид

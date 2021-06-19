@@ -1,0 +1,79 @@
+A07A a07a-kishechnye-protivomikrobnye-i-protivovospalitelnye-preparaty Кишечные противомикробные и противовоспалительные препараты
+A07B a07b-kishechnye-adsorbentyfurazolidon Кишечные адсорбентыфуразолидон
+A07C a07c-elektrolity-s-uglevodami Электролиты с углеводами
+A07D a07d-preparaty-snizhaiushchie-motoriku-zhkt Препараты, снижающие моторику ЖКТ
+A07E a07e-kishechnye-protivovospalitelnye-preparaty Кишечные противовоспалительные препараты
+A07F a07f-antidiareinye-mikroorganizmy Антидиарейные микроорганизмы
+A07X a07x-prochie-antidiareinye-preparaty Прочие антидиарейные препараты
+A07AA a07aa-antibakterialnye-preparaty Антибактериальные препараты
+A07AB a07ab-sulfanilamidy Сульфаниламиды
+A07AC a07ac-proizvodnye-imidazola Производные имидазола
+A07AX a07ax-prochie-kishechnye-protivomikrobnye-preparaty Прочие кишечные противомикробные препараты
+A07AA01 a07aa01-neomitcin Неомицин
+A07AA02 a07aa02-nistatin Нистатин
+A07AA03 a07aa03-natamitcin Натамицин
+A07AA04 a07aa04-streptomitcin Стрептомицин
+A07AA05 a07aa05-polimiksin Полимиксин
+A07AA06 a07aa06-paromomitcin Паромомицин
+A07AA07 a07aa07-amfoteritcin-v Амфотерицин В
+A07AA08 a07aa08-kanamitcin Канамицин
+A07AA09 a07aa09-vankomitcin Ванкомицин
+A07AA10 a07aa10-kolistin Колистин
+A07AA11 a07aa11-rifaksimin Рифаксимин
+A07AA12 a07aa12-fidaksomitcin Фидаксомицин
+A07AA51 a07aa51-neomitcin-v-kombinatcii-s-drugimi-preparatami Неомицин в комбинации с другими препаратами
+A07AA54 a07aa54-streptomitcin-v-kombinatcii-s-drugimi-preparatami Стрептомицин в комбинации с другими препаратами
+A07AB02 a07ab02-ftalilsulfatiazol Фталилсульфатиазол
+A07AB03 a07ab03-sulfaguanidin Сульфагуанидин
+A07AB04 a07ab04-suktcinilsulfatiazol Сукцинилсульфатиазол
+A07AC01 a07ac01-mikonazol Миконазол
+A07AX01 a07ax01-broksihinolin Броксихинолин
+A07AX02 a07ax02-atcetarsol Ацетарсол
+A07AX03 a07ax03-nifuroksazid Нифуроксазид
+A07AX04 a07ax04-nifurzid Нифурзид
+A07BA a07ba-preparaty-uglia Препараты угля
+A07BB a07bb-vismuta-subgalat Висмута субгалат
+A07BC a07bc-prochie-kishechnye-adsorbenty Прочие кишечные адсорбенты
+A07BA01 a07ba01-aktivirovannyi-ugol Активированный уголь
+A07BA51 a07ba51-aktivirovannyi-ugol-v-kombinatcii-s-drugimi-preparatami Активированный уголь в комбинации с другими препаратами
+A07BC01 a07bc01-pektin Пектин
+A07BC02 a07bc02-kaolin Каолин
+A07BC03 a07bc03-krospovidon Кросповидон
+A07BC04 a07bc04-attapulgit Аттапулгит
+A07BC05 a07bc05-diosmektit Диосмектит
+A07BC30 a07bc30-kombinirovannye-preparaty Комбинированные препараты
+A07BC54 a07bc54-attapulgit-v-sochetanii-s-drugimi-preparatami-oralnye-regidratatcionnye-soli-gidrovit Аттапулгит в сочетании с другими препаратами Оральные регидратационные соли Гидровит
+A07CA a07ca-regidratanty-dlia-peroralnogo-priyoma Регидратанты для перорального приёма
+A07DA a07da-preparaty-snizhaiushchie-motoriku-zhkt Препараты, снижающие моторику ЖКТ
+A07DA01 a07da01-difenoksilat Дифеноксилат
+A07DA02 a07da02-opii Опий
+A07DA03 a07da03-loperamid Лоперамид
+A07DA04 a07da04-difenoksin Дифеноксин
+A07DA05 a07da05-loperamida-oksid Лоперамида оксид
+A07DA52 a07da52-morfin-v-kombinatcii-s-drugimi-preparatami Морфин в комбинации с другими препаратами
+A07DA53 a07da53-loperamid-v-kombinatcii-s-drugimi-preparatami Лоперамид в комбинации с другими препаратами
+A07EA a07ea-gliukokortikosteroidy-mestnogo-deistviia Глюкокортикостероиды местного действия
+A07EB a07eb-antiallergicheskie-preparaty-iscliuchaia-gliukokortikosteroidy Антиаллергические препараты (исключая глюкокортикостероиды)
+A07EC a07ec-aminosalitcilovaia-kislota-i-analogichnye-preparaty Аминосалициловая кислота и аналогичные препараты
+A07EA01 a07ea01-prednizolon Преднизолон
+A07EA02 a07ea02-gidrokortizon Гидрокортизон
+A07EA03 a07ea03-prednizon Преднизон
+A07EA04 a07ea04-betametazon Бетаметазон
+A07EA05 a07ea05-tiksokortol Тиксокортол
+A07EA06 a07ea06-budesonid Будесонид
+A07EA07 a07ea07-beclometazon Беклометазон
+A07EB01 a07eb01-kromoglitcinovaia-kislota Кромоглициновая кислота
+A07EC01 a07ec01-sulfasalazin Сульфасалазин
+A07EC02 a07ec02-mesalazin Месалазин
+A07EC03 a07ec03-olsalazin Олсалазин
+A07EC04 a07ec04-balsalazid Балсалазид
+A07FA a07fa-antidiareinye-mikroorganizmy Антидиарейные микроорганизмы
+A07FA01 a07fa01-mikroorganizmy-produtciruiushchie-molochnuiu-kislotu Микроорганизмы, продуцирующие молочную кислоту
+A07FA02 a07fa02-saharomitcety-boulardii Сахаромицеты Boulardii
+A07FA51 a07fa51-kombinatciia-mikroorganizmov-produtciruiushchikh-molochnuiu-kislotu-s-drugimi-preparatami Комбинация микроорганизмов, продуцирующих молочную кислоту, с другими препаратами
+A07XA a07xa-prochie-antidiareinye-preparaty Прочие антидиарейные препараты
+A07XA01 a07xa01-albumin-tannat Альбумин таннат
+A07XA02 a07xa02-tceratonia Цератониа
+A07XA03 a07xa03-preparaty-kaltciia Препараты кальция
+A07XA04 a07xa04-ratcekadotril Рацекадотрил
+A07XA51 a07xa51-albumin-tannat-v-kombinatcii-s-drugimi-preparatami Альбумин таннат в комбинации с другими препаратами

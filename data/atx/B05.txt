@@ -1,0 +1,89 @@
+B05A b05a-preparaty-krovi Препараты крови
+B05B b05b-rastvory-dlia-v-v-vvedeniia Растворы для в/в введения
+B05C b05c-irrigatcionnye-rastvory Ирригационные растворы
+B05D b05d-preparaty-dlia-peritonealnogo-dializa Препараты для перитонеального диализа
+B05X b05x-dobavki-k-rastvoram-dlia-v-v-vvedeniia Добавки к растворам для в/в введения
+B05Z b05z-gemodializaty-i-gemofiltraty Гемодиализаты и гемофильтраты
+B05AA b05aa-plazmozameshchaiushchie-preparaty-i-belkovye-fraktcii-plazmy Плазмозамещающие препараты и белковые фракции плазмы
+B05AX b05ax-drugie-preparaty-krovi Другие препараты крови
+B05AA01 b05aa01-albumin Альбумин
+B05AA02 b05aa02-prochie-belkovye-fraktcii-plazmy Прочие белковые фракции плазмы
+B05AA03 b05aa03-ftorkarbonovye-krovezameniteli Фторкарбоновые кровезаменители
+B05AA05 b05aa05-dekstran Декстран
+B05AA06 b05aa06-preparaty-zhelatina Препараты желатина
+B05AA07 b05aa07-gidroksietilkrakhmal Гидроксиэтилкрахмал
+B05AA08 b05aa08-gemoglobin-krosfumaril Гемоглобин кросфумарил
+B05AA09 b05aa09-gemoglobin-raffimer Гемоглобин раффимер
+B05AA10 b05aa10-gemoglobin-glutamer-bychii Гемоглобин глутамер (бычий)
+B05AX01 b05ax01-eritrotcity Эритроциты
+B05AX02 b05ax02-trombotcity Тромбоциты
+B05AX03 b05ax03-plazma-krovi Плазма крови
+B05AX04 b05ax04-stvolovye-cletki-iz-pupovinnoi-krovi Стволовые клетки из пуповинной крови 
+B05BA b05ba-rastvory-dlia-parenteralnogo-pitaniia Растворы для парентерального питания
+B05BB b05bb-rastvory-vliiaiushchie-na-vodno-elektrolitnyi-balans Растворы, влияющие на водно-электролитный баланс
+B05BC b05bc-osmodiuretiki Осмодиуретики
+B05BA01 b05ba01-aminokisloty Аминокислоты
+B05BA02 b05ba02-zhirovye-emulsii Жировые эмульсии
+B05BA03 b05ba03-uglevody Углеводы
+B05BA04 b05ba04-gidrolizaty-belkov Гидролизаты белков
+B05BA10 b05ba10-kombinirovannye-preparaty-dlia-parenteralnogo-pitaniia Комбинированные препараты для парентерального питания
+B05BB01 b05bb01-elektrolity Электролиты
+B05BB02 b05bb02-elektrolity-v-sochetanii-s-uglevodami Электролиты в сочетании с углеводами
+B05BB03 b05bb03-trometamol Трометамол
+B05BB04 b05bb04-elektrolity-v-kombinatcii-s-drugimi-preparatami Электролиты в комбинации с другими препаратами
+B05BC01 b05bc01-mannitol Маннитол
+B05BC02 b05bc02-karbamid Карбамид
+B05CA b05ca-protivomikrobnye-rastvory Противомикробные растворы
+B05CB b05cb-solevye-rastvory Солевые растворы
+B05CX b05cx-prochie-irrigatcionnye-rastvory Прочие ирригационные растворы
+B05CA01 b05ca01-tcetilpiridin Цетилпиридин
+B05CA02 b05ca02-khlorgeksidin Хлоргексидин
+B05CA03 b05ca03-nitrofural Нитрофурал
+B05CA04 b05ca04-sulfametizol Сульфаметизол
+B05CA05 b05ca05-taurolidin Тауролидин
+B05CA06 b05ca06-mindalnaia-kislota Миндальная кислота
+B05CA07 b05ca07-noksitiolin Нокситиолин
+B05CA08 b05ca08-etakridin Этакридин
+B05CA09 b05ca09-neomitcin Неомицин
+B05CA10 b05ca10-kombinatcii-antimikrobnykh-sredstv Комбинации антимикробных средств
+B05CB01 b05cb01-natriia-khlorid Натрия хлорид
+B05CB02 b05cb02-natriia-tcitrat Натрия цитрат
+B05CB03 b05cb03-magniia-tcitrat Магния цитрат
+B05CB04 b05cb04-natriia-gidrokarbonat Натрия гидрокарбонат
+B05CB10 b05cb10-kombinatcii-solei Комбинации солей
+B05CX01 b05cx01-dekstroza Декстроза
+B05CX02 b05cx02-sorbitol Сорбитол
+B05CX03 b05cx03-glitcin Глицин
+B05CX04 b05cx04-mannitol Маннитол
+B05CX05 b05cx05-kombinatcii-irrigatcionnykh-ratvorov Комбинации ирригационных ратворов
+B05DA b05da-izotonicheskie-rastvory Изотонические растворы
+B05DB b05db-gipertonicheskie-rastvory Гипертонические растворы
+B05XB b05xb-aminokisloty Аминокислоты
+B05XC b05xc-vitaminy Витамины
+B05XX b05xx-prochie-dobavki-k-rastvoram-dlia-v-v-vvedeniia Прочие добавки к растворам для в/в введения
+B05XA b05xa-elektrolitnye-rastvory Электролитные растворы
+B05XB01 b05xb01-arginin-gidrokhlorid Аргинин гидрохлорид
+B05XB02 b05xb02-alanilglutamin Аланилглутамин
+B05XB03 b05xb03-leezin Лизин
+B05XX02 b05xx02-trometamol Трометамол
+B05XA01 b05xa01-kaliia-khlorid Калия хлорид
+B05XA02 b05xa02-natriia-gidrokarbonat Натрия гидрокарбонат
+B05XA03 b05xa03-natriia-khlorid Натрия хлорид
+B05XA04 b05xa04-ammoniia-khlorid Аммония хлорид
+B05XA05 b05xa05-magniia-sulfat Магния сульфат
+B05XA06 b05xa06-kaliia-fosfat-vcliuchaia-kombinatcii-s-drugimi-soliami-kaliia Калия фосфат, включая комбинации с другими солями калия
+B05XA07 b05xa07-kaltciia-khlorid Кальция хлорид
+B05XA08 b05xa08-natriia-atcetat Натрия ацетат
+B05XA09 b05xa09-natriia-fosfat Натрия фосфат
+B05XA10 b05xa10-magniia-fosfat Магния фосфат
+B05XA11 b05xa11-magniia-khlorid Магния хлорид
+B05XA12 b05xa12-tcinka-khlorid Цинка хлорид
+B05XA13 b05xa13-solianaia-kislota Соляная кислота
+B05XA14 b05xa14-natriia-glitcerofosfat Натрия глицерофосфат
+B05XA15 b05xa15-kaliia-laktat Калия лактат
+B05XA16 b05xa16-kardioplegicheskie-rastvory Кардиоплегические растворы
+B05XA17 b05xa17-kaliia-atcetat Калия ацетат
+B05XA30 b05xa30-kombinatcii-elektrolitov Комбинации электролитов
+B05XA31 b05xa31-elektrolity-v-kombinatcii-s-drugimi-preparatami Электролиты в комбинации с другими препаратами
+B05ZA b05za-gemodializaty-koncentraty Гемодиализаты (концентраты)
+B05ZB b05zb-gemofiltraty Гемофильтраты

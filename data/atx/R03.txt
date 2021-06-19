@@ -1,0 +1,135 @@
+R03A r03a-adrenergicheskie-sredstva-dlia-ingaliatcionnogo-vvedeniia Адренергические средства для ингаляционного введения
+R03B r03b-drugie-ingaliatcionnye-preparaty-dlia-lecheniia-obstruktivnykh-zabolevanii-dyhatelnykh-putei Другие ингаляционные препараты для лечения обструктивных заболеваний дыхательных путей
+R03C r03c-adrenergicheskie-sredstva-dlia-sistemnogo-primeneniia Адренергические средства для системного применения
+R03D r03d-drugie-preparaty-dlia-lecheniia-obstruktivnykh-zabolevanii-dyhatelnykh-putei-dlia-sistemnogo-primeneniia Другие препараты для лечения обструктивных заболеваний дыхательных путей для системного применения
+R03AA r03aa-alfa-i-beta-adrenomimetiki Альфа- и бета-адреномиметики
+R03AB r03ab-neselektivnye-beta-adrenomimetiki Неселективные бета-адреномиметики
+R03AC r03ac-selektivnye-beta2-adrenomimetiki Селективные бета2-адреномиметики
+R03AH r03ah-kombinatcii-adrenergicheskikh-preparatov Комбинации адренергических препаратов
+R03AK r03ak-adrenergicheskie-sredstva-v-kombinatcii-s-kortikosteroidami-ili-drugimi-preparatami-za-iscliucheniem-antiholinergicheskikh-sredstv Адренергические средства в комбинации с кортикостероидами или другими препаратами, за исключением антихолинергических средств
+R03AL r03al-adrenergicheskie-sredstva-v-kombinatcii-s-antiholinergicheskimi Адренергические средства в комбинации с антихолинергическими
+R03AA01 r03aa01-epinefrin Эпинефрин
+R03AB02 r03ab02-izoprenalin Изопреналин
+R03AB03 r03ab03-ortciprenalin Орципреналин
+R03AC02 r03ac02-salbutamol Сальбутамол
+R03AC03 r03ac03-terbutalin Тербуталин
+R03AC04 r03ac04-fenoterol Фенотерол
+R03AC05 r03ac05-rimiterol Римитерол
+R03AC06 r03ac06-geksoprenalin Гексопреналин
+R03AC07 r03ac07-izoetarin Изоэтарин
+R03AC08 r03ac08-pirbuterol Пирбутерол
+R03AC09 r03ac09-tretohinol Третохинол
+R03AC10 r03ac10-karbuterol Карбутерол
+R03AC11 r03ac11-tulobuterol Тулобутерол
+R03AC12 r03ac12-salmeterol Салметерол
+R03AC13 r03ac13-formoterol Формотерол
+R03AC14 r03ac14-clenbuterol Кленбутерол
+R03AC15 r03ac15-reproterol Репротерол
+R03AC16 r03ac16-prokaterol Прокатерол
+R03AC17 r03ac17-bitolterol Битолтерол
+R03AC18 r03ac18-indakaterol Индакатерол
+R03AC19 r03ac19-olodaterol Олодатерол
+R03AK01 r03ak01-epinefrin-i-drugie-preparaty-dlia-lecheniia-obstruktivnykh-zabolevanii-dyhatelnykh-putei Эпинефрин и другие препараты для лечения обструктивных заболеваний дыхательных путей
+R03AK02 r03ak02-izoprenalin-i-drugie-preparaty-dlia-lecheniia-obstruktivnykh-zabolevanii-dyhatelnykh-putei Изопреналин и другие препараты для лечения обструктивных заболеваний дыхательных путей
+R03AK04 r03ak04-salbutamol-i-natriia-kromoglikat Сальбутамол и натрия кромогликат
+R03AK05 r03ak05-reproterol-i-natriia-kromoglikat Репротерол и натрия кромогликат
+R03AK06 r03ak06-salmeterol-i-flutikazon Салметерол и флутиказон
+R03AK07 r03ak07-formoterol-i-budesonid Формотерол и будесонид
+R03AK08 r03ak08-formoterol-i-beclometazon Формотерол и беклометазон
+R03AK09 r03ak09-formoterol-i-mometazon Формотерол и мометазон
+R03AK10 r03ak10-vilanterol-i-flutikazona-furoat Вилантерол и флутиказона фуроат
+R03AK11 r03ak11-formoterol-i-flutikazon Формотерол и флутиказон
+R03AK12 r03ak12-salmeterol-i-budesonid Салметерол и будесонид
+R03AL01 r03al01-fenoterol-i-ipratropiia-bromid Фенотерол и ипратропия бромид
+R03AL02 r03al02-salbutamol-i-ipratropiia-bromid Сальбутамол и ипратропия бромид
+R03AL03 r03al03-vilanterol-i-umeclidiniia-bromid Вилантерол и умеклидиния бромид
+R03AL04 r03al04-indakaterol-i-glikopirroniia-bromid Индакатерол и гликопиррония бромид
+R03AL05 r03al05-formoterol-i-aclidiniia-bromid Формотерол и аклидиния бромид
+R03AL06 r03al06-olodaterol-i-tiotropiia-bromid Олодатерол и тиотропия бромид
+R03BA r03ba-gliukokortikoidy Глюкокортикоиды
+R03BB r03bb-antiholinergicheskie-sredstva Антихолинергические средства
+R03BC r03bc-protivoallergicheskie-preparaty-iscliuchaia-kortikosteroidy Противоаллергические препараты (исключая кортикостероиды)
+R03BX r03bx-prochie-ingaliatcionnye-preparaty-dlia-lecheniia-obstruktivnykh-zabolevanii-dyhatelnykh-putei Прочие ингаляционные препараты для лечения обструктивных заболеваний дыхательных путей
+R03BA01 r03ba01-beclometazon Беклометазон
+R03BA02 r03ba02-budesonid Будесонид
+R03BA03 r03ba03-flunizolid Флунизолид
+R03BA04 r03ba04-betametazon Бетаметазон
+R03BA05 r03ba05-flutikazon Флутиказон
+R03BA06 r03ba06-triamtcinolon Триамцинолон
+R03BA07 r03ba07-mometazon Мометазон
+R03BA08 r03ba08-tciclesonid Циклесонид
+R03BA09 r03ba09-flutikazona-furoat Флутиказона фуроат
+R03BB01 r03bb01-ipratropiia-bromid Ипратропия бромид
+R03BB02 r03bb02-oksitropiia-bromid Окситропия бромид
+R03BB03 r03bb03-preparaty-durmana Препараты дурмана
+R03BB04 r03bb04-tiotropiia-bromid Тиотропия бромид
+R03BB05 r03bb05-aclidiniia-bromid Аклидиния бромид
+R03BB06 r03bb06-glikopirroniia-bromid Гликопиррония бромид
+R03BB07 r03bb07-umeclidiniia-bromid Умеклидиния бромид
+R03BB54 r03bb54-tiotropiia-bromid-v-kombinatcii-s-drugimi-preparatami Тиотропия бромид в комбинации с другими препаратами
+R03BC01 r03bc01-kromoglitcievaia-kislota Кромоглициевая кислота
+R03BC03 r03bc03-nedokromil Недокромил
+R03BX01 r03bx01-fenspirid Фенспирид
+R03CA r03ca-alfa-i-beta-adrenomimetiki Альфа- и бета-адреномиметики
+R03CB r03cb-neselektivnye-beta-adrenomimetiki Неселективные бета-адреномиметики
+R03CC r03cc-selektivnye-beta2-adrenomimetiki Селективные бета2-адреномиметики
+R03CK r03ck-adrenergicheskie-sredstva-i-drugie-preparaty-dlia-lecheniia-obstruktivnykh-zabolevanii-dyhatelnykh-putei Адренергические средства и другие препараты для лечения обструктивных заболеваний дыхательных путей
+R03CA02 r03ca02-efedrin Эфедрин
+R03CB01 r03cb01-izoprenalin Изопреналин
+R03CB02 r03cb02-metoksifenamin Метоксифенамин
+R03CB03 r03cb03-ortciprenalin Орципреналин
+R03CB51 r03cb51-izoprenalin-v-kombinatcii-s-drugimi-preparatami Изопреналин в комбинации с другими препаратами
+R03CB53 r03cb53-ortciprenalin-v-kombinatcii-s-drugimi-preparatami Орципреналин в комбинации с другими препаратами
+R03CC02 r03cc02-salbutamol Сальбутамол
+R03CC03 r03cc03-terbutalin Тербуталин
+R03CC04 r03cc04-fenoterol Фенотерол
+R03CC05 r03cc05-geksoprenalin Гексопреналин
+R03CC06 r03cc06-izoetarin Изоэтарин
+R03CC07 r03cc07-pirbuterol Пирбутерол
+R03CC08 r03cc08-prokaterol Прокатерол
+R03CC09 r03cc09-tretohinol Третохинол
+R03CC10 r03cc10-karbuterol Карбутерол
+R03CC11 r03cc11-tulobuterol Тулобутерол
+R03CC12 r03cc12-bambuterol Бамбутерол
+R03CC13 r03cc13-clenbuterol Кленбутерол
+R03CC14 r03cc14-reproterol Репротерол
+R03CC53 r03cc53-terbutalin-v-kombinatcii-s-drugimi-preparatami Тербуталин в комбинации с другими препаратами
+R03DA r03da-ksantiny Ксантины
+R03DB r03db-ksantiny-v-kombinatcii-s-adrenergicheskimi-sredstvami Ксантины в комбинации с адренергическими средствами
+R03DC r03dc-antagonisty-leikotrienovykh-retceptorov Антагонисты лейкотриеновых рецепторов
+R03DX r03dx-prochie-preparaty-dlia-lecheniia-obstruktivnykh-zabolevanii-dyhatelnykh-putei-dlia-sistemnogo-primeneniia Прочие препараты для лечения обструктивных заболеваний дыхательных путей для системного применения
+R03DA01 r03da01-diprofillin Дипрофиллин
+R03DA02 r03da02-holina-teofillinat Холина теофиллинат
+R03DA03 r03da03-proksifillin Проксифиллин
+R03DA04 r03da04-teofillin Теофиллин
+R03DA05 r03da05-aminofillin Аминофиллин
+R03DA06 r03da06-etamifillin Этамифиллин
+R03DA07 r03da07-teobromin Теобромин
+R03DA08 r03da08-bamifillin Бамифиллин
+R03DA09 r03da09-atcefillina-piperazin Ацефиллина пиперазин
+R03DA10 r03da10-bufillin Буфиллин
+R03DA11 r03da11-doksofillin Доксофиллин
+R03DA20 r03da20-kombinatcii-ksantinov Комбинации ксантинов
+R03DA51 r03da51-diprofillin-v-kombinatcii-s-drugimi-preparatami Дипрофиллин в комбинации с другими препаратами
+R03DA54 r03da54-teofillin-v-kombinatcii-s-drugimi-preparatami-iscliuchaia-psiholeptiki Теофиллин, в комбинации с другими препаратами, исключая психолептики
+R03DA55 r03da55-aminofillin-v-kombinatcii-s-drugimi-preparatami Аминофиллин в комбинации с другими препаратами
+R03DA57 r03da57-teobromin-v-kombinatcii-s-drugimi-preparatami Теобромин в комбинации с другими препаратами
+R03DA74 r03da74-teofillin-v-kombinatcii-s-psiholeptikami Теофиллин в комбинации с психолептиками
+R03DB01 r03db01-diprofillin-v-kombinatcii-s-adrenergicheskimi-sredstvami Дипрофиллин в комбинации с адренергическими средствами
+R03DB02 r03db02-holina-teofillinat-v-kombinatcii-s-adrenergicheskimi-sredstvami Холина теофиллинат в комбинации с адренергическими средствами
+R03DB03 r03db03-proksifillin-v-kombinatcii-s-adrenergicheskimi-sredstvami Проксифиллин в комбинации с адренергическими средствами
+R03DB04 r03db04-teofillin-v-kombinatcii-s-adrenergicheskimi-sredstvami Теофиллин в комбинации с адренергическими средствами
+R03DB05 r03db05-aminofillin-v-kombinatcii-s-adrenergicheskimi-sredstvami Аминофиллин в комбинации с адренергическими средствами
+R03DB06 r03db06-etamifillin-v-kombinatcii-s-adrenergicheskimi-sredstvami Этамифиллин в комбинации с адренергическими средствами
+R03DC01 r03dc01-zafirlukast Зафирлукаст
+R03DC02 r03dc02-pranlukast Пранлукаст
+R03DC03 r03dc03-montelukast Монтелукаст
+R03DC04 r03dc04-ibudilast Ибудиласт
+R03DC53 r03dc53-montelukast-v-kombinatcii-s-drugimi-preparatami Монтелукаст в комбинации с другими препаратами
+R03DX01 r03dx01-amleksanoks Амлексанокс
+R03DX02 r03dx02-eprozinol Эпрозинол
+R03DX03 r03dx03-fenspirid Фенспирид
+R03DX05 r03dx05-omalizumab Омализумаб
+R03DX06 r03dx06-seratrodast Сератродаст
+R03DX07 r03dx07-roflumilast Рофлумиласт
+R03DX08 r03dx08-reslizumab Реслизумаб

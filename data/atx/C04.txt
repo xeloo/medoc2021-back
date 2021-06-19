@@ -1,0 +1,41 @@
+C04A c04a-perifericheskie-vazodilatatory Периферические вазодилататоры
+C04AA c04aa-proizvodnye-2-amino-1-feniletanola Производные 2-амино-1-фенилэтанола
+C04AB c04ab-proizvodnye-imidazolina Производные имидазолина
+C04AC c04ac-nikotinovaia-kislota-i-ee-proizvodnye Никотиновая кислота и ее производные
+C04AD c04ad-puriny Пурины
+C04AE c04ae-sporyni-alkaloidy Спорыньи алкалоиды
+C04AF c04af-fermenty Ферменты
+C04AX c04ax-prochie-perifericheskie-vazodilatatory Прочие периферические вазодилататоры
+C04AA01 c04aa01-izoksuprin Изоксуприн
+C04AA02 c04aa02-bufenin Буфенин
+C04AA31 c04aa31-bametan Баметан
+C04AB01 c04ab01-fentolamin Фентоламин
+C04AB02 c04ab02-tolazolin Толазолин
+C04AC01 c04ac01-nikotinovaia-kislota Никотиновая кислота
+C04AC02 c04ac02-nikotinilovyi-spirt-pyridylcarbinol Никотиниловый спирт (pyridylcarbinol)
+C04AC03 c04ac03-inozitola-nikotinat Инозитола никотинат
+C04AC07 c04ac07-tciclonikat Циклоникат
+C04AD01 c04ad01-pentifillin Пентифиллин
+C04AD02 c04ad02-ksantinola-nikotinat Ксантинола никотинат
+C04AD03 c04ad03-pentoksifillin Пентоксифиллин
+C04AD04 c04ad04-etofillina-nikotinat Этофиллина никотинат
+C04AE01 c04ae01-ergoloid-mezila Эрголоид мезила
+C04AE04 c04ae04-digidroergokristin Дигидроэргокристин
+C04AE51 c04ae51-ergoloida-mezilat-v-kombinatcii-s-drugimi-preparatami Эрголоида мезилат в комбинации с другими препаратами
+C04AE54 c04ae54-digidroergokristin-v-kombinatcii-s-drugimi-preparatami Дигидроэргокристин в комбинации с другими препаратами
+C04AF01 c04af01-kallidinogenaza Каллидиногеназа
+C04AX01 c04ax01-tciclandelat Цикланделат
+C04AX02 c04ax02-fenoksibenzamin Феноксибензамин
+C04AX07 c04ax07-vinkamin Винкамин
+C04AX10 c04ax10-moksizilit Моксизилит
+C04AX11 c04ax11-bentciclan Бенциклан
+C04AX19 c04ax19-suloktidil Сулоктидил
+C04AX20 c04ax20-buflomedil Буфломедил
+C04AX21 c04ax21-naftidrofuril Нафтидрофурил
+C04AX23 c04ax23-butilamin Бутиламин
+C04AX24 c04ax24-visnadin Виснадин
+C04AX26 c04ax26-tcetiedil Цетиедил
+C04AX27 c04ax27-tcinepazid Цинепазид
+C04AX28 c04ax28-ifenprodil Ифенпродил
+C04AX30 c04ax30-azapetin Азапетин
+C04AX32 c04ax32-fasudil Фасудил

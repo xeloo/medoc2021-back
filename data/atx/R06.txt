@@ -1,0 +1,90 @@
+R06A r06a-antigistaminnye-preparaty-dlia-sistemnogo-primeneniia Антигистаминные препараты для системного применения
+R06AA r06aa-aminoalkilnye-efiry Аминоалкильные эфиры
+R06AB r06ab-alkilaminy-zameshchennye Алкиламины замещенные
+R06AC r06ac-etilendiaminy-zameshchennye Этилендиамины замещенные
+R06AD r06ad-proizvodnye-fenotiazina Производные фенотиазина
+R06AE r06ae-proizvodnye-piperazina Производные пиперазина
+R06AK r06ak-kombinatcii-antigistaminnykh-preparatov Комбинации антигистаминных препаратов
+R06AX r06ax-drugie-antigistaminnye-preparaty-dlia-sistemnogo-primeneniia Другие антигистаминные препараты для системного применения
+R06AA01 r06aa01-bromazin Бромазин
+R06AA02 r06aa02-difengidramin Дифенгидрамин
+R06AA04 r06aa04-clemastin Клемастин
+R06AA06 r06aa06-khlorfenoksamin Хлорфеноксамин
+R06AA07 r06aa07-difenilpiralin Дифенилпиралин
+R06AA08 r06aa08-karbinoksamin Карбиноксамин
+R06AA09 r06aa09-doksilamin Доксиламин
+R06AA10 r06aa10-trimetobenzamid Триметобензамид
+R06AA52 r06aa52-difengidramin-v-kombinatcii-s-drugimi-preparatami Дифенгидрамин в комбинации с другими препаратами
+R06AA54 r06aa54-clemastin-v-kombinatcii-s-drugimi-preparatami Клемастин в комбинации с другими препаратами
+R06AA56 r06aa56-khlorfenoksamin-v-kombinatcii-s-drugimi-preparatami Хлорфеноксамин в комбинации с другими препаратами
+R06AA57 r06aa57-difenilpiralin-v-kombinatcii-s-drugimi-preparatami Дифенилпиралин в комбинации с другими препаратами
+R06AA59 r06aa59-doksilamin-v-kombinatcii-s-drugimi-preparatami Доксиламин в комбинации с другими препаратами
+R06AB01 r06ab01-bromfeniramin Бромфенирамин
+R06AB02 r06ab02-dekskhlorfeniramin Дексхлорфенирамин
+R06AB03 r06ab03-dimetinden Диметинден
+R06AB04 r06ab04-khlorfenamin Хлорфенамин
+R06AB05 r06ab05-feniramin Фенирамин
+R06AB06 r06ab06-deksbromfeniramin Дексбромфенирамин
+R06AB07 r06ab07-talastin Таластин
+R06AB51 r06ab51-bromfeniramin-v-kombinatcii-s-drugimi-preparatami Бромфенирамин в комбинации с другими препаратами
+R06AB52 r06ab52-dekskhlorfeniramin-v-kombinatcii-s-drugimi-preparatami Дексхлорфенирамин в комбинации с другими препаратами
+R06AB54 r06ab54-khlorfenamin-v-kombinatcii-s-drugimi-preparatami Хлорфенамин в комбинации с другими препаратами
+R06AB56 r06ab56-deksbromfeniramin-v-kombinatcii-s-drugimi-preparatami Дексбромфенирамин в комбинации с другими препаратами
+R06AC01 r06ac01-mepiramin Мепирамин
+R06AC02 r06ac02-gistapirrodin Гистапирродин
+R06AC03 r06ac03-khloropiramin Хлоропирамин
+R06AC04 r06ac04-tripelennamin Трипеленнамин
+R06AC05 r06ac05-metapirilen Метапирилен
+R06AC06 r06ac06-tonzilamin Тонзиламин
+R06AC52 r06ac52-gistapirrodin-v-kombinatcii-s-drugimi-preparatami Гистапирродин в комбинации с другими препаратами
+R06AC53 r06ac53-khloropiramin-v-kombinatcii-s-drugimi-preparatami Хлоропирамин в комбинации с другими препаратами
+R06AD01 r06ad01-alimemazin Алимемазин
+R06AD02 r06ad02-prometazin Прометазин
+R06AD03 r06ad03-tietilperazin Тиэтилперазин
+R06AD04 r06ad04-metdilazin Метдилазин
+R06AD05 r06ad05-gidroksietilprometazin Гидроксиэтилпрометазин
+R06AD06 r06ad06-tiazinam Тиазинам
+R06AD07 r06ad07-mekvitazin Меквитазин
+R06AD08 r06ad08-oksomemazin Оксомемазин
+R06AD09 r06ad09-izotipendil Изотипендил
+R06AD52 r06ad52-prometazin-v-kombinatcii-s-drugimi-preparatami Прометазин в комбинации с другими препаратами
+R06AD55 r06ad55-gidroksietilprometazin-v-kombinatcii-s-drugimi-preparatami Гидроксиэтилпрометазин в комбинации с другими препаратами
+R06AE01 r06ae01-buclizin Буклизин
+R06AE03 r06ae03-tciclizin Циклизин
+R06AE04 r06ae04-khlortciclizin Хлорциклизин
+R06AE05 r06ae05-meclozin Меклозин
+R06AE06 r06ae06-oksatomid Оксатомид
+R06AE07 r06ae07-tcetirizin Цетиризин
+R06AE09 r06ae09-levotcetirizin Левоцетиризин
+R06AE51 r06ae51-buclizin-v-kombinatcii-s-drugimi-preparatami Буклизин в комбинации с другими препаратами
+R06AE53 r06ae53-tciclizin-v-kombinatcii-s-drugimi-preparatami Циклизин в комбинации с другими препаратами
+R06AE55 r06ae55-meclozin-v-kombinatcii-s-drugimi-preparatami Меклозин в комбинации с другими препаратами
+R06AX01 r06ax01-bamipin Бамипин
+R06AX02 r06ax02-tciprogeptadin Ципрогептадин
+R06AX03 r06ax03-tenalidin Теналидин
+R06AX04 r06ax04-fenindamin Фениндамин
+R06AX05 r06ax05-antazolin Антазолин
+R06AX07 r06ax07-triprolidin Трипролидин
+R06AX08 r06ax08-pirrobutamin Пирробутамин
+R06AX09 r06ax09-azatadin Азатадин
+R06AX11 r06ax11-astemizol Астемизол
+R06AX12 r06ax12-terfenadin Терфенадин
+R06AX13 r06ax13-loratadin Лоратадин
+R06AX15 r06ax15-mebgidrolin Мебгидролин
+R06AX16 r06ax16-deptropin Дептропин
+R06AX17 r06ax17-ketotifen Кетотифен
+R06AX18 r06ax18-akrivastin Акривастин
+R06AX19 r06ax19-azelastin Азеластин
+R06AX21 r06ax21-tritokvalin Тритоквалин
+R06AX22 r06ax22-ebastin Эбастин
+R06AX23 r06ax23-pimetiksen Пиметиксен
+R06AX24 r06ax24-epinastin Эпинастин
+R06AX25 r06ax25-mizolastin Мизоластин
+R06AX26 r06ax26-feksofenadin Фексофенадин
+R06AX27 r06ax27-dezloratadin Дезлоратадин
+R06AX28 r06ax28-rupatadin Рупатадин
+R06AX29 r06ax29-bilastin Биластин
+R06AX31 r06ax31-hifenadin Хифенадин
+R06AX32 r06ax32-sehifenadin Сехифенадин
+R06AX53 r06ax53-tenalidin-v-kombinatcii-s-drugimi-preparatami Теналидин в комбинации с другими препаратами
+R06AX58 r06ax58-pirrobutamin-v-kombinatcii-s-drugimi-preparatami Пирробутамин в комбинации с другими препаратами

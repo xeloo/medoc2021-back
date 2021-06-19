@@ -1,0 +1,85 @@
+P01A p01a-preparaty-dlia-lecheniia-amebiaza-i-drugikh-protozoinykh-infektcii Препараты для лечения амебиаза и других протозойных инфекций
+P01B p01b-preparaty-dlia-lecheniia-maliarii Препараты для лечения малярии
+P01C p01c-preparaty-dlia-lecheniia-leishmanioza-i-tripanosomoza Препараты для лечения лейшманиоза и трипаносомоза
+P01AA p01aa-proizvodnye-gidroksihinolina Производные гидроксихинолина
+P01AB p01ab-proizvodnye-nitroimidazola Производные нитроимидазола
+P01AC p01ac-proizvodnye-dikhloroatcetamida Производные дихлороацетамида
+P01AR p01ar-soedineniia-myshiaka Соединения мышьяка
+P01AX p01ax-drugie-preparaty-dlia-lecheniia-amebiaza-i-drugikh-protozoinykh-infektcii Другие препараты для лечения амебиаза и других протозойных инфекций
+P01AA01 p01aa01-broksihinolin Броксихинолин
+P01AA02 p01aa02-cliohinol Клиохинол
+P01AA04 p01aa04-khlorhinaldol Хлорхинальдол
+P01AA05 p01aa05-tilbrohinol Тилброхинол
+P01AA52 p01aa52-cliohinol-v-kombinatcii-s-drugimi-preparatami Клиохинол в комбинации с другими препаратами
+P01AB01 p01ab01-metronidazol Метронидазол
+P01AB02 p01ab02-tinidazol Тинидазол
+P01AB03 p01ab03-ornidazol Орнидазол
+P01AB04 p01ab04-azanidazol Азанидазол
+P01AB05 p01ab05-propenidazol Пропенидазол
+P01AB06 p01ab06-nimorazol Ниморазол
+P01AB07 p01ab07-seknidazol Секнидазол
+P01AB51 p01ab51-metronidazol-v-kombinatcii-s-drugimi-preparatami Метронидазол в комбинации с другими препаратами
+P01AC01 p01ac01-diloksanid Дилоксанид
+P01AC02 p01ac02-clefamid Клефамид
+P01AC03 p01ac03-etofamid Этофамид
+P01AC04 p01ac04-teclozan Теклозан
+P01AR01 p01ar01-arstinol Арстинол
+P01AR02 p01ar02-difetarzon Дифетарзон
+P01AR03 p01ar03-glikobiarsol Гликобиарсол
+P01AR53 p01ar53-glikobiarsol-v-kombinatcii-s-drugimi-preparatami Гликобиарсол в комбинации с другими препаратами
+P01AX01 p01ax01-hiniofon Хиниофон
+P01AX02 p01ax02-emetin Эметин
+P01AX04 p01ax04-fanhinon Фанхинон
+P01AX05 p01ax05-mepakrin Мепакрин
+P01AX06 p01ax06-atovakvon Атоваквон
+P01AX07 p01ax07-trimetreksat Триметрексат
+P01AX08 p01ax08-tenonitrozol Тенонитрозол
+P01AX09 p01ax09-digidroemetin Дигидроэметин
+P01AX10 p01ax10-fumagillin Фумагиллин
+P01AX11 p01ax11-nitazoksanid Нитазоксанид
+P01AX52 p01ax52-emetin-v-kombinatcii-s-drugimi-preparatami Эметин в комбинации с другими препаратами
+P01BA p01ba-aminohinoliny Аминохинолины
+P01BB p01bb-biguanidy Бигуаниды
+P01BC p01bc-metanolhinoliny Метанолхинолины
+P01BD p01bd-diaminopirimidiny Диаминопиримидины
+P01BE p01be-artemisinin-i-ego-proizvodnye Артемисинин и его производные
+P01BF p01bf-artemisinin-i-ego-proizvodnye-v-kombinatcii-s-drugimi-preparatami Артемисинин и его производные в комбинации с другими препаратами
+P01BX p01bx-drugie-preparaty-dlia-lecheniia-maliarii Другие препараты для лечения малярии
+P01BA01 p01ba01-khlorohin Хлорохин
+P01BA02 p01ba02-gidroksikhlorohin Гидроксихлорохин
+P01BA03 p01ba03-primahin Примахин
+P01BA06 p01ba06-amodiahin Амодиахин
+P01BB01 p01bb01-proguanil Прогуанил
+P01BB02 p01bb02-tcicloguanil-embonat Циклогуанил эмбонат
+P01BB51 p01bb51-proguanil-v-kombinatcii-s-drugimi-preparatami Прогуанил в комбинации с другими препаратами
+P01BC01 p01bc01-hinin Хинин
+P01BC02 p01bc02-meflohin Мефлохин
+P01BD01 p01bd01-pirimetamin Пириметамин
+P01BD51 p01bd51-pirimetamin-v-kombinatcii-s-drugimi-preparatami Пириметамин в комбинации с другими препаратами
+P01BE01 p01be01-artemisinin Артемисинин
+P01BE02 p01be02-artemeter Артеметер
+P01BE03 p01be03-artesunat Артесунат
+P01BE04 p01be04-artemotil Артемотил
+P01BE05 p01be05-artenimol Артенимол
+P01BF01 p01bf01-artemeter-i-lumefantrin Артеметер и лумефантрин
+P01BF02 p01bf02-artesunat-i-meflohin Артесунат и мефлохин
+P01BF03 p01bf03-artesunat-i-amodiahin Артесунат и амодиахин
+P01BF04 p01bf04-artesunat-sulfametopirazin-i-pirimetamin Артесунат, сульфаметопиразин и пириметамин
+P01BF05 p01bf05-artenimol-i-piperahin Артенимол и пиперахин
+P01BF06 p01bf06-artesunat-i-pironaridin Артесунат и пиронаридин
+P01BX01 p01bx01-galofantrin Галофантрин
+P01CA p01ca-proizvodnye-nitroimidazola Производные нитроимидазола
+P01CB p01cb-soedineniia-surmy Соединения сурьмы
+P01CC p01cc-nitrofurana-proizvodnye Нитрофурана производные
+P01CD p01cd-soedineniia-myshiaka Соединения мышьяка
+P01CX p01cx-prochie-preparaty-dlia-lecheniia-leishmanioza-i-tripanosomoza Прочие препараты для лечения лейшманиоза и трипаносомоза
+P01CA02 p01ca02-benznidazol Бензнидазол
+P01CB01 p01cb01-meglumina-antimonat Меглумина антимонат
+P01CB02 p01cb02-stibogliukonat-natriia Стибоглюконат натрия
+P01CC01 p01cc01-nifurtimoks Нифуртимокс
+P01CC02 p01cc02-nitrofural Нитрофурал
+P01CD01 p01cd01-melarsoprol Меларсопрол
+P01CD02 p01cd02-atcetarsol Ацетарсол
+P01CX01 p01cx01-pentamidin-izetionat Пентамидин изетионат
+P01CX02 p01cx02-suramin-natriia Сурамин натрия
+P01CX03 p01cx03-eflornitin Эфлорнитин

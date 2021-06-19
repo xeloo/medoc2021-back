@@ -1,0 +1,16 @@
+A14A a14a-anabolicheskie-steroidnye-preparaty Анаболические стероидные препараты
+A14B a14b-prochie-anabolicheskie-preparaty Прочие анаболические препараты
+A14AA a14aa-proizvodnye-androstana Производные андростана
+A14AB a14ab-anabolicheskie-steroidnye-preparaty-efiry Анаболические стероидные препараты — эфиры
+A14AA01 a14aa01-androstanolon Андростанолон
+A14AA02 a14aa02-stanozolol Станозолол
+A14AA03 a14aa03-metandienon Метандиенон
+A14AA04 a14aa04-metenolon Метенолон
+A14AA05 a14aa05-oksimetolon Оксиметолон
+A14AA06 a14aa06-hinbolon Хинболон
+A14AA07 a14aa07-prasteron Прастерон
+A14AA08 a14aa08-oksandrolon Оксандролон
+A14AA09 a14aa09-noretandrolon Норетандролон
+A14AB01 a14ab01-nandrolon Нандролон
+A14AB02 a14ab02-etilestrenol Этилэстренол
+A14AB03 a14ab03-oksabolona-tcipionat Оксаболона ципионат

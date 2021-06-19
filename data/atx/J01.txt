@@ -1,0 +1,299 @@
+J01A j01a-tetratcicliny Тетрациклины
+J01B j01b-amfenikoly Амфениколы
+J01C j01c-beta-laktamnye-antibiotiki-penitcilliny Бета-лактамные антибиотики – пенициллины
+J01D j01d-beta-laktamnye-antibakterialnye-preparaty-prochie Бета-лактамные антибактериальные препараты прочие
+J01E j01e-sulfanilamidy-i-trimetoprim Сульфаниламиды и триметоприм
+J01F j01f-makrolidy-linkozamidy-i-streptograminy Макролиды, линкозамиды и стрептограмины
+J01G j01g-aminoglikozidy Аминогликозиды
+J01M j01m-antibakterialnye-preparaty-proizvodnye-hinolona Антибактериальные препараты – производные хинолона
+J01R j01r-kombinatcii-antibakterialnykh-preparatov Комбинации антибактериальных препаратов
+J01X j01x-drugie-antibakterialnye-preparaty Другие антибактериальные препараты
+J01AA j01aa-tetratcicliny Тетрациклины
+J01AA01 j01aa01-demeclotciclin Демеклоциклин
+J01AA02 j01aa02-doksitciclin Доксициклин
+J01AA03 j01aa03-khlortetratciclin Хлортетрациклин
+J01AA04 j01aa04-leemetciclin Лимециклин
+J01AA05 j01aa05-metatciclin Метациклин
+J01AA06 j01aa06-oksitetratciclin Окситетрациклин
+J01AA07 j01aa07-tetratciclin Тетрациклин
+J01AA08 j01aa08-minotciclin Миноциклин
+J01AA09 j01aa09-rolitetratciclin Ролитетрациклин
+J01AA10 j01aa10-penimepitciclin Пенимепициклин
+J01AA11 j01aa11-clomotciclin Кломоциклин
+J01AA12 j01aa12-tigetciclin Тигециклин
+J01AA20 j01aa20-kombinatcii-tetratciclinov Комбинации тетрациклинов
+J01AA56 j01aa56-oksitetratciclin-v-kombinatcii-s-drugimi-preparatami Окситетрациклин в комбинации с другими препаратами
+J01BA j01ba-amfenikoly Амфениколы
+J01BA01 j01ba01-khloramfenikol Хлорамфеникол
+J01BA02 j01ba02-tiamfenikol Тиамфеникол
+J01BA52 j01ba52-tiamfenikol-v-kombinatcii-s-drugimi-preparatami Тиамфеникол в комбинации с другими препаратами
+J01CA j01ca-penitcilliny-shirokogo-spektra-deistviia Пенициллины широкого спектра действия
+J01CE j01ce-penitcilliny-chuvstvitelnye-k-beta-laktamazam Пенициллины, чувствительные к бета-лактамазам
+J01CF j01cf-penitcilliny-ustoichivye-k-beta-laktamazam Пенициллины, устойчивые к бета-лактамазам
+J01CG j01cg-ingibitory-beta-laktamazy Ингибиторы бета-лактамазы
+J01CR j01cr-kombinatcii-penitcillinov-vcliuchaia-kombinatcii-s-ingibitorami-beta-laktamaz Комбинации пенициллинов (включая комбинации с ингибиторами бета-лактамаз)
+J01CA01 j01ca01-ampitcillin Ампициллин
+J01CA02 j01ca02-pivampitcillin Пивампициллин
+J01CA03 j01ca03-karbenitcillin Карбенициллин
+J01CA04 j01ca04-amoksitcillin Амоксициллин
+J01CA05 j01ca05-karindatcillin Кариндациллин
+J01CA06 j01ca06-bakampitcillin Бакампициллин
+J01CA07 j01ca07-epitcillin Эпициллин
+J01CA08 j01ca08-pivmetcillinam Пивмециллинам 
+J01CA09 j01ca09-azlotcillin Азлоциллин
+J01CA10 j01ca10-mezlotcillin Мезлоциллин
+J01CA11 j01ca11-metcillinam Мециллинам
+J01CA12 j01ca12-piperatcillin Пиперациллин
+J01CA13 j01ca13-tikartcillin Тикарциллин
+J01CA14 j01ca14-metampitcillin Метампициллин
+J01CA15 j01ca15-talampitcillin Талампициллин
+J01CA16 j01ca16-sulbenitcillin Сулбенициллин
+J01CA17 j01ca17-temotcillin Темоциллин
+J01CA18 j01ca18-getatcillin Гетациллин
+J01CA19 j01ca19-aspoksitcillin Аспоксициллин
+J01CA20 j01ca20-penitciliny-shirokogo-spektra-deistviia-v-kombinatcii Пеницилины широкого спектра действия в комбинации
+J01CA51 j01ca51-ampitcillin-v-kombinatcii Ампициллин в комбинации
+J01CE01 j01ce01-benzilpenitcillin Бензилпенициллин
+J01CE02 j01ce02-fenoksimetilpenitcillin Феноксиметилпенициллин
+J01CE03 j01ce03-propitcillin Пропициллин
+J01CE04 j01ce04-azidotcillin Азидоциллин
+J01CE05 j01ce05-fenetitcillin Фенетициллин
+J01CE06 j01ce06-penametcillin Пенамециллин
+J01CE07 j01ce07-clometcillin Кломециллин
+J01CE08 j01ce08-benzatin-benzilpenitcillin Бензатин бензилпенициллин
+J01CE09 j01ce09-penitcillin-prokain Пенициллин прокаин
+J01CE10 j01ce10-fenoksimetilpenitcillin-benzatin Феноксиметилпенициллин бензатин
+J01CE30 j01ce30-penitcilliny-chuvstvitelnye-v-kombinatcii Пенициллины чувствительные в комбинации
+J01CF01 j01cf01-dicloksatcillin Диклоксациллин
+J01CF02 j01cf02-cloksatcillin Клоксациллин
+J01CF03 j01cf03-metitcillin Метициллин
+J01CF04 j01cf04-oksatcillin Оксациллин
+J01CF05 j01cf05-flucloksatcillin Флуклоксациллин
+J01CF06 j01cf06-naftcillin Нафциллин
+J01CG01 j01cg01-sulbaktam Сульбактам
+J01CG02 j01cg02-tazobaktam Тазобактам
+J01CR01 j01cr01-ampitcillin-v-kombinatcii-s-ingibitorami-fermentov Ампициллин в комбинации с ингибиторами ферментов
+J01CR02 j01cr02-amoksitcillin-v-kombinatcii-s-ingibitorami-fermentov Амоксициллин в комбинации с ингибиторами ферментов
+J01CR03 j01cr03-tikartcillin-v-kombinatcii-s-ingibitorami-fermentov Тикарциллин в комбинации с ингибиторами ферментов
+J01CR04 j01cr04-sultamitcillin Сультамициллин
+J01CR05 j01cr05-piperatcillin-v-kombinatcii-s-ingibitorami-fermentov Пиперациллин в комбинации с ингибиторами ферментов
+J01CR50 j01cr50-kombinatcii-penitcillinov Комбинации пенициллинов
+J01DB j01db-tcefalosporiny-pervogo-pokoleniia Цефалоспорины первого поколения
+J01DC j01dc-tcefalosporiny-vtorogo-pokoleniia Цефалоспорины второго поколения
+J01DD j01dd-tcefalosporiny-tretego-pokoleniia Цефалоспорины третьего поколения
+J01DE j01de-tcefalosporiny-chetvertogo-pokoleniia Цефалоспорины четвертого поколения
+J01DF j01df-monobaktamy Монобактамы
+J01DH j01dh-karbapenemy Карбапенемы
+J01DI j01di-tcefalosporiny-drugie Цефалоспорины другие
+J01DB01 j01db01-tcefaleksin Цефалексин
+J01DB02 j01db02-tcefaloridin Цефалоридин
+J01DB03 j01db03-tcefalotin Цефалотин
+J01DB04 j01db04-tcefazolin Цефазолин
+J01DB05 j01db05-tcefadroksil Цефадроксил
+J01DB06 j01db06-tcefazedon Цефазедон
+J01DB07 j01db07-tcefatrizin Цефатризин
+J01DB08 j01db08-tcefapirin Цефапирин
+J01DB09 j01db09-tcefradin Цефрадин
+J01DB10 j01db10-tcefatcetril Цефацетрил
+J01DB11 j01db11-tcefroksadin Цефроксадин
+J01DB12 j01db12-tceftezol Цефтезол
+J01DC01 j01dc01-tcefoksitin Цефокситин
+J01DC02 j01dc02-tcefuroksim Цефуроксим
+J01DC03 j01dc03-tcefamandol Цефамандол
+J01DC04 j01dc04-tcefaclor Цефаклор
+J01DC05 j01dc05-tcefotetan Цефотетан
+J01DC06 j01dc06-tcefonitcid Цефоницид
+J01DC07 j01dc07-tcefotiam Цефотиам
+J01DC08 j01dc08-lorakarbef Лоракарбеф
+J01DC09 j01dc09-tcefmetazol Цефметазол
+J01DC10 j01dc10-tcefprozil Цефпрозил
+J01DC11 j01dc11-tceforanid Цефоранид
+J01DC12 j01dc12-tcefminoks Цефминокс
+J01DC13 j01dc13-tcefbuperazon Цефбуперазон
+J01DC14 j01dc14-flomoksef Фломоксеф
+J01DD01 j01dd01-tcefotaksim Цефотаксим
+J01DD02 j01dd02-tceftazidim Цефтазидим
+J01DD03 j01dd03-tcefsulodin Цефсулодин
+J01DD04 j01dd04-tceftriakson Цефтриаксон
+J01DD05 j01dd05-tcefmenoksim Цефменоксим
+J01DD06 j01dd06-latamoksef Латамоксеф
+J01DD07 j01dd07-tceftizoksim Цефтизоксим
+J01DD08 j01dd08-tcefiksim Цефиксим
+J01DD09 j01dd09-tcefodizim Цефодизим
+J01DD10 j01dd10-tcefetamet Цефетамет
+J01DD11 j01dd11-tcefpiramid Цефпирамид
+J01DD12 j01dd12-tcefoperazon Цефоперазон
+J01DD13 j01dd13-tcefpodoksim Цефподоксим
+J01DD14 j01dd14-tceftibuten Цефтибутен
+J01DD15 j01dd15-tcefdinir Цефдинир
+J01DD16 j01dd16-tcefditoren Цефдиторен
+J01DD17 j01dd17-tceftcapen Цефцапен
+J01DD51 j01dd51-tcefotaksim-v-kombinatcii-s-drugimi-preparatami Цефотаксим в комбинации с другими препаратами
+J01DD52 j01dd52-tceftazidim-v-kombinatcii-s-drugimi-preparatami Цефтазидим в комбинации с другими препаратами
+J01DD54 j01dd54-tceftriakson-v-kombinatcii-s-drugimi-preparatami Цефтриаксон в комбинации с другими препаратами
+J01DD62 j01dd62-tcefoperazon-v-kombinatcii-s-drugimi-preparatami Цефоперазон в комбинации с другими препаратами
+J01DE01 j01de01-tcefepim Цефепим
+J01DE02 j01de02-tcefpirom Цефпиром
+J01DE03 j01de03-tcefozopran Цефозопран
+J01DF01 j01df01-aztreonam Азтреонам
+J01DF02 j01df02-karumonam Карумонам
+J01DH02 j01dh02-meropenem Меропенем
+J01DH03 j01dh03-ertapenem Эртапенем
+J01DH04 j01dh04-doripenem Дорипенем
+J01DH05 j01dh05-biapenem Биапенем
+J01DH51 j01dh51-imipenem-i-ingibitor-degidropeptidazy Имипенем и ингибитор дегидропептидазы
+J01DH55 j01dh55-panipenem-v-kombinatcii-s-betamipronom Панипенем в комбинации с бетамипроном
+J01DI01 j01di01-tceftobiprola-medokaril Цефтобипрола медокарил
+J01DI02 j01di02-tceftarolina-fosamil Цефтаролина фосамил
+J01DI03 j01di03-faropenem Фаропенем
+J01DI54 j01di54-tceftolozan-i-ingibitor-fermenta Цефтолозан и ингибитор фермента
+J01EA j01ea-trimetoprimi-ego-proizvodnye Триметоприми его производные
+J01EB j01eb-sulfanilamidy-korotkogo-deistviia Сульфаниламиды короткого действия
+J01EC j01ec-sulfanilamidy-srednei-prodolzhitelnosti-deistviia Сульфаниламиды средней продолжительности действия
+J01ED j01ed-sulfanilamidy-dlitelnogo-deistviia Сульфаниламиды длительного действия
+J01EE j01ee-sulfanilamidy-v-kombinatcii-s-trimetoprimom-vcliuchaia-ego-proizvodnye Сульфаниламиды в комбинации с триметопримом (включая его производные)
+J01EA01 j01ea01-trimetoprim Триметоприм
+J01EA02 j01ea02-brodimoprim Бродимоприм
+J01EA03 j01ea03-iclaprim Иклаприм
+J01EB01 j01eb01-sulfazodimidin Сульфазодимидин
+J01EB02 j01eb02-sulfametoksazol Сульфаметоксазол
+J01EB03 j01eb03-sulfadimidin Сульфадимидин
+J01EB04 j01eb04-sulfapiridin Сульфапиридин
+J01EB05 j01eb05-sulfafurazol Сульфафуразол
+J01EB06 j01eb06-sulfanilamid Сульфаниламид
+J01EB07 j01eb07-sulfatiazol Сульфатиазол
+J01EB08 j01eb08-sulfatiomochevina Сульфатиомочевина
+J01EB20 j01eb20-sulfanilamidy-korotkogo-deistviia-v-kombinatciiakh Сульфаниламиды короткого действия в комбинациях
+J01EC01 j01ec01-sulfametoksazol Сульфаметоксазол
+J01EC02 j01ec02-sulfadiazin Сульфадиазин
+J01EC03 j01ec03-sulfamoksol Сульфамоксол
+J01EC20 j01ec20-sulfanilamidy-srednei-prodolzhitelnosti-deistviia-v-kombinatciiakh Сульфаниламиды средней продолжительности действия в комбинациях
+J01ED01 j01ed01-sulfadimetoksin Сульфадиметоксин
+J01ED02 j01ed02-sulfalen Сульфален
+J01ED03 j01ed03-sulfametomidin Сульфаметомидин
+J01ED04 j01ed04-sulfametoksidiazin Сульфаметоксидиазин
+J01ED05 j01ed05-sulfametoksipiridazin Сульфаметоксипиридазин
+J01ED06 j01ed06-sulfaperin Сульфаперин
+J01ED07 j01ed07-sulfamerazin Сульфамеразин
+J01ED08 j01ed08-sulfafenazol Сульфафеназол
+J01ED09 j01ed09-sulfamazon Сульфамазон
+J01ED20 j01ed20-sulfanilamidy-dlitelnogo-deistviia-v-kombinatciiakh Сульфаниламиды длительного действия в комбинациях
+J01EE01 j01ee01-ko-trimoksazol-sulfametoksazol-v-kombinatcii-s-trimetoprimom Ко-тримоксазол [сульфаметоксазол в комбинации с триметопримом ]
+J01EE02 j01ee02-sulfadiazin-v-kombinatcii-s-trimetoprimom Сульфадиазин в комбинации с триметопримом
+J01EE03 j01ee03-sulfametrol-v-kombinatcii-s-trimetoprimom Сульфаметрол в комбинации с триметопримом
+J01EE04 j01ee04-sulfamoksol-v-kombinatcii-s-trimetoprimom Сульфамоксол в комбинации с триметопримом
+J01EE05 j01ee05-sulfadimidin-v-kombinatcii-s-trimetoprimom Сульфадимидин в комбинации с триметопримом
+J01EE06 j01ee06-sulfadiazin-v-kombinatcii-s-tetroksoprimom Сульфадиазин в комбинации с тетроксопримом
+J01EE07 j01ee07-sulfamoksol-v-kombinatcii-s-trimetoprimom Сульфамоксол в комбинации с триметопримом
+J01FA j01fa-makrolidy Макролиды
+J01FF j01ff-leenkozamidy Линкозамиды
+J01FG j01fg-streptograminy Стрептограмины
+J01FA01 j01fa01-eritromitcin Эритромицин
+J01FA02 j01fa02-spiramitcin Спирамицин
+J01FA03 j01fa03-midekamitcin Мидекамицин
+J01FA05 j01fa05-oleandomitcin Олеандомицин
+J01FA06 j01fa06-roksitromitcin Рокситромицин
+J01FA07 j01fa07-joezamitcin Джозамицин
+J01FA08 j01fa08-troleandomitcin Тролеандомицин
+J01FA09 j01fa09-claritromitcin Кларитромицин
+J01FA10 j01fa10-azitromitcin Азитромицин
+J01FA11 j01fa11-miokamitcin Миокамицин
+J01FA12 j01fa12-rokitamitcin Рокитамицин
+J01FA13 j01fa13-diritromitcin Диритромицин
+J01FA14 j01fa14-fluritromitcin Флуритромицин
+J01FA15 j01fa15-telitromitcin Телитромицин
+J01FF01 j01ff01-clindamitcin Клиндамицин
+J01FF02 j01ff02-leenkomitcin Линкомицин
+J01FG01 j01fg01-pristinamitcin Пристинамицин
+J01FG02 j01fg02-kombinatciia-hinupristina-s-dalfopristinom Комбинация хинупристина с далфопристином
+J01GA j01ga-streptomitciny Стрептомицины
+J01GB j01gb-prochie-aminoglikozidy Прочие аминогликозиды
+J01GA01 j01ga01-streptomitcin Стрептомицин
+J01GA02 j01ga02-streptoduotcin Стрептодуоцин
+J01GB01 j01gb01-tobramitcin Тобрамицин
+J01GB03 j01gb03-gentamitcin Гентамицин
+J01GB04 j01gb04-kanamitcin Канамицин
+J01GB05 j01gb05-neomitcin Неомицин
+J01GB06 j01gb06-amikatcin Амикацин
+J01GB07 j01gb07-netilmitcin Нетилмицин
+J01GB08 j01gb08-sizomitcin Сизомицин
+J01GB09 j01gb09-dibekatcin Дибекацин
+J01GB10 j01gb10-ribostamitcin Рибостамицин
+J01GB11 j01gb11-izepamitcin Изепамицин
+J01GB12 j01gb12-arbekatcin Арбекацин
+J01GB13 j01gb13-bekanamitcin Беканамицин
+J01MB j01mb-drugie-hinolony-iscliuchaia-perechislennye-v-gruppe-g04ab Другие хинолоны (исключая перечисленные в группе G04AB)
+J01MA j01ma-ftorhinolony Фторхинолоны
+J01MB01 j01mb01-rozoksatcin Розоксацин
+J01MB02 j01mb02-nalidiksovaia-kislota Налидиксовая кислота
+J01MB03 j01mb03-piromidovaia-kislota Пиромидовая кислота
+J01MB04 j01mb04-pipedimovaia-kislota Пипедимовая кислота
+J01MB05 j01mb05-oksolinovaia-kislota Оксолиновая кислота
+J01MB06 j01mb06-tcinoksatcin Циноксацин
+J01MB07 j01mb07-flumekin Флумекин
+J01MB08 j01mb08-nemonoksatcin Немоноксацин
+J01MA01 j01ma01-ofloksatcin Офлоксацин
+J01MA02 j01ma02-tciprofloksatcin Ципрофлоксацин
+J01MA03 j01ma03-pefloksatcin Пефлоксацин
+J01MA04 j01ma04-enoksatcin Эноксацин
+J01MA05 j01ma05-temafloksatcin Темафлоксацин
+J01MA06 j01ma06-norfloksatcin Норфлоксацин
+J01MA07 j01ma07-lomefloksatcin Ломефлоксацин
+J01MA08 j01ma08-fleroksatcin Флероксацин
+J01MA09 j01ma09-sparfloksatcin Спарфлоксацин
+J01MA10 j01ma10-rufloksatcin Руфлоксацин
+J01MA11 j01ma11-grepafloksatcin Грепафлоксацин
+J01MA12 j01ma12-levofloksatcin Левофлоксацин
+J01MA13 j01ma13-trovafloksatcin Тровафлоксацин
+J01MA14 j01ma14-moksifloksatcin Моксифлоксацин
+J01MA15 j01ma15-gemifloksatcin Гемифлоксацин
+J01MA16 j01ma16-gatifloksatcin Гатифлоксацин
+J01MA17 j01ma17-prulifloksatcin Прулифлоксацин
+J01MA18 j01ma18-pazufloksatcin Пазуфлоксацин
+J01MA19 j01ma19-garenoksatcin Гареноксацин
+J01MA21 j01ma21-sitafloksatcin Ситафлоксацин
+J01RA j01ra-kombinatcii-antibakterialnykh-preparatov Комбинации антибактериальных препаратов
+J01RA01 j01ra01-penitcillin-v-kombinatcii-s-drugimi-antibakterialnymi-sredstvami Пенициллин в комбинации с другими антибактериальными средствами
+J01RA02 j01ra02-sulfonamidy-v-kombinatcii-s-drugimi-antibakterialnymi-sredstvami-za-iscliucheniem-trimetoprima Сульфонамиды в комбинации с другими антибактериальными средствами (за исключением триметоприма)
+J01RA03 j01ra03-tcefuroksim-v-kombinatcii-s-drugimi-antibakterialnymi-sredstvami Цефуроксим в комбинации с другими антибактериальными средствами
+J01RA04 j01ra04-spiramitcin-v-kombinatcii-s-drugimi-antibakterialnymi-sredstvami Спирамицин в комбинации с другими антибактериальными средствами
+J01RA05 j01ra05-levofloksatcin-i-ornidazol Левофлоксацин и орнидазол
+J01RA06 j01ra06-tcefepim-i-amikatcin Цефепим и амикацин
+J01RA07 j01ra07-azitromitcin-flukonazol-i-seknidazol Азитромицин, флуконазол и секнидазол
+J01RA08 j01ra08-tetratciclin-i-oleandomitcin Тетрациклин и олеандомицин
+J01RA09 j01ra09-ofloksatcin-i-ornidazol Офлоксацин и орнидазол
+J01RA10 j01ra10-tciprofloksatcin-i-metronidazol Ципрофлоксацин и метронидазол
+J01RA11 j01ra11-tciprofloksatcin-i-tinidazol Ципрофлоксацин и тинидазол
+J01RA12 j01ra12-tciprofloksatcin-i-ornidazol Ципрофлоксацин и орнидазол
+J01RA13 j01ra13-norfloksatcin-i-tinidazol Норфлоксацин и тинидазол
+J01XA j01xa-antibiotiki-glikopeptidnoi-struktury Антибиотики гликопептидной структуры
+J01XB j01xb-polimiksiny Полимиксины
+J01XC j01xc-antibiotiki-steroidnoi-struktury Антибиотики стероидной структуры
+J01XD j01xd-proizvodnye-imidazola Производные имидазола
+J01XE j01xe-proizvodnye-nitrofurana Производные нитрофурана
+J01XX j01xx-prochie-antibakterialnye-preparaty Прочие антибактериальные препараты
+J01XA01 j01xa01-vankomitcin Ванкомицин
+J01XA02 j01xa02-teikoplanin Тейкопланин
+J01XA03 j01xa03-telavantcin Телаванцин
+J01XA04 j01xa04-dalbavantcin Далбаванцин
+J01XA05 j01xa05-oritavantcin Оритаванцин
+J01XB02 j01xb02-polimiksin-v Полимиксин В
+J01XC01 j01xc01-fuzidievaia-kislota Фузидиевая кислота
+J01XD01 j01xd01-metronidazol Метронидазол
+J01XD02 j01xd02-tinidazol Тинидазол
+J01XD03 j01xd03-ornidazol Орнидазол
+J01XE01 j01xe01-nitrofurantoin Нитрофурантоин
+J01XE02 j01xe02-nifurtoinol Нифуртоинол
+J01XE03 j01xe03-furazidin Фуразидин
+J01XE51 j01xe51-nitrofurantoin-v-kombinatcii-s-drugimi-preparatami Нитрофурантоин в комбинации с другими препаратами
+J01XX01 j01xx01-fosfomitcin Фосфомицин
+J01XX02 j01xx02-ksibornol Ксиборнол
+J01XX03 j01xx03-clofoktol Клофоктол
+J01XX04 j01xx04-spektinomitcin Спектиномицин
+J01XX05 j01xx05-metenamin Метенамин
+J01XX06 j01xx06-kislota-mindalnaia Кислота Миндальная
+J01XX07 j01xx07-nitroksolin Нитроксолин
+J01XX08 j01xx08-leenezolid Линезолид
+J01XX09 j01xx09-daptomitcin Даптомицин
+J01XX10 j01xx10-batcitratcin Бацитрацин
+J01XX11 j01xx11-tedizolid Тедизолид

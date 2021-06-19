@@ -1,0 +1,68 @@
+C10A c10a-gipoholesterinemicheskie-i-gipotriglitceridemicheskie-preparaty Гипохолестеринемические и гипотриглицеридемические препараты
+C10B c10b-gipolipidemicheskie-preparaty-v-kombinatcii Гиполипидемические препараты в комбинации
+C10AA c10aa-ingibitory-gmg-koa-reduktazy Ингибиторы ГМГ-КоА редуктазы
+C10AB c10ab-fibraty Фибраты
+C10AC c10ac-sekvestranty-zhelchnykh-kislot Секвестранты желчных кислот
+C10AD c10ad-nikotinovaia-kislota-i-ee-proizvodnye Никотиновая кислота и ее производные
+C10AX c10ax-gipoholesterinemicheskie-i-gipotriglitceridemicheskie-preparaty-drugie Гипохолестеринемические и гипотриглицеридемические препараты другие
+C10AA01 c10aa01-simvastatin Симвастатин
+C10AA02 c10aa02-lovastatin Ловастатин
+C10AA03 c10aa03-pravastatin Правастатин
+C10AA04 c10aa04-fluvastatin Флувастатин
+C10AA05 c10aa05-atorvastatin Аторвастатин
+C10AA06 c10aa06-tcerivastatin Церивастатин
+C10AA07 c10aa07-rozuvastatin Розувастатин
+C10AA08 c10aa08-pitavastatin Питавастатин
+C10AB01 c10ab01-clofibrat Клофибрат  
+C10AB02 c10ab02-bezafibrat Безафибрат
+C10AB03 c10ab03-clofibrat-aliuminiia Клофибрат алюминия
+C10AB04 c10ab04-gemfibrozil Гемфиброзил
+C10AB05 c10ab05-fenofibrat Фенофибрат
+C10AB06 c10ab06-simfibrat Симфибрат
+C10AB07 c10ab07-ronifibrat Ронифибрат
+C10AB08 c10ab08-tciprofibrat Ципрофибрат
+C10AB09 c10ab09-etofibrat Этофибрат
+C10AB10 c10ab10-clofibrid Клофибрид
+C10AB11 c10ab11-holina-fenofibrat Холина фенофибрат
+C10AC01 c10ac01-holestiramin Холестирамин
+C10AC02 c10ac02-kolestipol Колестипол
+C10AC03 c10ac03-kolekstran Колекстран
+C10AC04 c10ac04-kolesevelam Колесевелам
+C10AD01 c10ad01-nitceritrol Ницеритрол
+C10AD02 c10ad02-nikotinovaia-kislota Никотиновая кислота
+C10AD03 c10ad03-nikofuranoza Никофураноза
+C10AD04 c10ad04-aliuminiia-nikotinat Алюминия никотинат
+C10AD05 c10ad05-nikonitovyi-spirt-piridilkarbinol Никонитовый спирт (пиридилкарбинол)
+C10AD06 c10ad06-atcipimoks Аципимокс
+C10AD52 c10ad52-nikotinovaia-kislota-v-kombinatcii-s-drugimi-preparatami Никотиновая кислота в комбинации с другими препаратами
+C10AX01 c10ax01-dekstrotiroksin Декстротироксин
+C10AX02 c10ax02-probukol Пробукол
+C10AX03 c10ax03-tiadenol Тиаденол
+C10AX05 c10ax05-meglutol Меглутол
+C10AX06 c10ax06-omega-3-triglitceridy-vcliuchaia-drugie-efiry-i-kisloty Омега-3 триглицериды, включая другие эфиры и кислоты
+C10AX07 c10ax07-magniia-piridoksal-5-fosfat-glutamat Магния пиридоксаль-5-фосфат глутамат
+C10AX08 c10ax08-polikozanol Поликозанол
+C10AX09 c10ax09-ezetimib Эзетимиб
+C10AX10 c10ax10-alipogen-tiparvovek Алипоген типарвовек
+C10AX11 c10ax11-mipomersen Мипомерсен
+C10AX12 c10ax12-lomitapid Ломитапид
+C10AX13 c10ax13-evolokumab Эволокумаб
+C10BA c10ba-gmg-koa-reduktazy-ingibitory-v-kombinatcii-s-drugimi-gipolipidemicheskimi-preparatami ГМГ-КоА-редуктазы ингибиторы, в комбинации с другими гиполипидемическими препаратами
+C10BX c10bx-gmg-koa-reduktazy-ingibitory-v-drugikh-kombinatciiakh ГМГ-КоА-редуктазы ингибиторы в других комбинациях
+C10BA01 c10ba01-laropiprant-i-nikotinovaia-kislota Ларопипрант и никотиновая кислота
+C10BA02 c10ba02-simvastatin-i-ezetimib Симвастатин и эзетимиб
+C10BA03 c10ba03-pravastatin-i-fenofibrat Правастатин и фенофибрат
+C10BA04 c10ba04-simvastatin-i-fenofibrat Симвастатин и фенофибрат
+C10BA05 c10ba05-atorvastatin-i-ezetimib Аторвастатин и эзетимиб
+C10BA06 c10ba06-rozuvastatin-i-ezetimib Розувастатин и эзетимиб
+C10BX01 c10bx01-simvastatin-i-atcetilsalitcilovaia-kislota Симвастатин и ацетилсалициловая кислота
+C10BX02 c10bx02-pravastatin-i-atcetilsalitcilovaia-kislota Правастатин и ацетилсалициловая кислота
+C10BX03 c10bx03-atorvastatin-i-amlodipin Аторвастатин и амлодипин
+C10BX04 c10bx04-simvastatin-atcetilsalitcilovaia-kislota-i-ramipril Симвастатин, ацетилсалициловая кислота и рамиприл
+C10BX05 c10bx05-rozuvastatin-i-atcetilsalitcilovaia-kislota Розувастатин и  ацетилсалициловая кислота
+C10BX06 c10bx06-atorvastatin-atcetilsalitcilovaia-kislota-i-ramipril Аторвастатин, ацетилсалициловая кислота и рамиприл
+C10BX07 c10bx07-rozuvastatin-amlodipin-i-lizinopril Розувастатин,амлодипин и лизиноприл
+C10BX08 c10bx08-atorvastatin-i-atcetilsalitcilovaia-kislota Аторвастатин и ацетилсалициловая кислота
+C10BX09 c10bx09-rozuvastatin-i-amlodipin Розувастатин и амлодипин
+C10BX10 c10bx10-rozuvastatin-i-valsartan Розувастатин и валсартан
+C10BX11 c10bx11-atorvastatin-amlodipin-i-perindopril Аторвастатин, амлодипин и периндоприл

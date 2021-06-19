@@ -1,0 +1,71 @@
+R01A r01a-dekongestanty-i-drugie-nazalnye-preparaty-dlia-mestnogo-primeneniia Деконгестанты и другие назальные препараты для местного применения
+R01B r01b-nazalnye-dekongestanty-dlia-sistemnogo-primeneniia Назальные деконгестанты для системного применения
+R01AA r01aa-simpatomimetiki Симпатомиметики
+R01AB r01ab-simpatomimetiki-v-kombinatcii-s-drugimi-preparatami-iscliuchaia-kortikosteroidy Симпатомиметики в комбинации с другими препаратами (исключая кортикостероиды)
+R01AC r01ac-protivoallergicheskie-preparaty-iscliuchaia-kortikosteroidy Противоаллергические препараты (исключая кортикостероиды)
+R01AD r01ad-kortikosteroidy Кортикостероиды
+R01AX r01ax-prochie-nazalnye-preparaty-dlia-mestnogo-primeneniia Прочие назальные препараты для местного применения
+R01AA02 r01aa02-tciclopentamin Циклопентамин
+R01AA03 r01aa03-efedrin Эфедрин
+R01AA04 r01aa04-fenilefrin Фенилэфрин
+R01AA05 r01aa05-oksimetazolin Оксиметазолин
+R01AA06 r01aa06-tetrizolin Тетризолин
+R01AA07 r01aa07-ksilometazolin Ксилометазолин
+R01AA08 r01aa08-nafazolin Нафазолин
+R01AA09 r01aa09-tramazolin Трамазолин
+R01AA10 r01aa10-metizolin Метизолин
+R01AA11 r01aa11-tuaminogeptan Туаминогептан
+R01AA12 r01aa12-fenoksazolin Феноксазолин
+R01AA13 r01aa13-timazolin Тимазолин
+R01AA14 r01aa14-epinefrin Эпинефрин
+R01AA15 r01aa15-indanazolin Инданазолин
+R01AB01 r01ab01-fenilefrin Фенилэфрин
+R01AB02 r01ab02-nafazolin Нафазолин
+R01AB03 r01ab03-tetrizolin Тетризолин
+R01AB05 r01ab05-efedrin Эфедрин
+R01AB06 r01ab06-ksilometazolin Ксилометазолин
+R01AB07 r01ab07-oksimetazolin Оксиметазолин
+R01AB08 r01ab08-tuaminogeptan Туаминогептан
+R01AC01 r01ac01-kromoglitcievaia-kislota Кромоглициевая кислота
+R01AC02 r01ac02-levokabastin Левокабастин
+R01AC03 r01ac03-azelastin Азеластин
+R01AC04 r01ac04-antazolin Антазолин
+R01AC05 r01ac05-spagluminovaia-kislota Спаглуминовая кислота
+R01AC06 r01ac06-tonzilamin Тонзиламин
+R01AC07 r01ac07-nedokromil Недокромил
+R01AC08 r01ac08-olopatadin Олопатадин
+R01AC51 r01ac51-kromoglitcievaia-kislota-v-kombinatcii-s-drugimi-preparatami Кромоглициевая кислота в комбинации с другими препаратами
+R01AD01 r01ad01-beclometazon Беклометазон
+R01AD02 r01ad02-prednizolon Преднизолон
+R01AD03 r01ad03-deksametazon Дексаметазон
+R01AD04 r01ad04-flunizolid Флунизолид
+R01AD05 r01ad05-budesonid Будесонид
+R01AD06 r01ad06-betametazon Бетаметазон
+R01AD07 r01ad07-tiksokortol Тиксокортол
+R01AD08 r01ad08-flutikazon Флутиказон
+R01AD09 r01ad09-mometazon Мометазон
+R01AD11 r01ad11-triamtcinolon Триамцинолон
+R01AD12 r01ad12-flutikazon-furoat Флутиказон фуроат
+R01AD13 r01ad13-tciclesonid Циклесонид
+R01AD52 r01ad52-prednizolon-v-kombinatcii-s-drugimi-preparatami Преднизолон в комбинации с другими препаратами
+R01AD53 r01ad53-deksametazon-v-kombinatcii-s-drugimi-preparatami Дексаметазон в комбинации с другими препаратами
+R01AD57 r01ad57-tiksokortol-v-kombinatcii-s-drugimi-preparatami Тиксокортол в комбинации с другими препаратами
+R01AD58 r01ad58-flutikazon-v-kombinatcii-s-drugimi-preparatami Флутиказон в комбинации с другими препаратами
+R01AD60 r01ad60-gidrokortizon-v-kombinatcii-s-drugimi-preparatami Гидрокортизон в комбинации с другими препаратами
+R01AX01 r01ax01-geksamin-tiocyanat-kaltciia Гексамин тиоцианат кальция
+R01AX02 r01ax02-retinol Ретинол
+R01AX03 r01ax03-ipratropiia-bromid Ипратропия бромид
+R01AX05 r01ax05-ritiometan Ритиометан
+R01AX06 r01ax06-mupirotcin Мупироцин
+R01AX07 r01ax07-geksamidin Гексамидин
+R01AX08 r01ax08-framitcetin Фрамицетин
+R01AX09 r01ax09-gialuronovaia-kislota Гиалуроновая кислота
+R01AX10 r01ax10-prochie-preparaty Прочие препараты
+R01AX30 r01ax30-prochie-nazalnye-preparaty-dlia-mestnogo-primeneniia-v-kombinatcii Прочие назальные препараты для местного применения в комбинации
+R01BA r01ba-simpatomimetiki Симпатомиметики
+R01BA01 r01ba01-fenilpropanolamin Фенилпропаноламин
+R01BA02 r01ba02-psevdoefedrin Псевдоэфедрин
+R01BA03 r01ba03-fenilefrin Фенилэфрин
+R01BA51 r01ba51-fenilpropanolamin-v-kombinatcii-s-drugimi-preparatami Фенилпропаноламин в комбинации с другими препаратами
+R01BA52 r01ba52-psevdoefedrin-v-kombinatcii-s-drugimi-preparatami Псевдоэфедрин в комбинации с другими препаратами
+R01BA53 r01ba53-fenilefrin-v-kombinatcii-s-drugimi-preparatami Фенилэфрин в комбинации с другими препаратами

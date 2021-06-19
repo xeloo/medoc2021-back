@@ -1,0 +1,39 @@
+J04A j04a-protivotuberkuleznye-preparaty Противотуберкулезные препараты
+J04B j04b-protivoleproznye-preparaty Противолепрозные препараты
+J04AA j04aa-aminosalitcilovaia-kislota-i-ee-proizvodnye Аминосалициловая кислота и ее производные
+J04AB j04ab-antibiotiki Антибиотики
+J04AC j04ac-gidrazidy Гидразиды
+J04AD j04ad-proizvodnye-tiokarbamida Производные тиокарбамида
+J04AK j04ak-prochie-protivotuberkuleznye-preparaty Прочие противотуберкулезные препараты
+J04AM j04am-kombinatcii-protivotuberkuleznykh-preparatov Комбинации противотуберкулезных препаратов
+J04AA01 j04aa01-aminosalitcilovaia-kislota Аминосалициловая кислота
+J04AA02 j04aa02-natriia-aminosalitcilat Натрия аминосалицилат
+J04AA03 j04aa03-kaltciia-aminosalitcilat Кальция аминосалицилат
+J04AB01 j04ab01-tcicloserin Циклосерин
+J04AB02 j04ab02-rifampitcin Рифампицин
+J04AB03 j04ab03-rifamitcin Рифамицин
+J04AB04 j04ab04-rifabutin Рифабутин
+J04AB05 j04ab05-rifapentin Рифапентин
+J04AB30 j04ab30-kapreomitcin Капреомицин
+J04AC01 j04ac01-izoniazid Изониазид
+J04AC51 j04ac51-izoniazid-v-kombinatcii-s-drugimi-preparatami Изониазид в комбинации с другими препаратами
+J04AD01 j04ad01-protionamid Протионамид
+J04AD02 j04ad02-tiokarlid Тиокарлид
+J04AD03 j04ad03-etionamid Этионамид
+J04AK01 j04ak01-pirazinamid Пиразинамид
+J04AK02 j04ak02-etambutol Этамбутол
+J04AK03 j04ak03-terizidon Теризидон
+J04AK04 j04ak04-morinamid Моринамид
+J04AK05 j04ak05-bedakvilin Бедаквилин
+J04AK06 j04ak06-delamanid Деламанид
+J04AK07 j04ak07-amitiozon Амитиозон
+J04AM01 j04am01-izoniazid-v-kominatcii-so-streptomitcinom Изониазид в коминации со стрептомицином
+J04AM02 j04am02-izoniazid-v-kominatcii-s-rifampitcinom Изониазид в коминации с рифампицином
+J04AM03 j04am03-izoniazid-v-kominatcii-s-etambutolom Изониазид в коминации с этамбутолом
+J04AM04 j04am04-izoniazid-v-kominatcii-s-tioatcetazonom Изониазид в коминации с тиоацетазоном
+J04AM05 j04am05-izoniazid-v-kominatcii-s-pirazinamidom-i-rifampitcinom Изониазид в коминации с пиразинамидом и рифампицином
+J04AM06 j04am06-izoniazid-v-kominatcii-s-pirazinamidom-rifampitcinom-i-etambutolom Изониазид в коминации с пиразинамидом, рифампицином и этамбутолом
+J04BA j04ba-protivoleproznye-preparaty Противолепрозные препараты
+J04BA01 j04ba01-clofazimin Клофазимин
+J04BA02 j04ba02-dapson Дапсон
+J04BA03 j04ba03-aldesulfon-natriia Алдесульфон натрия

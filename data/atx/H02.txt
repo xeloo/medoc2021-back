@@ -1,0 +1,27 @@
+H02A h02a-kortikosteroidy-dlia-sistemnogo-primeneniia Кортикостероиды для системного применения
+H02B h02b-kombinatcii-kortikosteroidov-dlia-sistemnogo-primeneniia Комбинации кортикостероидов для системного применения
+H02C h02c-preparaty-podavliaiushchie-funktciiu-kory-nadpochechnikov Препараты, подавляющие функцию коры надпочечников
+H02AA h02aa-mineralokortikoidy Минералокортикоиды
+H02AB h02ab-gliukokortikoidy Глюкокортикоиды
+H02AA01 h02aa01-aldosteron Альдостерон
+H02AA02 h02aa02-fludrokortizon Флудрокортизон
+H02AA03 h02aa03-dezoksikorton Дезоксикортон
+H02AB02 h02ab02-deksametazon Дексаметазон
+H02AB03 h02ab03-fluokortolon Флуокортолон
+H02AB04 h02ab04-metilprednizolon Метилпреднизолон
+H02AB05 h02ab05-parametazon Параметазон
+H02AB06 h02ab06-prednizolon Преднизолон
+H02AB07 h02ab07-prednizon Преднизон
+H02AB08 h02ab08-triamtcinolon Триамцинолон
+H02AB09 h02ab09-gidrokortizon Гидрокортизон
+H02AB10 h02ab10-kortizon Кортизон
+H02AB11 h02ab11-predniliden Преднилиден
+H02AB12 h02ab12-rimeksolon Римексолон
+H02AB13 h02ab13-deflazakort Дефлазакорт
+H02AB14 h02ab14-cloprednol Клопреднол
+H02AB15 h02ab15-meprednizon Мепреднизон
+H02AB17 h02ab17-kortivazol Кортивазол
+H02BX h02bx-kombinatcii-kortikosteroidov-dlia-sistemnogo-primeneniia Комбинации кортикостероидов для системного применения
+H02BX01 h02bx01-metilprednizolon-v-kombinatcii-s-drugimi-preparatami Метилпреднизолон в комбинации с другими препаратами
+H02CA h02ca-ingibitory-sinteza-kortikosteroidov Ингибиторы синтеза кортикостероидов
+H02CA01 h02ca01-trilostan Трилостан

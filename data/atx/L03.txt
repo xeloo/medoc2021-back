@@ -1,0 +1,49 @@
+L03A l03a-immunostimuliatory Иммуностимуляторы
+L03AA l03aa-koloniestimuliruiushchie-faktory Колониестимулирующие факторы
+L03AB l03ab-interferony Интерфероны
+L03AC l03ac-interleikiny Интерлейкины
+L03AX l03ax-immunostimuliatory-drugie Иммуностимуляторы другие
+L03AA02 l03aa02-filgrastim Филграстим
+L03AA03 l03aa03-molgramostim Молграмостим
+L03AA09 l03aa09-sargramostim Сарграмостим
+L03AA10 l03aa10-lenograstim Ленограстим
+L03AA12 l03aa12-antcestim Анцестим
+L03AA13 l03aa13-pegfilgrastim Пэгфилграстим
+L03AA14 l03aa14-leepegfilgrastim Липэгфилграстим
+L03AA15 l03aa15-balugrastim Балуграстим
+L03AB01 l03ab01-interferon-alfa Интерферон альфа
+L03AB02 l03ab02-interferon-beta Интерферон бета
+L03AB03 l03ab03-interferon-gamma Интерферон гамма
+L03AB04 l03ab04-interferon-alfa-2a Интерферон альфа-2a
+L03AB05 l03ab05-interferon-alfa-2b Интерферон альфа-2b
+L03AB06 l03ab06-interferon-alfa-n1 Интерферон альфа-n1
+L03AB07 l03ab07-interferon-beta-1a Интерферон бета-1a
+L03AB08 l03ab08-interferon-beta-1b Интерферон бета-1b
+L03AB09 l03ab09-interferon-alfakon-1 Интерферон альфакон-1
+L03AB10 l03ab10-peginterferon-alfa-2b Пэгинтерферон альфа-2b
+L03AB11 l03ab11-peginterferon-alfa-2a Пегинтерферон альфа-2а
+L03AB12 l03ab12-albinterferon-alfa-2b Альбинтерферон альфа-2b
+L03AB13 l03ab13-peginterferon-beta-1a Пэгинтерферон бета-1a
+L03AB14 l03ab14-tcepeginterferon-alfa-2b Цепэгинтерферон альфа-2b
+L03AB60 l03ab60-peginterferon-alfa-2b-v-kombinatcii-s-drugimi-preparatami Пегинтерферон альфа-2b в комбинации с другими препаратами
+L03AB61 l03ab61-peginterferon-alfa-2a-v-kombinatcii-s-drugimi-preparatami Пегинтерферон альфа-2а в комбинации с другими препаратами
+L03AC01 l03ac01-aldesleikin Алдеслейкин
+L03AC02 l03ac02-oprelvekin Опрельвекин
+L03AX01 l03ax01-lentinan Лентинан
+L03AX02 l03ax02-rokvinimeks Роквинимекс
+L03AX03 l03ax03-btczh-vaktcina БЦЖ-вакцина
+L03AX04 l03ax04-pegademaza Пегадемаза
+L03AX05 l03ax05-pidotimod Пидотимод
+L03AX07 l03ax07-poli-i-c Поли I:C
+L03AX08 l03ax08-poli-iclc Поли ICLC
+L03AX09 l03ax09-timopentin Тимопентин
+L03AX10 l03ax10-immunocyanin Иммуноцианин
+L03AX11 l03ax11-tazonermin Тазонермин
+L03AX12 l03ax12-vaktcina-protiv-melanomy Вакцина против меланомы
+L03AX13 l03ax13-glatiramera-atcetat Глатирамера ацетат
+L03AX14 l03ax14-gistamina-digidrokhlorid Гистамина дигидрохлорид
+L03AX15 l03ax15-mifamurtid Мифамуртид
+L03AX16 l03ax16-pleriksafor Плериксафор
+L03AX17 l03ax17-sipuleutcel-t Сипулеуцел-T
+L03AX18 l03ax18-kridanimod Криданимод
+L03AX19 l03ax19-daziprotimut-t Дазипротимут-Т

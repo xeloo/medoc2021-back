@@ -1,0 +1,23 @@
+H03A h03a-preparaty-dlia-lecheniia-zabolevanii-shchitovidnoi-zhelezy Препараты для лечения заболеваний щитовидной железы
+H03B h03b-antitireoidnye-preparaty Антитиреоидные препараты
+H03C h03c-preparaty-ioda Препараты йода
+H03AA h03aa-gormony-shchitovidnoi-zhelezy Гормоны щитовидной железы
+H03AA01 h03aa01-levotiroksin-natriia Левотироксин натрия
+H03AA02 h03aa02-leeotironin-natriia Лиотиронин натрия
+H03AA03 h03aa03-levotiroksin-v-kombinatcii-s-liotironinom Левотироксин в комбинации с лиотиронином
+H03AA04 h03aa04-tiratrikol Тиратрикол
+H03AA05 h03aa05-preparaty-iz-tkani-shchitovidnoi-zhelezy Препараты из ткани щитовидной железы
+H03BA h03ba-proizvodnye-tiouratcila Производные тиоурацила
+H03BB h03bb-proizvodnye-imidazola-soderzhashchie-seru Производные имидазола, содержащие серу
+H03BC h03bc-perkhloraty Перхлораты
+H03BX h03bx-drugie-antitireoidnye-preparaty Другие антитиреоидные препараты
+H03BA01 h03ba01-metiltiouratcil Метилтиоурацил
+H03BA02 h03ba02-propiltiouratcil Пропилтиоурацил
+H03BA03 h03ba03-benziltiouratcil Бензилтиоурацил
+H03BB01 h03bb01-karbimazol Карбимазол
+H03BB02 h03bb02-tiamazol Тиамазол
+H03BB52 h03bb52-tiamazol-v-kombinatcii-s-drugimi-preparatami Тиамазол в комбинации с другими препаратами
+H03BC01 h03bc01-kaliia-perkhlorat Калия перхлорат
+H03BX01 h03bx01-diiodotirozin Дийодотирозин
+H03BX02 h03bx02-dibromotirozin Дибромотирозин
+H03CA h03ca-preparaty-ioda Препараты йода

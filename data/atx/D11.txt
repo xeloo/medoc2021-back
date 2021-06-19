@@ -1,0 +1,37 @@
+D11A d11a-prochie-preparaty-dlia-lecheniia-zabolevanii-kozhi Прочие препараты для лечения заболеваний кожи
+D11AA d11aa-preparaty-dlia-lecheniia-potlivosti Препараты для лечения потливости
+D11AC d11ac-shampuni-lechebnogo-deistviia Шампуни лечебного действия
+D11AE d11ae-androgeny-dlia-mestnogo-primeneniia Андрогены для местного применения
+D11AF d11af-preparaty-dlia-lecheniia-omozolelosti-i-borodavok Препараты для лечения омозолелости и бородавок
+D11AH d11ah-sredstva-dlia-lecheniia-zabolevanii-kozhi-za-iscliucheniem-kortikosteroidov Средства для лечения заболеваний кожи, за исключением кортикостероидов
+D11AX d11ax-prochie-preparaty-dlia-lecheniia-zabolevanii-kozhi Прочие препараты для лечения заболеваний кожи
+D11AC01 d11ac01-tcetrimid Цетримид
+D11AC02 d11ac02-soedineniia-kadmiia Соединения кадмия
+D11AC03 d11ac03-soedineniia-selena Соединения селена
+D11AC06 d11ac06-povidon-iod Повидон-йод
+D11AC08 d11ac08-soedineniia-sery Соединения серы
+D11AC09 d11ac09-ksenisalat Ксенисалат
+D11AC30 d11ac30-prochie-shampuni-lechebnogo-deistviia Прочие шампуни лечебного действия
+D11AE01 d11ae01-metandienon Метандиенон
+D11AH01 d11ah01-takrolimus Такролимус
+D11AH02 d11ah02-pimekrolimus Пимекролимус
+D11AH03 d11ah03-kromoglitcievaia-kislota Кромоглициевая кислота
+D11AH04 d11ah04-alitretinoin Алитретиноин
+D11AX01 d11ax01-minoksidil Миноксидил
+D11AX02 d11ax02-gamolenovaia-kislota Гамоленовая кислота
+D11AX03 d11ax03-kaltciia-gliukonat Кальция глюконат
+D11AX04 d11ax04-leetiia-suktcinat Лития сукцинат
+D11AX05 d11ax05-magniia-sulfat Магния сульфат
+D11AX06 d11ax06-mekvinol Меквинол
+D11AX08 d11ax08-tiratrikol Тиратрикол
+D11AX09 d11ax09-oksatceprol Оксацепрол
+D11AX10 d11ax10-finasterid Финастерид
+D11AX11 d11ax11-gidrohinon Гидрохинон
+D11AX12 d11ax12-pirition-tcinka Пиритион цинка
+D11AX13 d11ax13-monobenzon Монобензон
+D11AX16 d11ax16-eflornitin Эфлорнитин
+D11AX18 d11ax18-diclofenak Диклофенак
+D11AX21 d11ax21-brimonidin Бримонидин
+D11AX22 d11ax22-ivermektin Ивермектин
+D11AX52 d11ax52-gamolenovaia-kislota-v-kombinatcii-s-drugimi-preparatami Гамоленовая кислота в комбинации с другими препаратами
+D11AX57 d11ax57-kollagen-v-kombinatcii-s-drugimi-preparatami Коллаген в комбинации с другими препаратами

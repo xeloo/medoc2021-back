@@ -1,0 +1,169 @@
+G03A g03a-gormonalnye-kontratceptivy-dlia-sistemnogo-primeneniia Гормональные контрацептивы для системного применения
+G03B g03b-androgeny Андрогены
+G03C g03c-estrogeny Эстрогены
+G03D g03d-progestageny Прогестагены
+G03E g03e-androgeny-v-kombinatcii-s-zhenskimi-polovymi-gormonami Андрогены в комбинации с женскими половыми гормонами
+G03F g03f-progestageny-v-kombinatcii-s-estrogenami Прогестагены в комбинации с эстрогенами
+G03G g03g-gonadotropiny-i-drugie-stimuliatory-ovuliatcii Гонадотропины и другие стимуляторы овуляции
+G03H g03h-antiandrogeny Антиандрогены
+G03X g03x-prochie-polovye-gormony-i-moduliatory-polovoi-sistemy Прочие половые гормоны и модуляторы половой системы
+G03AA g03aa-progestageny-i-estrogeny-fiksirovannye-sochetaniia Прогестагены и эстрогены (фиксированные сочетания)
+G03AB g03ab-progestageny-i-estrogeny-dlia-posledovatelnogo-priema Прогестагены и эстрогены (для последовательного приема)
+G03AC g03ac-progestageny Прогестагены
+G03AD g03ad-ekstrennye-kontratceptivy Экстренные контрацептивы
+G03AA01 g03aa01-etinodiol-i-etinilestradiol Этинодиол и этинилэстрадиол
+G03AA02 g03aa02-hingestanol-i-etinilestradiol Хингестанол и этинилэстрадиол
+G03AA03 g03aa03-leenestrenol-i-etinilestradiol Линестренол и этинилэстрадиол
+G03AA04 g03aa04-megestrol-i-etinilestradiol Мегестрол и этинилэстрадиол
+G03AA05 g03aa05-noretisteron-i-etinilestradiol Норэтистерон и этинилэстрадиол
+G03AA06 g03aa06-norgestrel-i-etinilestradiol Норгестрел и этинилэстрадиол
+G03AA07 g03aa07-levonorgestrel-i-etinilestradiol Левоноргестрел и этинилэстрадиол
+G03AA08 g03aa08-medroksiprogesteron-i-etinilestradiol Медроксипрогестерон и этинилэстрадиол
+G03AA09 g03aa09-dezogestrel-i-etinilestradiol Дезогестрел и этинилэстрадиол
+G03AA10 g03aa10-gestoden-i-etinilestradiol Гестоден и этинилэстрадиол
+G03AA11 g03aa11-norgestimat-i-etinilestradiol Норгестимат и этинилэстрадиол
+G03AA12 g03aa12-drospirenon-i-etinilestradiol Дроспиренон и этинилэстрадиол
+G03AA13 g03aa13-norelgestromin-i-etinilestradiol Норэлгестромин и этинилэстрадиол
+G03AA14 g03aa14-nomegestrol-i-estradiol Номегэстрол и эстрадиол
+G03AA15 g03aa15-khlormadinon-i-etinilestradiol Хлормадинон и этинилэстрадиол
+G03AA16 g03aa16-dienogest-i-etinilestradiol Диеногест и этинилэстрадиол
+G03AB01 g03ab01-megestrol-i-etinilestradiol Мегестрол и этинилэстрадиол
+G03AB02 g03ab02-leenestrenol-i-etinilestradiol Линестренол и этинилэстрадиол
+G03AB03 g03ab03-levonorgestrel-i-etinilestradiol Левоноргестрел и этинилэстрадиол
+G03AB04 g03ab04-noretisteron-i-etinilestradiol Норэтистерон и этинилэстрадиол
+G03AB05 g03ab05-dezogestrel-i-etinilestradiol Дезогестрел и этинилэстрадиол
+G03AB06 g03ab06-gestoden-i-etinilestradiol Гестоден и этинилэстрадиол
+G03AB07 g03ab07-khlormadinon-i-etinilestradiol Хлормадинон и этинилэстрадиол
+G03AB08 g03ab08-dienogest-i-estradiol Диеногест и эстрадиол
+G03AC01 g03ac01-noretisteron Норэтистерон
+G03AC02 g03ac02-leenestrenol Линестренол
+G03AC03 g03ac03-levonorgestrel Левоноргестрел
+G03AC04 g03ac04-hingestanol Хингестанол
+G03AC05 g03ac05-megestrol Мегестрол
+G03AC06 g03ac06-medroksiprogesteron Медроксипрогестерон
+G03AC07 g03ac07-norgestrienon Норгестриенон
+G03AC08 g03ac08-etonogestrel Этоногестрел
+G03AC09 g03ac09-dezogestrel Дезогестрел
+G03AC10 g03ac10-drospirenon Дроспиренон
+G03AD01 g03ad01-levonorgestrel Левоноргестрел
+G03AD02 g03ad02-ulipristal Улипристал
+G03BA g03ba-proizvodnye-3-oksoandrostena-4 Производные 3-оксоандростена (4)
+G03BB g03bb-proizvodnye-5-androstanona-3 Производные 5-андростанона (3)
+G03BA01 g03ba01-fliuoksimesteron Флюоксиместерон
+G03BA02 g03ba02-metiltestosteron Метилтестостерон
+G03BA03 g03ba03-testosteron Тестостерон
+G03BB01 g03bb01-mesterolon Местеролон
+G03BB02 g03bb02-androstanolon Андростанолон
+G03CA g03ca-prirodnye-i-polusinteticheskie-estrogeny Природные и полусинтетические эстрогены
+G03CB g03cb-sinteticheskie-estrogeny Синтетические эстрогены
+G03CC g03cc-estrogeny-v-kombinatcii-s-drugimi-preparatami Эстрогены в комбинации с другими препаратами
+G03CX g03cx-drugie-estrogeny Другие эстрогены
+G03CA01 g03ca01-etinilestradiol Этинилэстрадиол
+G03CA03 g03ca03-estradiol Эстрадиол
+G03CA04 g03ca04-estriol Эстриол
+G03CA06 g03ca06-khlortrianizen Хлортрианизен
+G03CA07 g03ca07-estron Эстрон
+G03CA09 g03ca09-promestrien Проместриен
+G03CA53 g03ca53-estradiol-v-kombinatcii-s-drugimi-preparatami Эстрадиол в комбинации с другими препаратами
+G03CA57 g03ca57-estrogeny-koniugirovannye Эстрогены конъюгированные
+G03CB01 g03cb01-dienestrol Диэнестрол
+G03CB02 g03cb02-dietilstilbestrol Диэтилстильбэстрол
+G03CB03 g03cb03-metallenestril Металленестрил
+G03CB04 g03cb04-moksestrol Моксэстрол
+G03CC02 g03cc02-dienestrol Диэнестрол
+G03CC03 g03cc03-metallenestril Металленестрил
+G03CC04 g03cc04-estron Эстрон
+G03CC05 g03cc05-dietilstilbestrol Диэтилстильбэстрол
+G03CC06 g03cc06-estriol Эстриол
+G03CC07 g03cc07-estrogeny-koniugirovannye-i-bazedoksifen Эстрогены конъюгированные и базедоксифен
+G03CX01 g03cx01-tibolon Тиболон
+G03DA g03da-proizvodnye-pregnena-4 Производные прегнена (4)
+G03DB g03db-proizvodnye-pregnadiena Производные прегнадиена
+G03DC g03dc-proizvodnye-estrena Производные эстрена
+G03DA01 g03da01-gestonoron Гестонорон
+G03DA02 g03da02-medroksiporogesteron Медроксипорогестерон
+G03DA03 g03da03-gidroksiprogesteron Гидроксипрогестерон
+G03DA04 g03da04-progesteron Прогестерон
+G03DB01 g03db01-didrogesteron Дидрогестерон
+G03DB02 g03db02-megestrol Мегестрол
+G03DB03 g03db03-medrogeston Медрогестон
+G03DB04 g03db04-nomegestrol Номегестрол
+G03DB05 g03db05-demegeston Демегестон
+G03DB06 g03db06-khlormadinon Хлормадинон
+G03DB07 g03db07-promegeston Промегестон
+G03DB08 g03db08-dienogest Диеногест
+G03DC01 g03dc01-allilestrenol Аллилэстренол
+G03DC02 g03dc02-noretisteron Норэтистерон
+G03DC03 g03dc03-leenestrenol Линестренол
+G03DC04 g03dc04-etisteron Этистерон
+G03DC06 g03dc06-etinodiol Этинодиол
+G03DC31 g03dc31-metilestrenolon Метилэстренолон
+G03EA g03ea-androgeny-i-estrogeny Андрогены и эстрогены
+G03EB g03eb-androgen-v-kombinatcii-s-progestagenom-i-estrogenom Андроген в комбинации с прогестагеном и эстрогеном
+G03EK g03ek-androgeny-i-zhenskie-polovye-gormony-v-kombinatcii-s-drugimi-preparatami Андрогены и женские половые гормоны в комбинации с другими препаратами
+G03EA01 g03ea01-metiltestosteron-i-estrogen Метилтестостерон и эстроген
+G03EA02 g03ea02-testosteron-i-estrogen Тестостерон и эстроген
+G03EA03 g03ea03-prasteron-i-estrogeny Прастерон и эстрогены
+G03EK01 g03ek01-metiltestosteron Метилтестостерон
+G03FA g03fa-progestageny-i-estrogeny-fiksirovannye-kombinatcii Прогестагены и эстрогены (фиксированные комбинации)
+G03FB g03fb-progestageny-i-estrogeny-dlia-posledovatelnogo-priema Прогестагены и эстрогены (для последовательного приема)
+G03FA01 g03fa01-noretisteron-i-estrogen Норэтистерон и эстроген
+G03FA02 g03fa02-gidroksiprogesteron-i-estrogen Гидроксипрогестерон и эстроген
+G03FA03 g03fa03-etisteron-i-estrogen Этистерон и эстроген
+G03FA04 g03fa04-progesteron-i-estrogen Прогестерон и эстроген
+G03FA05 g03fa05-metilnortestosteron-i-estrogen Метилнортестостерон и эстроген
+G03FA06 g03fa06-etinodiol-i-estrogen Этинодиол и эстроген
+G03FA07 g03fa07-leenestrenol-i-estrogen Линестренол и эстроген
+G03FA08 g03fa08-megestrol-i-estrogen Мегестрол и эстроген
+G03FA09 g03fa09-noretinodrel-i-estrogen Норэтинодрел и эстроген
+G03FA10 g03fa10-norgestrel-i-estrogen Норгестрел и эстроген
+G03FA11 g03fa11-levonorgestrel-i-estrogen Левоноргестрел и эстроген
+G03FA12 g03fa12-medroksiprogesteron-i-estrogen Медроксипрогестерон и эстроген
+G03FA13 g03fa13-norgestimat-i-estrogen Норгестимат и эстроген
+G03FA14 g03fa14-didrogesteron-i-estrogen Дидрогестерон и эстроген
+G03FA15 g03fa15-dienogest-i-estrogen Диеногест и эстроген
+G03FA16 g03fa16-trimegeston-i-estrogen Тримегестон и эстроген
+G03FA17 g03fa17-drospirenon-i-estrogen Дроспиренон и эстроген
+G03FB01 g03fb01-norgestrel-i-estrogen Норгестрел и эстроген
+G03FB02 g03fb02-leenestrenol-i-estrogen Линестренол и эстроген
+G03FB03 g03fb03-khlormadinon-i-estrogen Хлормадинон и эстроген
+G03FB04 g03fb04-megestrol-i-estrogen Мегестрол и эстроген
+G03FB05 g03fb05-noretisteron-i-estrogen Норэтистерон и эстроген
+G03FB06 g03fb06-medroksiprogesteron-i-estrogen Медроксипрогестерон и эстроген
+G03FB07 g03fb07-medrogeston-i-estrogen Медрогестон и эстроген
+G03FB08 g03fb08-didrogesteron-i-estrogen Дидрогестерон и эстроген
+G03FB09 g03fb09-levonorgestrel-i-estrogen Левоноргестрел и эстроген
+G03FB10 g03fb10-dezogestrel-i-estrogen Дезогестрел и эстроген
+G03FB11 g03fb11-trimegeston-i-estrogen Тримегестон и эстроген
+G03FB12 g03fb12-nomegestrol-i-estrogen Номегестрол и эстроген
+G03GA g03ga-gonadotropiny Гонадотропины
+G03GB g03gb-sinteticheskie-stimuliatory-ovuliatcii Синтетические стимуляторы овуляции
+G03GA01 g03ga01-gonadotropin-horionicheskii Гонадотропин хорионический
+G03GA02 g03ga02-gonadotropin-menopauznyi Гонадотропин менопаузный
+G03GA03 g03ga03-gonadotropin-syvorotochnyi Гонадотропин сывороточный
+G03GA04 g03ga04-urofollitropin Урофоллитропин
+G03GA05 g03ga05-follitropin-alfa Фоллитропин альфа
+G03GA06 g03ga06-follitropin-beta Фоллитропин бета
+G03GA07 g03ga07-lutropin-alfa Лутропин альфа
+G03GA08 g03ga08-horiogonadotropin-alfa Хориогонадотропин альфа
+G03GA09 g03ga09-korifollitropin-alfa Корифоллитропин альфа
+G03GA30 g03ga30-kombinatcii-gonadotropinov Комбинации гонадотропинов
+G03GB01 g03gb01-tciclofenil Циклофенил
+G03GB02 g03gb02-clomifen Кломифен
+G03GB03 g03gb03-epimestrol Эпиместрол
+G03HA g03ha-antiandrogeny Антиандрогены
+G03HB g03hb-antiandrogeny-i-estrogeny Антиандрогены и эстрогены
+G03HA01 g03ha01-tciproteron Ципротерон
+G03HB01 g03hb01-tciproteron-i-estrogen Ципротерон и эстроген
+G03XA g03xa-antigonadotropiny-i-analogichnye-sredstva Антигонадотропины и аналогичные средства
+G03XB g03xb-moduliatory-progesteronovykh-retceptorov Модуляторы прогестероновых рецепторов
+G03XC g03xc-selektivnye-moduliatory-estrogennykh-retceptorov Селективные модуляторы эстрогенных рецепторов
+G03XA01 g03xa01-danazol Даназол
+G03XA02 g03xa02-gestrinon Гестринон
+G03XB01 g03xb01-mifepriston Мифепристон
+G03XB51 g03xb51-mifepriston-v-kombinatcii-s-drugimi-preparatami Мифепристон в комбинации с другими препаратами
+G03XC01 g03xc01-raloksifen Ралоксифен
+G03XC02 g03xc02-bazedoksifen Базедоксифен
+G03XC03 g03xc03-lazofoksifen Лазофоксифен
+G03XC04 g03xc04-ormeloksifen Ормелоксифен
+G03XC05 g03xc05-ospemifen Оспемифен

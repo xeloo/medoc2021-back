@@ -1,0 +1,86 @@
+C09A c09a-ingibitory-apf Ингибиторы АПФ
+C09B c09b-ingibitory-apf-v-kombinatcii-s-drugimi-preparatami Ингибиторы АПФ в комбинации с другими препаратами
+C09C c09c-antagonisty-retceptorov-angiotenzina-ii Антагонисты рецепторов ангиотензина II
+C09D c09d-antagonisty-retceptorov-angiotenzina-ii-v-kombinatcii-s-drugimi-preparatami Антагонисты рецепторов ангиотензина II в комбинации с другими препаратами
+C09X c09x-prochie-preparaty-vliiaiushchie-na-sistemu-renin-angiotenzin Прочие препараты, влияющие на систему ренин-ангиотензин
+C09AA c09aa-ingibitory-apf Ингибиторы АПФ
+C09AA01 c09aa01-kaptopril Каптоприл
+C09AA02 c09aa02-enalapril Эналаприл
+C09AA03 c09aa03-leezinopril Лизиноприл
+C09AA04 c09aa04-perindopril Периндоприл
+C09AA05 c09aa05-ramipril Рамиприл
+C09AA06 c09aa06-hinapril Хинаприл
+C09AA07 c09aa07-benazepril Беназеприл
+C09AA08 c09aa08-tcilazapril Цилазаприл
+C09AA09 c09aa09-fozinopril Фозиноприл
+C09AA10 c09aa10-trandolapril Трандолаприл
+C09AA11 c09aa11-spirapril Спираприл
+C09AA12 c09aa12-delapril Делаприл
+C09AA13 c09aa13-moeksipril Моэксиприл
+C09AA14 c09aa14-temokapril Темокаприл
+C09AA15 c09aa15-zofenopril Зофеноприл
+C09AA16 c09aa16-imidapril Имидаприл
+C09BA c09ba-ingibitory-apf-v-kombinatcii-s-diuretikami Ингибиторы АПФ в комбинации с диуретиками
+C09BB c09bb-apf-ingibitory-v-kombinatcii-s-blokatorami-kaltcievykh-kanalov АПФ ингибиторы в комбинации с блокаторами кальциевых каналов
+C09BX c09bx-prochie-kombinatcii-ingibitorov-apf Прочие комбинации ингибиторов АПФ
+C09BA01 c09ba01-kaptopril-v-kombinatcii-s-diuretikami Каптоприл в комбинации с диуретиками
+C09BA02 c09ba02-enalapril-v-kombinatcii-s-diuretikami Эналаприл в комбинации с диуретиками
+C09BA03 c09ba03-leezinopril-v-kombinatcii-s-diuretikami Лизиноприл в комбинации с диуретиками
+C09BA04 c09ba04-perindopril-v-kombinatcii-s-diuretikami Периндоприл в комбинации с диуретиками
+C09BA05 c09ba05-ramipril-v-kombinatcii-s-diuretikami Рамиприл в комбинации с диуретиками
+C09BA06 c09ba06-hinapril-v-kombinatcii-s-diuretikami Хинаприл в комбинации с диуретиками
+C09BA07 c09ba07-benazepril-v-kombinatcii-s-diuretikami Беназеприл в комбинации с диуретиками
+C09BA08 c09ba08-tcilazapril-v-kombinatcii-s-diuretikami Цилазаприл в комбинации с диуретиками
+C09BA09 c09ba09-hinapril-v-kombinatcii-s-diuretikami Хинаприл в комбинации с диуретиками
+C09BA12 c09ba12-delapril-v-kombinatcii-s-diuretikami Делаприл в комбинации с диуретиками
+C09BA13 c09ba13-moeksipril-v-kombinatcii-s-diuretikami Моэксиприл в комбинации с диуретиками
+C09BA15 c09ba15-zofenopril-v-kombinatcii-s-diuretikami Зофеноприл в комбинации с диуретиками
+C09BB02 c09bb02-lerkanidipin-i-enalapril Лерканидипин и эналаприл
+C09BB03 c09bb03-amlodipin-i-lizinopril Амлодипин и лизиноприл
+C09BB04 c09bb04-amlodipin-i-perindopril Амлодипин и периндоприл
+C09BB05 c09bb05-ramipril-i-felodipin Рамиприл и фелодипин
+C09BB06 c09bb06-nitrendipin-i-enalapril Нитрендипин и эналаприл
+C09BB07 c09bb07-ramipril-i-amlodipin Рамиприл и амлодипин
+C09BB10 c09bb10-verapamil-i-tradolapril Верапамил и традолаприл
+C09BB12 c09bb12-delapril-i-manidipin Делаприл и манидипин
+C09BX01 c09bx01-perindopril-v-kombinatcii-s-amlodipinom-i-indapamidom Периндоприл в комбинации с амлодипином и индапамидом
+C09BX02 c09bx02-perindopril-i-bisoprolol Периндоприл и бисопролол
+C09CA c09ca-antagonisty-retceptorov-angiotenzina-ii Антагонисты рецепторов ангиотензина II
+C09CA01 c09ca01-lozartan Лозартан
+C09CA02 c09ca02-eprosartan Эпросартан
+C09CA03 c09ca03-valsartan Валсартан
+C09CA04 c09ca04-irbesartan Ирбесартан
+C09CA05 c09ca05-tazozartan Тазозартан
+C09CA06 c09ca06-kandesartan Кандесартан
+C09CA07 c09ca07-telmisartan Телмисартан
+C09CA08 c09ca08-olmesartana-medoksomil Олмесартана медоксомил
+C09CA09 c09ca09-azilsartana-medoksomil Азилсартана медоксомил
+C09CA10 c09ca10-fimasartan Фимасартан
+C09DA c09da-antagonisty-retceptorov-angiotenzina-ii-v-kombinatcii-s-diuretikami Антагонисты рецепторов ангиотензина II в комбинации с диуретиками
+C09DB c09db-angiotenzina-ii-antagonisty-v-kombinatcii-s-bmkk Ангиотензина II антагонисты, в комбинации с БМКК
+C09DX c09dx-angiotenzina-ii-antagonisty-v-kombinatcii-s-prochimi-preparatami Ангиотензина II антагонисты в комбинации с прочими препаратами
+C09DA01 c09da01-lozartan-v-kombinatcii-s-diuretikami Лозартан в комбинации с диуретиками
+C09DA02 c09da02-eprosartan-v-kombinatcii-s-diuretikami Эпросартан в комбинации с диуретиками
+C09DA03 c09da03-valsartan-v-kombinatcii-s-diuretikami Валсартан в комбинации с диуретиками
+C09DA04 c09da04-irbesartan-v-kombinatcii-s-diuretikami Ирбесартан в комбинации с диуретиками
+C09DA06 c09da06-kandesartan-v-kombinatcii-s-diuretikami Кандесартан в комбинации с диуретиками
+C09DA07 c09da07-telmisartan-v-kombinatcii-s-diuretikami Телмисартан в комбинации с диуретиками
+C09DA08 c09da08-olmezartana-medoksomil-v-kombinatcii-s-diuretikami Олмезартана медоксомил в комбинации с диуретиками
+C09DA09 c09da09-azilsartana-medoksomil-i-diuretiki Азилсартана медоксомил и диуретики
+C09DB01 c09db01-amlodipin-i-valsartan Амлодипин и валсартан
+C09DB02 c09db02-olmezartana-medoksomil-i-amlodipin Олмезартана медоксомил и амлодипин 
+C09DB04 c09db04-amlodipin-i-telmisartan Амлодипин и телмисартан
+C09DB05 c09db05-irbesartan-i-amlodipin Ирбесартан и амлодипин 
+C09DB06 c09db06-amlodipin-i-lozartan Амлодипин и лозартан
+C09DB07 c09db07-kandesartan-i-amlodipin Кандесартан и амлодипин
+C09DB08 c09db08-valsartan-i-lerkanidipin Валсартан и лерканидипин
+C09DX01 c09dx01-valsartan-amlodipin-i-gidrokhlorotiazid Валсартан, амлодипин и гидрохлоротиазид
+C09DX02 c09dx02-aliskiren-i-valsartan Алискирен и валсартан 
+C09DX03 c09dx03-olmezartana-medoksomil-amlodipin-i-gidrokhlorotiazid Олмезартана медоксомил, амлодипин и гидрохлоротиазид
+C09DX04 c09dx04-valsartan-i-sakubitril Валсартан и сакубитрил
+C09XA c09xa-renina-sekretcii-ingibitory Ренина секреции ингибиторы
+C09XA01 c09xa01-remikeren Ремикерен
+C09XA02 c09xa02-aliskiren Алискирен
+C09XA52 c09xa52-aliskiren-i-gidrokhlorotiazid Алискирен и гидрохлоротиазид
+C09XA53 c09xa53-aliskiren-i-amlodipin Алискирен и амлодипин 
+C09XA54 c09xa54-aliskiren-amlodipin-i-gidrokhlorotiazid Алискирен, амлодипин и гидрохлоротиазид

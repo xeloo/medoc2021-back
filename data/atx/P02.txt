@@ -1,0 +1,39 @@
+P02B p02b-preparaty-dlia-lecheniia-trematodoza Препараты для лечения трематодоза
+P02C p02c-preparaty-dlia-lecheniia-nematodoza Препараты для лечения нематодоза
+P02D p02d-preparaty-dlia-lecheniia-tcestodozov Препараты для лечения цестодозов
+P02BA p02ba-proizvodnye-hinolina-i-rodstvennye-soedineniia Производные хинолина и родственные соединения
+P02BB p02bb-fosforo-organicheskie-soedineniia Фосфоро-органические соединения
+P02BX p02bx-prochie-preparaty-dlia-lecheniia-trematodoza Прочие препараты для лечения трематодоза
+P02BA01 p02ba01-prazikvantel Празиквантел
+P02BA02 p02ba02-oksamnihin Оксамнихин
+P02BB01 p02bb01-metrifonat Метрифонат
+P02BX01 p02bx01-bitionol Битионол
+P02BX02 p02bx02-niridazol Ниридазол
+P02BX03 p02bx03-stibofen Стибофен
+P02BX04 p02bx04-triclabendazol Триклабендазол
+P02CA p02ca-proizvodnye-benzimidazola Производные бензимидазола
+P02CB p02cb-piperazin-i-ego-proizvodnye Пиперазин и его производные
+P02CC p02cc-proizvodnye-tetragidropirimidina Производные тетрагидропиримидина
+P02CE p02ce-proizvodnye-imidazotiazola Производные имидазотиазола
+P02CF p02cf-avermektiny Авермектины
+P02CX p02cx-drugie-preparaty-dlia-lecheniia-nematodoza Другие препараты для лечения нематодоза
+P02CA01 p02ca01-mebendazol Мебендазол
+P02CA02 p02ca02-tiabendazol Тиабендазол
+P02CA03 p02ca03-albendazol Альбендазол
+P02CA04 p02ca04-tciclobendazol Циклобендазол
+P02CA05 p02ca05-flubendazol Флубендазол
+P02CA06 p02ca06-fenbendazol Фенбендазол
+P02CA51 p02ca51-mebendazol-v-kombinatcii-s-drugimi-preparatami Мебендазол в комбинации с другими препаратами
+P02CB01 p02cb01-piperazin Пиперазин
+P02CB02 p02cb02-dietilkarbamazin Диэтилкарбамазин
+P02CC01 p02cc01-pirantel Пирантел
+P02CC02 p02cc02-oksantel Оксантел
+P02CE01 p02ce01-levamizol Левамизол
+P02CF01 p02cf01-ivermektin Ивермектин
+P02CX01 p02cx01-pirvinium Пирвиниум
+P02CX02 p02cx02-befenium Бефениум
+P02DA p02da-proizvodnye-salitcilovoi-kisloty Производные салициловой кислоты
+P02DX p02dx-drugie-preparaty-dlia-lecheniia-tcestodozov Другие препараты для лечения цестодозов
+P02DA01 p02da01-niclozamid Никлозамид
+P02DX01 p02dx01-dezaspidin Дезаспидин
+P02DX02 p02dx02-dikhlorofen Дихлорофен

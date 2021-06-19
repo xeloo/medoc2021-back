@@ -1,0 +1,22 @@
+A05A a05a-preparaty-dlia-lecheniia-zabolevanii-zhelchnogo-puzyria Препараты для лечения заболеваний желчного пузыря
+A05B a05b-preparaty-dlia-lecheniia-zabolevanii-pecheni Препараты для лечения заболеваний печени
+A05C a05c-kombinatciia-preparatov-dlia-lecheniia-zabolevanii-pecheni-i-zhelchevyvodiashchikh-putei Комбинация препаратов для лечения заболеваний печени и желчевыводящих путей
+A05AA a05aa-preparaty-zhelchnykh-kislot Препараты желчных кислот
+A05AB a05ab-preparaty-dlia-lecheniia-zabolevanii-zhelchevyvodiashchikh-putei Препараты для лечения заболеваний желчевыводящих путей
+A05AX a05ax-prochie-preparaty-dlia-lecheniia-zabolevanii-zhelchevyvodiashchikh-putei-odeston-gimekromon Прочие препараты для лечения заболеваний желчевыводящих путей Одестон (гимекромон)
+A05AA01 a05aa01-khenodezoksiholevaia-kislota Хенодезоксихолевая кислота
+A05AA02 a05aa02-ursodeoksiholevaia-kislota Урсодеоксихолевая кислота
+A05AA03 a05aa03-holevaia-kislota Холевая кислота
+A05AA04 a05aa04-obetiholevaia-kislota Обетихолевая кислота
+A05AB01 a05ab01-gidroksimetilnikotinamid Гидроксиметилникотинамид
+A05AX01 a05ax01-piprozolin Пипрозолин
+A05AX02 a05ax02-gimekromon Гимекромон
+A05AX03 a05ax03-tciclobutirol Циклобутирол
+A05BA a05ba-preparaty-dlia-lecheniia-zabolevanii-pecheni Препараты для лечения заболеваний печени
+A05BA01 a05ba01-arginin Аргинин
+A05BA03 a05ba03-silibinin Силибинин
+A05BA04 a05ba04-tcitiolon Цитиолон
+A05BA05 a05ba05-epomediol Эпомедиол
+A05BA06 a05ba06-ornitina-oksoglurat Орнитина оксоглурат
+A05BA07 a05ba07-arginina-tidiatcik Аргинина тидиацик
+A05BA08 a05ba08-glitcirrizinovaia-kislota Глицирризиновая кислота

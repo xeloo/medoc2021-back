@@ -1,0 +1,205 @@
+L01A l01a-alkiliruiushchie-preparaty Алкилирующие препараты
+L01B l01b-antimetabolity Антиметаболиты
+L01C l01c-alkaloidy-rastitelnogo-proishozhdeniia-i-drugie-preparaty-prirodnogo-proishozhdeniia Алкалоиды растительного происхождения и другие препараты природного происхождения
+L01D l01d-protivoopuholevye-antibiotiki-i-rodstvennye-soedineniia Противоопухолевые антибиотики и родственные соединения
+L01X l01x-drugie-protivoopuholevye-preparaty Другие противоопухолевые препараты
+L01AA l01aa-analogi-azotistogo-iprita Аналоги азотистого иприта
+L01AB l01ab-alkilsulfonaty Алкилсульфонаты
+L01AC l01ac-etilenimina-proizvodnye Этиленимина производные
+L01AD l01ad-nitrozomocheviny-proizvodnye Нитрозомочевины производные
+L01AG l01ag-epoksidy Эпоксиды
+L01AX l01ax-prochie-alkiliruiushchie-preparaty Прочие алкилирующие препараты
+L01AA01 l01aa01-tciclofosfamid Циклофосфамид
+L01AA02 l01aa02-khlorambutcil Хлорамбуцил
+L01AA03 l01aa03-melfalan Мелфалан
+L01AA05 l01aa05-khlormetin Хлорметин
+L01AA06 l01aa06-ifosfamid Ифосфамид
+L01AA07 l01aa07-trofosfamid Трофосфамид
+L01AA08 l01aa08-prednimustin Преднимустин
+L01AA09 l01aa09-bendamustin Бендамустин
+L01AB01 l01ab01-busulfan Бусульфан
+L01AB02 l01ab02-treosulfan Треосульфан
+L01AB03 l01ab03-mannosulfan Манносульфан
+L01AC01 l01ac01-tiotepa Тиотепа
+L01AC02 l01ac02-triazikvon Триазиквон
+L01AC03 l01ac03-karbokvon Карбоквон
+L01AD01 l01ad01-karmustin Кармустин
+L01AD02 l01ad02-lomustin Ломустин
+L01AD03 l01ad03-semustin Семустин
+L01AD04 l01ad04-streptozotcin Стрептозоцин
+L01AD05 l01ad05-fotemustin Фотемустин
+L01AD06 l01ad06-nimustin Нимустин
+L01AD07 l01ad07-ranimustin Ранимустин
+L01AG01 l01ag01-etoglutcid Этоглуцид
+L01AX01 l01ax01-mitobronitol Митобронитол
+L01AX02 l01ax02-pipobroman Пипоброман
+L01AX03 l01ax03-temozolomid Темозоломид
+L01AX04 l01ax04-dakarbazin Дакарбазин
+L01BA l01ba-analogi-folievoi-kisloty Аналоги фолиевой кислоты
+L01BB l01bb-analogi-purina Аналоги пурина
+L01BC l01bc-analogi-pirimidina Аналоги пиримидина
+L01BA03 l01ba03-raltitreksid Ралтитрексид
+L01BA04 l01ba04-pemetreksed Пеметрексед
+L01BA05 l01ba05-pralatreksat Пралатрексат
+L01BB02 l01bb02-merkaptopurin Меркаптопурин
+L01BB03 l01bb03-tioguanin Тиогуанин
+L01BB04 l01bb04-cladribin Кладрибин
+L01BB05 l01bb05-fludarabin Флударабин
+L01BB06 l01bb06-clofarabin Клофарабин
+L01BB07 l01bb07-nelarabin Неларабин
+L01BC01 l01bc01-tcitarabin Цитарабин
+L01BC02 l01bc02-ftoruratcil Фторурацил
+L01BC03 l01bc03-tegafur Тегафур
+L01BC04 l01bc04-karmofur Кармофур
+L01BC05 l01bc05-gemtcitabin Гемцитабин
+L01BC06 l01bc06-kapetcitabin Капецитабин
+L01BC07 l01bc07-azatcitidin Азацитидин
+L01BC08 l01bc08-detcitabin Децитабин
+L01BC52 l01bc52-ftoruratcil-v-kombinatcii-s-drugimi-preparatami Фторурацил в комбинации с другими препаратами
+L01BC53 l01bc53-tegafur-v-kombinatcii-s-drugimi-preparatami Тегафур в комбинации с другими препаратами
+L01BC59 l01bc59-trifluridin-v-kombinatcii-s-drugimi-preparatami Трифлуридин в комбинации с другими препаратами
+L01CA l01ca-alkaloidy-barvinka-i-ikh-analogi Алкалоиды барвинка и их аналоги
+L01CB l01cb-podofillotoksina-proizvodnye Подофиллотоксина производные
+L01CC l01cc-kolhitcina-proizvodnye Колхицина производные
+L01CD l01cd-taksany Таксаны
+L01CX l01cx-alkaloidy-rastitelnogo-proishozhdeniia-i-preparaty-prirodnogo-proishozhdeniia-drugie Алкалоиды растительного происхождения и препараты природного происхождения другие
+L01CA01 l01ca01-vinblastin Винбластин
+L01CA02 l01ca02-vinkristin Винкристин
+L01CA03 l01ca03-vindezin Виндезин
+L01CA04 l01ca04-vinorelbin Винорелбин
+L01CA05 l01ca05-vinflunin Винфлунин
+L01CA06 l01ca06-vintafolid-span Винтафолид 
+L01CB01 l01cb01-etopozid Этопозид
+L01CB02 l01cb02-tenipozid Тенипозид
+L01CC01 l01cc01-demekoltcin Демеколцин
+L01CD01 l01cd01-paclitaksel Паклитаксел
+L01CD02 l01cd02-dotcetaksel Доцетаксел
+L01CD03 l01cd03-paclitaksel Паклитаксел
+L01CD04 l01cd04-kabazitaksel Кабазитаксел
+L01CX01 l01cx01-trabektedin Трабектедин
+L01DA l01da-aktinomitciny Актиномицины
+L01DB l01db-antratcicliny-i-rodstvennye-soedineniia Антрациклины и родственные соединения
+L01DC l01dc-prochie-protivoopuholevye-antibiotiki Прочие противоопухолевые антибиотики
+L01DA01 l01da01-daktinomitcin Дактиномицин
+L01DB01 l01db01-doksorubitcin Доксорубицин
+L01DB02 l01db02-daunorubitcin Даунорубицин
+L01DB03 l01db03-epirubitcin Эпирубицин
+L01DB04 l01db04-aclarubitcin Акларубицин
+L01DB05 l01db05-zorubitcin Зорубицин
+L01DB06 l01db06-idarubitcin Идарубицин
+L01DB07 l01db07-mitoksantron Митоксантрон
+L01DB08 l01db08-pirarubitcin Пирарубицин
+L01DB09 l01db09-valrubitcin Валрубицин
+L01DB10 l01db10-amrubitcin Амрубицин
+L01DB11 l01db11-piksantron Пиксантрон
+L01DC01 l01dc01-bleomitcin Блеомицин
+L01DC02 l01dc02-plikamitcin Пликамицин
+L01DC03 l01dc03-mitomitcin Митомицин
+L01DC04 l01dc04-iksabepilon Иксабепилон
+L01XA l01xa-soedineniia-platiny Соединения платины
+L01XB l01xb-metilgidraziny Метилгидразины
+L01XC l01xc-monoclonalnye-antitela Моноклональные антитела
+L01XD l01xd-sensibiliziruiushchie-preparaty-ispolzuemye-dlia-fotodinamicheskoi-luchevoi-terapii Сенсибилизирующие препараты, используемые для фотодинамической/лучевой терапии
+L01XE l01xe-ingibitory-proteinkinazy Ингибиторы протеинкиназы
+L01XX l01xx-prochie-protivoopuholevye-preparaty Прочие противоопухолевые препараты
+L01XY l01xy-kombinatcii-protivoopuholevykh-preparatov Комбинации противоопухолевых препаратов
+L01XA01 l01xa01-tcisplatin Цисплатин
+L01XA02 l01xa02-karboplatin Карбоплатин
+L01XA03 l01xa03-oksaliplatin Оксалиплатин
+L01XA04 l01xa04-satraplatin Сатраплатин
+L01XA05 l01xa05-poliplatillen Полиплатиллен
+L01XB01 l01xb01-prokarbazin Прокарбазин
+L01XC01 l01xc01-edrekolomab Эдреколомаб
+L01XC02 l01xc02-rituksimab Ритуксимаб
+L01XC03 l01xc03-trastuzumab Трастузумаб
+L01XC05 l01xc05-gemtuzumab Гемтузумаб
+L01XC06 l01xc06-tcetuksimab Цетуксимаб
+L01XC07 l01xc07-bevatcizumab Бевацизумаб
+L01XC08 l01xc08-panitumumab Панитумумаб
+L01XC09 l01xc09-katumaksomab Катумаксомаб
+L01XC10 l01xc10-ofatumumab Офатумумаб
+L01XC11 l01xc11-ipilimumab Ипилимумаб
+L01XC12 l01xc12-brentuksimab-vedotin Брентуксимаб ведотин
+L01XC13 l01xc13-pertuzumab Пертузумаб
+L01XC14 l01xc14-trastuzumab-emtanzin Трастузумаб эмтанзин
+L01XC15 l01xc15-obinutuzumab Обинутузумаб
+L01XC16 l01xc16-dinutuksimab Динутуксимаб
+L01XC17 l01xc17-nivolumab Ниволумаб
+L01XC18 l01xc18-pembrolizumab Пембролизумаб
+L01XC19 l01xc19-blinatumomab Блинатумомаб
+L01XC21 l01xc21-ramutcirumab Рамуцирумаб
+L01XC22 l01xc22-netcitumumab Нецитумумаб
+L01XD01 l01xd01-porfimer-natriia Порфимер натрия
+L01XD03 l01xd03-metilaminolevulinat Метиламинолевулинат
+L01XD04 l01xd04-aminolevulinovaia-kislota Аминолевулиновая кислота
+L01XD05 l01xd05-temoporfin Темопорфин
+L01XD06 l01xd06-efaproksiral Эфапроксирал
+L01XE01 l01xe01-imatinib Иматиниб
+L01XE02 l01xe02-gefitinib Гефитиниб
+L01XE03 l01xe03-erlotinib Эрлотиниб
+L01XE04 l01xe04-sunitinib Сунитиниб
+L01XE05 l01xe05-sorafenib Сорафениб
+L01XE06 l01xe06-dazatinib Дазатиниб
+L01XE07 l01xe07-lapatinib Лапатиниб
+L01XE08 l01xe08-nilotinib Нилотиниб
+L01XE09 l01xe09-temsirolimus Темсиролимус
+L01XE10 l01xe10-everolimus Эверолимус
+L01XE11 l01xe11-pazopanib Пазопаниб
+L01XE13 l01xe13-afatinib Афатиниб
+L01XE14 l01xe14-bosutinib Босутиниб
+L01XE15 l01xe15-vemurafenib Вемурафениб
+L01XE16 l01xe16-krizotinib Кризотиниб
+L01XE17 l01xe17-aksitinib Акситиниб
+L01XE18 l01xe18-ruksolitinib Руксолитиниб
+L01XE19 l01xe19-ridaforolimus Ридафоролимус
+L01XE21 l01xe21-regorafenib Регорафениб
+L01XE22 l01xe22-masitinib Маситиниб
+L01XE23 l01xe23-dabrafenib Дабрафениб
+L01XE24 l01xe24-ponatinib-a Понатиниб
+L01XE25 l01xe25-trametinib Траметиниб
+L01XE26 l01xe26-kabozantinib Кабозантиниб
+L01XE27 l01xe27-ibrutinib Ибрутиниб
+L01XE28 l01xe28-tceritinib Церитиниб
+L01XE29 l01xe29-lenvatinib Ленватиниб
+L01XE31 l01xe31-nintedanib Нинтеданиб
+L01XE32 l01xe32-tcediranib Цедираниб
+L01XE33 l01xe33-palbotciclib Палбоциклиб
+L01XE34 l01xe34-tivozanib Тивозаниб
+L01XX01 l01xx01-amsakrin Амсакрин
+L01XX02 l01xx02-asparaginaza Аспарагиназа
+L01XX03 l01xx03-altretamin Алтретамин
+L01XX05 l01xx05-gidroksikarbamid Гидроксикарбамид
+L01XX07 l01xx07-lonidamin Лонидамин
+L01XX08 l01xx08-pentostatin Пентостатин
+L01XX09 l01xx09-miltefozin Милтефозин
+L01XX10 l01xx10-mazoprokol Мазопрокол
+L01XX11 l01xx11-estramustin Эстрамустин
+L01XX14 l01xx14-tretinoin Третиноин
+L01XX16 l01xx16-mitoguazon Митогуазон
+L01XX17 l01xx17-topotekan Топотекан
+L01XX18 l01xx18-tiazofurin Тиазофурин
+L01XX19 l01xx19-irinotekan Иринотекан
+L01XX22 l01xx22-alitretinoin Алитретиноин
+L01XX23 l01xx23-mitotan Митотан
+L01XX24 l01xx24-pegaspargaza Пегаспаргаза
+L01XX25 l01xx25-beksaroten Бексаротен
+L01XX27 l01xx27-myshiaka-trioksid-myshiakovistyi-angidrid Мышьяка триоксид (Мышьяковистый ангидрид)
+L01XX29 l01xx29-denileikin-diftitoks Денилейкин дифтитокс
+L01XX32 l01xx32-bortezomib Бортезомиб
+L01XX33 l01xx33-tcelekoksib Целекоксиб
+L01XX35 l01xx35-anagrelid Анагрелид
+L01XX36 l01xx36-oblimersen Облимерсен
+L01XX37 l01xx37-sitimagen-tceradenovek Ситимаген цераденовек
+L01XX38 l01xx38-vorinostat Вориностат
+L01XX39 l01xx39-romidepsin Ромидепсин
+L01XX40 l01xx40-omatcetaksina-mepesuktcinat Омацетаксина мепесукцинат
+L01XX41 l01xx41-eribulin Эрибулин
+L01XX42 l01xx42-panobinostat Панобиностат
+L01XX43 l01xx43-vismodegib Висмодегиб
+L01XX44 l01xx44-aflibertcept Афлиберцепт
+L01XX45 l01xx45-karfilzomib Карфилзомиб
+L01XX46 l01xx46-olaparib Олапариб
+L01XX47 l01xx47-idelalisib Иделалисиб
+L01XX48 l01xx48-sonidegib Сонидегиб
+L01XX49 l01xx49-belinostat Белиностат
+L01XX50 l01xx50-iksazomib Иксазомиб

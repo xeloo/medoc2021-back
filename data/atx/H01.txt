@@ -1,0 +1,38 @@
+H01A h01a-gormony-perednei-doli-gipofiza-i-ikh-analogi Гормоны передней доли гипофиза и их аналоги
+H01B h01b-gormony-zadnei-doli-gipofiza Гормоны задней доли гипофиза
+H01C h01c-gormony-gipotalamusa Гормоны гипоталамуса
+H01AA h01aa-aktg АКТГ
+H01AB h01ab-tirotropin Тиротропин
+H01AC h01ac-somatropin-i-agonisty-somatropina Соматропин и агонисты соматропина
+H01AA01 h01aa01-kortikotropin Кортикотропин
+H01AA02 h01aa02-tetrakozaktid Тетракозактид
+H01AB01 h01ab01-tirotropin-alfa Тиротропин альфа
+H01AC01 h01ac01-somatropin Соматропин
+H01AC02 h01ac02-somatrem Соматрем
+H01AC03 h01ac03-mekasermin Мекасермин
+H01AC04 h01ac04-sermorelin Серморелин
+H01AC05 h01ac05-mekasermin-rinfabat Мекасермин ринфабат
+H01AC06 h01ac06-tezamorelin Тезаморелин
+H01BA h01ba-vazopressin-i-ego-analogi Вазопрессин и его аналоги
+H01BB h01bb-oksitotcin-i-ego-analogi Окситоцин и его аналоги
+H01BA01 h01ba01-vazopressin Вазопрессин
+H01BA02 h01ba02-desmopressin Десмопрессин
+H01BA03 h01ba03-leepressin Липрессин
+H01BA04 h01ba04-terlipressin Терлипрессин
+H01BA05 h01ba05-ornipressin Орнипрессин
+H01BA06 h01ba06-argipressin Аргипрессин
+H01BB01 h01bb01-demoksitotcin Демокситоцин
+H01BB02 h01bb02-oksitotcin Окситоцин
+H01BB03 h01bb03-karbetotcin Карбетоцин
+H01CB h01cb-somatostatin-i-ego-analogi Соматостатин и его аналоги
+H01CC h01cc-antigonadotropin-rilizing-gormony Антигонадотропин-рилизинг гормоны
+H01CA h01ca-gonadotropin-rilizing-gormony Гонадотропин-рилизинг гормоны
+H01CB01 h01cb01-somatostatin Соматостатин
+H01CB02 h01cb02-oktreotid Октреотид
+H01CB03 h01cb03-lanreotid Ланреотид
+H01CB04 h01cb04-vapreotid Вапреотид
+H01CB05 h01cb05-pasireotid Пасиреотид
+H01CC01 h01cc01-ganireliks Ганиреликс
+H01CC02 h01cc02-tcetroreliks Цетрореликс
+H01CA01 h01ca01-gonadorelin Гонадорелин
+H01CA02 h01ca02-nafarelin Нафарелин

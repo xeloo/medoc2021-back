@@ -1,0 +1,55 @@
+A12A a12a-preparaty-kaltciia Препараты кальция
+A12B a12b-preparaty-kaliia Препараты калия
+A12C a12c-prochie-mineralnye-veshchestva Прочие минеральные вещества
+A12AA a12aa-preparaty-kaltciia Препараты кальция
+A12AX a12ax-preparaty-kaltciia-v-kombinatcii-s-drugimi-preparatami Препараты кальция в комбинации с другими препаратами
+A12AA01 a12aa01-kaltciia-fosfat Кальция фосфат
+A12AA02 a12aa02-kaltciia-glubionat Кальция глубионат
+A12AA03 a12aa03-kaltciia-gliukonat Кальция глюконат
+A12AA04 a12aa04-kaltciia-karbonat Кальция карбонат
+A12AA05 a12aa05-kaltciia-laktat Кальция лактат
+A12AA06 a12aa06-kaltciia-laktat-gliukonat Кальция лактат глюконат
+A12AA07 a12aa07-kaltciia-khlorid Кальция хлорид
+A12AA08 a12aa08-kaltciia-glitcerofosfat Кальция глицерофосфат
+A12AA09 a12aa09-kaltciia-tcitrat-lizin-kompleks Кальция цитрат-лизин комплекс
+A12AA10 a12aa10-kaltciia-gliukogeptonat Кальция глюкогептонат
+A12AA11 a12aa11-kaltciia-pangamat Кальция пангамат
+A12AA12 a12aa12-kaltciia-atcetat Кальция ацетат
+A12AA13 a12aa13-kaltciia-tcitrat Кальция цитрат
+A12AA20 a12aa20-kombinatciia-razlichnykh-solei-kaltciia Комбинация различных солей кальция
+A12AA30 a12aa30-kaltciia-levulat Кальция левулат
+A12BA a12ba-preparaty-kaliia Препараты калия
+A12BA01 a12ba01-kaliia-khlorid Калия хлорид
+A12BA02 a12ba02-kaliia-tcitrat Калия цитрат
+A12BA03 a12ba03-kaliia-gidrotartrat Калия гидротартрат
+A12BA04 a12ba04-kaliia-gidrokarbonat Калия гидрокарбонат
+A12BA05 a12ba05-kaliia-gliukonat Калия глюконат
+A12BA30 a12ba30-kombinatciia-razlichnykh-solei-kaliia Комбинация различных солей калия
+A12BA51 a12ba51-kaliia-khlorid-v-kombinatcii-s-drugimi-preparatami Калия хлорид в комбинации с другими препаратами
+A12CA a12ca-preparaty-natriia Препараты натрия
+A12CB a12cb-preparaty-tcinka Препараты цинка
+A12CC a12cc-preparaty-magniia Препараты магния
+A12CD a12cd-preparaty-ftora Препараты фтора
+A12CE a12ce-preparaty-selena Препараты селена
+A12CX a12cx-drugie-mineralnye-preparaty Другие минеральные препараты
+A12CA01 a12ca01-natriia-khlorid Натрия хлорид
+A12CA02 a12ca02-natriia-sulfat Натрия сульфат
+A12CB01 a12cb01-tcinka-sulfat Цинка сульфат
+A12CB02 a12cb02-tcinka-gliukonat Цинка глюконат
+A12CB03 a12cb03-tcinko-proteinnyi-kompleks Цинко-протеинный комплекс
+A12CC01 a12cc01-magniia-khlorid Магния хлорид
+A12CC02 a12cc02-magniia-sulfat Магния сульфат
+A12CC03 a12cc03-magniia-gliukonat Магния глюконат
+A12CC04 a12cc04-magniia-tcitrat Магния цитрат
+A12CC05 a12cc05-magniia-asparaginat Магния аспарагинат
+A12CC06 a12cc06-magniia-laktat Магния лактат
+A12CC07 a12cc07-magniia-levulinat Магния левулинат
+A12CC08 a12cc08-magniia-pidolat Магния пидолат
+A12CC09 a12cc09-magniia-orotat Магния оротат
+A12CC10 a12cc10-magniia-oksid Магния оксид
+A12CC30 a12cc30-kombinatciia-razlichnykh-solei-magniia Комбинация различных солей магния
+A12CD01 a12cd01-natriia-ftorid Натрия фторид
+A12CD02 a12cd02-natriia-monoftorfosfat Натрия монофторфосфат
+A12CD51 a12cd51-preparaty-ftora-v-kombinatcii-s-drugimi-veshchestvami Препараты фтора в комбинации с другими веществами
+A12CE01 a12ce01-natriia-selenat Натрия селенат
+A12CE02 a12ce02-natriia-selenit Натрия селенит

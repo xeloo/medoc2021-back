@@ -1,0 +1,70 @@
+N01A n01a-preparaty-dlia-obshchei-anestezii Препараты для общей анестезии
+N01B n01b-preparaty-dlia-mestnoi-anestezii Препараты для местной анестезии
+N01AA n01aa-efiry Эфиры
+N01AB n01ab-galogenizirovannye-uglevodorody Галогенизированные углеводороды
+N01AF n01af-barbituraty Барбитураты
+N01AG n01ag-barbituraty-v-kombinatcii-s-drugimi-preparatami Барбитураты в комбинации с другими препаратами
+N01AH n01ah-opioidnye-anestetiki Опиоидные анестетики
+N01AX n01ax-drugie-preparaty-dlia-obshchei-anestezii Другие препараты для общей анестезии
+N01AA01 n01aa01-dietilovyi-efir Диэтиловый эфир
+N01AA02 n01aa02-vinilovyi-efir Виниловый эфир
+N01AB01 n01ab01-galotan Галотан
+N01AB02 n01ab02-khloroform Хлороформ
+N01AB04 n01ab04-enfluran Энфлуран
+N01AB05 n01ab05-trikhloretilen Трихлорэтилен
+N01AB06 n01ab06-izofluran Изофлуран
+N01AB07 n01ab07-desfluran Десфлуран
+N01AB08 n01ab08-sevofluran Севофлуран
+N01AF01 n01af01-metogeksital Метогекситал
+N01AF02 n01af02-geksobarbital Гексобарбитал
+N01AF03 n01af03-tiopental-natriia Тиопентал натрия
+N01AG01 n01ag01-narkobarbital Наркобарбитал
+N01AH01 n01ah01-fentanil Фентанил
+N01AH02 n01ah02-alfentanil Алфентанил
+N01AH03 n01ah03-sufentanil Суфентанил
+N01AH04 n01ah04-fenoperidin Феноперидин
+N01AH05 n01ah05-anileridin Анилеридин
+N01AH06 n01ah06-remifentanil Ремифентанил
+N01AH51 n01ah51-fentanil-v-kombinatcii-s-drugimi-preparatami Фентанил в комбинации с другими препаратами
+N01AX03 n01ax03-ketamin Кетамин
+N01AX04 n01ax04-propanidid Пропанидид
+N01AX05 n01ax05-alfaksalon Алфаксалон
+N01AX07 n01ax07-etomidat Этомидат
+N01AX10 n01ax10-propofol Пропофол
+N01AX11 n01ax11-natriia-oksibat Натрия оксибат
+N01AX13 n01ax13-dinitrogena-oksid Динитрогена оксид
+N01AX14 n01ax14-esketamin Эскетамин
+N01AX15 n01ax15-ksenon Ксенон
+N01AX63 n01ax63-dinitrogena-oksid-v-kombinatcii-s-drugimi-preparatami Динитрогена оксид в комбинации с другими препаратами
+N01BA n01ba-efiry-aminobenzoinoi-kisloty Эфиры аминобензойной кислоты
+N01BC n01bc-efiry-benzoinoi-kisloty Эфиры бензойной кислоты
+N01BX n01bx-drugie-preparaty-dlia-mestnoi-anestezii Другие препараты для местной анестезии
+N01BB n01bb-amidy Амиды
+N01BA01 n01ba01-metabutetamin Метабутетамин
+N01BA02 n01ba02-prokain Прокаин
+N01BA03 n01ba03-tetrakain Тетракаин
+N01BA04 n01ba04-khlorprokain Хлорпрокаин
+N01BA05 n01ba05-benzokain Бензокаин
+N01BA52 n01ba52-prokain-v-kombinatcii-s-drugimi-preparatami Прокаин в комбинации с другими препаратами
+N01BC01 n01bc01-kokain Кокаин
+N01BX01 n01bx01-khloretil Хлорэтил
+N01BX02 n01bx02-diclonin Диклонин
+N01BX03 n01bx03-fenol Фенол
+N01BX04 n01bx04-kapsaitcin Капсаицин
+N01BB01 n01bb01-bupivakain Бупивакаин
+N01BB02 n01bb02-leedokain Лидокаин
+N01BB03 n01bb03-mepivakain Мепивакаин
+N01BB04 n01bb04-prilokain Прилокаин
+N01BB05 n01bb05-butanilikain Бутаниликаин
+N01BB06 n01bb06-tcinhokain Цинхокаин
+N01BB07 n01bb07-etidokain Этидокаин
+N01BB08 n01bb08-artikain Артикаин
+N01BB09 n01bb09-ropivakain Ропивакаин
+N01BB10 n01bb10-levobupivakain Левобупивакаин
+N01BB20 n01bb20-anestetiki-mestnye-v-kombinatcii-s-drugimi-preparatami Анестетики местные, в комбинации с другими препаратами
+N01BB51 n01bb51-bupivakain-v-kombinatcii-s-drugimi-preparatami Бупивакаин в комбинации с другими препаратами
+N01BB52 n01bb52-leedokain-v-kombinatcii-s-drugimi-preparatami Лидокаин в комбинации с другими препаратами
+N01BB53 n01bb53-mepivakain-v-kombinatcii-s-drugimi-preparatami Мепивакаин в комбинации с другими препаратами
+N01BB54 n01bb54-prilokain-v-kombinatcii-s-drugimi-preparatami Прилокаин в комбинации с другими препаратами
+N01BB57 n01bb57-etidokain-v-kombinatcii-s-drugimi-preparatami Этидокаин в комбинации с другими препаратами
+N01BB58 n01bb58-artikain-v-kombinatcii-s-drugimi-preparatami Артикаин в комбинации с другими препаратами

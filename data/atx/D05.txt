@@ -1,0 +1,25 @@
+D05A d05a-preparaty-dlia-lecheniia-psoriaza-dlia-mestnogo-primeneniia Препараты для лечения псориаза для местного применения
+D05B d05b-preparaty-dlia-lecheniia-psoriaza-dlia-sistemnogo-primeneniia Препараты для лечения псориаза для системного применения
+D05AA d05aa-degot Деготь
+D05AC d05ac-proizvodnye-antracena Производные антрацена
+D05AD d05ad-psoraleny-dlia-mestnogo-primeneniia Псоралены для местного применения
+D05AX d05ax-prochie-preparaty-dlia-lecheniia-psoriaza-dlia-mestnogo-primeneniia Прочие препараты для лечения псориаза для местного применения
+D05AC01 d05ac01-ditranol Дитранол
+D05AC51 d05ac51-ditranol-v-kombinatcii-s-drugimi-preparatami Дитранол в комбинации с другими препаратами
+D05AD01 d05ad01-trioksisalen Триоксисален
+D05AD02 d05ad02-metoksalen Метоксален
+D05AX01 d05ax01-fumarovaia-kislota Фумаровая кислота
+D05AX02 d05ax02-kaltcipotriol Кальципотриол
+D05AX03 d05ax03-kaltcitriol Кальцитриол
+D05AX04 d05ax04-takaltcitol Такальцитол
+D05AX05 d05ax05-tazaroten Тазаротен
+D05AX52 d05ax52-kaltcipotriol-v-kombinatcii-s-drugimi-preparatami Кальципотриол в комбинации с другими препаратами
+D05BA d05ba-psoraleny-dlia-sistemnogo-primeneniia Псоралены для системного применения
+D05BB d05bb-retinoidy-dlia-lecheniia-psoriaza Ретиноиды для лечения псориаза
+D05BX d05bx-prochie-preparaty-dlia-lecheniia-psoriaza-dlia-sistemnogo-primeneniia Прочие препараты для лечения псориаза для системного применения
+D05BA01 d05ba01-trioksisalen Триоксисален
+D05BA02 d05ba02-metoksalen Метоксален
+D05BA03 d05ba03-bergapten Бергаптен
+D05BB01 d05bb01-etretinat Этретинат
+D05BB02 d05bb02-atcitretin Ацитретин
+D05BX51 d05bx51-proizvodnye-fumarovoi-kisloty-v-kombinatcii-s-drugimi-preparatami Производные фумаровой кислоты в комбинации с другими препаратами

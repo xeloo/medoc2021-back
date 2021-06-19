@@ -1,0 +1,111 @@
+A10A a10a-insuliny Инсулины
+A10B a10b-gipoglikemicheskie-preparaty-za-iscliucheniem-insulinov Гипогликемические препараты, за исключением инсулинов
+A10X a10x-prochie-lekarstvennye-preparaty-dlia-lecheniia-saharnogo-diabeta Прочие лекарственные препараты для лечения сахарного диабета
+A10AB a10ab-insuliny-bystrogo-deistviia-dlia-inektcii-i-ikh-analogi Инсулины быстрого действия для инъекций и их аналоги
+A10AC a10ac-insuliny-srednego-deistviia-dlia-inektcii-i-ikh-analogi Инсулины среднего действия для инъекций и их аналоги
+A10AD a10ad-insuliny-i-ikh-analogi-dlia-inektcii-srednego-ili-dlitelnogo-deistviia-v-kombinatcii-s-insulinami-bystrogo-deistviia Инсулины и их аналоги для инъекций: среднего или длительного действия в комбинации с инсулинами быстрого действия
+A10AE a10ae-insuliny-dlitelnogo-deistviia-dlia-inektcii-i-ikh-analogi Инсулины длительного действия для инъекций и их аналоги
+A10AF a10af-insuliny-ikh-ikh-analogi-dlia-ingaliatcii Инсулины их их аналоги для ингаляций
+A10AB01 a10ab01-insulin-chelovecheskii Инсулин (человеческий)
+A10AB02 a10ab02-insulin-goviazhii Инсулин (говяжий)
+A10AB03 a10ab03-insulin-svinoi Инсулин (свиной)
+A10AB04 a10ab04-insulin-leezpro Инсулин ЛизПро
+A10AB05 a10ab05-insulin-aspart Инсулин аспарт
+A10AB06 a10ab06-insulin-glulizin Инсулин глулизин
+A10AB30 a10ab30-kombinatcii Комбинации
+A10AC01 a10ac01-insulin-chelovecheskii Инсулин (человеческий)
+A10AC02 a10ac02-insulin-goviazhii Инсулин (говяжий)
+A10AC03 a10ac03-insulin-svinoi Инсулин (свиной)
+A10AC04 a10ac04-insulin-leezpro Инсулин ЛизПро
+A10AC30 a10ac30-kombinatcii Комбинации
+A10AD01 a10ad01-insulin-chelovecheskii Инсулин (человеческий)
+A10AD02 a10ad02-insulin-goviazhii Инсулин (говяжий)
+A10AD03 a10ad03-insulin-svinoi Инсулин (свиной)
+A10AD04 a10ad04-insulin-leezpro Инсулин ЛизПро
+A10AD05 a10ad05-insulin-aspart Инсулин аспарт
+A10AD06 a10ad06-insulin-degliudek-i-insulin-aspart Инсулин деглюдек и инсулин аспарт
+A10AD30 a10ad30-kombinatcii Комбинации
+A10AE01 a10ae01-insulin-chelovecheskii Инсулин (человеческий)
+A10AE02 a10ae02-insulin-goviazhii Инсулин (говяжий)
+A10AE03 a10ae03-insulin-svinoi Инсулин (свиной)
+A10AE04 a10ae04-insulin-glargin Инсулин гларгин
+A10AE05 a10ae05-insulin-detemir Инсулин детемир
+A10AE06 a10ae06-insulin-degliudek Инсулин деглюдек
+A10AE30 a10ae30-kombinatcii Комбинации
+A10AE56 a10ae56-insulin-degliudek-i-liraglutid Инсулин деглюдек и лираглутид
+A10AF01 a10af01-insulin-chelovecheskii Инсулин (человеческий)
+A10BA a10ba-biguanidy Бигуаниды
+A10BB a10bb-proizvodnye-sulfonilmocheviny Производные сульфонилмочевины
+A10BC a10bc-geterotciclicheskie-sulfonamidy Гетероциклические сульфонамиды
+A10BD a10bd-kombinatcii-gipoglikemicheskikh-preparatov-dlia-priyoma-vnutr Комбинации гипогликемических препаратов для приёма внутрь
+A10BF a10bf-alfa-gliukozidazy-ingibitory Альфа-глюкозидазы ингибиторы
+A10BG a10bg-tiazolindiony Тиазолиндионы
+A10BH a10bh-ingibitory-dipeptidilpeptidazy-4-dpp-4 Ингибиторы дипептидилпептидазы-4 (DPP-4)
+A10BX a10bx-prochie-gipoglikemicheskie-preparaty Прочие гипогликемические препараты
+A10BA01 a10ba01-fenformin Фенформин
+A10BA02 a10ba02-metformin Метформин
+A10BA03 a10ba03-buformin Буформин
+A10BB01 a10bb01-glibenclamid Глибенкламид
+A10BB02 a10bb02-khlorpropamid Хлорпропамид
+A10BB03 a10bb03-tolbutamid Толбутамид
+A10BB04 a10bb04-glibornurid Глиборнурид
+A10BB05 a10bb05-tolazamid Толазамид
+A10BB06 a10bb06-karbutamid Карбутамид
+A10BB07 a10bb07-glipizid Глипизид
+A10BB08 a10bb08-glikvidon Гликвидон
+A10BB09 a10bb09-gliclazid Гликлазид
+A10BB10 a10bb10-metageksamid Метагексамид
+A10BB11 a10bb11-glizoksepid Глизоксепид
+A10BB12 a10bb12-glimepirid Глимепирид
+A10BB31 a10bb31-atcetogeksamid Ацетогексамид
+A10BC01 a10bc01-glimidin Глимидин
+A10BD01 a10bd01-fenformin-i-sulfonamidy Фенформин и сульфонамиды
+A10BD02 a10bd02-metformin-i-sulfonamidy Метформин и сульфонамиды
+A10BD03 a10bd03-metformin-i-rosiglitazon Метформин и росиглитазон
+A10BD04 a10bd04-glimepirid-i-rosiglitazon Глимепирид и росиглитазон
+A10BD05 a10bd05-metformin-i-pioglitazon Метформин и пиоглитазон
+A10BD06 a10bd06-glimepirid-i-pioglitazon Глимепирид и пиоглитазон
+A10BD07 a10bd07-metformin-i-sitagliptin Метформин и ситаглиптин
+A10BD08 a10bd08-metformin-i-vildagliptin Метформин и вилдаглиптин
+A10BD09 a10bd09-pioglitazon-i-alogliptin Пиоглитазон и алоглиптин
+A10BD10 a10bd10-metformin-i-saksagliptin Метформин и саксаглиптин
+A10BD11 a10bd11-metformin-i-linagliptin Метформин и линаглиптин
+A10BD12 a10bd12-pioglitazon-i-sitagliptin Пиоглитазон и ситаглиптин
+A10BD13 a10bd13-metformin-i-alogliptin Метформин и алоглиптин
+A10BD14 a10bd14-metformin-i-repaglinid Метформин и репаглинид
+A10BD15 a10bd15-metformin-i-dapagliflozin Метформин и дапаглифлозин
+A10BD16 a10bd16-metformin-i-kanagliflozin Метформин и канаглифлозин
+A10BD17 a10bd17-metformin-i-akarboza Метформин и акарбоза
+A10BD18 a10bd18-metformin-i-gemigliptin Метформин и гемиглиптин
+A10BD19 a10bd19-leenagliptin-i-empagliflozin Линаглиптин и эмпаглифлозин
+A10BD20 a10bd20-metformin-i-empagliflozin Метформин и эмпаглифлозин
+A10BD21 a10bd21-saksagliptin-i-apagliflozin Саксаглиптин и апаглифлозин
+A10BF01 a10bf01-akarboza Акарбоза
+A10BF02 a10bf02-miglitol Миглитол
+A10BF03 a10bf03-vogliboza Воглибоза
+A10BG01 a10bg01-troglitazon Троглитазон
+A10BG02 a10bg02-rosiglitazon Росиглитазон
+A10BG03 a10bg03-pioglitazon Пиоглитазон
+A10BH01 a10bh01-sitagliptin Ситаглиптин
+A10BH02 a10bh02-vildagliptin Вилдаглиптин
+A10BH03 a10bh03-saksagliptin Саксаглиптин
+A10BH04 a10bh04-alogliptin Алоглиптин
+A10BH05 a10bh05-leenagliptin Линаглиптин
+A10BH06 a10bh06-gemigliptin Гемиглиптин
+A10BH51 a10bh51-sitagliptin-i-simvastatin Ситаглиптин и симвастатин
+A10BX01 a10bx01-guarovaia-smola Гуаровая смола
+A10BX02 a10bx02-repaglinid Репаглинид
+A10BX03 a10bx03-nateglinid Натеглинид
+A10BX04 a10bx04-eksenatid Эксенатид
+A10BX05 a10bx05-pramlintid Прамлинтид
+A10BX06 a10bx06-benfluoreks Бенфлуорекс
+A10BX07 a10bx07-leeraglutid Лираглутид
+A10BX08 a10bx08-mitiglinid Митиглинид
+A10BX09 a10bx09-dapagliflozin Дапаглифлозин
+A10BX10 a10bx10-leeksisenatid Ликсисенатид
+A10BX11 a10bx11-kanagliflozin Канаглифлозин
+A10BX12 a10bx12-empagliflozin Эмпаглифлозин
+A10BX13 a10bx13-albigliutid Альбиглютид
+A10BX14 a10bx14-dulagliutid Дулаглютид
+A10XA a10xa-aldozoreduktazy-ingibitory Альдозоредуктазы ингибиторы
+A10XA01 a10xa01-tolrestat Толрестат

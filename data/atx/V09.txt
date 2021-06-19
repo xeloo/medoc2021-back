@@ -1,0 +1,124 @@
+V09A v09a-radiofarmatcevticheskie-sredstva-dlia-vyiavleniia-zabolevanii-tcns Радиофармацевтические средства для выявления заболеваний ЦНС
+V09B v09b-radiofarmatcevticheskie-sredstva-dlia-vyiavleniia-zabolevanii-kostnoi-tkani Радиофармацевтические средства для выявления заболеваний костной ткани
+V09C v09c-radiofarmatcevticheskie-sredstva-dlia-vyiavleniia-zabolevanii-pochek Радиофармацевтические средства для выявления заболеваний почек
+V09D v09d-radiofarmatcevticheskie-sredstva-dlia-vyiavleniia-zabolevanii-pecheni-i-retikuloendotelialnoi-sistemy Радиофармацевтические средства для выявления заболеваний печени и ретикулоэндотелиальной системы
+V09E v09e-radiofarmatcevticheskie-sredstva-dlia-vyiavleniia-zabolevanii-organov-dyhaniia Радиофармацевтические средства для выявления заболеваний органов дыхания
+V09F v09f-radiofarmatcevticheskie-preparaty-dlia-diagnostiki-zabolevanii-shchitovidnoi-zhelezy Радиофармацевтические препараты для диагностики заболеваний щитовидной железы
+V09G v09g-radiofarmatcevticheskie-preparaty-dlia-diagnostiki-zabolevanii-serdechno-sosudistoi-sistemy Радиофармацевтические препараты для диагностики заболеваний сердечно-сосудистой системы
+V09H v09h-radiofarmatcevticheskie-preparaty-dlia-diagnostiki-vospalenii-i-infektcii Радиофармацевтические препараты для диагностики воспалений и инфекций
+V09I v09i-radiofarmatcevticheskie-preparaty-dlia-diagnostiki-novoobrazovanii Радиофармацевтические препараты для диагностики новообразований
+V09X v09x-prochie-radiofarmatcevticheskie-preparaty Прочие радиофармацевтические препараты
+V09AA v09aa-soedineniia-tekhnetciia-99m Соединения технеция 99m
+V09AB v09ab-soedineniia-ioda-123 Соединения йода-123
+V09AX v09ax-prochie-radiofarmatcevticheskie-sredstva-dlia-vyiavleniia-zabolevanii-tcns Прочие радиофармацевтические средства для выявления заболеваний ЦНС
+V09AA01 v09aa01-99m-tc-technetium-exametazime 99m Tc-Technetium-exametazime
+V09AA02 v09aa02-99m-tc-technetium-bicisate 99m Tc-Technetium-bicisate
+V09AB01 v09ab01-123-i-iodine-iofetamine 123 I-Iodine-iofetamine
+V09AB02 v09ab02-123-i-iodine-sholopride 123 I-Iodine-шolopride
+V09AB03 v09ab03-123-i-ioflupane 123 I-Ioflupane
+V09AX01 v09ax01-111-in-indium-pentetic-acid 111 In-Indium-pentetic acid
+V09AX02 v09ax02-18-f-fluorine-deoxyglucose 18 F-Fluorine deoxyglucose
+V09AX03 v09ax03-iodine-124i-2beta-carbomethoxy-3beta-4-iodophenyl-tropane iodine (124I) 2beta-carbomethoxy-3beta-(4 iodophenyl)-tropane
+V09BA v09ba-soedineniia-tekhnetciia-99m Соединения технеция 99m
+V09BA01 v09ba01-99m-tc-technetium-oxidronic-acid 99m Tc-Technetium-oxidronic acid
+V09BA02 v09ba02-99m-tc-technetium-medronic-acid 99m Tc-Technetium-medronic acid
+V09BA03 v09ba03-99m-tc-technetium-pyrophosphate 99m Tc-Technetium-pyrophosphate
+V09BA04 v09ba04-99m-tc-technetium-butedronic-acid 99m Tc-Technetium-butedronic acid
+V09CA v09ca-soedineniia-tekhnetciia-99m Соединения технеция 99m
+V09CX v09cx-prochie-radiofarmatcevticheskie-sredstva-dlia-vyiavleniia-zabolevanii-pochek Прочие радиофармацевтические средства для выявления заболеваний почек
+V09CA01 v09ca01-99m-tc-technetium-pentetic-acid 99m Tc-Technetium-pentetic acid
+V09CA02 v09ca02-99m-tc-technetium-succimer 99m Tc-Technetium-succimer
+V09CA03 v09ca03-99m-tc-technetium-mertiatide 99m Tc-Technetium-mertiatide
+V09CA04 v09ca04-99m-tc-technetium-glucoptate 99m Tc-Technetium-glucoptate
+V09CA05 v09ca05-99m-tc-technetium-gluconate 99m Tc-Technetium-gluconate
+V09CX01 v09cx01-123-i-iodine-hippurate 123 I-Iodine-hippurate
+V09CX02 v09cx02-131-i-iodine-hippurate 131-I-Iodine-hippurate
+V09CX03 v09cx03-125-i-iodine-thalamate 125 I-Iodine-thalamate
+V09CX04 v09cx04-51-cr-chromium-edetate 51 Cr-Chromium-edetate
+V09DA v09da-soedineniia-tekhnetciia-99m Соединения технеция 99m
+V09DB v09db-tekhnetcii-99m-kolloidnyi Технеций 99m коллоидный
+V09DX v09dx-prochie-radiofarmatcevticheskie-sredstva-dlia-vyiavleniia-zabolevanii-pecheni-i-retikuloendotelialnoi-sistemy Прочие радиофармацевтические средства для выявления заболеваний печени и ретикулоэндотелиальной системы
+V09DA01 v09da01-99m-tc-technetium-disofenin 99m Tc-Technetium-disofenin
+V09DA02 v09da02-99m-tc-technetium-etifenin 99m Tc-Technetium-etifenin
+V09DA03 v09da03-99m-tc-technetium-lidofenin 99m Tc-Technetium-lidofenin
+V09DA04 v09da04-99m-tc-technetium-mebrofenin 99m-Tc-Technetium-mebrofenin
+V09DA05 v09da05-99m-tc-technetium-galtifenin 99m Tc-Technetium-galtifenin
+V09DB01 v09db01-99m-tc-technetium-nanocolloids 99m Tc-Technetium nanocolloids
+V09DB02 v09db02-99m-tc-technetium-microcolloid 99m Tc-Technetium microcolloid
+V09DB03 v09db03-99m-tc-technetium-millimicrospheres 99m Tc-Technetium millimicrospheres
+V09DB04 v09db04-99c-tc-technetium-tin-colloid 99c-Tc Technetium-tin colloid
+V09DB05 v09db05-99m-tc-technetium-sulphur-colloid 99m Tc-Technetium-sulphur colloid
+V09DB06 v09db06-99m-tc-technetium-rheniumsulphide-colloid 99m Tc-Technetium-rheniumsulphide colloid
+V09DB07 v09db07-99m-tc-technetium-phytate 99m Tc-Technetium-phytate
+V09DX01 v09dx01-75-se-selenium-tauroselcholic-acid 75 Se-Selenium-tauroselcholic acid
+V09EA v09ea-tekhnetcii-99m-ingaliatcionnyi Технеций 99m ингаляционный
+V09EB v09eb-tekhnetcii-99m-kolloidnyi-dlia-inektcii Технеций 99m коллоидный для инъекций
+V09EX v09ex-prochie-radiofarmatcevticheskie-preparaty-dlia-diagnostiki-zabolevanii-organov-dyhaniia Прочие радиофармацевтические препараты для диагностики заболеваний органов дыхания
+V09EA01 v09ea01-99m-tc-technetium-pentetic-acid 99m Tc-Technetium-pentetic acid
+V09EA02 v09ea02-99m-tc-technetium-technegas 99m Tc-Technetium-technegas
+V09EA03 v09ea03-99m-tc-technetium-nanocolloid 99m Tc-Technetium nanocolloid
+V09EB01 v09eb01-99m-tc-technetium-macrosalb 99m Tc-Technetium-macrosalb
+V09EB02 v09eb02-99m-tc-technetium-microspheres 99m Tc-Technetium microspheres
+V09EX01 v09ex01-81m-kr-crypton-gas 81m Kr-Crypton gas
+V09EX02 v09ex02-127-xe-xenon-gas 127 Xe-Xenon gas
+V09EX03 v09ex03-133-xe-xenon-gas 133 Xe-Xenon gas
+V09FX v09fx-prochie-radiofarmatcevticheskie-preparaty-dlia-diagnostiki-zabolevanii-shchitovidnoi-zhelezy Прочие радиофармацевтические препараты для диагностики заболеваний щитовидной железы
+V09FX01 v09fx01-99m-tc-technetium-pertechnetate 99m Tc-Technetium-pertechnetate
+V09FX02 v09fx02-123-i-iodine-sodium 123 I-Iodine-sodium
+V09FX03 v09fx03-131-i-iodine-sodium 131 I-Iodine-sodium
+V09FX04 v09fx04-sodium-iodide-124i Sodium iodide (124I)
+V09GA v09ga-soedineniia-tekhnetciia-99m Соединения технеция 99m
+V09GB v09gb-soedineniia-ioda-125 Соединения йода -125
+V09GX v09gx-prochie-radiofarmatcevticheskie-preparaty-dlia-diagnostiki-zabolevanii-serdechno-sosudistoi-sistemy Прочие радиофармацевтические препараты для диагностики заболеваний сердечно-сосудистой системы
+V09GA01 v09ga01-99m-tc-technetium-sestamibi 99m Tc-Technetium-sestamibi
+V09GA02 v09ga02-99m-tc-technetium-tetrofosmin 99m Tc-Technetium-tetrofosmin
+V09GA03 v09ga03-99m-tc-technetium-teboroxime 99m Tc-Technetium-teboroxime
+V09GA04 v09ga04-99m-tc-technetium-human-albumin 99m Tc-Technetium-human albumin
+V09GA05 v09ga05-99m-tc-technetium-furifosmin 99m Tc-Technetium-furifosmin
+V09GA06 v09ga06-99m-tc-technetium-stannous-agent-labelled-cells 99m Tc-Technetium-stannous agent labelled cells
+V09GA07 v09ga07-99m-tc-techetium-apcitide 99m Tc-Techetium-apcitide
+V09GB01 v09gb01-125-i-iodine-fibrinogen 125 I-Iodine-fibrinogen
+V09GB02 v09gb02-125-i-iodine-human-albumin 125 I-Iodine-human albumin
+V09GX01 v09gx01-201-tl-thallium-chloride 201 Tl-Thallium-chloride
+V09GX02 v09gx02-111-in-indium-imciromab 111 In-Indium-imciromab
+V09GX03 v09gx03-51-cr-chromium-labelled-cells 51 Cr-Chromium-labelled cells
+V09HA v09ha-soedineniia-tekhnetciia-99m Соединения технеция 99m
+V09HB v09hb-soedineniia-indiia-111 Соединения индия -111
+V09HX v09hx-prochie-radiofarmatcevticheskie-preparaty-dlia-diagnostiki-vospalenii-i-infektcii Прочие радиофармацевтические препараты для диагностики воспалений и инфекций
+V09HA01 v09ha01-99m-tc-technetium-human-immunoglobulin 99m Tc-Technetium-human immunoglobulin
+V09HA02 v09ha02-99m-tc-technetium-exametazime-labelled-cells 99m Tc-Technetium-exametazime labelled cells
+V09HA03 v09ha03-99m-tc-technetium-antigranulocyte-antibody 99m Tc-Technetium-antigranulocyte antibody
+V09HA04 v09ha04-99m-tc-technetium-sulesomab 99m Tc-Technetium-sulesomab
+V09HB01 v09hb01-111-in-indium-oxinate-labelled-cells 111 In-Indium-oxinate labelled cells
+V09HB02 v09hb02-111-in-indium-tropolonate-labelled-cells 111 In-Indium-tropolonate labelled cells
+V09IA v09ia-soedineniia-tekhnetciia-99m Соединения технеция 99m
+V09IB v09ib-soedineniia-indiia-111 Соединения индия-111
+V09IX v09ix-prochie-radiofarmatcevticheskie-preparaty-dlia-diagnostiki-novoobrazovanii Прочие радиофармацевтические препараты для диагностики новообразований
+V09IA01 v09ia01-99m-tc-techn-anticarcinoembryonicantigen-antibody 99m Tc-Techn.-anticarcinoembryonicantigen antibody
+V09IA02 v09ia02-99m-tc-technetium-antimelanoma-antibody 99m Tc-Technetium-antimelanoma antibody
+V09IA03 v09ia03-99m-tc-technetium-pentavalent-succimer 99m Tc-Technetium-pentavalent succimer
+V09IA04 v09ia04-99m-tc-technetium-votumumab 99m Tc-Technetium-votumumab
+V09IA05 v09ia05-99m-tc-technetium-depreotide 99m Tc-Technetium-depreotide
+V09IA06 v09ia06-99m-tc-technetium-arcitumomab 99m Tc-Technetium-arcitumomab
+V09IA08 v09ia08-technetium-99mtc-etarfolatide Technetium (99mTc) etarfolatide
+V09IA09 v09ia09-technetium-99mtc-tilmanocept Technetium (99mTc) tilmanocept
+V09IB01 v09ib01-111-in-indium-pentetreotide 111 In-Indium-pentetreotide
+V09IB02 v09ib02-111-in-indium-satumomab-pendetide 111 In-Indium-satumomab pendetide
+V09IB03 v09ib03-111-in-indium-antiovariumcarcinoma-antibody 111 In-Indium-antiovariumcarcinoma antibody
+V09IB04 v09ib04-111-in-indium-capromab-pendetide 111 In-Indium-capromab pendetide
+V09IX01 v09ix01-123-i-iodine-iobenguane 123 I-Iodine-iobenguane
+V09IX02 v09ix02-131-i-iodine-iobenguane 131 I-Iodine-iobenguane
+V09IX03 v09ix03-125-i-iodine-cc49-monoclonal-antibody 125 I-Iodine-CC49-monoclonal antibody
+V09IX04 v09ix04-17-f-fludeoxyglucose 17 F-Fludeoxyglucose
+V09IX05 v09ix05-fluorodopa-18-f Fluorodopa (18-F)
+V09IX06 v09ix06-sodium-fluoride-18f Sodium fluoride (18F)
+V09IX07 v09ix07-fluoromethylcholine-18f Fluoromethylcholine (18F)
+V09XA v09xa-soedineniia-ioda-131 Соединения йода-131
+V09XX v09xx-razlichnye-prochie-diagnosticheskie-radiofarmatcevticheskie-preparaty Различные прочие диагностические радиофармацевтические препараты
+V09XA01 v09xa01-131-i-iodine-norcholesterol 131 I-Iodine-norcholesterol
+V09XA02 v09xa02-131-i-iodine-iodocholesterol 131 I-Iodine-iodocholesterol
+V09XA03 v09xa03-131-i-iodine-human-albuminiodine 131 I-Iodine-human albuminIodine
+V09XX01 v09xx01-57-co-cobalt-cyanocobalamine 57 Co-Cobalt-cyanocobalamine
+V09XX02 v09xx02-58-co-cobalt-cyanocobalamine 58 Co-Cobalt-cyanocobalamine
+V09XX03 v09xx03-75-se-selenium-norcholesterol 75 Se-Selenium-norcholesterol
+V09XX04 v09xx04-59-fe-ferric-citrate 59 Fe-Ferric citrate

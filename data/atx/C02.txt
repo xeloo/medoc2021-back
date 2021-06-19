@@ -1,0 +1,108 @@
+C02A c02a-adrenergicheskie-sredstva-centralnogo-deistviia Адренергические средства центрального действия
+C02B c02b-ganglioblokatory Ганглиоблокаторы
+C02C c02c-antiadrenergicheskie-preparaty-perifericheskogo-deistviia Антиадренергические препараты периферического действия
+C02D c02d-miolitiki-priamye Миолитики прямые
+C02K c02k-prochie-antigipertenzivnye-preparaty Прочие антигипертензивные препараты
+C02L c02l-antigipertenzivnye-preparaty-i-diuretiki-v-kombinatcii Антигипертензивные препараты и диуретики в комбинации
+C02N c02n-sochetanie-antigipertenzivnykh-sredstv-v-gruppe-atc-c02 Сочетание антигипертензивных средств в группе ATC C02
+C02AA c02aa-alkaloidy-rauvolfii Алкалоиды раувольфии
+C02AB c02ab-metildopa Метилдопа
+C02AC c02ac-alfa-adrenomimetiki-proizvodnye-imidazolina Альфа-адреномиметики, производные имидазолина
+C02AA01 c02aa01-restcinnamin Ресциннамин
+C02AA02 c02aa02-rezerpin Резерпин
+C02AA03 c02aa03-alkaloidy-rauvolfii-v-kombinatcii Алкалоиды раувольфии в комбинации
+C02AA04 c02aa04-summa-alkaloidov-rauvolfii Сумма алкалоидов раувольфии
+C02AA05 c02aa05-dezerpidin Дезерпидин
+C02AA06 c02aa06-metoserpidin Метосерпидин
+C02AA07 c02aa07-bietazerpin Биетазерпин
+C02AA52 c02aa52-rezerpin-v-sochetanii-s-drugimi-preparatami Резерпин в сочетании с другими препаратами
+C02AA53 c02aa53-summa-alkaloidov-rauvolfii-v-kombinatcii-s-drugimi-preparatami Сумма алкалоидов раувольфии в комбинации с другими препаратами
+C02AA57 c02aa57-bietazerpin-v-sochetanii-s-drugimi-preparatami Биетазерпин в сочетании с другими препаратами
+C02AB01 c02ab01-metildopa-levovrashchaiushchaia Метилдопа (левовращающая)
+C02AB02 c02ab02-metildopa-ratcemicheskaia-smes Метилдопа (рацемическая смесь)
+C02AC01 c02ac01-clonidin Клонидин
+C02AC02 c02ac02-guanfatcin Гуанфацин
+C02AC04 c02ac04-tolonidin Толонидин
+C02AC05 c02ac05-moksonidin Моксонидин
+C02AC06 c02ac06-rilmenidin Рилменидин
+C02BA c02ba-proizvodnye-sulfoniia Производные сульфония
+C02BB c02bb-vtorichnye-i-tretichnye-aminy Вторичные и третичные амины
+C02BC c02bc-bischetvertichnye-ammonievye-soedineniia Бисчетвертичные аммониевые соединения
+C02BA01 c02ba01-trimetofan Триметофан
+C02BB01 c02bb01-mekamilamin Мекамиламин
+C02CC c02cc-proizvodnye-guanidina Производные гуанидина
+C02CA c02ca-alfa-adrenoblokatory Альфа-адреноблокаторы
+C02CC01 c02cc01-betanidin Бетанидин
+C02CC02 c02cc02-guanetidin Гуанетидин
+C02CC03 c02cc03-guanoksan Гуаноксан
+C02CC04 c02cc04-debrizohin Дебризохин
+C02CC05 c02cc05-guanoclor Guanoclor
+C02CC06 c02cc06-guanazodin Гуаназодин
+C02CC07 c02cc07-guanoksabenz Гуаноксабенз
+C02CA01 c02ca01-prazozin Празозин
+C02CA02 c02ca02-indoramin Индорамин
+C02CA03 c02ca03-trimazozin Тримазозин
+C02CA04 c02ca04-doksazozin Доксазозин
+C02CA06 c02ca06-urapidil Урапидил
+C02DA c02da-proizvodnye-tiazida Производные тиазида
+C02DB c02db-gidrazinoftalazinovye-proizvodnye Гидразинофталазиновые производные
+C02DC c02dc-proizvodnye-pirimidina Производные пиримидина
+C02DD c02dd-nitroferricyanidnye-proizvodnye Нитроферрицианидные производные
+C02DG c02dg-proizvodnye-guanidina Производные гуанидина
+C02DA01 c02da01-diazoksid Диазоксид
+C02DB01 c02db01-digidralazin Дигидралазин
+C02DB02 c02db02-gidralazin Гидралазин
+C02DB03 c02db03-endralazin Эндралазин
+C02DB04 c02db04-kadralazin Кадралазин
+C02DC01 c02dc01-minoksidil Миноксидил
+C02DD01 c02dd01-nitroprussid-natriia Нитропруссид натрия
+C02DG01 c02dg01-pinatcidil Пинацидил
+C02KA c02ka-alkaloidy-iscliuchaiushchie-rauvolfiiu Алкалоиды, исключающие раувольфию
+C02KB c02kb-tirozingidroksilazy-ingibitory Тирозингидроксилазы ингибиторы
+C02KC c02kc-ingibitory-mao Ингибиторы МАО
+C02KD c02kd-antagonisty-serotonina Антагонисты серотонина
+C02KX c02kx-drugie-antigipertenzivnye-sredstva Другие антигипертензивные средства
+C02KA01 c02ka01-veratrum Вератрум
+C02KB01 c02kb01-metirozin Метирозин
+C02KC01 c02kc01-pargilin Паргилин
+C02KD01 c02kd01-ketanserin Кетансерин
+C02KX01 c02kx01-bosentan Босентан
+C02KX02 c02kx02-ambrizentan Амбризентан
+C02KX03 c02kx03-sitaksentan Ситаксентан
+C02KX04 c02kx04-matcitentan Мацитентан
+C02KX05 c02kx05-riotciguat Риоцигуат
+C02LA c02la-rauvolfii-alkaloidy-v-kombinatcii-s-diuretikami Раувольфии алкалоиды в комбинации с диуретиками
+C02LB c02lb-metildopa-v-kombinatcii-s-diuretikami Метилдопа в комбинации с диуретиками
+C02LC c02lc-agonisty-imidazolinovykh-retceptorov-v-kombinatcii-s-diuretikami Агонисты имидазолиновых рецепторов в комбинации с диуретиками
+C02LE c02le-antagonisty-alfa-adrenoretceptorov-i-diuretiki Антагонисты альфа-адренорецепторов и диуретики
+C02LF c02lf-proizvodnye-guanidina-v-kombinatcii-s-diuretikami Производные гуанидина в комбинации с диуретиками
+C02LG c02lg-proizvodnye-gidrazinoftalazina-v-kombinatcii-s-diuretikami Производные гидразинофталазина в комбинации с диуретиками
+C02LK c02lk-alkaloidy-iscliuchaiushchie-raufolfiiu-v-sochetanii-s-diuretikami Алкалоиды, исключающие рауфольфию, в сочетании с диуретиками
+C02LL c02ll-ingibitory-mao-i-diuretiki Ингибиторы МАО и диуретики
+C02LN c02ln-antagonisty-serotonina-i-diuretiki Антагонисты серотонина и диуретики
+C02LX c02lx-drugie-gipotenzivnye-sredstva-i-diuretiki Другие гипотензивные средства и диуретики
+C02LA01 c02la01-rezerpin-v-kombinatcii-s-diuretikami Резерпин в комбинации с диуретиками
+C02LA02 c02la02-restcinnamin-v-kombinatcii-s-diuretikami Ресциннамин в комбинации с диуретиками
+C02LA03 c02la03-dezerpidin-v-kombinatcii-s-diuretikami Дезерпидин в комбинации с диуретиками
+C02LA04 c02la04-metoserpidin-v-kombinatcii-s-diuretikami Метосерпидин в комбинации с диуретиками
+C02LA07 c02la07-bietazerpin-v-kombinatcii-s-diuretikami Биетазерпин в комбинации с диуретиками
+C02LA08 c02la08-rauvolfii-alkaloidov-summa-v-kombinatcii-s-diuretikami Раувольфии алкалоидов сумма в комбинации с диуретиками
+C02LA09 c02la09-sirosingopin-v-kombinatcii-s-diuretikami Сиросингопин в комбинации с диуретиками
+C02LA50 c02la50-rauvolfii-alkaloidov-kombinatciia-v-sochetanii-s-diuretikami Раувольфии алкалоидов комбинация в сочетании с диуретиками
+C02LA51 c02la51-rezerpin-i-diuretiki-v-kombinatcii-s-drugimi-preparatami Резерпин и диуретики в комбинации с другими препаратами
+C02LA52 c02la52-restcinnamin-i-diuretiki-v-kombinatcii-s-drugimi-preparatami Ресциннамин и диуретики в комбинации с другими препаратами
+C02LA71 c02la71-rezerpin-i-diuretiki-v-kombinatcii-s-psiholeptikami Резерпин и диуретики в комбинации с психолептиками
+C02LB01 c02lb01-metildopa-levovrashchaiushchaiasia-v-kombinatcii-s-diuretikami Метилдопа (левовращающаяся) в комбинации с диуретиками
+C02LC01 c02lc01-clonidin-v-kombinatcii-s-diuretikami Клонидин в комбинации с диуретиками
+C02LC05 c02lc05-moksonidin-v-kombinatcii-s-diuretikami Моксонидин в комбинации с диуретиками
+C02LC51 c02lc51-clonidin-i-diuretiki-v-kombinatcii-s-drugimi-preparatami Клонидин и диуретики в комбинации с другими препаратами
+C02LE01 c02le01-prazozin-v-kombinatcii-s-diuretikami Празозин в комбинации с диуретиками
+C02LF01 c02lf01-guanetidin-v-kombinatcii-s-diuretikami Гуанетидин в комбинации с диуретиками
+C02LG01 c02lg01-digidralazin-v-kombinatcii-s-diuretikami Дигидралазин в комбинации с диуретиками
+C02LG02 c02lg02-gidralazin-v-kombinatcii-s-diuretikami Гидралазин в комбинации с диуретиками
+C02LG03 c02lg03-pikodralazin-v-kombinatcii-s-diuretikami Пикодралазин в комбинации с диуретиками
+C02LG51 c02lg51-digidralazin-i-diuretiki-v-kombinatcii-s-drugimi-preparatami Дигидралазин и диуретики в комбинации с другими препаратами
+C02LG73 c02lg73-pikodralazin-i-diuretiki-v-kombinatcii-s-psiholeptikami Пикодралазин и диуретики в комбинации с психолептиками
+C02LK01 c02lk01-veratrum-i-diuretiki Вератрум и диуретики
+C02LL01 c02ll01-pargilin-i-diuretiki Паргилин и диуретики
+C02LX01 c02lx01-pinatcidil-i-diuretiki Пинацидил и диуретики

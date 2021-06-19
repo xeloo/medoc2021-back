@@ -1,0 +1,43 @@
+D10A d10a-preparaty-dlia-lecheniia-ugrevoi-sypi-mestnogo-primeneniia Препараты для лечения угревой сыпи местного применения
+D10B d10b-preparaty-dlia-sistemnogo-lecheniia-ugrevoi-sypi Препараты для системного лечения угревой сыпи
+D10AA d10aa-kortikosteroidy-v-kombinirovannykh-preparatakh-dlia-lecheniia-ugrevoi-sypi Кортикостероиды в комбинированных препаратах для лечения угревой сыпи
+D10AB d10ab-preparaty-soderzhashchie-seru Препараты, содержащие серу
+D10AD d10ad-retinoidy-dlia-mestnogo-lecheniia-ugrevoi-sypi Ретиноиды для местного лечения угревой сыпи
+D10AE d10ae-peroksidy Пероксиды
+D10AF d10af-protivomikrobnye-preparaty-dlia-lecheniia-ugrevoi-sypi Противомикробные препараты для лечения угревой сыпи
+D10AX d10ax-prochie-preparaty-dlia-mestnogo-lecheniia-ugrevoi-sypi Прочие препараты для местного лечения угревой сыпи
+D10AA01 d10aa01-fluorometolon Флуорометолон
+D10AA02 d10aa02-metilprednizolon Метилпреднизолон
+D10AA03 d10aa03-deksametazon Дексаметазон
+D10AB01 d10ab01-bitionol Битионол
+D10AB02 d10ab02-sera Сера
+D10AB03 d10ab03-tioksolon Тиоксолон
+D10AB05 d10ab05-mezulfen Мезульфен
+D10AD01 d10ad01-tretinoin Третиноин
+D10AD02 d10ad02-retinol Ретинол
+D10AD03 d10ad03-adapalen Адапален
+D10AD04 d10ad04-izotretinoin Изотретиноин
+D10AD05 d10ad05-motretinid Мотретинид
+D10AD51 d10ad51-tretinoin-v-kombinatcii-s-drugimi-preparatami Третиноин в комбинации с другими препаратами
+D10AD53 d10ad53-adapalen-v-kombinatcii-s-drugimi-preparatami Адапален в комбинации с другими препаратами
+D10AD54 d10ad54-izotretinoin-v-kombinatcii-s-drugimi-preparatami Изотретиноин в комбинации с другими препаратами
+D10AE01 d10ae01-benzoila-peroksid Бензоила пероксид
+D10AE51 d10ae51-benzoila-peroksid-v-kombinatcii-s-drugimi-preparatami Бензоила пероксид в комбинации с другими препаратами
+D10AF01 d10af01-clindamitcin Клиндамицин
+D10AF02 d10af02-eritromitcin Эритромицин
+D10AF03 d10af03-khloramfenikol Хлорамфеникол
+D10AF04 d10af04-meclotciclin Меклоциклин
+D10AF05 d10af05-nadifloksatcin Надифлоксацин
+D10AF06 d10af06-sulfatcetamid Сульфацетамид
+D10AF51 d10af51-clindamitcin-v-kombinatcii-s-drugimi-preparatami Клиндамицин в комбинации с другими препаратами
+D10AF52 d10af52-eritromitcin-v-kombinatcii-s-drugimi-preparatami Эритромицин в комбинации с другими препаратами
+D10AX01 d10ax01-khlorid-aliuminiia Хлорид алюминия
+D10AX02 d10ax02-rezortcinola-monoatcetat Резорцинола моноацетат
+D10AX03 d10ax03-azelanovaia-kislota Азелановая кислота
+D10AX04 d10ax04-oksid-aliuminiia Оксид алюминия
+D10AX05 d10ax05-dapson Дапсон
+D10AX30 d10ax30-prochie-preparaty-dlia-mestnogo-lecheniia-ugrevoi-sypi-v-razlichnykh-kombinatciiakh Прочие препараты для местного лечения угревой сыпи в различных комбинациях
+D10BA d10ba-retinoidy-dlia-sistemnogo-lecheniia-ugrevoi-sypi Ретиноиды для системного лечения угревой сыпи
+D10BX d10bx-prochie-preparaty-dlia-sistemnogo-lecheniia-ugrevoi-sypi Прочие препараты для системного лечения угревой сыпи
+D10BA01 d10ba01-izotretinoin Изотретиноин
+D10BX01 d10bx01-ikhtammol Ихтаммол

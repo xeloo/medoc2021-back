@@ -1,0 +1,43 @@
+A01A a01a-stomatologicheskie-preparaty Стоматологические препараты
+A01AA a01aa-preparaty-dlia-profilaktiki-kariesa Препараты для профилактики кариеса
+A01AB a01ab-protivomikrobnye-preparaty-dlia-mestnogo-lecheniia-zabolevanii-polosti-rta Противомикробные препараты для местного лечения заболеваний полости рта
+A01AC a01ac-gliukokortikosteroidy-dlia-mestnogo-lecheniia-zabolevanii-polosti-rta Глюкокортикостероиды для местного лечения заболеваний полости рта
+A01AD a01ad-prochie-preparaty-dlia-lecheniia-zabolevanii-polosti-rta Прочие препараты для лечения заболеваний полости рта
+A01AA01 a01aa01-natriia-ftorid Натрия фторид
+A01AA02 a01aa02-natriia-monoftorfosfat Натрия монофторфосфат
+A01AA03 a01aa03-olaflur Олафлур
+A01AA04 a01aa04-olova-ftorid Олова фторид
+A01AA30 a01aa30-kombinirovannye-preparaty Комбинированные препараты
+A01AA51 a01aa51-natriia-ftorid-v-kombinatciiakh-s-drugimi-preparatami Натрия фторид в комбинациях с другими препаратами
+A01AB02 a01ab02-vodoroda-peroksid Водорода пероксид
+A01AB03 a01ab03-khlorgeksidin Хлоргексидин
+A01AB04 a01ab04-amfoteritcin-v Амфотерицин В
+A01AB05 a01ab05-polinoksilin Полиноксилин
+A01AB06 a01ab06-domifena-bromid Домифена бромид
+A01AB07 a01ab07-oksihinolin Оксихинолин
+A01AB08 a01ab08-neomitcin Неомицин
+A01AB09 a01ab09-mikonazol Миконазол
+A01AB10 a01ab10-natamitcin Натамицин
+A01AB11 a01ab11-prochie Прочие
+A01AB12 a01ab12-geksetidin Гексэтидин
+A01AB13 a01ab13-tetratciclin Тетрациклин
+A01AB14 a01ab14-benzoksoniia-khlorid Бензоксония хлорид
+A01AB15 a01ab15-tibezoniia-iodid Тибезония йодид
+A01AB16 a01ab16-mepartritcin Мепартрицин
+A01AB17 a01ab17-metronidazol Метронидазол
+A01AB18 a01ab18-clotrimazol Клотримазол
+A01AB19 a01ab19-natriia-perborat Натрия перборат
+A01AB21 a01ab21-khlortetratciclin Хлортетрациклин
+A01AB22 a01ab22-doksitciclin Доксициклин
+A01AB23 a01ab23-minotciclin Миноциклин
+A01AC01 a01ac01-triamtcinolon Триамцинолон
+A01AC02 a01ac02-deksametazon Дексаметазон
+A01AC03 a01ac03-gidrokortizon Гидрокортизон
+A01AC54 a01ac54-prednizolon-v-kombinatciiakh-s-drugimi-preparatami Преднизолон в комбинациях с другими препаратами
+A01AD01 a01ad01-epinefrin Эпинефрин
+A01AD02 a01ad02-benzidamin Бензидамин
+A01AD05 a01ad05-atcetilsalitcilovaia-kislota Ацетилсалициловая кислота
+A01AD06 a01ad06-adrenalon Адреналон
+A01AD07 a01ad07-amleksanoks Амлексанокс
+A01AD08 a01ad08-bekaplermin Бекаплермин
+A01AD11 a01ad11-prochie-preparaty-dlia-lecheniia-zabolevanii-polosti-rta Прочие препараты для лечения заболеваний полости рта

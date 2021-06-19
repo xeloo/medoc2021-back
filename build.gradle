@@ -1,0 +1,50 @@
+plugins {
+    id 'application'
+}
+
+group 'xak.med2021'
+version '1.0'
+
+sourceCompatibility = 14
+targetCompatibility = 14
+
+mainClassName = 'xak.med2021.Main'
+applicationName = 'med-2021'
+
+sourceSets {
+    main {
+        java {
+            srcDir 'src'
+        }
+    }
+    test {
+        java {
+            srcDir 'test'
+        }
+    }
+}
+
+distributions {
+    main {
+        contents {
+            into('web') {
+                from 'web/dist'
+            }
+            into('data') {
+                from 'data'
+            }
+            duplicatesStrategy = DuplicatesStrategy.EXCLUDE
+        }
+    }
+}
+
+repositories {
+    jcenter()
+}
+
+dependencies {
+    implementation 'org.eclipse.jetty:jetty-server:9.4.38.v20210224'
+    implementation 'org.eclipse.jetty:jetty-servlet:9.4.38.v20210224'
+    implementation 'org.eclipse.jetty.websocket:websocket-server:9.4.38.v20210224'
+}
+

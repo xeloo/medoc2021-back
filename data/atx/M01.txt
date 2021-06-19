@@ -1,0 +1,106 @@
+M01A m01a-nesteroidnye-protivovospalitelnye-i-protivorevmaticheskie-preparaty Нестероидные противовоспалительные и противоревматические препараты
+M01B m01b-protivovospalitelnye-i-protivorevmaticheskie-preparaty-v-kombinatcii Противовоспалительные и противоревматические препараты в комбинации
+M01C m01c-bazisnye-protivorevmaticheskie-preparaty Базисные противоревматические препараты
+M01AA m01aa-butilpirazolidony Бутилпиразолидоны
+M01AB m01ab-proizvodnye-uksusnoi-kisloty-i-rodstvennye-soedineniia Производные уксусной кислоты и родственные соединения
+M01AC m01ac-oksikamy Оксикамы
+M01AE m01ae-proizvodnye-propionovoi-kisloty Производные пропионовой кислоты
+M01AG m01ag-fenamaty Фенаматы
+M01AH m01ah-koksiby Коксибы
+M01AX m01ax-prochie-nesteroidnye-protivovospalitelnye-i-protivorevmaticheskie-preparaty Прочие нестероидные противовоспалительные и противоревматические препараты
+M01AA01 m01aa01-fenilbutazon Фенилбутазон
+M01AA02 m01aa02-mofebutazon Мофебутазон
+M01AA03 m01aa03-oksifenbutazon Оксифенбутазон
+M01AA05 m01aa05-clofezon Клофезон
+M01AA06 m01aa06-kebuzon Кебузон
+M01AB01 m01ab01-indometatcin Индометацин
+M01AB02 m01ab02-sulindak Сулиндак
+M01AB03 m01ab03-tolmetin Толметин
+M01AB04 m01ab04-zomepirak Зомепирак
+M01AB05 m01ab05-diclofenak Диклофенак
+M01AB06 m01ab06-alclofenak Алклофенак
+M01AB07 m01ab07-bumadizon Бумадизон
+M01AB08 m01ab08-etodolak Этодолак
+M01AB09 m01ab09-lonazolak Лоназолак
+M01AB10 m01ab10-fentiazak Фентиазак
+M01AB11 m01ab11-atcemetatcin Ацеметацин
+M01AB12 m01ab12-difenpiramid Дифенпирамид
+M01AB13 m01ab13-oksametatcin Оксаметацин
+M01AB14 m01ab14-proglumetatcin Проглуметацин
+M01AB15 m01ab15-ketorolak Кеторолак
+M01AB16 m01ab16-atceclofenak Ацеклофенак
+M01AB17 m01ab17-bufeksamak Буфексамак
+M01AB51 m01ab51-indometatcin-v-kombinatcii-s-drugimi-preparatami Индометацин в комбинации с другими препаратами
+M01AB55 m01ab55-diclofenak-v-kombinatcii-s-drugimi-preparatami Диклофенак в комбинации с другими препаратами
+M01AC01 m01ac01-piroksikam Пироксикам
+M01AC02 m01ac02-tenoksikam Теноксикам
+M01AC04 m01ac04-droksikam Дроксикам
+M01AC05 m01ac05-lornoksikam Лорноксикам
+M01AC06 m01ac06-meloksikam Мелоксикам
+M01AC56 m01ac56-meloksikam-v-kombinatcii-s-drugimi-preparatami Мелоксикам в комбинации с другими препаратами
+M01AE01 m01ae01-ibuprofen Ибупрофен
+M01AE02 m01ae02-naproksen Напроксен
+M01AE03 m01ae03-ketoprofen Кетопрофен
+M01AE04 m01ae04-fenoprofen Фенопрофен
+M01AE05 m01ae05-fenbufen Фенбуфен
+M01AE06 m01ae06-benoksaprofen Беноксапрофен
+M01AE07 m01ae07-suprofen Супрофен
+M01AE08 m01ae08-pirprofen Пирпрофен
+M01AE09 m01ae09-flurbiprofen Флурбипрофен
+M01AE10 m01ae10-indoprofen Индопрофен
+M01AE11 m01ae11-tiaprofenovaia-kislota Тиапрофеновая кислота
+M01AE12 m01ae12-oksaprozin Оксапрозин
+M01AE13 m01ae13-ibuproksam Ибупроксам
+M01AE14 m01ae14-deksibuprofen Дексибупрофен
+M01AE15 m01ae15-flunoksaprofen Флуноксапрофен
+M01AE16 m01ae16-alminoprofen Алминопрофен
+M01AE17 m01ae17-deksketoprofen Декскетопрофен
+M01AE18 m01ae18-naprokstcinod Напроксцинод
+M01AE51 m01ae51-ibuprofen-v-kombinatcii-s-drugimi-preparatami Ибупрофен в комбинации с другими препаратами
+M01AE52 m01ae52-naproksen-i-ezomeprazol Напроксен и эзомепразол
+M01AE53 m01ae53-ketoprofen-v-kombinatcii-s-drugimi-preparatami Кетопрофен в комбинации с другими препаратами
+M01AE56 m01ae56-naproksen-i-mizoprostol Напроксен и мизопростол
+M01AG01 m01ag01-mefenamovaia-kislota Мефенамовая кислота
+M01AG02 m01ag02-tolfenamovaia-kislota Толфенамовая кислота
+M01AG03 m01ag03-flufenamovaia-kislota Флуфенамовая кислота
+M01AG04 m01ag04-meclofenamovaia-kislota Меклофенамовая кислота
+M01AH01 m01ah01-tcelekoksib Целекоксиб
+M01AH02 m01ah02-rofekoksib Рофекоксиб
+M01AH03 m01ah03-valdekoksib Валдекоксиб
+M01AH04 m01ah04-parekoksib Парекоксиб
+M01AH05 m01ah05-etorikoksib Эторикоксиб
+M01AH06 m01ah06-lumirakoksib Лумиракоксиб
+M01AX01 m01ax01-nabumeton Набуметон
+M01AX02 m01ax02-niflumovaia-kislota Нифлумовая кислота
+M01AX04 m01ax04-azapropazon Азапропазон
+M01AX05 m01ax05-gliukozamin Глюкозамин
+M01AX07 m01ax07-benzidamin Бензидамин
+M01AX12 m01ax12-glikozaminoglikan-polisulfat Гликозаминогликан полисульфат
+M01AX13 m01ax13-prokvazon Проквазон
+M01AX14 m01ax14-orgotein Орготеин
+M01AX17 m01ax17-nimesulid Нимесулид
+M01AX18 m01ax18-feprazon Фепразон
+M01AX21 m01ax21-diatcerein Диацереин
+M01AX22 m01ax22-morniflumat Морнифлумат
+M01AX23 m01ax23-tenidap Тенидап
+M01AX24 m01ax24-oksatceprol Оксацепрол
+M01AX25 m01ax25-hondroitina-sulfat Хондроитина сульфат
+M01AX26 m01ax26-neomyliaemye-soedineniia-masel-avokado-i-soi Неомыляемые соединения масел авокадо и сои
+M01AX68 m01ax68-feprazon-v-kombinatcii-s-drugimi-preparatami Фепразон в комбинации с другими препаратами
+M01BA m01ba-protivovospalitelnye-i-protivorevmaticheskie-preparaty-v-kombinatcii-s-kortikosteroidami Противовоспалительные и противоревматические препараты в комбинации с кортикостероидами
+M01BX m01bx-prochie-kombinatcii-protivovospalitelnykh-protivorevmaticheskikh-sredstv-s-drugimi-preparatami Прочие комбинации противовоспалительных/противоревматических средств с другими препаратами
+M01BA01 m01ba01-fenilbutazon-v-kombinatcii-s-kortikosteroidami Фенилбутазон в комбинации с кортикостероидами
+M01BA02 m01ba02-dipirotcetil-v-kombinatcii-s-kortikosteroidami Дипироцетил в комбинации с кортикостероидами
+M01BA03 m01ba03-atcetilsalitcilovaia-kislota-v-kombinatcii-s-kortikosteroidami Ацетилсалициловая кислота в комбинации с кортикостероидами
+M01CA m01ca-hinoliny Хинолины
+M01CB m01cb-preparaty-zolota Препараты золота
+M01CC m01cc-penitcillamin-i-podobnye-preparaty Пеницилламин и подобные препараты
+M01CX m01cx-drugie-bazisnye-protivovospalitelnye-preparaty Другие базисные противовоспалительные препараты
+M01CA03 m01ca03-oksitcinhofen Оксицинхофен
+M01CB01 m01cb01-natriia-aurotiomalat Натрия ауротиомалат
+M01CB02 m01cb02-natriia-aurotiosulfat Натрия ауротиосульфат
+M01CB03 m01cb03-auranofin Ауранофин
+M01CB04 m01cb04-aurotiogliukoza Ауротиоглюкоза
+M01CB05 m01cb05-aurotioprol Ауротиопрол
+M01CC01 m01cc01-penitcillamin Пеницилламин
+M01CC02 m01cc02-butcillamin Буцилламин

@@ -1,0 +1,41 @@
+P03A p03a-preparaty-dlia-unichtozheniia-ektoparazitov-v-t-ch-chesotochnogo-cleshcha Препараты для уничтожения эктопаразитов (в т.ч. чесоточного клеща)
+P03B p03b-insektitcidy-i-repellenty Инсектициды и репелленты
+P03AA p03aa-serosoderzhashchie-soedineniia Серосодержащие соединения
+P03AB p03ab-khlorsoderzhashchie-soedineniia Хлорсодержащие соединения
+P03AC p03ac-piretriny-v-t-ch-sinteticheskie-soedineniia Пиретрины (в т.ч. синтетические соединения)
+P03AX p03ax-prochie-preparaty-dlia-unichtozheniia-ektoparazitov-vcliuchaia-chesotochnogo-cleshcha Прочие препараты для уничтожения эктопаразитов (включая чесоточного клеща)
+P03AA01 p03aa01-diksantogen Диксантоген
+P03AA02 p03aa02-polisulfid-kaliia Полисульфид калия
+P03AA03 p03aa03-mesulfen Месульфен
+P03AA04 p03aa04-disulfiram Дисульфирам
+P03AA05 p03aa05-tiram Тирам
+P03AA54 p03aa54-disulfiram-v-kombinatcii-s-drugimi-preparatami Дисульфирам в комбинации с другими препаратами
+P03AB01 p03ab01-clofenotan Клофенотан
+P03AB02 p03ab02-lindan Линдан
+P03AB51 p03ab51-clofenotan-v-kombinatcii-s-drugimi-preparatami Клофенотан в комбинации с другими препаратами
+P03AC01 p03ac01-piretrum Пиретрум
+P03AC02 p03ac02-bioalletrin Биоаллетрин
+P03AC03 p03ac03-fenotrin Фенотрин
+P03AC04 p03ac04-permetrin Перметрин
+P03AC51 p03ac51-piretrum-v-kombinatcii-s-drugimi-preparatami Пиретрум в комбинации с другими препаратами
+P03AC52 p03ac52-bioalletrin-v-kombinatcii-s-drugimi-preparatami Биоаллетрин в комбинации с другими препаратами
+P03AC53 p03ac53-fenotrin-v-kombinatcii-s-drugimi-preparatami Фенотрин в комбинации с другими препаратами
+P03AC54 p03ac54-permetrin-v-kombinatcii-s-drugimi-preparatami Перметрин в комбинации с другими препаратами
+P03AX01 p03ax01-benzilbenzoat Бензилбензоат
+P03AX02 p03ax02-medi-oleinat Меди олеинат
+P03AX03 p03ax03-malation Малатион
+P03AX04 p03ax04-kvassiia Квассия
+P03AX05 p03ax05-dimetikon Диметикон
+P03AX06 p03ax06-benzilovyi-spirt Бензиловый спирт
+P03BA p03ba-piretriny Пиретрины
+P03BX p03bx-drugie-insektitcidy-i-repellenty Другие инсектициды и репелленты
+P03BA01 p03ba01-tciflutrin Цифлутрин
+P03BA02 p03ba02-tcipermetrin Циперметрин
+P03BA03 p03ba03-dekametrin Декаметрин
+P03BA04 p03ba04-tetrametrin Тетраметрин
+P03BX01 p03bx01-dietiltoluamid Диэтилтолуамид
+P03BX02 p03bx02-dimetilftalat Диметилфталат
+P03BX03 p03bx03-dibutilftalat Дибутилфталат
+P03BX04 p03bx04-dibutilsuktcinat Дибутилсукцинат
+P03BX05 p03bx05-dimetilkarbat Диметилкарбат
+P03BX06 p03bx06-etogeksadiol Этогексадиол

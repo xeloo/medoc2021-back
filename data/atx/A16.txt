@@ -1,0 +1,35 @@
+A16A a16a-prochie-preparaty-dlia-lecheniia-zabolevanii-zhkt-i-narusheniia-obmena-veshchestv Прочие препараты для лечения заболеваний ЖКТ и нарушения обмена веществ
+A16AA a16aa-aminokisloty-i-ikh-proizvodnye Аминокислоты и их производные
+A16AB a16ab-fermentnye-preparaty Ферментные препараты
+A16AX a16ax-razlichnye-prochie-preparaty-dlia-lecheniia-zabolevanii-zhkt-i-obmena-veshchestv Различные прочие препараты для лечения заболеваний ЖКТ и обмена веществ
+A16AA01 a16aa01-levokarnitin Левокарнитин
+A16AA02 a16aa02-ademetionin Адеметионин
+A16AA03 a16aa03-levoglutamid Левоглутамид
+A16AA04 a16aa04-merkaptamin Меркаптамин
+A16AA05 a16aa05-karglutamovaia-kislota Карглутамовая кислота
+A16AA06 a16aa06-betain-myozyme-algliukozidaza-alfa Бетаин Myozyme (алглюкозидаза альфа)
+A16AB01 a16ab01-alglutceraza Алглуцераза
+A16AB02 a16ab02-imigliutceraza Имиглюцераза
+A16AB03 a16ab03-agalsidaza-alfa Агалсидаза альфа
+A16AB04 a16ab04-agalsidaza-beta Агалсидаза бета
+A16AB05 a16ab05-laronidaza Ларонидаза
+A16AB06 a16ab06-sakrozidaza Сакрозидаза
+A16AB07 a16ab07-algliukozidaza-alfa-vimizim-elosulfaza-alfa Алглюкозидаза альфа Вимизим (элосульфаза альфа)
+A16AB08 a16ab08-galsulfaza Галсульфаза
+A16AB09 a16ab09-idursulfaza Идурсульфаза
+A16AB10 a16ab10-velagliutceraza-alfa Велаглюцераза альфа
+A16AB11 a16ab11-taligliutceraza-alfa Талиглюцераза альфа
+A16AB12 a16ab12-elosulfaza-alfa Элосульфаза альфа
+A16AB13 a16ab13-asfotaza-alfa Асфотаза альфа
+A16AB14 a16ab14-sebelipaza-alfa Себелипаза альфа
+A16AX01 a16ax01-tioktovaia-kislota Тиоктовая кислота
+A16AX02 a16ax02-anetola-trition Анетола тритион
+A16AX03 a16ax03-natriia-fenilfibrat Натрия фенилфибрат
+A16AX04 a16ax04-nitizinon Нитизинон
+A16AX05 a16ax05-tcinka-atcetat Цинка ацетат
+A16AX06 a16ax06-miglustat Миглустат
+A16AX07 a16ax07-sapropterin Сапроптерин
+A16AX08 a16ax08-teduglutid Тедуглутид
+A16AX09 a16ax09-glitcerola-fenilbutirat Глицерола фенилбутират
+A16AX10 a16ax10-eliglustat Элиглустат
+A16AX11 a16ax11-benzoat-natriia Бензоат натрия

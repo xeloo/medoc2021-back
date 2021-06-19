@@ -1,0 +1,19 @@
+A04A a04a-protivorvotnye-preparaty Противорвотные препараты
+A04AA a04aa-antagonisty-serotonina Антагонисты серотонина
+A04AD a04ad-prochie-protivorvotnye-preparaty Прочие противорвотные препараты
+A04AA01 a04aa01-ondansetron Ондансетрон
+A04AA02 a04aa02-granizetron Гранизетрон
+A04AA03 a04aa03-tropisetron Трописетрон
+A04AA04 a04aa04-dolazetron Долазетрон
+A04AA05 a04aa05-palonosetron Палоносетрон
+A04AA55 a04aa55-palonosetron-v-kombinatcii-s-drugimi-preparatami Палоносетрон в комбинации с другими препаратами
+A04AD01 a04ad01-skopolamin Скополамин
+A04AD02 a04ad02-tceriia-oksalat Церия оксалат
+A04AD04 a04ad04-khlorobutanol Хлоробутанол
+A04AD05 a04ad05-metopimazin Метопимазин
+A04AD10 a04ad10-dronabinol Дронабинол
+A04AD11 a04ad11-nabilon Набилон
+A04AD12 a04ad12-aprepitant Апрепитант
+A04AD13 a04ad13-kasopitant Касопитант
+A04AD51 a04ad51-skopolamin-v-kombinatcii-s-drugimi-preparatami Скополамин в комбинации с другими препаратами
+A04AD54 a04ad54-khlorobutanol-v-kombinatcii-s-drugimi-preparatami Хлоробутанол в комбинации с другими препаратами

@@ -1,0 +1,70 @@
+G01A g01a-antiseptiki-i-protivomikrobnye-preparaty-dlia-lecheniia-ginekologicheskikh-zabolevanii-iscliuchaia-kombinatcii-s-kortikosteroidami Антисептики и противомикробные препараты для лечения гинекологических заболеваний (исключая комбинации с кортикостероидами)
+G01B g01b-antiseptiki-i-protivomikrobnye-preparaty-dlia-lecheniia-ginekologicheskikh-zabolevanii-v-kombinatcii-s-kortikosteroidami Антисептики и противомикробные препараты для лечения гинекологических заболеваний в комбинации с кортикостероидами
+G01AA g01aa-antibiotiki Антибиотики
+G01AB g01ab-soedineniia-myshiaka Соединения мышьяка
+G01AC g01ac-proizvodnye-hinolina Производные хинолина
+G01AD g01ad-organicheskie-kisloty Органические кислоты
+G01AE g01ae-sulfanilamidy Сульфаниламиды
+G01AF g01af-proizvodnye-imidazola Производные имидазола
+G01AG g01ag-proizvodnye-triazola Производные триазола
+G01AX g01ax-prochie-antiseptiki-lecheniya-ginekologicheskih-zabolevaniy Прочие антисептики и противомикробные препараты для лечения гинекологических заболеваний
+G01AA01 g01aa01-nistatin Нистатин
+G01AA02 g01aa02-natamitcin Натамицин
+G01AA03 g01aa03-amfoteritcin-v Амфотерицин В
+G01AA04 g01aa04-kanditcidin Кандицидин
+G01AA05 g01aa05-khloramfenikol Хлорамфеникол
+G01AA06 g01aa06-gahimitcin Гахимицин
+G01AA07 g01aa07-oksitetratciclin Окситетрациклин
+G01AA08 g01aa08-karfetcillin Карфециллин
+G01AA09 g01aa09-mepartritcin Мепартрицин
+G01AA10 g01aa10-clindamitcin Клиндамицин
+G01AA11 g01aa11-pentamitcin Пентамицин
+G01AA51 g01aa51-nistatin-v-kombinatcii-s-drugimi-preparatami Нистатин в комбинации с другими препаратами
+G01AB01 g01ab01-atcetarsol Ацетарсол
+G01AC01 g01ac01-diiodogidroksihinolin Дийодогидроксихинолин
+G01AC02 g01ac02-cliohinol Клиохинол
+G01AC03 g01ac03-khlorhinaldol Хлорхинальдол
+G01AC05 g01ac05-dekvaliniia-khlorid Деквалиния хлорид
+G01AC06 g01ac06-broksihinolin Броксихинолин
+G01AC30 g01ac30-oksihinolin Оксихинолин
+G01AD01 g01ad01-molochnaia-kislota Молочная кислота
+G01AD02 g01ad02-uksusnaia-kislota Уксусная кислота
+G01AD03 g01ad03-askorbinovaia-kislota Аскорбиновая кислота
+G01AE01 g01ae01-sulfatolamid Сульфатоламид
+G01AE10 g01ae10-kombinatcii-sulfanilamidov Комбинации сульфаниламидов
+G01AF01 g01af01-metronidazol Метронидазол
+G01AF02 g01af02-clotrimazol Клотримазол
+G01AF04 g01af04-mikonazol Миконазол
+G01AF05 g01af05-ekonazol Эконазол
+G01AF06 g01af06-ornidazol Орнидазол
+G01AF07 g01af07-izokonazol Изоконазол
+G01AF08 g01af08-tiokonazol Тиоконазол
+G01AF11 g01af11-ketokonazol Кетоконазол
+G01AF12 g01af12-fentikonazol Фентиконазол
+G01AF13 g01af13-azanidazol Азанидазол
+G01AF14 g01af14-propenidazol Пропенидазол
+G01AF15 g01af15-butokonazol Бутоконазол
+G01AF16 g01af16-omokonazol Омоконазол
+G01AF17 g01af17-oksikonazol Оксиконазол
+G01AF18 g01af18-flutrimazol Флутримазол
+G01AF19 g01af19-sertakonazol Сертаконазол
+G01AF20 g01af20-kombinatcii-proizvodnykh-imidazola Комбинации производных имидазола
+G01AG02 g01ag02-terkonazol Терконазол
+G01AX01 g01ax01-claudantoin Клодантоин
+G01AX02 g01ax02-inozin Инозин
+G01AX03 g01ax03-polikrezulen Поликрезулен
+G01AX05 g01ax05-nifuratel Нифурател
+G01AX06 g01ax06-furazolidon Фуразолидон
+G01AX09 g01ax09-metilrozanilin Метилрозанилин
+G01AX11 g01ax11-povidon-iod Повидон-йод
+G01AX12 g01ax12-tciclopiroks Циклопирокс
+G01AX13 g01ax13-protiofat Протиофат
+G01AX14 g01ax14-laktobatcilly Лактобациллы
+G01AX15 g01ax15-medi-usninat Меди уснинат
+G01AX16 g01ax16-geksetidin Гексэтидин
+G01AX66 g01ax66-oktenidin-v-kombinatcii-s-drugimi-preparatami Октенидин в комбинации с другими препаратами
+G01BA g01ba-antibiotiki-i-kortikosteroidy Антибиотики и кортикостероиды
+G01BC g01bc-proizvodnye-hinolina-i-kortikosteroidy Производные хинолина и кортикостероиды
+G01BD g01bd-antiseptiki-i-kortikosteroidy Антисептики и кортикостероиды
+G01BE g01be-sulfanilamidy-i-kortikosteroidy Сульфаниламиды и кортикостероиды
+G01BF g01bf-proizvodnye-imidazola-i-kortikosteroidy Производные имидазола и кортикостероиды

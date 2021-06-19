@@ -1,0 +1,116 @@
+A03A a03a-preparaty-dlia-lecheniia-funktcionalnykh-rasstroistv-kishechnika Препараты для лечения функциональных расстройств кишечника
+A03B a03b-belladonna-i-eyo-proizvodnye Белладонна и её производные
+A03C a03c-spazmolitiki-v-kombinatcii-s-psihotropnymi-preparatami Спазмолитики в комбинации с психотропными препаратами
+A03D a03d-spazmolitiki-v-kombinatcii-s-analgetikami Спазмолитики в комбинации с анальгетиками
+A03E a03e-spazmolitiki-i-holinoblokatory-v-kombinatcii-s-drugimi-preparatami Спазмолитики и холиноблокаторы в комбинации с другими препаратами
+A03F a03f-stimuliatory-motoriki-zhkt Стимуляторы моторики ЖКТ
+A03AA a03aa-sinteticheskie-holinoblokatory-efiry-s-tretichnoi-aminogruppoi Синтетические холиноблокаторы — эфиры с третичной аминогруппой
+A03AB a03ab-sinteticheskie-holinoblokatory-chetvertichnye-ammonievye-soedineniia Синтетические холиноблокаторы — четвертичные аммониевые соединения
+A03AC a03ac-sinteticheskie-holinoblokatory-amidy-s-tretichnoi-aminogruppoi-papaverin Синтетические холиноблокаторы — амиды с третичной аминогруппой папаверин
+A03AD a03ad-papaverin-i-ego-proizvodnye Папаверин и его производные
+A03AE a03ae-preparaty-deistvuiushchie-na-serotoninovye-retceptory Препараты, действующие на серотониновые рецепторы
+A03AX a03ax-drugie-preparaty-dlia-lecheniia-funktcionalnykh-rasstroistv-kishechnika Другие препараты для лечения функциональных расстройств кишечника
+A03AA01 a03aa01-oksifentciclimin Оксифенциклимин
+A03AA03 a03aa03-kamilofin Камилофин
+A03AA04 a03aa04-mebeverin Мебеверин
+A03AA05 a03aa05-trimebutin Тримебутин
+A03AA06 a03aa06-rotciverin Роциверин
+A03AA07 a03aa07-ditcicloverin Дицикловерин
+A03AA08 a03aa08-digeksiverin Дигексиверин
+A03AA09 a03aa09-difemerin Дифемерин
+A03AA30 a03aa30-piperidolat Пиперидолат
+A03AB01 a03ab01-benzilon Бензилон
+A03AB02 a03ab02-glikopirronii Гликопирроний
+A03AB03 a03ab03-oksifenonii Оксифеноний
+A03AB04 a03ab04-pentienat-spazmomen-otiloniia-bromid Пентиенат Спазмомен (отилония бромид)
+A03AB05 a03ab05-propantelin Пропантелин
+A03AB06 a03ab06-otiloniia-bromid Отилония бромид
+A03AB07 a03ab07-metantelin Метантелин
+A03AB08 a03ab08-tridigeksetil Тридигексетил
+A03AB09 a03ab09-izopropamid Изопропамид
+A03AB10 a03ab10-geksotciclii Гексоциклий
+A03AB11 a03ab11-poldin Полдин
+A03AB12 a03ab12-mepenzolat Мепензолат
+A03AB13 a03ab13-bevonii Бевоний
+A03AB14 a03ab14-pipenzolat Пипензолат
+A03AB15 a03ab15-difenamil Дифенамил
+A03AB16 a03ab16-2-benzgidriloksietil-dietilmetilammoniia-iodid (2-бензгидрилоксиэтил) диэтилметиламмония йодид
+A03AB17 a03ab17-tiemoniia-iodid Тиемония йодид
+A03AB18 a03ab18-prifiniia-bromid Прифиния бромид
+A03AB19 a03ab19-tipemidiia-bromid Типемидия бромид
+A03AB21 a03ab21-fenpiverinii Фенпивериний
+A03AB53 a03ab53-oksifenonii-v-kombinatcii-s-drugimi-preparatami Оксифеноний в комбинации с другими препаратами
+A03AC02 a03ac02-dimetilaminopropionilfenotiazin Диметиламинопропионилфенотиазин
+A03AC04 a03ac04-nikofetamid Никофетамид
+A03AC05 a03ac05-tiropramid Тиропрамид
+A03AD01 a03ad01-papaverin Папаверин
+A03AD02 a03ad02-drotaverin-no-shpa-preparat-s-deistvuiushchim-veshchestvom-drotaverin Дротаверин но шпа - препарат с действующим веществом дротаверин
+A03AD30 a03ad30-moksaverin Моксаверин
+A03AE01 a03ae01-alosetron Алосетрон
+A03AE03 a03ae03-tcilansetron Цилансетрон
+A03AX01 a03ax01-fenpipran Фенпипран
+A03AX02 a03ax02-diizopromin Диизопромин
+A03AX03 a03ax03-khlorbenzoksamin Хлорбензоксамин
+A03AX04 a03ax04-pinaverii Пинаверий
+A03AX05 a03ax05-fenoverin Феноверин
+A03AX06 a03ax06-idanpramin Иданпрамин
+A03AX07 a03ax07-proksazol Проксазол
+A03AX08 a03ax08-alverin Альверин
+A03AX09 a03ax09-trepibuton Трепибутон
+A03AX10 a03ax10-izometepten Изометептен
+A03AX11 a03ax11-karoverin Кароверин
+A03AX12 a03ax12-floroglutcinol Флороглуцинол
+A03AX13 a03ax13-silikony Силиконы
+A03AX14 a03ax14-valetamat Валетамат
+A03AX30 a03ax30-trimetildifenilpropilamin Триметилдифенилпропиламин
+A03AX58 a03ax58-alverin-v-kombinatcii-s-drugimi-preparatami Альверин в комбинации с другими препаратами
+A03BA a03ba-alkaloidy-belladonny-tretichnye-aminy Алкалоиды белладонны, третичные амины
+A03BB a03bb-polusinteticheskie-alkaloidy-belladonny-chetvertichnye-ammonievye-soedineniia Полусинтетические алкалоиды белладонны, четвертичные аммониевые соединения
+A03BA01 a03ba01-atropin Атропин
+A03BA03 a03ba03-giostciamin Гиосциамин
+A03BA04 a03ba04-summa-alkalolidov-belladonny Сумма алкалолидов белладонны
+A03BB01 a03bb01-giostcina-butilbromid Гиосцина бутилбромид
+A03BB02 a03bb02-metilatropin Метилатропин
+A03BB03 a03bb03-metilskopolamin Метилскополамин
+A03BB04 a03bb04-fentonii Фентоний
+A03BB05 a03bb05-tcimetropiia-bromid Циметропия бромид
+A03CA a03ca-sinteticheskie-holinoblokatory-v-kombinatcii-s-psihotropnymi-preparatami Синтетические холиноблокаторы в комбинации с психотропными препаратами
+A03CB a03cb-belladonna-i-eyo-proizvodnye-v-kombinatcii-s-psihotropnymi-preparatami Белладонна и её производные в комбинации с психотропными препаратами
+A03CC a03cc-prochie-spazmolitiki-v-kombinatcii-s-psihotropnymi-preparatami Прочие спазмолитики в комбинации с психотропными препаратами
+A03CA01 a03ca01-izopropamid-v-kombinatcii-s-psihotropnymi-preparatami Изопропамид в комбинации с психотропными препаратами
+A03CA02 a03ca02-clinidii-v-kombinatcii-s-psihotropnymi-preparatami Клинидий в комбинации с психотропными препаратами
+A03CA03 a03ca03-oksifentciclimin-v-kombinatcii-s-psihotropnymi-preparatami Оксифенциклимин в комбинации с психотропными препаратами
+A03CA04 a03ca04-otiloniia-bromid-v-kombinatcii-s-psihotropnymi-preparatami Отилония бромид в комбинации с психотропными препаратами
+A03CA05 a03ca05-glikopirronii-v-kombinatcii-s-psihotropnymi-preparatami Гликопирроний в комбинации с психотропными препаратами
+A03CA06 a03ca06-bevonii-v-kombinatcii-s-psihotropnymi-preparatami Бевоний в комбинации с психотропными препаратами
+A03CA07 a03ca07-ambutonii-v-kombinatcii-s-psihotropnymi-preparatami Амбутоний в комбинации с психотропными препаратами
+A03CA08 a03ca08-difemanil-v-kombinatcii-s-psihotropnymi-preparatami Дифеманил в комбинации с психотропными препаратами
+A03CA09 a03ca09-pipenzolat-v-kombinatcii-s-psihotropnymi-preparatami Пипензолат в комбинации с психотропными препаратами
+A03CA30 a03ca30-emepronii-v-kombinatcii-s-psihotropnymi-preparatami Эмепроний в комбинации с психотропными препаратами
+A03CA34 a03ca34-propantelin-v-kombinatcii-s-psihotropnymi-preparatami Пропантелин в комбинации с психотропными препаратами
+A03CB01 a03cb01-metilskopolamin-v-kombinatcii-s-psihotropnymi-preparatami Метилскополамин в комбинации с психотропными препаратами
+A03CB02 a03cb02-summa-alkaloidov-belladonny-v-kombinatcii-s-psihotropnymi-preparatami Сумма алкалоидов белладонны в комбинации с психотропными препаратами
+A03CB03 a03cb03-atropin-v-kombinatcii-s-psihotropnymi-preparatami Атропин в комбинации с психотропными препаратами
+A03CB04 a03cb04-metilgomatropin-v-kombinatcii-s-psihotropnymi-preparatami Метилгоматропин в комбинации с психотропными препаратами
+A03CB31 a03cb31-giostciamin-v-kombinatcii-s-psihotropnymi-preparatami Гиосциамин в комбинации с психотропными препаратами
+A03DA a03da-sinteticheskie-holinoblokatory-v-kombinatcii-s-analgetikami Синтетические холиноблокаторы в комбинации с анальгетиками
+A03DB a03db-belladonna-i-eyo-proizvodnye-v-kombinatcii-s-analgetikami Белладонна и её производные в комбинации с анальгетиками
+A03DC a03dc-prochie-spazmolitiki-v-kombinatcii-s-analgetikami Прочие спазмолитики в комбинации с анальгетиками
+A03DA01 a03da01-tropenzilon-v-kombinatcii-s-analgetikami Тропензилон в комбинации с анальгетиками
+A03DA02 a03da02-pitofenon-v-kombinatcii-s-analgetikami Питофенон в комбинации с анальгетиками
+A03DA03 a03da03-bevonii-v-kombinatcii-s-analgetikami Бевоний в комбинации с анальгетиками
+A03DA04 a03da04-tciclonii-v-kombinatcii-s-analgetikami Циклоний в комбинации с анальгетиками
+A03DA05 a03da05-kamilofin-v-kombinatcii-s-analgetikami Камилофин в комбинации с анальгетиками
+A03DA06 a03da06-trospii-v-kombinatcii-s-analgetikami Троспий в комбинации с анальгетиками
+A03DA07 a03da07-tiemonium-iodid-v-kombinatcii-s-analgetikami Тиемониум йодид в комбинации с анальгетиками
+A03DB04 a03db04-butilskopolamin-v-kombinatcii-s-analgetikami Бутилскополамин в комбинации с анальгетиками
+A03EA a03ea-spazmolitiki-psihotropnye-preparaty-i-analgetiki-v-kombinatcii-tcerukal-metoclopramid Спазмолитики, психотропные препараты и анальгетики в комбинации Церукал - метоклопрамид
+A03ED a03ed-spazmolitiki-v-kombinatcii-s-prochimi-preparatami Спазмолитики в комбинации с прочими препаратами
+A03FA a03fa-stimuliatory-motoriki-zhkt Стимуляторы моторики ЖКТ
+A03FA01 a03fa01-metoclopramid Метоклопрамид
+A03FA02 a03fa02-tcizaprid Цизаприд
+A03FA03 a03fa03-domperidon Домперидон
+A03FA04 a03fa04-bromoprid Бромоприд
+A03FA05 a03fa05-alizaprid Ализаприд
+A03FA06 a03fa06-cleboprid Клебоприд
+A03FA07 a03fa07-itoprid Итоприд

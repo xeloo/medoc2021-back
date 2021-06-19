@@ -1,0 +1,263 @@
+S01A s01a-protivomikrobnye-preparat Противомикробные препарат
+S01B s01b-protivovospalitelnye-preparaty Противовоспалительные препараты
+S01C s01c-protivovospalitelnye-preparaty-v-kombinatcii-s-protivomikrobnymi-preparatami Противовоспалительные препараты в комбинации с противомикробными препаратами
+S01E s01e-protivoglaukomnye-preparaty-i-miotiki Противоглаукомные препараты и миотики
+S01F s01f-midriaticheskie-i-tcicloplegicheskie-sredstva Мидриатические и циклоплегические средства
+S01G s01g-dekongestanty-i-protivoallergicheskie-preparaty Деконгестанты и противоаллергические препараты
+S01H s01h-mestnye-anestetiki Местные анестетики
+S01J s01j-diagnosticheskie-preparaty Диагностические препараты
+S01K s01k-preparaty-ispolzuemye-pri-hirurgicheskikh-vmeshatelstvakh-v-oftalmologii Препараты, используемые при хирургических вмешательствах в офтальмологии
+S01L s01l-sredstva-primeniaemye-pri-zabolevaniiakh-sosudistoi-obolochki-glaza Средства, применяемые при заболеваниях сосудистой оболочки глаза
+S01X s01x-drugie-preparaty-dlia-lecheniia-zabolevanii-glaz Другие препараты для лечения заболеваний глаз
+S01AA s01aa-antibiotiki Антибиотики
+S01AB s01ab-sulfonamidy Сульфонамиды
+S01AD s01ad-protivovirusnye-preparaty Противовирусные препараты
+S01AE s01ae-ftorhinolony Фторхинолоны
+S01AX s01ax-prochie-protivomikrobnye-preparaty Прочие противомикробные препараты
+S01AA01 s01aa01-khloramfenikol Хлорамфеникол
+S01AA02 s01aa02-khlortetratciclin Хлортетрациклин
+S01AA03 s01aa03-neomitcin Неомицин
+S01AA04 s01aa04-oksitetratciclin Окситетрациклин
+S01AA05 s01aa05-tirotritcin Тиротрицин
+S01AA07 s01aa07-framitcetin Фрамицетин
+S01AA09 s01aa09-tetratciclin Тетрациклин
+S01AA10 s01aa10-natamitcin Натамицин
+S01AA11 s01aa11-gentamitcin Гентамицин
+S01AA12 s01aa12-tobramitcin Тобрамицин
+S01AA13 s01aa13-fuzidievaia-kislota Фузидиевая кислота
+S01AA14 s01aa14-benzilpenitcillin Бензилпенициллин
+S01AA15 s01aa15-digidrostreptomitcin Дигидрострептомицин
+S01AA16 s01aa16-rifamitcin Рифамицин
+S01AA17 s01aa17-eritromitcin Эритромицин
+S01AA18 s01aa18-polimiksin-b Полимиксин B
+S01AA19 s01aa19-ampitcillin Ампициллин
+S01AA20 s01aa20-antibotiki-v-kombinatcii-s-drugimi-preparatami Антиботики в комбинации с другими препаратами
+S01AA21 s01aa21-amikatcin Амикацин
+S01AA22 s01aa22-mikronomitcin Микрономицин
+S01AA23 s01aa23-netilmitcin Нетилмицин
+S01AA24 s01aa24-kanamitcin Канамицин
+S01AA25 s01aa25-azidamfenikol Азидамфеникол
+S01AA26 s01aa26-azitromitcin Азитромицин
+S01AA27 s01aa27-tcefuroksim Цефуроксим
+S01AA30 s01aa30-kombinatcii-razlichnykh-antibiotikov Комбинации различных антибиотиков
+S01AB01 s01ab01-sulfametizol Сульфаметизол
+S01AB02 s01ab02-sulfafurazol Сульфафуразол
+S01AB03 s01ab03-sulfadikramid Сульфадикрамид
+S01AB04 s01ab04-sulfatcetamid Сульфацетамид
+S01AB05 s01ab05-sulfafenazol Сульфафеназол
+S01AD01 s01ad01-idoksuridin Идоксуридин
+S01AD02 s01ad02-trifluridin Трифлуридин
+S01AD03 s01ad03-atciclovir Ацикловир
+S01AD05 s01ad05-interferon Интерферон
+S01AD06 s01ad06-vidarabin Видарабин
+S01AD07 s01ad07-famtciclovir Фамцикловир
+S01AD08 s01ad08-fomivirsen Фомивирсен
+S01AD09 s01ad09-gantciclovir Ганцикловир
+S01AE01 s01ae01-ofloksatcin Офлоксацин
+S01AE02 s01ae02-norfloksatcin Норфлоксацин
+S01AE03 s01ae03-tciprofloksatcin Ципрофлоксацин
+S01AE04 s01ae04-lomefloksatcin Ломефлоксацин
+S01AE05 s01ae05-levofloksatcin Левофлоксацин
+S01AE06 s01ae06-gatifloksatcin Гатифлоксацин
+S01AE08 s01ae08-bezifloksatcin Безифлоксацин
+S01AX01 s01ax01-preparaty-soderzhashchie-rtut Препараты, содержащие ртуть
+S01AX02 s01ax02-preparaty-soderzhashchie-serebro Препараты, содержащие серебро
+S01AX03 s01ax03-preparaty-soderzhashchie-tcink Препараты, содержащие цинк
+S01AX04 s01ax04-nitrofural Нитрофурал
+S01AX05 s01ax05-bibrokatol Биброкатол
+S01AX06 s01ax06-rezortcinol Резорцинол
+S01AX07 s01ax07-borat-natriia Борат натрия
+S01AX08 s01ax08-geksamidin Гексамидин
+S01AX09 s01ax09-khlorgeksidin Хлоргексидин
+S01AX10 s01ax10-propionat-natriia Пропионат натрия
+S01AX14 s01ax14-dibrompropamidin Дибромпропамидин
+S01AX15 s01ax15-propamidin Пропамидин
+S01AX16 s01ax16-picloksidin Пиклоксидин
+S01AX18 s01ax18-povidon-iod Повидон-йод
+S01BA s01ba-kortikosteroidy Кортикостероиды
+S01BB s01bb-kortikosteroidy-v-kombinatcii-s-midriatikami Кортикостероиды в комбинации с мидриатиками
+S01BC s01bc-nesteroidnye-protivovospalitelnye-preparaty-npvs Нестероидные противовоспалительные препараты (НПВС)
+S01BA01 s01ba01-deksametazon Дексаметазон
+S01BA02 s01ba02-gidrokortizon Гидрокортизон
+S01BA03 s01ba03-kortizon Кортизон
+S01BA04 s01ba04-prednizolon Преднизолон
+S01BA05 s01ba05-triamtcinolon Триамцинолон
+S01BA06 s01ba06-betametazon Бетаметазон
+S01BA07 s01ba07-fluorometolon Флуорометолон
+S01BA08 s01ba08-medrizon Медризон
+S01BA09 s01ba09-clobetazon Клобетазон
+S01BA10 s01ba10-alclometazon Алклометазон
+S01BA11 s01ba11-desonid Десонид
+S01BA12 s01ba12-formokortal Формокортал
+S01BA13 s01ba13-rimeksolon Римексолон
+S01BA14 s01ba14-loteprednol Лотепреднол
+S01BA15 s01ba15-fluotcinolona-atcetonid Флуоцинолона ацетонид
+S01BB01 s01bb01-gidrokortizon-v-kombinatcii-s-midriatikami Гидрокортизон в комбинации с мидриатиками
+S01BB02 s01bb02-prednizolon-v-kombinatcii-s-midriatikami Преднизолон в комбинации с мидриатиками
+S01BB03 s01bb03-fluorometolon-v-kombinatcii-s-midriatikami Флуорометолон в комбинации с мидриатиками
+S01BB04 s01bb04-betametazon-v-kombinatcii-s-midriatikami Бетаметазон в комбинации с мидриатиками
+S01BC01 s01bc01-indometatcin Индометацин
+S01BC02 s01bc02-oksifenbutazon Оксифенбутазон
+S01BC03 s01bc03-diclofenak Диклофенак
+S01BC04 s01bc04-flurbiprofen Флурбипрофен
+S01BC05 s01bc05-ketorolak Кеторолак
+S01BC06 s01bc06-piroksikam Пироксикам
+S01BC07 s01bc07-bendazak Бендазак
+S01BC08 s01bc08-salitcilovaia-kislota Салициловая кислота
+S01BC09 s01bc09-pranoprofen Пранопрофен
+S01BC10 s01bc10-nepafenak Непафенак
+S01BC11 s01bc11-bromfenak Бромфенак
+S01CA s01ca-kortikosteroidy-v-kombinatcii-s-protivomikrobnymi-preparatami Кортикостероиды в комбинации с противомикробными препаратами
+S01CB s01cb-kortikosteroidy-protivomikrobnye-preparaty-midriatiki-v-kombinatciiakh Кортикостероиды/противомикробные препараты/мидриатики в комбинациях
+S01CC s01cc-nesteroidnye-protivovospalitelnye-preparaty-npvs-v-kombinatcii-s-protivomikrobnymi-preparatami Нестероидные противовоспалительные препараты (НПВС) в комбинации с противомикробными препаратами
+S01CA01 s01ca01-deksametazon-v-kombinatcii-s-protivomikrobnymi-preparatami Дексаметазон в комбинации с противомикробными препаратами
+S01CA02 s01ca02-prednizolon-v-kombinatcii-s-protivomikrobnymi-preparatami Преднизолон в комбинации с противомикробными препаратами
+S01CA03 s01ca03-gidrokortizon-v-kombinatcii-s-protivomikrobnymi-preparatami Гидрокортизон в комбинации с противомикробными препаратами
+S01CA04 s01ca04-fluokortolon-v-kombinatcii-s-protivomikrobnymi-preparatami Флуокортолон в комбинации с противомикробными препаратами
+S01CA05 s01ca05-betametazon-v-kombinatcii-s-protivomikrobnymi-preparatami Бетаметазон в комбинации с противомикробными препаратами
+S01CA06 s01ca06-fludrokortizon-v-kombinatcii-s-protivomikrobnymi-preparatami Флудрокортизон в комбинации с противомикробными препаратами
+S01CA07 s01ca07-fluorometolon-v-kombinatcii-s-protivomikrobnymi-preparatami Флуорометолон в комбинации с противомикробными препаратами
+S01CA08 s01ca08-metilprednizolon-v-kombinatcii-s-protivomikrobnymi-preparatami Метилпреднизолон в комбинации с противомикробными препаратами
+S01CA09 s01ca09-khlorprednizolon-v-kombinatcii-s-protivomikrobnymi-preparatami Хлорпреднизолон в комбинации с противомикробными препаратами
+S01CA10 s01ca10-fluotcinolona-atcetonid-v-kombinatcii-s-protivomikrobnymi-preparatami Флуоцинолона ацетонид в комбинации с противомикробными препаратами
+S01CA11 s01ca11-clobetazon-v-kombinatcii-s-protivomikrobnymi-preparatami Клобетазон в комбинации с противомикробными препаратами
+S01CB01 s01cb01-deksametazon Дексаметазон
+S01CB02 s01cb02-prednizolon Преднизолон
+S01CB03 s01cb03-gidrokortizon Гидрокортизон
+S01CB04 s01cb04-betametazon Бетаметазон
+S01CB05 s01cb05-fluorometalon Флуорометалон
+S01CC01 s01cc01-diclofenak-v-kombinatcii-s-protivomikrobnymi-preparatami Диклофенак в комбинации с противомикробными препаратами
+S01CC02 s01cc02-indometatcin-v-kombinatcii-s-protivomikrobnymi-preparatami Индометацин в комбинации с противомикробными препаратами
+S01EA s01ea-simpatomimetiki-dlia-lecheniia-glaukomy Симпатомиметики для лечения глаукомы
+S01EB s01eb-parasimpatomimetiki Парасимпатомиметики
+S01EC s01ec-ingibitory-karboangidrazy Ингибиторы карбоангидразы
+S01ED s01ed-beta-adrenoblokatory Бета-адреноблокаторы
+S01EE s01ee-analogi-prostaglandina Аналоги простагландина
+S01EX s01ex-prochie-protivoglaukomnye-preparaty Прочие противоглаукомные препараты
+S01EA01 s01ea01-epinefrin Эпинефрин
+S01EA02 s01ea02-dipivefrin Дипивефрин
+S01EA03 s01ea03-apraclonidin Апраклонидин
+S01EA04 s01ea04-clonidin Клонидин
+S01EA05 s01ea05-brimonidin Бримонидин
+S01EA51 s01ea51-epinefrin-v-kombinatcii-s-drugimi-preparatami Эпинефрин в комбинации с другими препаратами
+S01EB01 s01eb01-pilokarpin Пилокарпин
+S01EB02 s01eb02-karbahol Карбахол
+S01EB03 s01eb03-ekotiopat Экотиопат
+S01EB04 s01eb04-demekarium Демекариум
+S01EB05 s01eb05-fizostigmin Физостигмин
+S01EB06 s01eb06-neostigmin Неостигмин
+S01EB07 s01eb07-fluostigmin Флуостигмин
+S01EB08 s01eb08-atceclidin Ацеклидин
+S01EB09 s01eb09-atcetilholin Ацетилхолин
+S01EB10 s01eb10-paraokson Параоксон
+S01EB51 s01eb51-pilokarpin-v-kombinatcii-s-drugimi-preparatami Пилокарпин в комбинации с другими препаратами
+S01EB58 s01eb58-atceclidin-v-kombinatcii-s-drugimi-preparatami Ацеклидин в комбинации с другими препаратами
+S01EC01 s01ec01-atcetazolamid Ацетазоламид
+S01EC02 s01ec02-diclofenamid Диклофенамид
+S01EC03 s01ec03-dorzolamid Дорзоламид
+S01EC04 s01ec04-brinzolamid Бринзоламид
+S01EC05 s01ec05-metazolamid Метазоламид
+S01EC54 s01ec54-brinzolamid-v-kombinatcii-s-drugimi-preparatami Бринзоламид в комбинации с другими препаратами
+S01ED01 s01ed01-timolol Тимолол
+S01ED02 s01ed02-betaksolol Бетаксолол
+S01ED03 s01ed03-levobunolol Левобунолол
+S01ED04 s01ed04-metipranolol Метипранолол
+S01ED05 s01ed05-karteolol Картеолол
+S01ED06 s01ed06-befunolol Бефунолол
+S01ED51 s01ed51-timolol-v-kombinatcii-s-drugimi-preparatami Тимолол в комбинации с другими препаратами
+S01ED52 s01ed52-betaksolol-v-kombinatcii-s-drugimi-preparatami Бетаксолол в комбинации с другими препаратами
+S01ED54 s01ed54-metipranolol-v-kombinatcii-s-drugimi-preparatami Метипранолол в комбинации с другими препаратами
+S01ED55 s01ed55-karteolol-v-kombinatcii-s-drugimi-preparatami Картеолол в комбинации с другими препаратами
+S01EE01 s01ee01-latanoprost Латанопрост
+S01EE02 s01ee02-unoproston Унопростон
+S01EE03 s01ee03-bimatoprost Биматопрост
+S01EE04 s01ee04-travoprost Травопрост
+S01EE05 s01ee05-tafluprost Тафлупрост
+S01EX01 s01ex01-guanetidin Гуанетидин
+S01EX02 s01ex02-dapiprazol Дапипразол
+S01FA s01fa-antiholinergicheskie-sredstva Антихолинергические средства
+S01FB s01fb-simpatomimetiki-iscliuchaia-protivoglaukomnye-preparaty Симпатомиметики (исключая противоглаукомные препараты)
+S01FA01 s01fa01-atropin Атропин
+S01FA02 s01fa02-skopolamin Скополамин
+S01FA03 s01fa03-metilskopolamin Метилскополамин
+S01FA04 s01fa04-tciclopentolat Циклопентолат
+S01FA05 s01fa05-gomatropin Гоматропин
+S01FA06 s01fa06-tropikamid Тропикамид
+S01FA54 s01fa54-tciclopentolat-v-kombinatcii-s-drugimi-preparatami Циклопентолат в комбинации с другими препаратами
+S01FA56 s01fa56-tropikamid-v-kombinatcii-s-drugimi-preparatami Тропикамид в комбинации с другими препаратами
+S01FB01 s01fb01-fenilefrin Фенилэфрин
+S01FB02 s01fb02-efedrin Эфедрин
+S01FB03 s01fb03-ibopamin Ибопамин
+S01GA s01ga-simpatomimetiki-primeniaemye-v-kachestve-dekongestantov Симпатомиметики, применяемые в качестве деконгестантов
+S01GX s01gx-protivoallergicheskie-preparaty-drugie Противоаллергические препараты другие
+S01GA01 s01ga01-nafazolin Нафазолин
+S01GA02 s01ga02-tetrizolin Тетризолин
+S01GA03 s01ga03-ksilometazolin Ксилометазолин
+S01GA04 s01ga04-oksimetazolin Оксиметазолин
+S01GA05 s01ga05-fenilefrin Фенилэфрин
+S01GA06 s01ga06-oksedrin Окседрин
+S01GA51 s01ga51-nafazolin-v-kombinatcii-s-drugimi-preparatami Нафазолин в комбинации с другими препаратами
+S01GA52 s01ga52-tetrizolin-v-kombinatcii-s-drugimi-preparatami Тетризолин в комбинации с другими препаратами
+S01GA53 s01ga53-ksilometazolin-v-kombinatcii-s-drugimi-preparatami Ксилометазолин в комбинации с другими препаратами
+S01GA55 s01ga55-fenilefrin-v-kombinatcii-s-drugimi-preparatami Фенилэфрин в комбинации с другими препаратами
+S01GA56 s01ga56-oksedrin-v-kombinatcii-s-drugimi-preparatami Окседрин в комбинации с другими препаратами
+S01GX01 s01gx01-kromoglitcievaia-kislota Кромоглициевая кислота
+S01GX02 s01gx02-levokabastin Левокабастин
+S01GX03 s01gx03-spagluminovaia-kislota Спаглуминовая кислота
+S01GX04 s01gx04-nedokromil Недокромил
+S01GX05 s01gx05-lodoksamid Лодоксамид
+S01GX06 s01gx06-emedastin Эмедастин
+S01GX07 s01gx07-azelastin Азеластин
+S01GX08 s01gx08-ketotifen Кетотифен
+S01GX09 s01gx09-olopatadin Олопатадин
+S01GX10 s01gx10-epinastin Эпинастин
+S01GX11 s01gx11-alkaftadin Алкафтадин
+S01GX51 s01gx51-kromoglitcievaia-kislota-v-kombinatcii-s-drugimi-preparatami Кромоглициевая кислота в комбинации с другими препаратами
+S01HA s01ha-mestnye-anestetiki Местные анестетики
+S01HA01 s01ha01-kokain Кокаин
+S01HA02 s01ha02-oksibuprokain Оксибупрокаин
+S01HA03 s01ha03-tetrakain Тетракаин
+S01HA04 s01ha04-proksimetakain Проксиметакаин
+S01HA05 s01ha05-prokain Прокаин
+S01HA06 s01ha06-tcinhokain Цинхокаин
+S01HA07 s01ha07-leedokain Лидокаин
+S01HA30 s01ha30-kombinatcii-mestnykh-anestetikov Комбинации местных анестетиков
+S01JA s01ja-krasiashchie-veshchestva Красящие вещества
+S01JX s01jx-prochie-preparaty-dlia-diagnostiki-zabolevanii-glaz Прочие препараты для диагностики заболеваний глаз
+S01JA01 s01ja01-fluorestcein Флуоресцеин
+S01JA02 s01ja02-bengalskoi-rozy-natrievaia-sol Бенгальской розы натриевая соль
+S01JA51 s01ja51-fluorestcein-v-kombinatcii-s-drugimi-preparatami Флуоресцеин в комбинации с другими препаратами
+S01KA s01ka-viazkouprugie-soedineniia Вязкоупругие соединения
+S01KX s01kx-prochie-preparaty-ispolzuemye-pri-hirurgicheskikh-vmeshatelstvakh-v-oftalmologii Прочие препараты, используемые при хирургических вмешательствах в офтальмологии
+S01KA01 s01ka01-gialuronovaia-kislota Гиалуроновая кислота
+S01KA02 s01ka02-gipromelloza Гипромеллоза
+S01KA51 s01ka51-gialuronovaia-kislota-v-kombinatcii-s-drugimi-preparatami Гиалуроновая кислота в комбинации с другими препаратами
+S01KX01 s01kx01-himotripsin Химотрипсин
+S01LA s01la-sredstva-prepiatstvuiushchie-novoobrazovaniiu-sosudov Средства, препятствующие новообразованию сосудов
+S01LA01 s01la01-verteporfin Вертепорфин
+S01LA02 s01la02-anekortav Анекортав
+S01LA03 s01la03-pegaptanib Пегаптаниб
+S01LA04 s01la04-ranibizumab Ранибизумаб
+S01LA05 s01la05-aflibertcept Афлиберцепт
+S01XA s01xa-prochie-preparaty-dlia-lecheniia-zabolevanii-glaz Прочие препараты для лечения заболеваний глаз
+S01XA01 s01xa01-gvaiazulen Гвайазулен
+S01XA02 s01xa02-retinol Ретинол
+S01XA03 s01xa03-natriia-khlorida-gipertonicheskii-rastvor Натрия хлорида гипертонический раствор
+S01XA04 s01xa04-kaliia-iodid Калия йодид
+S01XA05 s01xa05-natriia-edetat Натрия эдетат
+S01XA06 s01xa06-etilmorfin Этилморфин
+S01XA07 s01xa07-kvastcy Квасцы
+S01XA08 s01xa08-atcetiltcistein Ацетилцистеин
+S01XA09 s01xa09-iodogeparinat Йодогепаринат
+S01XA10 s01xa10-inozin Инозин
+S01XA11 s01xa11-nandrolon Нандролон
+S01XA12 s01xa12-dekspantenol Декспантенол
+S01XA13 s01xa13-alteplaza Алтеплаза
+S01XA14 s01xa14-geparin Гепарин
+S01XA15 s01xa15-askorbinovaia-kislota Аскорбиновая кислота
+S01XA18 s01xa18-tciclosporin Циклоспорин
+S01XA19 s01xa19-leembalnye-stvolovye-cletki-autologichnye Лимбальные стволовые клетки, аутологичные
+S01XA20 s01xa20-iskusstvennye-slezy-i-prochie-indifferentnye-preparaty Искусственные слезы и прочие индифферентные препараты
+S01XA21 s01xa21-merkaptamin Меркаптамин
+S01XA22 s01xa22-okriplazmin Окриплазмин
+S01XA23 s01xa23-sirolimus Сиролимус

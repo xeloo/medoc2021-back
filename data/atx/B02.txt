@@ -1,0 +1,45 @@
+B02A b02a-ingibitory-fibrinoliza Ингибиторы фибринолиза
+B02B b02b-vitamin-k-i-drugie-gemostatiki Витамин K и другие гемостатики
+B02AA b02aa-aminokisloty Аминокислоты
+B02AB b02ab-ingibitory-proteinaz-plazmy Ингибиторы протеиназ плазмы
+B02AA01 b02aa01-aminokapronovaia-kislota Аминокапроновая кислота
+B02AA02 b02aa02-traneksamovaia-kislota Транексамовая кислота
+B02AA03 b02aa03-aminometilbenzoinaia-kislota Аминометилбензойная кислота
+B02AB01 b02ab01-aprotinin Апротинин
+B02AB02 b02ab02-alfa-antitirpsin Альфа антитирпсин
+B02AB04 b02ab04-kamostat Камостат
+B02BA b02ba-vitamin-k Витамин K
+B02BB b02bb-fibrinogen Фибриноген
+B02BC b02bc-gemostatiki-dlia-mestnogo-primeneniia Гемостатики для местного применения
+B02BD b02bd-faktory-svertyvaniia-krovi Факторы свертывания крови
+B02BX b02bx-gemostatiki-sistemnye-drugie Гемостатики системные другие
+B02BA01 b02ba01-fitomenadion Фитоменадион
+B02BA02 b02ba02-menadion Менадион
+B02BB01 b02bb01-fibrinogen-chelovecheskii Фибриноген, человеческий
+B02BC01 b02bc01-zhelatinovaia-absorbiruiushchaia-gubka Желатиновая абсорбирующая губка
+B02BC02 b02bc02-tcelliuloza-okislennaia Целлюлоза окисленная
+B02BC03 b02bc03-gidroksietilovyi-efir-tetragalakturonovoi-kisloty Гидроксиэтиловый эфир тетрагалактуроновой кислоты
+B02BC05 b02bc05-adrenolon Адренолон
+B02BC06 b02bc06-trombin Тромбин
+B02BC07 b02bc07-kollagen Коллаген
+B02BC08 b02bc08-kaltciia-alginat Кальция альгинат
+B02BC09 b02bc09-epinefrin Эпинефрин
+B02BC30 b02bc30-kombinatcii-gemostatikov-dlia-mestnogo-primeneniia Комбинации гемостатиков для местного применения
+B02BD01 b02bd01-faktory-svertyvaniia-krovi-ix-ii-vii-i-x-v-kombinatcii Факторы свертывания крови IX, II, VII и X в комбинации
+B02BD02 b02bd02-faktor-svertyvaniia-krovi-viii Фактор свертывания крови VIII
+B02BD03 b02bd03-faktora-svertyvaniia-krovi-viii-razrusheniia-ingibitory Фактора свертывания крови VIII разрушения ингибиторы
+B02BD04 b02bd04-faktor-svertyvaniia-krovi-ix Фактор свертывания крови IX
+B02BD05 b02bd05-faktor-svertyvaniia-krovi-vii Фактор свертывания крови VII
+B02BD06 b02bd06-faktory-svertyvaniia-krovi-villebranda-i-viii-v-kombinatcii Факторы свертывания крови Виллебранда и VIII в комбинации
+B02BD07 b02bd07-faktor-svertyvaniia-krovi-xiii Фактор свертывания крови XIII
+B02BD10 b02bd10-faktor-svertyvaniia-krovi-villebranda Фактор свертывания крови Виллебранда
+B02BD11 b02bd11-katridekakog Катридекаког
+B02BD12 b02bd12-trenonakog-alfa Тренонаког альфа
+B02BD13 b02bd13-faktor-svertyvaniia-krovi-x-span Фактор свертывания крови X
+B02BD14 b02bd14-suzoktokog-alfa-span Сузоктоког альфа
+B02BD30 b02bd30-trombin Тромбин
+B02BX01 b02bx01-etamzilat Этамзилат
+B02BX02 b02bx02-karbazokhrom Карбазохром
+B02BX03 b02bx03-batroksobin Батроксобин
+B02BX04 b02bx04-romiplostim Ромиплостим
+B02BX05 b02bx05-eltrombopag Элтромбопаг

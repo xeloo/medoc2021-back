@@ -1,0 +1,62 @@
+D01A d01a-protivogribkovye-preparaty-dlia-mestnogo-primeneniia Противогрибковые препараты для местного применения
+D01B d01b-protivogribkovye-preparaty-dlia-sistemnogo-primeneniia Противогрибковые препараты для системного применения
+D01AA d01aa-antibiotiki Антибиотики
+D01AC d01ac-proizvodnye-imidazola-i-triazola Производные имидазола и триазола
+D01AE d01ae-prochie-protivogribkovye-preparaty-dlia-mestnogo-primeneniia Прочие противогрибковые препараты для местного применения
+D01AA01 d01aa01-nistatin Нистатин
+D01AA02 d01aa02-natamitcin Натамицин
+D01AA03 d01aa03-gahimitcin Гахимицин
+D01AA04 d01aa04-petcilotcin Пецилоцин
+D01AA06 d01aa06-mepartritcin Мепартрицин
+D01AA07 d01aa07-pirrolnitrin Пирролнитрин
+D01AA08 d01aa08-grizeofulvin Гризеофульвин
+D01AA20 d01aa20-kombinirovannye-preparaty Комбинированные препараты
+D01AC01 d01ac01-clotrimazol Клотримазол
+D01AC02 d01ac02-mikonazol Миконазол
+D01AC03 d01ac03-ekonazol Эконазол
+D01AC04 d01ac04-khlormidazol Хлормидазол
+D01AC05 d01ac05-izokonazol Изоконазол
+D01AC06 d01ac06-tiabendazol Тиабендазол
+D01AC07 d01ac07-tiokonazol Тиоконазол
+D01AC08 d01ac08-ketokonazol Кетоконазол
+D01AC09 d01ac09-sulkonazol Сулконазол
+D01AC10 d01ac10-bifonazol Бифоназол
+D01AC11 d01ac11-oksikonazol Оксиконазол
+D01AC12 d01ac12-fentikonazol Фентиконазол
+D01AC13 d01ac13-omokonazol Омоконазол
+D01AC14 d01ac14-sertakonazol Сертаконазол
+D01AC15 d01ac15-flukonazol Флуконазол
+D01AC16 d01ac16-flutrimazol Флутримазол
+D01AC17 d01ac17-eberkonazol Эберконазол
+D01AC18 d01ac18-lulikonazol Луликоназол
+D01AC19 d01ac19-efinakonazol Эфинаконазол
+D01AC20 d01ac20-kombinatcii-proizvodnykh-imidazola-i-triazola Комбинации производных имидазола и триазола
+D01AC52 d01ac52-mikonazol-v-kombinatcii-s-drugimi-preparatami Миконазол в комбинации с другими препаратами
+D01AC60 d01ac60-bifonazol-v-kombinatcii-s-drugimi-preparatami Бифоназол в комбинации с другими препаратами
+D01AE01 d01ae01-bromokhlorosalitcilanilid Бромохлоросалициланилид
+D01AE02 d01ae02-metilrozanilin Метилрозанилин
+D01AE03 d01ae03-tribromometakrezol Трибромометакрезол
+D01AE04 d01ae04-undetcilenovaia-kislota Ундециленовая кислота
+D01AE05 d01ae05-polinoksilin Полиноксилин
+D01AE06 d01ae06-2-4-khlorfenoksi-etanol 2-(4-хлорфенокси)-этанол
+D01AE07 d01ae07-khlorfenezin Хлорфенезин
+D01AE08 d01ae08-ticlaton Тиклатон
+D01AE09 d01ae09-sulbentin Сульбентин
+D01AE10 d01ae10-etil-gidroksibenzoat Этил гидроксибензоат
+D01AE11 d01ae11-galoprogin Галопрогин
+D01AE12 d01ae12-salitcilovaia-kislota Салициловая кислота
+D01AE13 d01ae13-selena-sulfid Селена сульфид
+D01AE14 d01ae14-tciclopiroks Циклопирокс
+D01AE15 d01ae15-terbinafin Тербинафин
+D01AE16 d01ae16-amorolfin Аморолфин
+D01AE17 d01ae17-dimazol Димазол
+D01AE18 d01ae18-tolnaftat Толнафтат
+D01AE19 d01ae19-toltciclat Толциклат
+D01AE20 d01ae20-protivogribkovye-preparaty-dlia-mestnogo-naznacheniia-drugie-v-kombinatcii Противогрибковые препараты для местного назначения другие в комбинации
+D01AE21 d01ae21-flutcitozin Флуцитозин
+D01AE22 d01ae22-naftifin Нафтифин
+D01AE23 d01ae23-butenafin Бутенафин
+D01AE54 d01ae54-undetcilenovaia-kislota-v-kombinatcii-s-drugimi-preparatami Ундециленовая кислота в комбинации с другими препаратами
+D01BA d01ba-protivogribkovye-preparaty-dlia-sistemnogo-primeneniia Противогрибковые препараты для системного применения
+D01BA01 d01ba01-grizeofulvin Гризеофульвин
+D01BA02 d01ba02-terbinafin Тербинафин

@@ -1,0 +1,38 @@
+L02A l02a-gormony-i-rodstvennye-soedineniia Гормоны и родственные соединения
+L02B l02b-antagonisty-gormonov-i-rodstvennye-soedineniia Антагонисты гормонов и родственные соединения
+L02AA l02aa-estrogeny Эстрогены
+L02AB l02ab-progestageny Прогестагены
+L02AE l02ae-analogi-gonadotropin-rilizing-gormona Аналоги гонадотропин-рилизинг гормона
+L02AX l02ax-drugie-gormony Другие гормоны
+L02AA01 l02aa01-dietilstilbestrol Диэтилстилбестрол
+L02AA02 l02aa02-poliestradiola-fosfat Полиэстрадиола фосфат
+L02AA03 l02aa03-etinilestradiol Этинилэстрадиол
+L02AA04 l02aa04-fosfestrol Фосфэстрол
+L02AB01 l02ab01-megestrol Мегестрол
+L02AB02 l02ab02-medroksiprogesteron Медроксипрогестерон
+L02AB03 l02ab03-gestonoron Гестонорон
+L02AE01 l02ae01-buserelin Бусерелин
+L02AE02 l02ae02-leiprorelin Лейпрорелин
+L02AE03 l02ae03-gozerelin Гозерелин
+L02AE04 l02ae04-triptorelin Трипторелин
+L02AE05 l02ae05-gistrelin Гистрелин
+L02BA l02ba-antiestrogeny Антиэстрогены
+L02BB l02bb-antiandrogeny Антиандрогены
+L02BX l02bx-prochie-antagonisty-gormonov-i-rodstvennye-im-soedineniia Прочие антагонисты гормонов и родственные им соединения
+L02BG l02bg-aromatazy-ingibitory Ароматазы ингибиторы
+L02BA01 l02ba01-tamoksifen Тамоксифен
+L02BA02 l02ba02-toremifen Торемифен
+L02BA03 l02ba03-fulvestrant Фулвестрант
+L02BB01 l02bb01-flutamid Флутамид
+L02BB02 l02bb02-nilutamid Нилутамид
+L02BB03 l02bb03-bikalutamid Бикалутамид
+L02BB04 l02bb04-enzalutamid Энзалутамид
+L02BX01 l02bx01-abareliks Абареликс
+L02BX02 l02bx02-degareliks Дегареликс
+L02BX03 l02bx03-abirateron Абиратерон
+L02BG01 l02bg01-aminoglutetimid Аминоглутетимид
+L02BG02 l02bg02-formestan Форместан
+L02BG03 l02bg03-anastrozol Анастрозол
+L02BG04 l02bg04-letrozol Летрозол
+L02BG05 l02bg05-vorozol Ворозол
+L02BG06 l02bg06-eksemestan Эксеместан

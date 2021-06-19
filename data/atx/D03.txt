@@ -1,0 +1,19 @@
+D03A d03a-preparaty-sposobstvuiushchie-normalnomu-rubtcevaniiu Препараты, способствующие нормальному рубцеванию
+D03B d03b-fermentnye-preparaty Ферментные препараты
+D03AA d03aa-mazi-soderzhashchie-rybii-zhir Мази, содержащие рыбий жир
+D03AX d03ax-prochie-preparaty-sposobstvuiushchie-normalnomu-rubtcevaniiu Прочие препараты, способствующие нормальному рубцеванию
+D03AX01 d03ax01-kadeksomera-iodin Кадексомера йодин
+D03AX02 d03ax02-dekstranomer Декстраномер
+D03AX03 d03ax03-dekspantenol Декспантенол
+D03AX04 d03ax04-kaltciia-pantotenat Кальция пантотенат
+D03AX05 d03ax05-gialuronovaia-kislota Гиалуроновая кислота
+D03AX06 d03ax06-bekaplermin Бекаплермин
+D03AX09 d03ax09-krilanomer Криланомер
+D03AX10 d03ax10-enoksolon Эноксолон
+D03AX11 d03ax11-khlorit-natriia Хлорит натрия
+D03AX12 d03ax12-trolamin Троламин
+D03BA d03ba-proteoliticheskie-fermenty Протеолитические ферменты
+D03BA01 d03ba01-tripsin Трипсин
+D03BA02 d03ba02-kollagenaza-clostridiopeptidaza Коллагеназа (клостридиопептидаза)
+D03BA03 d03ba03-bromelainy Бромелаины
+D03BA52 d03ba52-kollagenaza-v-kombinatcii-s-drugimi-preparatami Коллагеназа в комбинации с другими препаратами

@@ -1,0 +1,26 @@
+V10A v10a-radioterapevticheskie-protivovospalitelnye-sredstva Радиотерапевтические противовоспалительные средства
+V10B v10b-radioterapevticheskie-protivoopuholevye-kostnaia-tkan-sredstva Радиотерапевтические противоопухолевые (костная ткань) средства
+V10X v10x-prochie-lechebnye-radiofarmatcevticheskie-preparaty Прочие лечебные радиофармацевтические препараты
+V10AA v10aa-soedineniia-ittriia-90 Соединения иттрия-90
+V10AX v10ax-prochie-radioterapevticheskie-protivovospalitelnye-sredstva Прочие радиотерапевтические противовоспалительные средства
+V10AA01 v10aa01-90-y-yttrium-citrate-colloid 90 Y-Yttrium-citrate colloid
+V10AA02 v10aa02-90-y-yttrium-ferrihydroxide-colloid 90 Y-Yttrium-ferrihydroxide colloid
+V10AA03 v10aa03-90-y-yttrium-silicate-colloid 90 Y-Yttrium-silicate colloid
+V10AX01 v10ax01-32-p-phosphorous-chromicphosphate-colloid 32 P-Phosphorous-chromicphosphate colloid
+V10AX02 v10ax02-153-sm-samarium-hydroxyapatite-colloid 153 Sm-Samarium-hydroxyapatite colloid
+V10AX03 v10ax03-165-dy-dysprosium-colloid 165 Dy-Dysprosium colloid
+V10AX04 v10ax04-169-er-erbium-citrate-colloid 169 Er-Erbium-citrate colloid
+V10AX05 v10ax05-186-re-rhenium-sulphide-colloid 186 Re-Rhenium-sulphide colloid
+V10AX06 v10ax06-198-au-gold-colloidal 198 Au-Gold colloidal
+V10BX v10bx-razlichnye-prochie-preparaty-dlia-palliativnogo-lecheniia-kostnykh-metastazov Различные прочие препараты для паллиативного лечения костных метастазов
+V10BX01 v10bx01-89-sr-strontium-chloride 89 Sr-Strontium-chloride
+V10BX02 v10bx02-153-sm-samarium-lexidronic-acid 153 Sm-Samarium-lexidronic acid
+V10BX03 v10bx03-186-re-rhenium-etidronic-acid 186 Re-Rhenium-etidronic acid
+V10XA v10xa-soedineniia-ioda-131 Соединения йода-131
+V10XX v10xx-razlichnye-prochie-radioterapevticheskie-sredstva Различные прочие радиотерапевтические средства
+V10XA01 v10xa01-131-i-iodine-sodium 131 I-Iodine-sodium
+V10XA02 v10xa02-131-i-iodine-iobenguane 131 I-Iodine-iobenguane
+V10XA53 v10xa53-131-i-tositumomab-iodine 131 I-Tositumomab/iodine
+V10XX01 v10xx01-32-p-phosphate-sodium 32 P-Phosphate sodium
+V10XX02 v10xx02-90-y-ibritumomab-tiuxetan 90 Y-Ibritumomab tiuxetan
+V10XX03 v10xx03-radium-223ra-dichloride Radium (223Ra) dichloride

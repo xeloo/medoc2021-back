@@ -1,0 +1,24 @@
+S03A s03a-protivomikrobnye-preparaty Противомикробные препараты
+S03B s03b-kortikosteroidy Кортикостероиды
+S03C s03c-kortikosteroidy-v-kombinatcii-s-protivomikrobnymi-preparatami Кортикостероиды в комбинации с противомикробными препаратами
+S03D s03d-prochie-preparaty-dlia-lecheniia-zabolevanii-glaz-i-uha Прочие препараты для лечения заболеваний глаз и уха
+S03AA s03aa-protivomikrobnye-preparaty Противомикробные препараты
+S03AA01 s03aa01-neomitcin Неомицин
+S03AA02 s03aa02-tetratciclin Тетрациклин
+S03AA03 s03aa03-polimiksin-b Полимиксин B
+S03AA04 s03aa04-khlorgeksidin Хлоргексидин
+S03AA05 s03aa05-geksamidin Гексамидин
+S03AA06 s03aa06-gentamitcin Гентамицин
+S03AA07 s03aa07-tciprofloksatcin Ципрофлоксацин
+S03AA08 s03aa08-khloramfenikol Хлорамфеникол
+S03AA30 s03aa30-kombinatcii-protivomikrobnykh-preparatov Комбинации противомикробных препаратов
+S03BA s03ba-kortikosteroidy Кортикостероиды
+S03BA01 s03ba01-deksametazon Дексаметазон
+S03BA02 s03ba02-prednizolon Преднизолон
+S03BA03 s03ba03-betametazon Бетаметазон
+S03CA s03ca-kortikosteroidy-v-kombinatcii-s-protivomikrobnymi-preparatami Кортикостероиды в комбинации с противомикробными препаратами
+S03CA01 s03ca01-deksametazon-v-kombinatcii-s-protivomikrobnymi-preparatami Дексаметазон в комбинации с противомикробными препаратами
+S03CA02 s03ca02-prednizolon-v-kombinatcii-s-protivomikrobnymi-preparatami Преднизолон в комбинации с противомикробными препаратами
+S03CA04 s03ca04-gidrokortizon-v-kombinatcii-s-protivomikrobnymi-preparatami Гидрокортизон в комбинации с противомикробными препаратами
+S03CA05 s03ca05-fludrokortizon-v-kombinatcii-s-protivomikrobnymi-preparatami Флудрокортизон в комбинации с противомикробными препаратами
+S03CA06 s03ca06-betametazon-v-kombinatcii-s-protivomikrobnymi-preparatami Бетаметазон в комбинации с противомикробными препаратами

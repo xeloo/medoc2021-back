@@ -1,0 +1,96 @@
+J05A j05a-protivovirusnye-preparaty-priamogo-deistviia Противовирусные препараты прямого действия
+J05AA j05aa-tiosemikarbazony Тиосемикарбазоны
+J05AB j05ab-nucleozidy-i-nucleotidy Нуклеозиды и нуклеотиды
+J05AC j05ac-tciclicheskie-aminy Циклические амины
+J05AD j05ad-proizvodnye-ortofosfornoi-kisloty Производные ортофосфорной кислоты
+J05AE j05ae-ingibitory-proteazy Ингибиторы протеазы
+J05AF j05af-nucleozidy-i-nucleotidy-ingibitory-obratnoi-transkriptazy Нуклеозиды и нуклеотиды — ингибиторы обратной транскриптазы
+J05AG j05ag-nenucleozidy-ingibitory-obratnoi-transkriptazy Ненуклеозиды — ингибиторы обратной транскриптазы
+J05AH j05ah-ingibitory-neiraminidazy Ингибиторы нейраминидазы
+J05AR j05ar-protivovirusnye-sredstva-dlia-lecheniia-vich-infektcii-v-kombinatciiakh Противовирусные средства для лечения ВИЧ-инфекций в комбинациях
+J05AX j05ax-prochie-protivovirusnye-preparaty Прочие противовирусные препараты
+J05AA01 j05aa01-metisazon Метисазон
+J05AB01 j05ab01-atciclovir Ацикловир
+J05AB02 j05ab02-idoksuridin Идоксуридин
+J05AB03 j05ab03-vidarabin Видарабин
+J05AB04 j05ab04-ribavirin Рибавирин
+J05AB06 j05ab06-gantciclovir Ганцикловир
+J05AB09 j05ab09-famtciclovir Фамцикловир
+J05AB11 j05ab11-valatciclovir Валацикловир
+J05AB12 j05ab12-tcidofovir Цидофовир
+J05AB13 j05ab13-pentciclovir Пенцикловир
+J05AB14 j05ab14-valgantciclovir Валганцикловир
+J05AB15 j05ab15-brivudin Бривудин
+J05AC02 j05ac02-rimantadin Римантадин
+J05AC03 j05ac03-tromantadin Тромантадин
+J05AD01 j05ad01-foskarnet Фоскарнет
+J05AD02 j05ad02-fosfonet Фосфонет
+J05AE01 j05ae01-sakvinavir Саквинавир
+J05AE02 j05ae02-indinavir Индинавир
+J05AE03 j05ae03-ritonavir Ритонавир
+J05AE04 j05ae04-nelfinavir Нелфинавир
+J05AE05 j05ae05-amprenavir Ампренавир
+J05AE07 j05ae07-fosamprenavir Фосампренавир
+J05AE08 j05ae08-atazanavir Атазанавир
+J05AE09 j05ae09-tipranavir Типранавир
+J05AE10 j05ae10-darunavir Дарунавир
+J05AE11 j05ae11-telaprevir Телапревир 
+J05AE12 j05ae12-botceprevir Боцепревир
+J05AE13 j05ae13-faldaprevir Фалдапревир
+J05AE14 j05ae14-simeprevir Симепревир
+J05AE15 j05ae15-asunaprevir Асунапревир
+J05AF01 j05af01-zidovudin Зидовудин
+J05AF02 j05af02-didanozin Диданозин
+J05AF03 j05af03-zaltcitabin Зальцитабин
+J05AF04 j05af04-stavudin Ставудин
+J05AF05 j05af05-lamivudin Ламивудин
+J05AF06 j05af06-abakavir Абакавир
+J05AF07 j05af07-tenofovir Тенофовир
+J05AF08 j05af08-adefovir-dipivoksil Адефовир дипивоксил
+J05AF09 j05af09-emtritcitabin Эмтрицитабин
+J05AF10 j05af10-entekavir Энтекавир
+J05AF11 j05af11-telbivudin Телбивудин
+J05AF12 j05af12-clevudin Клевудин
+J05AG01 j05ag01-nevirapin Невирапин
+J05AG02 j05ag02-delavirdin Делавирдин
+J05AG03 j05ag03-efavirenz Эфавиренз
+J05AG04 j05ag04-etravirin Этравирин
+J05AG05 j05ag05-rilpivirin Рилпивирин
+J05AH01 j05ah01-zanamivir Занамивир
+J05AH02 j05ah02-oseltamivir Осельтамивир
+J05AR01 j05ar01-zidovudin-lamivudin Зидовудин + Ламивудин
+J05AR02 j05ar02-abakavir-lamivudin Абакавир + Ламивудин
+J05AR03 j05ar03-tenofovir-dizoproksil-emtritcitabin Тенофовир дизопроксил + Эмтрицитабин
+J05AR04 j05ar04-abakavir-lamivudin-zidovudin Абакавир + Ламивудин + Зидовудин
+J05AR05 j05ar05-zidovudin-lamivudin-nevirapin Зидовудин + Ламивудин + Невирапин
+J05AR06 j05ar06-emtritcitabin-tenofovir-dizoproksil-efavirentc Эмтрицитабин + Тенофовир дизопроксил + Эфавиренц
+J05AR07 j05ar07-stavudin-lamivudin-nevirapin Ставудин + Ламивудин + Невирапин
+J05AR08 j05ar08-emtritcitabin-tenofovir-dizoproksil-rilpivirin Эмтрицитабин + Тенофовир дизопроксил + Рилпивирин
+J05AR09 j05ar09-emtritcitabin-tenofovir-dizoproksil-elvitegravir-kobitcistat Эмтрицитабин + Тенофовир дизопроксил + Элвитегравир + Кобицистат
+J05AR10 j05ar10-lopinavir-ritonavir Лопинавир + Ритонавир
+J05AR11 j05ar11-lamivudin-tenofovir-dizoproksil-i-efavirenz Ламивудин, тенофовир дизопроксил и эфавиренз
+J05AR12 j05ar12-lamivudin-i-tenofovir-dizoproksil Ламивудин и тенофовир дизопроксил
+J05AR13 j05ar13-lamivudin-abakavir-i-dolutegravir Ламивудин, абакавир и долутегравир
+J05AR14 j05ar14-darunavir-i-kobitcistat Дарунавир и кобицистат
+J05AR15 j05ar15-atazanavir-i-kobitcistat Атазанавир и кобицистат
+J05AR16 j05ar16-lamivudin-i-raltegravir Ламивудин и ралтегравир
+J05AR17 j05ar17-emtritcitabin-i-tenofovir-alafenamid Эмтрицитабин и тенофовир алафенамид
+J05AR18 j05ar18-emtritcitabin-tenofovir-alafenamid-elvitegravir-i-kobitcistat Эмтрицитабин, тенофовир алафенамид, элвитегравир и кобицистат
+J05AR19 j05ar19-emtritcitabin-tenofovir-alafenamid-i-rilpivirin Эмтрицитабин, тенофовир алафенамид и рилпивирин
+J05AX01 j05ax01-moroksidin Мороксидин
+J05AX02 j05ax02-leezotcim Лизоцим
+J05AX05 j05ax05-inozin-pranobeks Инозин пранобекс
+J05AX06 j05ax06-plekonaril Плеконарил
+J05AX07 j05ax07-enfuvirtid Энфувиртид
+J05AX08 j05ax08-raltegravir Ралтегравир
+J05AX09 j05ax09-maravirok Маравирок
+J05AX10 j05ax10-maribavir Марибавир
+J05AX11 j05ax11-elvitegravir Элвитегравир
+J05AX12 j05ax12-dolutegravir Долутегравир
+J05AX13 j05ax13-umifenovir Умифеновир
+J05AX14 j05ax14-daclatasvir Даклатасвир
+J05AX15 j05ax15-sofosbuvir Софосбувир
+J05AX16 j05ax16-dasabuvir Дасабувир
+J05AX65 j05ax65-sofosbuvir-i-ledipasvir Софосбувир и ледипасвир
+J05AX66 j05ax66-dasabuvir-ombitasvir-paritaprevir-i-ritonavir Дасабувир, омбитасвир, паритапревир и ритонавир
+J05AX67 j05ax67-ombitasvir-paritaprevir-i-ritonavir Омбитасвир, паритапревир и ритонавир

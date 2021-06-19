@@ -1,0 +1,26 @@
+D04A d04a-preparaty-dlia-lecheniia-zuda-vcliuchaia-antigistaminnye-preparaty-i-anestetiki Препараты для лечения зуда (включая антигистаминные препараты и анестетики)
+D04AA d04aa-antigistaminnye-preparaty-dlia-mestnogo-primeneniia Антигистаминные препараты для местного применения
+D04AB d04ab-anestetiki-dlia-mestnogo-primeneniia Анестетики для местного применения
+D04AX d04ax-prochie-protivozudnye-preparaty Прочие противозудные препараты
+D04AA01 d04aa01-tonzilamin Тонзиламин
+D04AA02 d04aa02-mepiramin Мепирамин
+D04AA03 d04aa03-tenalidin Теналидин
+D04AA04 d04aa04-tripelenamin Трипеленамин
+D04AA09 d04aa09-khloropiramin Хлоропирамин
+D04AA10 d04aa10-prometazin Прометазин
+D04AA12 d04aa12-tolpropamin Толпропамин
+D04AA13 d04aa13-dimetinden Диметинден
+D04AA14 d04aa14-clemastin Клемастин
+D04AA15 d04aa15-bamipin Бамипин
+D04AA16 d04aa16-feniramin Фенирамин
+D04AA22 d04aa22-izotipendil Изотипендил
+D04AA32 d04aa32-difengidramin Дифенгидрамин
+D04AA33 d04aa33-difengidramina-metilbromid Дифенгидрамина метилбромид
+D04AA34 d04aa34-khlorfenoksamin Хлорфеноксамин
+D04AB01 d04ab01-leedokain Лидокаин
+D04AB02 d04ab02-tcinhokain Цинхокаин
+D04AB03 d04ab03-oksibuprokain Оксибупрокаин
+D04AB04 d04ab04-benzokain Бензокаин
+D04AB05 d04ab05-hinizokain Хинизокаин
+D04AB06 d04ab06-tetrakain Тетракаин
+D04AB07 d04ab07-pramokain Прамокаин

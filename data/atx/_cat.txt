@@ -1,0 +1,110 @@
+A a-preparaty-vliiaiushchie-na-pishchevaritelnyi-trakt-i-obmen-veshchestv Препараты, влияющие на пищеварительный тракт и обмен веществ
+B b-preparaty-vliiaiushchie-na-krovetvorenie-i-krov Препараты, влияющие на кроветворение и кровь
+C c-preparaty-dlia-lecheniia-zabolevanii-serdechno-sosudistoi-sistemy Препараты для лечения заболеваний сердечно-сосудистой системы
+D d-preparaty-dlia-lecheniia-zabolevanii-kozhi Препараты для лечения заболеваний кожи
+G g-preparaty-dlia-lecheniia-zabolevanii-mochepolovoi-sistemy-i-polovye-gormony Препараты для лечения заболеваний мочеполовой системы и половые гормоны
+H h-gormonalnye-preparaty-dlia-sistemnogo-ispolzovaniia-iscliuchaia-polovye-gormony Гормональные препараты для системного использования (исключая половые гормоны)
+J j-protivomikrobnye-preparaty-dlia-sistemnogo-ispolzovaniia Противомикробные препараты для системного использования
+L l-protivoopuholevye-preparaty-i-immunomoduliatory Противоопухолевые препараты и иммуномодуляторы
+M m-preparaty-dlia-lecheniia-zabolevanii-kostno-myshechnoi-sistemy Препараты для лечения заболеваний костно-мышечной системы
+N n-preparaty-dlia-lecheniia-zabolevanii-nervnoi-sistemy Препараты для лечения заболеваний нервной системы
+P p-protivoparazitarnye-preparaty-insektitcidy-i-repellenty Противопаразитарные препараты, инсектициды и репелленты
+Q q-veterinarnye-preparaty Ветеринарные препараты
+R r-preparaty-dlia-lecheniia-zabolevanii-respiratornoi-sistemy Препараты для лечения заболеваний респираторной системы
+S s-preparaty-dlia-lecheniia-zabolevanii-organov-chuvstv Препараты для лечения заболеваний органов чувств
+V v-prochie-lekarstvennye-preparaty Прочие лекарственные препараты
+A01 a01-stomatologicheskie-preparaty Стоматологические препараты
+A02 a02-preparaty-dlia-lecheniia-zabolevanii-sviazannykh-s-narusheniem-kislotnosti Препараты для лечения заболеваний связанных с нарушением кислотности
+A03 a03-preparaty-dlia-lecheniia-funktcionalnykh-rasstroistv-zhkt Препараты для лечения функциональных расстройств ЖКТ
+A04 a04-protivorvotnye-preparaty Противорвотные препараты
+A05 a05-preparaty-dlia-lecheniia-zabolevanii-pecheni-i-zhelchevyvodiashchikh-putei Препараты для лечения заболеваний печени и желчевыводящих путей
+A06 a06-slabitelnye Слабительные
+A07 a07-protivodiareinye-preparaty Противодиарейные препараты
+A08 a08-preparaty-dlia-lecheniia-ozhireniia-iscliuchaia-dieticheskie-produkty Препараты для лечения ожирения (исключая диетические продукты)
+A09 a09-preparaty-sposobstvuiushchie-pishchevareniiu-vcliuchaia-fermentnye-preparaty Препараты, способствующие пищеварению (включая ферментные препараты)
+A10 a10-sredstva-dlia-lecheniia-saharnogo-diabeta Средства для лечения сахарного диабета
+A11 a11-vitaminy Витамины
+A12 a12-mineralnye-dobavki Минеральные добавки
+A13 a13-obshchetoniziruiushchie-preparaty Общетонизирующие препараты
+A14 a14-anabolicheskie-preparaty-dlia-sistemnogo-ispolzovaniia Анаболические препараты для системного использования
+A15 a15-stimuliatory-appetita Стимуляторы аппетита
+A16 a16-prochie-preparaty-dlia-lecheniia-zabolevanii-zhkt-i-narusheniia-obmena-veshchestv Прочие препараты для лечения заболеваний ЖКТ и нарушения обмена веществ
+B01 b01-antikoagulianty Антикоагулянты
+B02 b02-gemostatiki Гемостатики
+B03 b03-antianemicheskie-preparaty Антианемические препараты
+B05 b05-plazmozameshchaiushchie-i-perfuzionnye-rastvory Плазмозамещающие и перфузионные растворы
+B06 b06-prochie-gematologicheskie-preparaty Прочие гематологические препараты
+C01 c01-preparaty-dlia-lecheniia-zabolevanii-serdtca Препараты для лечения заболеваний сердца
+C02 c02-antigipertenzivnye-preparaty Антигипертензивные препараты
+C03 c03-diuretiki Диуретики
+C04 c04-perifericheskie-vazodilatatory Периферические вазодилататоры
+C05 c05-angioprotektory Ангиопротекторы
+C07 c07-beta-adrenoblokatory Бета-адреноблокаторы
+C08 c08-blokatory-kaltcievykh-kanalov Блокаторы кальциевых каналов
+C09 c09-preparaty-vliiaiushchie-na-renin-angiotenzinovuiu-sistemu Препараты, влияющие на ренин-ангиотензиновую систему
+C10 c10-gipolipidemicheskie-preparaty Гиполипидемические препараты
+D01 d01-protivogribkovye-preparaty-dlia-lecheniia-zabolevanii-kozhi Противогрибковые препараты для лечения заболеваний кожи
+D02 d02-dermatoprotektory Дерматопротекторы
+D03 d03-preparaty-dlia-lecheniia-ran-i-iazv Препараты для лечения ран и язв
+D04 d04-preparaty-dlia-lecheniia-zuda-vcliuchaia-antigistaminnye-preparaty-i-anestetiki Препараты для лечения зуда (включая антигистаминные препараты и анестетики)
+D05 d05-preparaty-dlia-lecheniia-psoriaza Препараты для лечения псориаза
+D06 d06-antibiotiki-i-himioterapevticheskie-sredstva-dlia-lecheniia-zabolevanii-kozhi Антибиотики и химиотерапевтические средства для лечения заболеваний кожи
+D07 d07-kortikosteroidy-primeniaemye-v-dermatologii Кортикостероиды, применяемые в дерматологии
+D08 d08-antiseptiki-i-dezinfitciruiushchie-preparaty Антисептики и дезинфицирующие препараты
+D09 d09-pereviazochnyi-material Перевязочный материал
+D10 d10-preparaty-dlia-lecheniia-ugrevoi-sypi Препараты для лечения угревой сыпи
+D11 d11-prochie-preparaty-dlia-lecheniia-zabolevanii-kozhi Прочие препараты для лечения заболеваний кожи
+G01 g01-antiseptiki-i-protivomikrobnye-preparaty-dlia-lecheniia-ginekologicheskikh-zabolevanii Антисептики и противомикробные препараты для лечения гинекологических заболеваний
+G02 g02-prochie-preparaty-dlia-lecheniia-ginekologicheskikh-zabolevanii Прочие препараты для лечения гинекологических заболеваний
+G03 g03-polovye-gormony-i-moduliatory-polovoi-sistemy Половые гормоны и модуляторы половой системы
+G04 g04-preparaty-dlia-lecheniia-urologicheskikh-zabolevanii Препараты для лечения урологических заболеваний
+H01 h01-gipotalamo-gipofizarnye-gormony-i-ikh-analogi Гипоталамо-гипофизарные гормоны и их аналоги
+H02 h02-kortikosteroidy-dlia-sistemnogo-primeneniia Кортикостероиды для системного применения
+H03 h03-preparaty-dlia-lecheniia-zabolevanii-shchitovidnoi-zhelezy Препараты для лечения заболеваний щитовидной железы
+H04 h04-gormony-podzheludochnoi-zhelezy Гормоны поджелудочной железы
+H05 h05-preparaty-reguliruiushchie-obmen-kaltciia Препараты, регулирующие обмен кальция
+J01 j01-antibakterialnye-preparaty-dlia-sistemnogo-ispolzovaniia Антибактериальные препараты для системного использования
+J02 j02-protivogribkovye-preparaty-dlia-sistemnogo-ispolzovaniia Противогрибковые препараты для системного использования
+J04 j04-preparaty-aktivnye-v-otnoshenii-mikobakterii Препараты, активные в отношении микобактерий
+J05 j05-protivovirusnye-preparaty-dlia-sistemnogo-primeneniia Противовирусные препараты для системного применения
+J06 j06-immunnaia-syvorotka-i-immunoglobuliny Иммунная сыворотка и иммуноглобулины
+J07 j07-vaktciny Вакцины
+L01 l01-protivoopuholevye-preparaty Противоопухолевые препараты
+L02 l02-protivoopuholevye-gormonalnye-preparaty Противоопухолевые гормональные препараты
+L03 l03-immunostimuliatory Иммуностимуляторы
+L04 l04-immunodepressanty Иммунодепрессанты
+M01 m01-protivovospalitelnye-i-protivorevmaticheskie-preparaty Противовоспалительные и противоревматические препараты
+M02 m02-preparaty-dlia-mestnogo-primeneniia-pri-sustavnoi-i-myshechnoi-boli Препараты для местного применения при суставной и мышечной боли
+M03 m03-miorelaksanty Миорелаксанты
+M04 m04-protivopodagricheskie-preparaty Противоподагрические препараты
+M05 m05-preparaty-dlia-lecheniia-zabolevanii-kostei Препараты для лечения заболеваний костей
+M09 m09-prochie-preparaty-dlia-lecheniia-zabolevanii-kostno-myshechnoi-sistemy Прочие препараты для лечения заболеваний костно-мышечной системы
+N01 n01-anestetiki Анестетики
+N02 n02-analgetiki Анальгетики
+N03 n03-protivoepilepticheskie-preparaty Противоэпилептические препараты
+N04 n04-protivoparkinsonicheskie-preparaty Противопаркинсонические препараты
+N05 n05-psiholeptiki Психолептики
+N06 n06-psihoanaleptiki Психоаналептики
+N07 n07-drugie-preparaty-dlia-lecheniia-zabolevanii-nervnoi-sistemy Другие препараты для лечения заболеваний нервной системы
+P01 p01-antiprotozoinye-preparaty Антипротозойные препараты
+P02 p02-antigelmintnye-preparaty Антигельминтные препараты
+P03 p03-preparaty-dlia-unichtozheniia-ektoparazitov-vcliuchaia-chesotochnogo-cleshcha-insektitcidy-i-repellenty Препараты для уничтожения эктопаразитов (включая чесоточного клеща), инсектициды и репелленты
+R01 r01-nazalnye-preparaty Назальные препараты
+R02 r02-preparaty-dlia-lecheniia-zabolevanii-gorla Препараты для лечения заболеваний горла
+R03 r03-preparaty-dlia-lecheniia-obstruktivnykh-zabolevanii-dyhatelnykh-putei Препараты для лечения обструктивных заболеваний дыхательных путей
+R05 r05-protivokashlevye-preparaty-i-sredstva-dlia-lecheniia-prostudnykh-zabolevanii Противокашлевые препараты и средства для лечения простудных заболеваний
+R06 r06-antigistaminnye-preparaty-dlia-sistemnogo-deistviia Антигистаминные препараты для системного действия
+R07 r07-drugie-preparaty-dlia-lecheniia-zabolevanii-organov-dyhaniia Другие препараты для лечения заболеваний органов дыхания
+S01 s01-preparaty-dlia-lecheniia-zabolevanii-glaz Препараты для лечения заболеваний глаз
+S02 s02-preparaty-dlia-lecheniia-zabolevanii-uha Препараты для лечения заболеваний уха
+S03 s03-preparaty-dlia-lecheniia-zabolevanii-glaz-i-uha Препараты для лечения заболеваний глаз и уха
+V01 v01-allergeny Аллергены
+V03 v03-prochie-raznye-preparaty Прочие разные препараты
+V04 v04-diagnosticheskie-preparaty Диагностические препараты
+V06 v06-preparaty-dlia-pitaniia Препараты для питания
+V07 v07-drugie-raznye-nelechebnye-sredstva Другие разные нелечебные средства
+V08 v08-kontrastnye-veshchestva Контрастные вещества
+V09 v09-diagnosticheskie-radiofarmatcevticheskie-sredstva Диагностические радиофармацевтические средства
+V10 v10-lechebnye-radiofarmatcevticheskie-sredstva Лечебные радиофармацевтические средства
+V20 v20-hirurgicheskie-poviazki Хирургические повязки
+V30 v30-ne-prisvoen Не присвоен

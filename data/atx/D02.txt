@@ -1,0 +1,17 @@
+D02A d02a-preparaty-so-smiagchaiushchim-i-zashchitnym-deistviem Препараты со смягчающим и защитным действием
+D02B d02b-fotozashchitnye-preparaty-zashchita-ot-uf-izlucheniia Фотозащитные препараты (защита от УФ-излучения)
+D02AA d02aa-preparaty-soderzhashchie-silikon Препараты, содержащие силикон
+D02AB d02ab-preparaty-tcinka Препараты цинка
+D02AC d02ac-preparaty-soderzhashchie-miagkii-parafin-i-zhiry Препараты, содержащие мягкий парафин и жиры
+D02AD d02ad-plastyri-zhidkie Пластыри жидкие
+D02AE d02ae-preparaty-mocheviny Препараты мочевины
+D02AF d02af-preparaty-salitcilovoi-kisloty Препараты салициловой кислоты
+D02AX d02ax-prochie-preparaty-so-smiagchaiushchim-i-zashchitnym-deistviem Прочие препараты со смягчающим и защитным действием
+D02AE01 d02ae01-mochevina-karbamid Мочевина (карбамид)
+D02AE51 d02ae51-karbamid-v-kombinatcii-s-drugimi-preparatami Карбамид в комбинации с другими препаратами
+D02BA d02ba-fotozashchitnye-preparaty-dlia-mestnogo-primeneniia Фотозащитные препараты для местного применения
+D02BB d02bb-fotozashchitnye-preparaty-dlia-sistemnogo-primeneniia Фотозащитные препараты для системного применения
+D02BA01 d02ba01-aminobenzoinaia-kislota Аминобензойная кислота
+D02BA02 d02ba02-oktinoksat Октиноксат
+D02BB01 d02bb01-betakaroten Бетакаротен
+D02BB02 d02bb02-afamelanotid Афамеланотид

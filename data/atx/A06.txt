@@ -1,0 +1,72 @@
+A06A a06a-slabitelnye Слабительные
+A06AA a06aa-smiagchaiushie-preparaty Смягчаюшие препараты
+A06AB a06ab-kontaktnye-slabitelnye Контактные слабительные
+A06AC a06ac-slabitelnye-uvelichivaiushchie-obyom-kishechnogo-soderzhimogo Слабительные, увеличивающие объём кишечного содержимого
+A06AD a06ad-osmoticheskie-slabitelnye Осмотические слабительные
+A06AG a06ag-slabitelnye-preparaty-v-clizmakh Слабительные препараты в клизмах
+A06AH a06ah-antagonisty-perifericheskikh-opioidnykh-retceptorov Антагонисты периферических опиоидных рецепторов
+A06AX a06ax-prochie-slabitelnye Прочие слабительные
+A06AA01 a06aa01-parafin-zhidkii Парафин жидкий
+A06AA02 a06aa02-dokuzat-natriia Докузат натрия
+A06AA51 a06aa51-parafin-zhidkii-v-kombinatcii-s-drugimi-preparatami Парафин жидкий в комбинации с другими препаратами
+A06AB01 a06ab01-atcetfenolizatin Ацетфенолизатин
+A06AB02 a06ab02-bisakodil Бисакодил
+A06AB03 a06ab03-dantron Дантрон
+A06AB04 a06ab04-fenolftalein Фенолфталеин
+A06AB05 a06ab05-kastorovoe-maslo Касторовое масло
+A06AB06 a06ab06-senny-glikozidy Сенны гликозиды
+A06AB07 a06ab07-kaskara Каскара
+A06AB08 a06ab08-natriia-pikosulfat Натрия пикосульфат
+A06AB09 a06ab09-bisoksatin Бисоксатин
+A06AB20 a06ab20-kombinatciia-kontaktnykh-slabitelnykh Комбинация контактных слабительных
+A06AB30 a06ab30-kombinatciia-kontaktnykh-slabitelnykh-s-alkaloidami-belladonny Комбинация контактных слабительных с алкалоидами белладонны
+A06AB52 a06ab52-bisakodil-v-kombinatcii-s-drugimi-preparatami Бисакодил в комбинации с другими препаратами
+A06AB53 a06ab53-dantron-v-kombinatcii-s-drugimi-preparatami Дантрон в комбинации с другими препаратами
+A06AB56 a06ab56-senny-glikozidy-v-kombinatcii-s-drugimi-preparatami Сенны гликозиды в комбинации с другими препаратами
+A06AB57 a06ab57-kaskara-v-kombinatcii-s-drugimi-preparatami Каскара в комбинации с другими препаратами
+A06AB58 a06ab58-natriia-pikosulfat-v-kombinatcii-s-drugimi-preparatami Натрия пикосульфат в комбинации с другими препаратами
+A06AC01 a06ac01-isfagula-podorozhnika-ovalnogo-ili-bloshnogo-semena Исфагула (подорожника овального или блошного семена)
+A06AC02 a06ac02-etuloza Этулоза
+A06AC03 a06ac03-sterkulia Стеркулиа
+A06AC05 a06ac05-lna-semia Льна семя
+A06AC06 a06ac06-metiltcelliuloza Метилцеллюлоза
+A06AC07 a06ac07-trititcii-pshenichnaia-cletchatka Тритиций (пшеничная клетчатка)
+A06AC08 a06ac08-polikarbofil-kaltciia Поликарбофил кальция
+A06AC51 a06ac51-isfagula-v-kombinatcii-s-drugimi-preparatami Исфагула в комбинации с другими препаратами
+A06AC53 a06ac53-sterkulia-v-kombinatcii-s-drugimi-preparatami Стеркулиа в комбинации с другими препаратами
+A06AC55 a06ac55-lna-semia-v-kombinatcii-s-drugimi-preparatami-diufalak-slabitelnoe-na-osnove-laktulozy Льна семя в комбинации с другими препаратами дюфалак - слабительное на основе лактулозы
+A06AD01 a06ad01-magniia-karbonat Магния карбонат
+A06AD02 a06ad02-magniia-oksid Магния оксид
+A06AD03 a06ad03-magniia-peroksid Магния пероксид
+A06AD04 a06ad04-magniia-sulfat Магния сульфат
+A06AD10 a06ad10-kombinatciia-mineralnykh-solei Комбинация минеральных солей
+A06AD11 a06ad11-laktuloza Лактулоза
+A06AD12 a06ad12-laktitol Лактитол
+A06AD13 a06ad13-natriia-sulfat Натрия сульфат
+A06AD14 a06ad14-pentaeritritila-tetranitrat Пентаэритритила тетранитрат
+A06AD15 a06ad15-makrogol Макрогол
+A06AD16 a06ad16-mannitol Маннитол
+A06AD17 a06ad17-natriia-fosfat Натрия фосфат
+A06AD18 a06ad18-sorbitol Сорбитол
+A06AD19 a06ad19-magniia-tcitrat Магния цитрат
+A06AD21 a06ad21-natriia-tartrat-makrogol-forlaks Натрия тартрат макроголь - форлакс
+A06AD61 a06ad61-laktuloza-v-kombinatcii-s-drugimi-preparatami Лактулоза в комбинации с другими препаратами
+A06AD65 a06ad65-makrogol-v-kombinatcii-s-drugimi-preparatami Макрогол в комбинации с другими препаратами
+A06AG01 a06ag01-natriia-fosfat Натрия фосфат
+A06AG02 a06ag02-bisakodil Бисакодил
+A06AG03 a06ag03-dantnon-v-tom-chisle-v-kombinatcii-s-drugimi-preparatami-odnorazovaia-clizma-enema-clin-rastvor-natrievykh-solei-fosfornykh-kislot Дантнон, в том числе в комбинации с другими препаратами Одноразовая клизма Энема Клин - раствор натриевых солей фосфорных кислот
+A06AG04 a06ag04-glitcerol Глицерол
+A06AG06 a06ag06-maslo Масло
+A06AG07 a06ag07-sorbitol Сорбитол
+A06AG10 a06ag10-dokuzat-natriia-v-tom-chisle-v-kombinatcii-s-drugimi-preparatami Докузат натрия, в том числе в комбинации с другими препаратами
+A06AG11 a06ag11-laurilsulfat-v-tom-chisle-v-kombinatcii-s-drugimi-preparatami Лаурилсульфат, в том числе в комбинации с другими препаратами
+A06AG20 a06ag20-kombinirovannye-slabitelnye-preparaty Комбинированные слабительные препараты
+A06AH01 a06ah01-metilnaltreksona-bromid Метилналтрексона бромид
+A06AH02 a06ah02-alvimopan Алвимопан
+A06AH03 a06ah03-naloksegol Налоксегол
+A06AX01 a06ax01-glitcerol Глицерол
+A06AX02 a06ax02-preparaty-obrazuiushchie-uglekislyi-gaz Препараты, образующие углекислый газ
+A06AX03 a06ax03-lubiproston Лубипростон
+A06AX04 a06ax04-leenaclotid Линаклотид
+A06AX05 a06ax05-prukaloprid Прукалоприд
+A06AX06 a06ax06-tegaserod Тегасерод

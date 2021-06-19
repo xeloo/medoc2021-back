@@ -1,0 +1,43 @@
+G02A g02a-uterotoniki Утеротоники
+G02B g02b-kontratceptivy-dlia-mestnogo-primeneniia Контрацептивы для местного применения
+G02C g02c-prochie-preparaty-dlia-lecheniia-ginekologicheskikh-zabolevanii Прочие препараты для лечения гинекологических заболеваний
+G02AB g02ab-alkaloidy-sporyni Алкалоиды спорыньи
+G02AC g02ac-kombinatcii-alkaloidov-sporyni-i-oksitotcina-vcliuchaia-ego-analogi Комбинации алкалоидов спорыньи и окситоцина, включая его аналоги
+G02AD g02ad-prostaglandiny Простагландины
+G02AX g02ax-drugie-uterotoniki Другие утеротоники
+G02AB01 g02ab01-metilergometrin Метилэргометрин
+G02AB02 g02ab02-alkaloidy-sporyni Алкалоиды спорыньи
+G02AB03 g02ab03-ergometrin Эргометрин
+G02AC01 g02ac01-metilergometrin-i-oksitotcin Метилэргометрин и окситоцин
+G02AD01 g02ad01-dinoprost Динопрост
+G02AD02 g02ad02-dinoproston Динопростон
+G02AD03 g02ad03-gemeprost Гемепрост
+G02AD04 g02ad04-karboprost Карбопрост
+G02AD05 g02ad05-sulproston Сульпростон
+G02AD06 g02ad06-mizoprostol Мизопростол
+G02BA g02ba-kontratceptivy-vnutrimatochnye Контрацептивы внутриматочные
+G02BB g02bb-kontratceptivy-intravaginalnye Контрацептивы интравагинальные
+G02BA01 g02ba01-plastikovye-vms Пластиковые ВМС
+G02BA02 g02ba02-plastikovye-vms-s-mediu Пластиковые ВМС с медью
+G02BA03 g02ba03-plastikovye-vms-s-gestagenami Пластиковые ВМС с гестагенами
+G02BB01 g02bb01-koltca-intravaginalnye-s-gestagenom-i-estrogenom Кольца интравагинальные с гестагеном и эстрогеном
+G02CA g02ca-tokoliticheskie-preparaty-simpatomimetiki Токолитические препараты - симпатомиметики
+G02CB g02cb-ingibitory-prolaktina Ингибиторы пролактина
+G02CC g02cc-protivovospalitelnye-preparaty-dlia-intravaginalnogo-primeneniia Противовоспалительные препараты для интравагинального применения
+G02CX g02cx-preparaty-dlia-lecheniia-ginekologicheskikh-zabolevanii-drugie Препараты для лечения гинекологических заболеваний другие
+G02CA01 g02ca01-ritodrin Ритодрин
+G02CA02 g02ca02-bufenin Буфенин
+G02CA03 g02ca03-fenoterol Фенотерол
+G02CB01 g02cb01-bromokriptin Бромокриптин
+G02CB02 g02cb02-leezurid Лизурид
+G02CB03 g02cb03-kabergolin Каберголин
+G02CB04 g02cb04-hinagolid Хинаголид
+G02CB05 g02cb05-metergolin Метерголин
+G02CB06 g02cb06-tergurid Тергурид
+G02CC01 g02cc01-ibuprofen Ибупрофен
+G02CC02 g02cc02-naproksen Напроксен
+G02CC03 g02cc03-benzidamin Бензидамин
+G02CC04 g02cc04-flunoksaprofen Флуноксапрофен
+G02CX01 g02cx01-atoziban Атозибан
+G02CX03 g02cx03-prutniaka-obyknovennogo-plody Прутняка обыкновенного плоды
+G02CX04 g02cx04-clopogona-kornevishche Клопогона корневище

@@ -1,0 +1,71 @@
+V03A v03a-prochie-raznye-preparaty Прочие разные препараты
+V03AB v03ab-antidoty Антидоты
+V03AC v03ac-zhelezosviazyvaiushchie-preparaty Железосвязывающие препараты
+V03AE v03ae-preparaty-dlia-lecheniia-giperkaliemii-i-giperfosfatemii Препараты для лечения гиперкалиемии и гиперфосфатемии
+V03AF v03af-preparaty-snizhaiushchie-toksichnost-tcitostaticheskoi-terapii Препараты, снижающие токсичность цитостатической терапии
+V03AG v03ag-preparaty-dlia-lecheniia-giperkaltciemii Препараты для лечения гиперкальциемии
+V03AH v03ah-preparaty-dlia-lecheniia-gipoglikemii Препараты для лечения гипогликемии
+V03AK v03ak-tkanevye-poviazki Тканевые повязки
+V03AM v03am-preparaty-dlia-embolizatcii Препараты для эмболизации
+V03AN v03an-meditcinskie-gazy Медицинские газы
+V03AX v03ax-prochie-lekarstvennye-preparaty Прочие лекарственные препараты
+V03AZ v03az-preparaty-ugnetaiushchie-nervnuiu-sistemu Препараты, угнетающие нервную систему
+V03AB01 v03ab01-ipecacuanha Ipecacuanha
+V03AB02 v03ab02-nalorphine Nalorphine
+V03AB03 v03ab03-edetates Edetates
+V03AB04 v03ab04-pralidoxime-iodide Pralidoxime iodide
+V03AB05 v03ab05-prednizolon-i-prometazin Преднизолон и прометазин
+V03AB06 v03ab06-thiosulphate Thiosulphate
+V03AB08 v03ab08-sodium-nitrite Sodium nitrite
+V03AB09 v03ab09-dimercaprol Dimercaprol
+V03AB13 v03ab13-obidoxime Obidoxime
+V03AB14 v03ab14-protamine Protamine
+V03AB15 v03ab15-naloxone Naloxone
+V03AB16 v03ab16-ethanol Ethanol
+V03AB17 v03ab17-methylthioninium-chloride Methylthioninium chloride
+V03AB18 v03ab18-potassium-permanganate Potassium permanganate
+V03AB19 v03ab19-physostigmine Physostigmine
+V03AB20 v03ab20-copper-sulfate Copper sulfate
+V03AB21 v03ab21-potassium-iodide Potassium iodide
+V03AB22 v03ab22-amyl-nitrite Amyl nitrite
+V03AB23 v03ab23-acetylcysteine Acetylcysteine
+V03AB24 v03ab24-digitalisnyi-antitoksin Дигиталисный антитоксин
+V03AB25 v03ab25-flumazenil Flumazenil
+V03AB26 v03ab26-methionine Methionine
+V03AB27 v03ab27-4-dimethylaminophenol 4-dimethylaminophenol
+V03AB29 v03ab29-cholinesterase Cholinesterase
+V03AB31 v03ab31-prussian-blue Prussian blue
+V03AB32 v03ab32-glutathione Glutathione
+V03AB33 v03ab33-hydroxocobalamin Hydroxocobalamin
+V03AB34 v03ab34-fomepizole Fomepizole
+V03AB35 v03ab35-sugammadex Sugammadex
+V03AB37 v03ab37-idarucizumab Idarucizumab
+V03AC01 v03ac01-deferoxamine Deferoxamine
+V03AC02 v03ac02-deferiprone Deferiprone
+V03AC03 v03ac03-deferasirox Deferasirox
+V03AE01 v03ae01-polystyrene-sulfonate Polystyrene sulfonate
+V03AE02 v03ae02-sevelamer Sevelamer
+V03AE03 v03ae03-lanthanum-carbonate Lanthanum carbonate
+V03AE04 v03ae04-calcium-actetate-and-magnesium-carbonate Calcium actetate and magnesium carbonate
+V03AE05 v03ae05-sucroferric-oxyhydroxide Sucroferric oxyhydroxide
+V03AE06 v03ae06-colestilan Colestilan
+V03AE07 v03ae07-calcium-acetate Calcium acetate
+V03AE08 v03ae08-ferric-citrate Ferric citrate
+V03AF01 v03af01-mesna Mesna
+V03AF02 v03af02-dexrazoxane Dexrazoxane
+V03AF03 v03af03-calcium-folinate Calcium folinate
+V03AF04 v03af04-calcium-levofolinate Calcium levofolinate
+V03AF05 v03af05-amifostine Amifostine
+V03AF06 v03af06-sodium-folinate Sodium folinate
+V03AF07 v03af07-rasburicase Rasburicase
+V03AF08 v03af08-palifermin Palifermin
+V03AF09 v03af09-glucarpidase Glucarpidase
+V03AF10 v03af10-sodium-levofolinate Sodium levofolinate
+V03AG01 v03ag01-sodium-cellulose-phosphate Sodium cellulose phosphate
+V03AH01 v03ah01-diazoxide Diazoxide
+V03AN01 v03an01-oxygen Oxygen
+V03AN02 v03an02-carbon-dioxide Carbon dioxide
+V03AN03 v03an03-helium Helium
+V03AN04 v03an04-nitrogen Nitrogen
+V03AN05 v03an05-medical-air Medical air
+V03AZ01 v03az01-ethanol Ethanol

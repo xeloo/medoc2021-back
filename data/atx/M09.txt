@@ -1,0 +1,14 @@
+M09A m09a-prochie-preparaty-dlia-lecheniia-zabolevanii-kostno-myshechnoi-sistemy Прочие препараты для лечения заболеваний костно-мышечной системы
+M09AB m09ab-fermentnye-preparaty Ферментные препараты
+M09AX m09ax-prochie-preparaty-dlia-lecheniia-zabolevanii-kostno-myshechnoi-sistemy Прочие препараты для лечения заболеваний костно-мышечной системы
+M09AA m09aa-hinin Хинин и его производные
+M09AB01 m09ab01-himopapain Химопапаин
+M09AB02 m09ab02-kollagenazy-clostridium-histolyticum Коллагеназы (Clostridium histolyticum)
+M09AB03 m09ab03-bromelainy Бромелаины
+M09AB52 m09ab52-tripsin-v-kombinatcii-s-drugimi-preparatami Трипсин в комбинации с другими препаратами
+M09AX01 m09ax01-gialuronovaia-kislota Гиалуроновая кислота
+M09AX02 m09ax02-hondrotcity-autologichnye Хондроциты аутологичные
+M09AX03 m09ax03-ataluren Аталурен
+M09AX04 m09ax04-drisapersen Дрисаперсен
+M09AA01 m09aa01-gidrohinin Гидрохинин
+M09AA72 m09aa72-hinin-v-kombinatcii-s-psiholeptikami Хинин в комбинации с психолептиками

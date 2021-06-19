@@ -1,0 +1,131 @@
+N02A n02a-opioidy Опиоиды
+N02B n02b-drugie-analgetiki-i-antipiretiki Другие анальгетики и антипиретики
+N02C n02c-protivomigrenoznye-preparaty Противомигренозные препараты
+N02AA n02aa-prirodnye-alkaloidy-opiia Природные алкалоиды опия
+N02AB n02ab-proizvodnye-fenilpiperidina Производные фенилпиперидина
+N02AC n02ac-proizvodnye-difenilpropilamina Производные дифенилпропиламина
+N02AD n02ad-proizvodnye-benzomorfana Производные бензоморфана
+N02AE n02ae-proizvodnye-oripavina Производные орипавина
+N02AF n02af-proizvodnye-morfina Производные морфина
+N02AG n02ag-opioidy-v-kombinatcii-so-spazmolitikami Опиоиды в комбинации со спазмолитиками
+N02AX n02ax-drugie-opioidy Другие опиоиды
+N02AA01 n02aa01-morfin Морфин
+N02AA02 n02aa02-opium Опиум
+N02AA03 n02aa03-gidromorfon Гидроморфон
+N02AA04 n02aa04-nikomorfin Никоморфин
+N02AA05 n02aa05-oksikodon Оксикодон
+N02AA08 n02aa08-digidrokodein Дигидрокодеин
+N02AA10 n02aa10-papaveretum Папаверетум
+N02AA51 n02aa51-morfin-v-kombinatcii-s-drugimi-preparatami Морфин в комбинации с другими препаратами
+N02AA55 n02aa55-oksikodon-v-kombinatcii-s-naloksonom Оксикодон в комбинации с налоксоном
+N02AA58 n02aa58-digidrokodein-v-kombinatcii-s-drugimi-preparatami Дигидрокодеин в комбинации с другими препаратами
+N02AA59 n02aa59-kodein-v-kombinatcii-s-drugimi-preparatami-iscliuchaia-psiholeptiki Кодеин в комбинации с другими препаратами, исключая психолептики
+N02AA79 n02aa79-kodein-v-kombinatcii-s-psiholeptikami Кодеин в комбинации с психолептиками
+N02AB01 n02ab01-ketobemidon Кетобемидон
+N02AB02 n02ab02-petidin Петидин
+N02AB03 n02ab03-fentanil Фентанил
+N02AB52 n02ab52-petidin-v-kombinatcii-s-drugimi-preparatami-iscliuchaia-psiholeptiki Петидин в комбинации с другими препаратами, исключая психолептики
+N02AB72 n02ab72-petidin-v-kombinatcii-s-psiholeptikami Петидин в комбинации с психолептиками
+N02AC01 n02ac01-dekstromoramid Декстроморамид
+N02AC03 n02ac03-piritramid Пиритрамид
+N02AC04 n02ac04-dekstropropoksifen Декстропропоксифен
+N02AC05 n02ac05-bezitramid Безитрамид
+N02AC52 n02ac52-metadon-v-kombinatcii-s-drugimi-preparatami-iscliuchaia-psiholeptiki Метадон в комбинации с другими препаратами, исключая психолептики
+N02AC54 n02ac54-dekstropropoksifen-v-kombinatcii-s-drugimi-preparatami-iscliuchaia-psiholeptiki Декстропропоксифен в комбинации с другими препаратами, исключая психолептики
+N02AC74 n02ac74-dekstropropoksifen-v-kombinatcii-s-psiholeptikami Декстропропоксифен в комбинации с психолептиками
+N02AD01 n02ad01-pentazotcin Пентазоцин
+N02AD02 n02ad02-fenazotcin Феназоцин
+N02AE01 n02ae01-buprenorfin Бупренорфин
+N02AF01 n02af01-butorfanol Буторфанол
+N02AF02 n02af02-nalbufin Налбуфин
+N02AG01 n02ag01-morfin-v-kombinatcii-so-spazmolitikami Морфин в комбинации со спазмолитиками
+N02AG02 n02ag02-ketobemidon-v-kombinatcii-so-spazmolitikami Кетобемидон в комбинации со спазмолитиками
+N02AG03 n02ag03-petidin-v-kombinatcii-so-spazmolitikami Петидин в комбинации со спазмолитиками
+N02AG04 n02ag04-gidromorfon-v-kombinatcii-so-spazmolitikami Гидроморфон в комбинации со спазмолитиками
+N02AX01 n02ax01-tilidin Тилидин
+N02AX02 n02ax02-tramadol Трамадол
+N02AX03 n02ax03-dezotcin Дезоцин
+N02AX05 n02ax05-meptazinol Мептазинол
+N02AX06 n02ax06-tapentadol Тапентадол
+N02BB n02bb-pirazolony Пиразолоны
+N02BE n02be-anilidy Анилиды
+N02BG n02bg-prochie-analgetiki-i-antipiretiki Прочие анальгетики и антипиретики
+N02BA n02ba-salicilovaya-kislota Салициловая кислота и ее производные
+N02BB01 n02bb01-fenazon Феназон
+N02BB02 n02bb02-metamizol-natriia Метамизол натрия
+N02BB03 n02bb03-aminofenazon Аминофеназон
+N02BB04 n02bb04-propifenazon Пропифеназон
+N02BB05 n02bb05-nifenazon Нифеназон
+N02BB51 n02bb51-fenazon-v-kombinatcii-s-drugimi-preparatami-iscliuchaia-psiholeptiki Феназон в комбинации с другими препаратами, исключая психолептики
+N02BB52 n02bb52-metamizol-natriia-v-kombinatcii-s-drugimi-preparatami-iscliuchaia-psiholeptiki Метамизол натрия в комбинации с другими препаратами, исключая психолептики
+N02BB53 n02bb53-aminofenazon-v-kombinatcii-s-drugimi-preparatami-iscliuchaia-psiholeptiki Аминофеназон в комбинации с другими препаратами, исключая психолептики
+N02BB54 n02bb54-propifenazon-v-kombinatcii-s-drugimi-preparatami-iscliuchaia-psiholeptiki Пропифеназон в комбинации с другими препаратами, исключая психолептики
+N02BB71 n02bb71-fenazon-v-kombinatcii-s-psiholeptikami Феназон в комбинации с психолептиками
+N02BB72 n02bb72-metamizol-natriia-v-kombinatcii-s-psiholeptikami Метамизол натрия в комбинации с психолептиками
+N02BB73 n02bb73-aminofenazon-v-kombinatcii-s-psiholeptikami Аминофеназон в комбинации с психолептиками
+N02BB74 n02bb74-propifenazon-v-kombinatcii-s-psiholeptikami Пропифеназон в комбинации с психолептиками
+N02BE01 n02be01-paratcetamol Парацетамол
+N02BE03 n02be03-fenatcetin Фенацетин
+N02BE04 n02be04-butcetin Буцетин
+N02BE05 n02be05-propatcetamol Пропацетамол
+N02BE53 n02be53-fenatcetin-v-kombinatcii-s-drugimi-preparatami-iscliuchaia-psiholeptiki Фенацетин в комбинации с другими препаратами, исключая психолептики
+N02BE54 n02be54-butcetin-v-kombinatcii-s-drugimi-preparatami-iscliuchaia-psiholeptiki Буцетин в комбинации с другими препаратами, исключая психолептики
+N02BE71 n02be71-paratcetamol-v-kombinatcii-s-psiholeptikami Парацетамол в комбинации с психолептиками
+N02BE73 n02be73-fenatcetin-v-kombinatcii-s-psiholeptikami Фенацетин в комбинации с психолептиками
+N02BE74 n02be74-butcetin-v-kombinatcii-s-psiholeptikami Буцетин в комбинации с психолептиками
+N02BG02 n02bg02-rimazoliia-metilsulfat Римазолия метилсульфат
+N02BG03 n02bg03-glafenin Глафенин
+N02BG04 n02bg04-floktafenin Флоктафенин
+N02BG05 n02bg05-viminol Виминол
+N02BG06 n02bg06-nefopam Нефопам
+N02BG07 n02bg07-flupirtin Флупиртин
+N02BG08 n02bg08-zikonotid Зиконотид
+N02BG09 n02bg09-metoksifluran Метоксифлуран
+N02BG10 n02bg10-kannabinoidy Каннабиноиды
+N02BA01 n02ba01-atcetilsalitcilovaia-kislota Ацетилсалициловая кислота
+N02BA02 n02ba02-aloksiprin Алоксиприн
+N02BA03 n02ba03-holina-salitcilat Холина салицилат
+N02BA04 n02ba04-natriia-salitcilat Натрия салицилат
+N02BA05 n02ba05-salitcilamid Салициламид
+N02BA06 n02ba06-salsalat Салсалат
+N02BA07 n02ba07-etenzamid Этензамид
+N02BA08 n02ba08-morfolina-salitcilat Морфолина салицилат
+N02BA09 n02ba09-dipirotcetil Дипироцетил
+N02BA10 n02ba10-benorilat Бенорилат
+N02BA11 n02ba11-diflunizal Дифлунизал
+N02BA12 n02ba12-kaliia-salitcilat Калия салицилат
+N02BA14 n02ba14-guatcetisal Гуацетисал
+N02BA15 n02ba15-karbazalat-kaltciia Карбазалат кальция
+N02BA16 n02ba16-imidazola-salitcilat Имидазола салицилат
+N02BA55 n02ba55-salitcilamid-v-kombinatcii-s-drugimi-preparatami-iscliuchaia-psiholeptiki Салициламид, в комбинации с другими препаратами, исключая психолептики
+N02BA57 n02ba57-etenzamid-v-kombinatcii-s-drugimi-preparatami-iscliuchaia-psiholeptiki Этензамид в комбинации с другими препаратами, исключая психолептики
+N02BA59 n02ba59-dipirotcetil-v-kombinatcii-s-drugimi-preparatami-iscliuchaia-psiholeptiki Дипироцетил в комбинации с другими препаратами, исключая психолептики
+N02BA65 n02ba65-karbazalat-kaltciia-v-kombinatcii-s-drugimi-preparatami-iscliuchaia-psiholeptiki Карбазалат кальция в комбинации с другими препаратами, исключая психолептики
+N02BA71 n02ba71-atcetilsalitcilovaia-kislota-v-kombinatcii-s-psiholeptikami Ацетилсалициловая кислота в комбинации с психолептиками
+N02BA75 n02ba75-salitcilamid-v-kombinatcii-s-psiholeptikami Салициламид в комбинации с психолептиками
+N02BA77 n02ba77-etenzamid-v-kombinatcii-s-psiholeptikami Этензамид в комбинации с психолептиками
+N02BA79 n02ba79-dipirotcetil-v-kombinatcii-s-psiholeptikami Дипироцетил в комбинации с психолептиками
+N02CA n02ca-alkaloidy-sporyni Алкалоиды спорыньи
+N02CB n02cb-proizvodnye-kortikosteroidov Производные кортикостероидов
+N02CC n02cc-selektivnye-agonisty-serotoninovykh-5-ht1-retceptorov Селективные агонисты серотониновых 5-HT1-рецепторов
+N02CX n02cx-prochie-protivomigrenoznye-preparaty Прочие противомигренозные препараты
+N02CA01 n02ca01-digidroergotamin Дигидроэрготамин
+N02CA02 n02ca02-ergotamin Эрготамин
+N02CA04 n02ca04-metisergid Метисергид
+N02CA07 n02ca07-leezurid Лизурид
+N02CA51 n02ca51-digidroergotamin-v-kombinatcii-s-drugimi-preparatami Дигидроэрготамин в комбинации с другими препаратами
+N02CA52 n02ca52-ergotamin-v-kombinatcii-s-drugimi-preparatami-iscliuchaia-psiholeptiki Эрготамин в комбинации с другими препаратами, исключая психолептики
+N02CA72 n02ca72-ergotamin-v-kombinatcii-s-psiholeptikami Эрготамин, в комбинации с психолептиками
+N02CB01 n02cb01-flumedrokson Флумедроксон
+N02CC01 n02cc01-sumatriptan Суматриптан
+N02CC02 n02cc02-naratriptan Наратриптан
+N02CC03 n02cc03-zolmitriptan Золмитриптан
+N02CC04 n02cc04-rizatriptan Ризатриптан
+N02CC05 n02cc05-almotriptan Алмотриптан
+N02CC06 n02cc06-eletriptan Элетриптан
+N02CC07 n02cc07-frovatriptan Фроватриптан
+N02CX01 n02cx01-pizotifen Пизотифен
+N02CX02 n02cx02-clonidin Клонидин
+N02CX03 n02cx03-iprazokhrom Ипразохром
+N02CX05 n02cx05-dimetotiazin Диметотиазин
+N02CX06 n02cx06-oksetoron Оксеторон

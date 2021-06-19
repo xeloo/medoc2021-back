@@ -1,0 +1,21 @@
+R07A r07a-drugie-preparaty-dlia-lecheniia-zabolevanii-organov-dyhaniia Другие препараты для лечения заболеваний органов дыхания
+R07AA r07aa-legochnye-surfaktanty Легочные сурфактанты
+R07AB r07ab-stimuliatory-dyhaniia Стимуляторы дыхания
+R07AX r07ax-prochie-preparaty-dlia-lecheniia-zabolevanii-organov-dyhaniia Прочие препараты для лечения заболеваний органов дыхания
+R07AA01 r07aa01-kolfostcerila-palmitat Колфосцерила пальмитат
+R07AA02 r07aa02-fosfolipidy-naturalnye Фосфолипиды натуральные
+R07AA30 r07aa30-kombinirovannye-preparaty Комбинированные препараты
+R07AB01 r07ab01-doksapram Доксапрам
+R07AB02 r07ab02-niketamid Никетамид
+R07AB03 r07ab03-pentetrazol Пентетразол
+R07AB04 r07ab04-etamivan Этамиван
+R07AB05 r07ab05-bemegrid Бемегрид
+R07AB06 r07ab06-pretkamid Преткамид
+R07AB07 r07ab07-almitrin Алмитрин
+R07AB08 r07ab08-dimeflin Димефлин
+R07AB09 r07ab09-mepiksanoks Мепиксанокс
+R07AB52 r07ab52-niketamid-v-kombinatcii-s-drugimi-preparatami Никетамид в комбинации с другими препаратами
+R07AB53 r07ab53-pentetrazol-v-kombinatcii-s-drugimi-preparatami Пентетразол в комбинации с другими препаратами
+R07AX01 r07ax01-oksid-azota Оксид азота
+R07AX02 r07ax02-ivakaftor Ивакафтор
+R07AX30 r07ax30-ivakaftor-i-lumakaftor Ивакафтор и лумакафтор

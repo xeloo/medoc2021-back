@@ -1,0 +1,43 @@
+S02A s02a-protivomikrobnye-preparaty Противомикробные препараты
+S02B s02b-kortikosteroidy Кортикостероиды
+S02C s02c-kortikosteroidy-v-kombinatcii-s-protivomikrobnymi-preparatami Кортикостероиды в комбинации с противомикробными препаратами
+S02D s02d-drugie-preparaty-dlia-lecheniia-zabolevanii-uha Другие препараты для лечения заболеваний уха
+S02AA s02aa-protivomikrobnye-preparaty Противомикробные препараты
+S02AA01 s02aa01-khloramfenikol Хлорамфеникол
+S02AA02 s02aa02-nitrofural Нитрофурал
+S02AA03 s02aa03-bornaia-kislota Борная кислота
+S02AA04 s02aa04-atcetotartrat-aliuminiia Ацетотартрат алюминия
+S02AA05 s02aa05-cliohinol Клиохинол
+S02AA06 s02aa06-vodoroda-peroksid Водорода пероксид
+S02AA07 s02aa07-neomitcin Неомицин
+S02AA08 s02aa08-tetratciclin Тетрациклин
+S02AA09 s02aa09-khlorgeksidin Хлоргексидин
+S02AA10 s02aa10-uksusnaia-kislota Уксусная кислота
+S02AA11 s02aa11-polimiksin-b Полимиксин B
+S02AA12 s02aa12-rifamitcin Рифамицин
+S02AA13 s02aa13-mikonazol Миконазол
+S02AA14 s02aa14-gentamitcin Гентамицин
+S02AA15 s02aa15-tciprofloksatcin Ципрофлоксацин
+S02AA16 s02aa16-ofloksatcin Офлоксацин
+S02AA30 s02aa30-kombinatciia-protivomikrobnykh-preparatov Комбинация противомикробных препаратов
+S02BA s02ba-kortikosteroidy Кортикостероиды
+S02BA01 s02ba01-gidrokortizon Гидрокортизон
+S02BA03 s02ba03-prednizolon Преднизолон
+S02BA06 s02ba06-deksametazon Дексаметазон
+S02BA07 s02ba07-betametazon Бетаметазон
+S02BA08 s02ba08-fluotcinolona-atcetonid Флуоцинолона ацетонид
+S02CA s02ca-kortikosteroidy-v-kombinatcii-s-protivomikrobnymi-preparatami Кортикостероиды в комбинации с противомикробными препаратами
+S02CA01 s02ca01-prednizolon-v-kombinatcii-s-protivomikrobnymi-preparatami Преднизолон в комбинации с противомикробными препаратами
+S02CA02 s02ca02-flumetazon-v-kombinatcii-s-protivomikrobnymi-preparatami Флуметазон в комбинации с противомикробными препаратами
+S02CA03 s02ca03-gidrokortizon-v-kombinatcii-s-protivomikrobnymi-preparatami Гидрокортизон в комбинации с противомикробными препаратами
+S02CA04 s02ca04-triamtcinolon-v-kombinatcii-s-protivomikrobnymi-preparatami Триамцинолон в комбинации с противомикробными препаратами
+S02CA05 s02ca05-fluotcinolon-v-kombinatcii-s-protivomikrobnymi-preparatami Флуоцинолон в комбинации с противомикробными препаратами
+S02CA06 s02ca06-deksametazon-v-kombinatcii-s-protivomikrobnymi-preparatami Дексаметазон в комбинации с противомикробными препаратами
+S02CA07 s02ca07-fludrokortizon-v-kombinatcii-s-protivomikrobnymi-preparatami Флудрокортизон в комбинации с противомикробными препаратами
+S02DA s02da-analgetiki-i-anestetiki Анальгетики и анестетики
+S02DC s02dc-indifferentnye-preparaty Индифферентные препараты
+S02DA01 s02da01-leedokain Лидокаин
+S02DA02 s02da02-kokain Кокаин
+S02DA03 s02da03-fenazon Феназон
+S02DA04 s02da04-tcinhokain Цинхокаин
+S02DA30 s02da30-kombinirovannye-preparaty Комбинированные препараты

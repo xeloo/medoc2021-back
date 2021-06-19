@@ -1,0 +1,71 @@
+C07A c07a-beta-adrenoblokatory Бета-адреноблокаторы
+C07B c07b-beta-adrenoblokatory-v-kombinatcii-s-tiazidami Бета-адреноблокаторы в комбинации с тиазидами
+C07C c07c-beta-adrenoblokatory-v-kombinatcii-s-drugimi-diuretikami Бета-адреноблокаторы в комбинации с другими диуретиками
+C07D c07d-beta-adrenoblokatory-v-kombinatcii-s-tiazidami-i-drugimi-diuretikami Бета-адреноблокаторы в комбинации с тиазидами и другими диуретиками
+C07E c07e-beta-adrenoblokatory-v-kombinatcii-s-vazodilatatorami Бета-адреноблокаторы в комбинации с вазодилататорами
+C07AA c07aa-neselektivnye-beta-adrenoblokatory Неселективные бета-адреноблокаторы
+C07AB c07ab-beta-adrenoblokatory-selektivnye Бета-адреноблокаторы селективные
+C07AG c07ag-alfa-i-beta-adrenoblokatory Альфа- и бета-адреноблокаторы
+C07AA01 c07aa01-alprenolol Альпренолол
+C07AA02 c07aa02-oksprenolol Окспренолол
+C07AA03 c07aa03-pindolol Пиндолол
+C07AA05 c07aa05-propranolol Пропранолол
+C07AA06 c07aa06-timolol Тимолол
+C07AA07 c07aa07-sotalol Соталол
+C07AA12 c07aa12-nadolol Надолол
+C07AA14 c07aa14-mepindolol Мепиндолол
+C07AA15 c07aa15-karteolol Картеолол
+C07AA16 c07aa16-tertatolol Тертатолол
+C07AA17 c07aa17-bopindolol Бопиндолол
+C07AA19 c07aa19-bupranolol Бупранолол
+C07AA23 c07aa23-penbutolol Пенбутолол 
+C07AA27 c07aa27-cloranolol Клоранолол
+C07AB01 c07ab01-praktolol Практолол
+C07AB02 c07ab02-metoprolol Метопролол
+C07AB03 c07ab03-atenolol Атенолол
+C07AB04 c07ab04-atcebutolol Ацебутолол
+C07AB05 c07ab05-betaksolol Бетаксолол
+C07AB06 c07ab06-bevantolol Бевантолол
+C07AB07 c07ab07-bisoprolol Бисопролол
+C07AB08 c07ab08-tceliprolol Целипролол
+C07AB09 c07ab09-esmolol Эсмолол
+C07AB10 c07ab10-epanolol Эпанолол
+C07AB11 c07ab11-atenolol-pravovrashchaiushchii Атенолол (правовращающий)
+C07AB12 c07ab12-nebivolol Небиволол
+C07AB13 c07ab13-talinolol Талинолол
+C07AG01 c07ag01-labetalol Лабеталол
+C07AG02 c07ag02-karvedilol Карведилол
+C07BA c07ba-neselektivnye-beta-adrenoblokatory-i-tiazidy Неселективные бета-адреноблокаторы и тиазиды
+C07BB c07bb-selektivnye-beta-adrenoblokatory-v-kombinatcii-s-tiazidami Селективные бета-адреноблокаторы в комбинации с тиазидами
+C07BG c07bg-alfa-i-beta-adrenoblokatory-i-tiazidy Альфа- и бета-адреноблокаторы и тиазиды
+C07BA02 c07ba02-oksprenolol-i-tiazidy Окспренолол и тиазиды
+C07BA05 c07ba05-propranolol-i-tiazidy Пропранолол и тиазиды
+C07BA06 c07ba06-timolol-i-tiazidy Тимолол и тиазиды 
+C07BA07 c07ba07-sotalol-i-tiazidy Соталол и тиазиды
+C07BA12 c07ba12-nadolol-i-tiazidy Надолол и тиазиды
+C07BA68 c07ba68-metipranolol-i-tiazidy-v-kombinatcii-s-drugimi-preparatami Метипранолол и тиазиды в комбинации с другими препаратами
+C07BB02 c07bb02-metoprolol-v-kombinatcii-s-tiazidami Метопролол в комбинации с тиазидами
+C07BB03 c07bb03-atenolol-v-kombinatcii-s-tiazidami Атенолол в комбинации с тиазидами
+C07BB04 c07bb04-atcebutolol-v-kombinatcii-s-tiazidami Ацебутолол в комбинации с тиазидами
+C07BB06 c07bb06-bevantolol-v-kombinatcii-s-tiazidami Бевантолол в комбинации с тиазидами
+C07BB07 c07bb07-bisoprolol-v-kombinatcii-s-tiazidami Бисопролол в комбинации с тиазидами
+C07BB12 c07bb12-nebivolol-v-kombinatcii-s-tiazidami Небиволол в комбинации с тиазидами
+C07BB52 c07bb52-metipranolol-i-tiazidy-v-kombinatcii-s-drugimi-preparatami Метипранолол и тиазиды в комбинации с другими препаратами
+C07BG01 c07bg01-labetalol-v-kombinatcii-s-tiazidami Лабеталол в комбинации с тиазидами
+C07CA c07ca-beta-adrenoblokatry-neselektivnye-v-kombinatcii-s-drugimi-diuretikami Бета-адреноблокатры неселективные в комбинации с другими диуретиками
+C07CB c07cb-selektivnye-beta-adrenoblokatory-v-kombinatcii-s-drugimi-diuretikami Селективные бета-адреноблокаторы в комбинации с другими диуретиками
+C07CG c07cg-alfa-i-beta-adrenoblokatory-v-kombinatcii-s-drugimi-diuretikami Альфа- и бета-адреноблокаторы в комбинации с другими диуретиками
+C07CA02 c07ca02-oksprenolol-v-kombinatcii-s-drugimi-diuretikami Окспренолол в комбинации с другими диуретиками
+C07CA03 c07ca03-pindolol-v-kombinatcii-s-drugimi-diuretikami Пиндолол в комбинации с другими диуретиками
+C07CA17 c07ca17-bopindolol-v-kombinatcii-s-drugimi-diuretikami Бопиндолол в комбинации с другими диуретиками
+C07CA23 c07ca23-penbutolol-v-kombinatcii-s-drugimi-diuretikami Пенбутолол в комбинации с другими диуретиками
+C07CB02 c07cb02-metipranolol-v-kombinatcii-s-drugimi-diuretikami Метипранолол в комбинации с другими диуретиками
+C07CB03 c07cb03-atenolol-v-kombinatcii-s-drugimi-diuretikami Атенолол в комбинации с другими диуретиками
+C07CB53 c07cb53-atenolol-v-kombinatcii-s-drugimi-diuretikami Атенолол в комбинации с другими диуретиками
+C07CG01 c07cg01-labetalol-i-drugie-diuretiki Лабеталол и другие диуретики
+C07DA c07da-neselektivnye-beta-adrenoblokatory-v-kombinatcii-s-tiazidami-i-drugimi-diuretikami Неселективные бета-адреноблокаторы в комбинации с тиазидами и другими диуретиками
+C07DB c07db-selektivnye-beta-adrenoblokatory-v-kombinatcii-s-tiazidami-i-drugimi-diuretikami Селективные бета-адреноблокаторы в комбинации с тиазидами и другими диуретиками
+C07DA06 c07da06-timolol-v-kombinatcii-s-tiazidami-i-drugimi-diuretikami Тимолол в комбинации с тиазидами и другими диуретиками
+C07DB01 c07db01-atenolol-v-kombinatcii-s-tiazidami-i-drugimi-diuretikami Атенолол в комбинации с тиазидами и другими диуретиками
+C07EA c07ea-neselektivnye-beta-adrenoblokatory-i-vazodiliatatory Неселективные бета-адреноблокаторы и вазодилятаторы
+C07EB c07eb-beta-adrenoblokatory-selektivnye-v-kombinatcii-s-vazodilatatorami Бета-адреноблокаторы селективные в комбинации с вазодилататорами

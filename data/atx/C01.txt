@@ -1,0 +1,159 @@
+C01A c01a-serdechnye-glikozidy Сердечные гликозиды
+C01B c01b-antiaritmicheskie-preparaty-i-i-iii-classov Антиаритмические препараты I и III классов
+C01C c01c-kardiotonicheskie-preparaty-iscliuchaia-serdechnye-glikozidy Кардиотонические препараты (исключая сердечные гликозиды)
+C01D c01d-vazodilatatory-primeniaemye-dlia-lecheniia-zabolevanii-serdtca Вазодилататоры, применяемые для лечения заболеваний сердца
+C01E c01e-preparaty-dlia-lecheniia-zabolevanii-serdtca-drugie Препараты для лечения заболеваний сердца другие
+C01AA c01aa-glikozidy-naperstianki Гликозиды наперстянки
+C01AB c01ab-glikozidy-morskogo-luka-stcilly Гликозиды морского лука (сциллы)
+C01AC c01ac-glikozidy-strofanta Гликозиды строфанта
+C01AX c01ax-prochie-serdechnye-glikozidy Прочие сердечные гликозиды
+C01AA01 c01aa01-atcetildigitoksin Ацетилдигитоксин
+C01AA02 c01aa02-atcetildigoksin Ацетилдигоксин
+C01AA03 c01aa03-naperstianki-listia Наперстянки листья  
+C01AA04 c01aa04-digitoksin Дигитоксин
+C01AA05 c01aa05-digoksin Дигоксин
+C01AA06 c01aa06-lanatozid-tc Ланатозид Ц
+C01AA07 c01aa07-deslanozid Десланозид
+C01AA08 c01aa08-metildigoksin Метилдигоксин
+C01AA09 c01aa09-gitoformat Гитоформат
+C01AA52 c01aa52-atcetildigitoksin-v-sochetanii-s-drugimi-preparatami Ацетилдигитоксин в сочетании с другими препаратами
+C01AB01 c01ab01-prostcillaridin Просцилларидин
+C01AB51 c01ab51-prostcillaridin-v-sochetanii-s-drugimi-preparatami Просцилларидин в сочетании с другими препаратами
+C01AC01 c01ac01-strofantin Строфантин
+C01AC03 c01ac03-tcimarin Цимарин
+C01AX02 c01ax02-peruvozid Перувозид
+C01BA c01ba-antiaritmicheskie-preparaty-ia-classa Антиаритмические препараты Iа класса
+C01BB c01bb-antiaritmicheskie-preparaty-ib-classa Антиаритмические препараты Ib класса
+C01BC c01bc-antiaritmicheskie-preparaty-ic-classa Антиаритмические препараты Ic класса
+C01BD c01bd-antiaritmicheskie-preparaty-iii-classa Антиаритмические препараты III класса
+C01BG c01bg-prochie-antiaritmicheskie-preparaty-i-classa Прочие антиаритмические препараты I класса
+C01BA02 c01ba02-prokainamid Прокаинамид
+C01BA03 c01ba03-dizopiramid Дизопирамид
+C01BA04 c01ba04-spartein Спартеин
+C01BA05 c01ba05-aimalin Аймалин
+C01BA08 c01ba08-praimalina-bitartrat Праймалина битартрат
+C01BA12 c01ba12-lorazhmin Лоражмин
+C01BA51 c01ba51-hinidin-v-sochetanii-s-drugimi-preparatami-za-iscliucheniem-psiholeptikov Хинидин в сочетании с другими препаратами, за исключением психолептиков
+C01BA53 c01ba53-hinidin-v-sochetanii-s-psiholeptikami Хинидин в сочетании с психолептиками
+C01BB01 c01bb01-leedokain Лидокаин
+C01BB02 c01bb02-meksiletin Мексилетин
+C01BB03 c01bb03-tokainid Токаинид
+C01BB04 c01bb04-aprindin Априндин
+C01BC03 c01bc03-propafenon Пропафенон
+C01BC04 c01bc04-flekainid Флекаинид
+C01BC07 c01bc07-lorkainid Лоркаинид
+C01BC08 c01bc08-enkainid Энкаинид
+C01BC09 c01bc09-etatcizin Этацизин
+C01BD01 c01bd01-amiodaron Амиодарон
+C01BD02 c01bd02-bretiliia-tozilat Бретилия тозилат
+C01BD03 c01bd03-bunafin Бунафин
+C01BD04 c01bd04-dofetilid Дофетилид
+C01BD05 c01bd05-ibutilid Ибутилид
+C01BD06 c01bd06-tedisamil Тедисамил
+C01BD07 c01bd07-dronedaron Дронедарон
+C01BG01 c01bg01-moratcizin Морацизин
+C01BG07 c01bg07-tcibenzolin Цибензолин
+C01BG11 c01bg11-vernakalant Вернакалант
+C01CA c01ca-adreno-i-dopaminomimetiki Адрено- и допаминомиметики
+C01CE c01ce-ingibitory-fosfodiesterazy Ингибиторы фосфодиэстеразы
+C01CX c01cx-prochie-kardiotonicheskie-preparaty Прочие кардиотонические препараты
+C01CA01 c01ca01-etilefrin Этилефрин
+C01CA02 c01ca02-izoprenalin Изопреналин
+C01CA03 c01ca03-norepinefrin Норэпинефрин
+C01CA04 c01ca04-dopamin Допамин
+C01CA05 c01ca05-norfenefrin Норфенефрин
+C01CA06 c01ca06-fenilefrin Фенилэфрин
+C01CA07 c01ca07-dobutamin Добутамин
+C01CA08 c01ca08-oksedrin Окседрин
+C01CA09 c01ca09-metaraminol Метараминол
+C01CA10 c01ca10-metoksamin Метоксамин
+C01CA11 c01ca11-mefentermin Мефентермин
+C01CA12 c01ca12-dimetofrin Диметофрин
+C01CA13 c01ca13-prenalterol Преналтерол
+C01CA14 c01ca14-dopeksamin Допексамин
+C01CA15 c01ca15-gepefrin Гепефрин
+C01CA16 c01ca16-ibopamin Ибопамин
+C01CA17 c01ca17-midodrin Мидодрин
+C01CA18 c01ca18-oktopamin Октопамин
+C01CA19 c01ca19-fenoldopam Фенолдопам
+C01CA21 c01ca21-kafedrin Кафедрин
+C01CA22 c01ca22-arbutamin Арбутамин 
+C01CA23 c01ca23-teodrenalin Теодреналин 
+C01CA24 c01ca24-epinefrin Эпинефрин
+C01CA25 c01ca25-ameziniia-metilsulfat Амезиния метилсульфат 
+C01CA26 c01ca26-efedrin Эфедрин
+C01CA27 c01ca27-droksidopa Дроксидопа
+C01CA30 c01ca30-kombinatcii-adreno-i-dopaminomimetikov Комбинации адрено- и допаминомиметиков
+C01CA51 c01ca51-etilefrin-v-sochetanii-s-drugimi-preparatami Этилефрин в сочетании с другими препаратами
+C01CE01 c01ce01-amrinon Амринон
+C01CE02 c01ce02-milrinon Милринон
+C01CE03 c01ce03-enoksimon Эноксимон
+C01CE04 c01ce04-bucladezin Букладезин
+C01CX06 c01cx06-angiotenzinamid Ангиотензинамид
+C01CX07 c01cx07-ksamoterol Ксамотерол
+C01CX08 c01cx08-levosimendan Левосимендан
+C01DA c01da-organicheskie-nitraty Органические нитраты
+C01DB c01db-vazodilatatory-proizvodnye-hinolona Вазодилататоры — производные хинолона
+C01DX c01dx-prochie-vazodilatatory-dlia-lecheniia-zabolevanii-serdtca Прочие вазодилататоры для лечения заболеваний сердца
+C01DA02 c01da02-nitroglitcerin Нитроглицерин
+C01DA04 c01da04-metilpropilpropandiola-dinitrat Метилпропилпропандиола динитрат
+C01DA05 c01da05-pentaeritritila-tetranitrat Пентаэритритила тетранитрат
+C01DA07 c01da07-propatilnitrat Пропатилнитрат
+C01DA08 c01da08-izosorbida-dinitrat Изосорбида динитрат
+C01DA09 c01da09-trolnitrat Тролнитрат
+C01DA13 c01da13-eritritila-tetranitrat Эритритила тетранитрат
+C01DA14 c01da14-izosorbida-mononitrat Изосорбида мононитрат
+C01DA20 c01da20-organicheskie-nitraty-v-sochetanii-s-drugimi-preparatami Органические нитраты в сочетании с другими препаратами
+C01DA38 c01da38-tenitramin Тенитрамин
+C01DA52 c01da52-nitroglitcerin-v-sochetanii-s-drugimi-preparatami Нитроглицерин в сочетании с другими препаратами
+C01DA54 c01da54-metilpropilpropandiola-dinitrat-v-sochetanii-s-drugimi-preparatami Метилпропилпропандиола динитрат в сочетании с другими препаратами
+C01DA55 c01da55-pentaeritritila-tetranitrat-v-sochetanii-s-drugimi-preparatami Пентаэритритила тетранитрат в сочетании с другими препаратами
+C01DA57 c01da57-propatilnitrat-v-sochetanii-s-drugimi-preparatami Пропатилнитрат в сочетании с другими препаратами
+C01DA58 c01da58-izosorbida-dinitrat-v-sochetanii-s-drugimi-preparatami Изосорбида динитрат в сочетании с другими препаратами
+C01DA59 c01da59-trolnitrat-v-sochetanii-s-drugimi-preparatami Тролнитрат в сочетании с другими препаратами
+C01DA63 c01da63-eritritila-tetranitrat-v-sochetanii-s-drugimi-preparatami Эритритила тетранитрат в сочетании с другими препаратами
+C01DA70 c01da70-organicheskie-nitraty-v-sochetanii-s-sedativnymi-sredstvami Органические нитраты в сочетании с седативными средствами
+C01DB01 c01db01-flozehinan Флозехинан
+C01DX01 c01dx01-itramina-tosilat Итрамина тосилат
+C01DX02 c01dx02-prenilamin Прениламин
+C01DX03 c01dx03-oksifedrin Оксифедрин
+C01DX04 c01dx04-benziodaron Бензиодарон
+C01DX05 c01dx05-karbokromen Карбокромен 
+C01DX06 c01dx06-geksobendin Гексобендин
+C01DX07 c01dx07-etafenon Этафенон
+C01DX08 c01dx08-geptaminol Гептаминол
+C01DX09 c01dx09-imolamin Имоламин
+C01DX10 c01dx10-dilazep Дилазеп
+C01DX11 c01dx11-trapidil Трапидил
+C01DX12 c01dx12-molsidomin Молсидомин
+C01DX13 c01dx13-efloksat Эфлоксат
+C01DX14 c01dx14-tcinepazet Цинепазет
+C01DX15 c01dx15-cloridalol Клоридалол
+C01DX16 c01dx16-nikorandil Никорандил
+C01DX18 c01dx18-leensidomin Линсидомин
+C01DX19 c01dx19-nesiritid Несиритид
+C01DX21 c01dx21-serelaksin Серелаксин
+C01DX51 c01dx51-itramina-tosilat-v-sochetanii-s-drugimi-preparatami Итрамина тосилат в сочетании с другими препаратами
+C01DX52 c01dx52-prenilamin-v-sochetanii-s-drugimi-preparatami Прениламин в сочетании с другими препаратами
+C01DX53 c01dx53-oksifedrin-v-sochetanii-s-drugimi-preparatami Оксифедрин в сочетании с другими препаратами 
+C01DX54 c01dx54-benziodaron-v-sochetanii-s-drugimi-preparatami Бензиодарон в сочетании с другими препаратами
+C01EA c01ea-prostaglandiny Простагландины
+C01EB c01eb-preparaty-dlia-lecheniia-zabolevanii-serdtca-drugie Препараты для лечения заболеваний сердца другие
+C01EX c01ex-preparaty-dlia-lecheniia-zabolevanii-serdtca-kombinirovannye-drugie Препараты для лечения заболеваний сердца комбинированные другие
+C01EA01 c01ea01-alprostadil Алпростадил
+C01EB02 c01eb02-kamfora Камфора
+C01EB03 c01eb03-indometatcin Индометацин
+C01EB04 c01eb04-boiaryshnika-glikozidy Боярышника гликозиды
+C01EB05 c01eb05-kreatinolfosfat Креатинолфосфат   
+C01EB06 c01eb06-fosfokreatin Фосфокреатин
+C01EB07 c01eb07-fruktozo-1-6-difosfat Фруктозо-1,6-дифосфат
+C01EB09 c01eb09-ubidekarenon Убидекаренон
+C01EB10 c01eb10-adenozin Аденозин
+C01EB11 c01eb11-tiratcizin Тирацизин
+C01EB13 c01eb13-akadesin Акадесин
+C01EB15 c01eb15-trimetazidin Триметазидин
+C01EB16 c01eb16-ibuprofen Ибупрофен
+C01EB17 c01eb17-ivabradin Ивабрадин
+C01EB18 c01eb18-ranolazin Ранолазин
+C01EB21 c01eb21-regadenozon Регаденозон
+C01EB22 c01eb22-meldonii Мельдоний

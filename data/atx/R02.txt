@@ -1,0 +1,34 @@
+R02A r02a-preparaty-dlia-lecheniia-zabolevanii-gorla Препараты для лечения заболеваний горла
+R02AA r02aa-antiseptiki Антисептики
+R02AB r02ab-antibiotiki Антибиотики
+R02AD r02ad-anestetiki-mestnye Анестетики местные
+R02AX r02ax-drugie-preparaty-dlia-lecheniia-zabolevanii-gorla Другие препараты для лечения заболеваний горла
+R02AA01 r02aa01-ambazon Амбазон
+R02AA02 r02aa02-dekvaliniia-khlorid Деквалиния хлорид
+R02AA03 r02aa03-dikhlorbenzilovyi-spirt Дихлорбензиловый спирт
+R02AA05 r02aa05-khlorgeksidin Хлоргексидин
+R02AA06 r02aa06-tcetilpiridiniia-khlorid Цетилпиридиния хлорид
+R02AA09 r02aa09-benzetoniia-khlorid Бензетония хлорид
+R02AA10 r02aa10-miristil-benzalkonii Миристил-бензалконий
+R02AA11 r02aa11-khlorhinaldol Хлорхинальдол
+R02AA12 r02aa12-geksilrezortcinol Гексилрезорцинол
+R02AA13 r02aa13-akriflavina-khlorid Акрифлавина хлорид
+R02AA14 r02aa14-oksihinolin Оксихинолин
+R02AA15 r02aa15-povidon-iod Повидон-йод
+R02AA16 r02aa16-benzalkoniia-khlorid Бензалкония хлорид
+R02AA17 r02aa17-tcetrimonii Цетримоний
+R02AA18 r02aa18-geksamidin Гексамидин
+R02AA19 r02aa19-fenol Фенол
+R02AA20 r02aa20-prochie-preparaty Прочие препараты
+R02AA21 r02aa21-oktenidin Октенидин
+R02AB01 r02ab01-neomitcin Неомицин
+R02AB02 r02ab02-tirotritcin Тиротрицин
+R02AB03 r02ab03-fuzafungin Фузафунгин
+R02AB04 r02ab04-batcitratcin Бацитрацин
+R02AB30 r02ab30-gramitcidin Грамицидин
+R02AD01 r02ad01-benzokain Бензокаин
+R02AD02 r02ad02-leedokain Лидокаин
+R02AD03 r02ad03-kokain Кокаин
+R02AD04 r02ad04-diclonin Диклонин
+R02AX01 r02ax01-flurbiprofen Флурбипрофен
+R02AX02 r02ax02-ibuprofen Ибупрофен

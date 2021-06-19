@@ -1,0 +1,71 @@
+V08A v08a-rentgenokontrastnye-iodsodezhashchie-veshchestva Рентгеноконтрастные йодсодежащие вещества
+V08B v08b-rentgenokontrastnye-neiodirovannye-veshchestva Рентгеноконтрастные нейодированные вещества
+V08C v08c-kontrastnye-veshchestva-dlia-iaderno-magnitnogo-rezonansa Контрастные вещества для ядерно-магнитного резонанса
+V08D v08d-kontrastnye-sredstva-dlia-ultrazvukovoi-diagnostiki Контрастные средства для ультразвуковой диагностики
+V08AA v08aa-vodorastvorimye-vysokoosmoliarnye-rentgenokontrastnye-veshchestva-dlia-issledovaniia-pochek Водорастворимые высокоосмолярные рентгеноконтрастные вещества для исследования почек
+V08AB v08ab-vodorastvorimye-nizkoosmoliarnye-rentgenokontrastnye-veshchestva-dlia-issledovaniia-pochek Водорастворимые низкоосмолярные рентгеноконтрастные вещества для исследования почек
+V08AC v08ac-gepatotropnye-vodorastvorimye-rentgenokontrastnye-veshchestva Гепатотропные водорастворимые рентгеноконтрастные вещества
+V08AD v08ad-vodonerastvorimye-rentgenokontrastnye-veshchestva Водонерастворимые рентгеноконтрастные вещества
+V08AA01 v08aa01-diatrizoic-acid Diatrizoic acid
+V08AA02 v08aa02-metrizoic-acid Metrizoic acid
+V08AA03 v08aa03-iodamide Iodamide
+V08AA04 v08aa04-iotalamic-acid Iotalamic acid
+V08AA05 v08aa05-ioxitalamic-acid Ioxitalamic acid
+V08AA06 v08aa06-ioglicic-acid Ioglicic acid
+V08AA07 v08aa07-acetrizoic-acid Acetrizoic acid
+V08AA08 v08aa08-iocarmic-acid Iocarmic acid
+V08AA09 v08aa09-methiodal Methiodal
+V08AA10 v08aa10-diodone Diodone
+V08AB01 v08ab01-metrizamide Metrizamide
+V08AB02 v08ab02-iohexol Iohexol
+V08AB03 v08ab03-ioxaglic-acid Ioxaglic acid
+V08AB04 v08ab04-iopamidol Iopamidol
+V08AB05 v08ab05-iopromide Iopromide
+V08AB06 v08ab06-iotrolan Iotrolan
+V08AB07 v08ab07-ioversol Ioversol
+V08AB08 v08ab08-iopentol Iopentol
+V08AB09 v08ab09-iodixanol Iodixanol
+V08AB10 v08ab10-iomeprol Iomeprol
+V08AB11 v08ab11-iobitridol Iobitridol
+V08AB12 v08ab12-ioxilan Ioxilan
+V08AC01 v08ac01-iodoxamic-acid Iodoxamic acid
+V08AC02 v08ac02-iotroxic-acid Iotroxic acid
+V08AC03 v08ac03-ioglycamic-acid Ioglycamic acid
+V08AC04 v08ac04-adipiodone Adipiodone
+V08AC05 v08ac05-iobenzamic-acid Iobenzamic acid
+V08AC06 v08ac06-iopanoic-acid Iopanoic acid
+V08AC07 v08ac07-iocetamic-acid Iocetamic acid
+V08AC08 v08ac08-sodium-iodopate Sodium iodopate
+V08AC09 v08ac09-tyropanoic-acid Tyropanoic acid
+V08AC10 v08ac10-calcium-iopodate Calcium iopodate
+V08AD01 v08ad01-etilovye-efiry-iodirovannykh-zhirnykh-kislot Этиловые эфиры йодированных жирных кислот
+V08AD02 v08ad02-iopydol Iopydol
+V08AD03 v08ad03-propyliodone Propyliodone
+V08AD04 v08ad04-iofendylate Iofendylate
+V08BA v08ba-rentgenokontrastnye-preparaty-soderzhashchie-bariia-sulfat Рентгеноконтрастные препараты, содержащие бария сульфат
+V08BA01 v08ba01-bariia-sulfat-s-sucpendiruiushchimi-sredstvami Бария сульфат с суcпендирующими средствами
+V08BA02 v08ba02-bariia-sulfat-bez-sucpendiruiushchikh-sredstv Бария сульфат без суcпендирующих средств
+V08CA v08ca-paramagnitnye-kontrastnye-sredstva Парамагнитные контрастные средства
+V08CB v08cb-superparamagnitnye-kontrastnye-sredstva Суперпарамагнитные контрастные средства
+V08CX v08cx-prochie-kontrastnye-sredstva-dlia-iaderno-magnitnogo-rezonansa Прочие контрастные средства для ядерно-магнитного резонанса
+V08CA01 v08ca01-gadopentetic-acid Gadopentetic acid
+V08CA02 v08ca02-gadoteric-acid Gadoteric acid
+V08CA03 v08ca03-gadodiamide Gadodiamide
+V08CA04 v08ca04-gadoteridol Gadoteridol
+V08CA05 v08ca05-mangafodipir Mangafodipir
+V08CA06 v08ca06-gadoversetamide Gadoversetamide
+V08CA07 v08ca07-ferric-ammonium-citrate Ferric ammonium citrate
+V08CA08 v08ca08-gadobenic-acid Gadobenic acid
+V08CA09 v08ca09-gadobutrol Gadobutrol
+V08CA10 v08ca10-gadoxetic-acid Gadoxetic acid
+V08CA11 v08ca11-gadofosveset Gadofosveset
+V08CB01 v08cb01-ferumoxsil Ferumoxsil
+V08CB02 v08cb02-ferristene Ferristene
+V08CB03 v08cb03-iron-oxide-nanoparticles Iron oxide, nanoparticles
+V08CX01 v08cx01-perflubron Perflubron
+V08DA v08da-kontrastnye-sredstva-dlia-ultrazvukovoi-diagnostiki Контрастные средства для ультразвуковой диагностики
+V08DA01 v08da01-mikrosfery-chelovecheskogo-albumina Микросферы человеческого альбумина
+V08DA02 v08da02-mikrochastitcy-galaktozy Микрочастицы галактозы
+V08DA03 v08da03-perflenapent Perflenapent
+V08DA04 v08da04-microspheres-of-phospholipids Microspheres of phospholipids
+V08DA05 v08da05-sulfur-hexafluoride Sulfur hexafluoride

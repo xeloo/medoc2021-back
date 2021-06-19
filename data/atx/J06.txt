@@ -1,0 +1,36 @@
+J06A j06a-immunnye-syvorotki Иммунные сыворотки
+J06B j06b-immunoglobuliny Иммуноглобулины
+J06AA j06aa-syvorotka-krovi-immunnaia Сыворотка крови иммунная
+J06AA01 j06aa01-difteriinyi-anatoksin Дифтерийный анатоксин
+J06AA02 j06aa02-stolbniachnyi-anatoksin Столбнячный анатоксин
+J06AA03 j06aa03-cyvorotka-krovi-protiv-zmeinogo-iada Cыворотка крови против змеиного яда
+J06AA04 j06aa04-botulinovyi-anatoksin Ботулиновый анатоксин
+J06AA05 j06aa05-antigangrenoznaia-syvorotka Антигангренозная сыворотка
+J06AA06 j06aa06-syvorotka-protiv-beshenstva Сыворотка против бешенства
+J06BA j06ba-immunoglobulin-normalnyi-chelovecheskii Иммуноглобулин нормальный человеческий
+J06BB j06bb-immunoglobuliny-spetcificheskie Иммуноглобулины специфические
+J06BC j06bc-immunoglobuliny-drugie Иммуноглобулины другие
+J06BA01 j06ba01-immunoglobulin-normalnyi-chelovecheskii-dlia-v-m-vvedeniia Иммуноглобулин нормальный человеческий для в/м введения
+J06BA02 j06ba02-immunoglobulin-normalnyi-chelovecheskii-dlia-v-v-vvedeniia Иммуноглобулин нормальный человеческий для в/в введения
+J06BB01 j06bb01-immunoglobulin-cheloveka-antirezus-rho-d Иммуноглобулин человека антирезус Rho(D)
+J06BB02 j06bb02-immunoglobulin-cheloveka-protivostolbniachnyi Иммуноглобулин человека противостолбнячный
+J06BB03 j06bb03-immunoglobulin-cheloveka-protiv-varitcella-zoster Иммуноглобулин человека против варицелла/зостер
+J06BB04 j06bb04-immunoglobulin-cheloveka-protiv-gepatita-v Иммуноглобулин человека против гепатита В
+J06BB05 j06bb05-immunoglobulin-cheloveka-antirabicheskii Иммуноглобулин человека антирабический
+J06BB06 j06bb06-immunoglobulin-protiv-krasnuhi Иммуноглобулин против краснухи
+J06BB07 j06bb07-immunoglobulin-vaktcinalnyi Иммуноглобулин вакцинальный 
+J06BB08 j06bb08-immunoglobulin-cheloveka-stafilokokkovyi Иммуноглобулин человека стафилококковый
+J06BB09 j06bb09-immunoglobulin-cheloveka-antitcitomegalovirusnyi Иммуноглобулин человека антицитомегаловирусный
+J06BB10 j06bb10-immunoglobulin-cheloveka-protivodifteriinyi Иммуноглобулин человека противодифтерийный
+J06BB11 j06bb11-immunoglobulin-protiv-gepatita-a Иммуноглобулин против гепатита A 
+J06BB12 j06bb12-immunoglobulin-cheloveka-protiv-cleshchevogo-entcefalita Иммуноглобулин человека против клещевого энцефалита
+J06BB13 j06bb13-immunoglobulin-protivokocliushnyi Иммуноглобулин противококлюшный
+J06BB14 j06bb14-immunoglobulin-protivokorevoi Иммуноглобулин противокоревой 
+J06BB15 j06bb15-immunoglobulin-protiv-parotita Иммуноглобулин против паротита
+J06BB16 j06bb16-palivizumab Паливизумаб 
+J06BB17 j06bb17-motavizumab Мотавизумаб
+J06BB18 j06bb18-raksibakumab Раксибакумаб
+J06BB19 j06bb19-immunoglobulin-protivosibireiazvennyi Иммуноглобулин противосибиреязвенный
+J06BB21 j06bb21-bezlotoksumab Безлотоксумаб
+J06BB30 j06bb30-immunoglobuliny-spetcificheskie-v-kombinatciiakh Иммуноглобулины специфические в комбинациях
+J06BC01 j06bc01-nebakumab Небакумаб

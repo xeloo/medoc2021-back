@@ -1,0 +1,98 @@
+C03A c03a-tiazidy Тиазиды
+C03B c03b-netiazidnye-diuretiki-deistvuiushchie-na-kortikalnyi-segment-petli-genle Нетиазидные диуретики, действующие на кортикальный сегмент петли Генле
+C03C c03c-petlevye-diuretiki «Петлевые» диуретики
+C03D c03d-kaliisberegaiushchie-diuretiki Калийсберегающие диуретики
+C03E c03e-kombinatcii-diuretikov-s-kaliisberegaiushchimi-preparatami Комбинации диуретиков с калийсберегающими препаратами
+C03X c03x-prochie-diuretiki Прочие диуретики
+C03AA c03aa-tiazidy Тиазиды
+C03AB c03ab-tiazidy-i-kalii-v-sochetanii Тиазиды и калий в сочетании
+C03AH c03ah-tiazidy-v-kombinatcii-s-psiholeptikami-i-ili-analgetikami Тиазиды в комбинации с психолептиками и/или анальгетиками
+C03AX c03ax-tiazidy-v-kombinatcii-s-drugimi-preparatami Тиазиды в комбинации с другими препаратами
+C03AA01 c03aa01-bendroflumetiazid Бендрофлуметиазид
+C03AA02 c03aa02-gidroflumetiazid Гидрофлуметиазид
+C03AA03 c03aa03-gidrokhlorotiazid Гидрохлоротиазид
+C03AA04 c03aa04-khlortiazid Хлортиазид
+C03AA05 c03aa05-politiazid Политиазид
+C03AA06 c03aa06-trikhlormetiazid Трихлорметиазид 
+C03AA07 c03aa07-tciclopentiazid Циклопентиазид
+C03AA08 c03aa08-meticlotiazid Метиклотиазид
+C03AA09 c03aa09-tciclotiazid Циклотиазид
+C03AA13 c03aa13-mebutizid Мебутизид
+C03AB01 c03ab01-bendroflumetiazid-i-kalii Бендрофлуметиазид и калий
+C03AB02 c03ab02-gidroflumetiazid-i-kalii Гидрофлуметиазид и калий
+C03AB03 c03ab03-gidrokhlortiazid-i-kalii Гидрохлортиазид и калий
+C03AB04 c03ab04-khlortiazid-i-kalii Хлортиазид и калий
+C03AB05 c03ab05-politiazid-i-kalii Политиазид и калий
+C03AB06 c03ab06-trikhlormetiazid-i-kalii Трихлорметиазид и калий
+C03AB07 c03ab07-tciclopentiazid-i-kalii Циклопентиазид и калий
+C03AB08 c03ab08-meticlotiazid-i-kalii Метиклотиазид и калий
+C03AB09 c03ab09-tciclotiazid-i-kalii Циклотиазид и калий
+C03AH01 c03ah01-khlortiazid-v-kombinatcii Хлортиазид в комбинации
+C03AH02 c03ah02-gidroflumetiazid-v-kombinatcii Гидрофлуметиазид в комбинации
+C03AX01 c03ax01-gidrokhlorotiazid-v-kombinatcii Гидрохлоротиазид в комбинации
+C03BA c03ba-sulfonamidy Сульфонамиды
+C03BB c03bb-sulfonamidy-v-kombinatcii-s-soliami-kaliia Сульфонамиды в комбинации с солями калия  
+C03BC c03bc-rtutnye-diuretiki Ртутные диуретики
+C03BD c03bd-proizvodnye-ksantina Производные ксантина
+C03BK c03bk-sulfanilamidnye-preparaty-v-kombinatcii-s-drugimi-preparatami Сульфаниламидные препараты в комбинации с другими препаратами
+C03BX c03bx-prochie-diuretiki-s-nizkim-potolkom-dozy Прочие диуретики с низким потолком дозы
+C03BA02 c03ba02-hinetazon Хинетазон
+C03BA03 c03ba03-clopamid Клопамид
+C03BA04 c03ba04-khlortalidon Хлорталидон
+C03BA05 c03ba05-mefrusid Мефрусид   
+C03BA07 c03ba07-clofenamid Клофенамид
+C03BA08 c03ba08-metolazon Метолазон
+C03BA09 c03ba09-metikran Метикран
+C03BA10 c03ba10-ksipamid Ксипамид
+C03BA11 c03ba11-indapamid Индапамид
+C03BA12 c03ba12-cloreksolon Клорексолон
+C03BA13 c03ba13-fenkvizon Фенквизон
+C03BA82 c03ba82-cloreksolon-v-kombinatcii-s-psihotropnymi-preparatami Клорексолон в комбинации с психотропными препаратами
+C03BB02 c03bb02-hinetazon-v-kombinatcii-s-soliami-kaliia Хинетазон в комбинации с солями калия  
+C03BB03 c03bb03-clopamid-v-kombinatcii-s-soliami-kaliia Клопамид в комбинации с солями калия  
+C03BB04 c03bb04-khlortalidon-v-kombinatcii-s-soliami-kaliia Хлорталидон в комбинации с солями калия   
+C03BB05 c03bb05-mefrusid-v-kombinatcii-s-soliami-kaliia Мефрусид в комбинации с солями калия  
+C03BB07 c03bb07-clofenamid-v-kombinatcii-s-soliami-kaliia Клофенамид в комбинации с солями калия
+C03BC01 c03bc01-mersalil Мерсалил
+C03BD01 c03bd01-teobromin Теобромин
+C03BX03 c03bx03-tcicletanin Циклетанин
+C03CA c03ca-sulfanilamidnye-diuretiki Сульфаниламидные диуретики
+C03CB c03cb-sulfanilamidy-i-kalii-v-sochetanii Сульфаниламиды и калий в сочетании
+C03CC c03cc-proizvodnye-ariloksiuksusnoi-kisloty Производные арилоксиуксусной кислоты
+C03CD c03cd-proizvodnye-pirazolona Производные пиразолона
+C03CX c03cx-prochie-petlevye-diuretiki Прочие «петлевые» диуретики
+C03CA01 c03ca01-furosemid Фуросемид
+C03CA02 c03ca02-bumetanid Буметанид
+C03CA03 c03ca03-piretanid Пиретанид
+C03CA04 c03ca04-torasemid Торасемид
+C03CB01 c03cb01-furosemid-i-kalii Фуросемид и калий 
+C03CB02 c03cb02-bumetanid-i-kalii Буметанид и калий 
+C03CC01 c03cc01-etakrinovaia-kislota Этакриновая кислота
+C03CC02 c03cc02-tienilovaia-kislota Тиениловая кислота
+C03CD01 c03cd01-muzolimin Музолимин
+C03CX01 c03cx01-etozolin Этозолин
+C03DA c03da-aldosterona-antagonisty Альдостерона антагонисты
+C03DB c03db-prochie-kaliisberegaiushchie-diuretiki Прочие калийсберегающие диуретики
+C03DA01 c03da01-spironolakton Спиронолактон
+C03DA02 c03da02-kaliia-kanrenoat Калия канреноат 
+C03DA03 c03da03-kanrenon Канренон
+C03DA04 c03da04-eplerenon Эплеренон
+C03DB01 c03db01-amilorid Амилорид 
+C03DB02 c03db02-triamteren Триамтерен
+C03EA c03ea-diuretiki-deistvuiushchie-na-kortikalnyi-segment-petli-genle-v-kombinatcii-s-kalisberegaiushchimi-preparatami Диуретики, действующие на кортикальный сегмент петли Генле в комбинации с кальйсберегающими препаратами
+C03EB c03eb-petlevye-diuretiki-v-kombinatcii-s-kaliisberegaiushchimi-preparatami «Петлевые» диуретики в комбинации с калийсберегающими препаратами
+C03EA01 c03ea01-gidrokhlorotiazid-v-kombinatcii-s-kaliisberegaiushchimi-preparatami Гидрохлоротиазид в комбинации с калийсберегающими препаратами
+C03EA02 c03ea02-trikhlormetiazid-v-kombinatcii-s-kaliisberegaiushchimi-preparatami Трихлорметиазид в комбинации с калийсберегающими препаратами
+C03EA03 c03ea03-epitizid-v-kombinatcii-s-kaliisberegaiushchimi-preparatami Эпитизид в комбинации с калийсберегающими препаратами
+C03EA04 c03ea04-altizid-v-kombinatcii-s-kaliisberegaiushchimi-preparatami Алтизид в комбинации с калийсберегающими препаратами
+C03EA05 c03ea05-mebutizid-v-kombinatcii-s-kaliisberegaiushchimi-preparatami Мебутизид в комбинации с калийсберегающими препаратами
+C03EA06 c03ea06-khlortalidon-v-kombinatcii-s-kaliisberegaiushchimi-preparatami Хлорталидон в комбинации с калийсберегающими препаратами
+C03EA07 c03ea07-tciclopentiazid-v-kombinatcii-s-kaliisberegaiushchimi-preparatami Циклопентиазид в комбинации с калийсберегающими препаратами
+C03EA12 c03ea12-metolazon-v-kombinatcii-s-kaliisberegaiushchimi-preparatami Метолазон в комбинации с калийсберегающими препаратами
+C03EA13 c03ea13-bendroflumetiazid-v-kombinatcii-s-kaliisberegaiushchimi-preparatami Бендрофлуметиазид в комбинации с калийсберегающими препаратами
+C03EA14 c03ea14-butizid-v-kombinatcii-s-kaliisberegaiushchimi-preparatami Бутизид в комбинации с калийсберегающими препаратами
+C03EB01 c03eb01-furosemid-v-kombinatcii-s-kaliisberegaiushchimi-preparatami Фуросемид в комбинации с калийсберегающими препаратами
+C03EB02 c03eb02-bumetanid-v-kombinatcii-s-kaliisberegaiushchimi-preparatami Буметанид в комбинации с калийсберегающими препаратами
+C03XA c03xa-antagonisty-vazopressina Антагонисты вазопрессина
+C03XA01 c03xa01-tolvaptan Толваптан
+C03XA02 c03xa02-konivaptan Кониваптан

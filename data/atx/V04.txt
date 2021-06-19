@@ -1,0 +1,45 @@
+V04B v04b-testy-dlia-analiza-mochi Тесты для анализа мочи
+V04C v04c-prochie-diagnosticheskie-preparaty Прочие диагностические препараты
+V04CA v04ca-testy-dlia-vyiavleniia-saharnogo-diabeta Тесты для выявления сахарного диабета
+V04CB v04cb-testy-dlia-opredeleniia-vsasyvaniia-zhirov Тесты для определения всасывания жиров
+V04CC v04cc-testy-dlia-opredeleniia-prohodimosti-zhelchnogo-protoka Тесты для определения проходимости желчного протока
+V04CD v04cd-testy-dlia-opredeleniia-funktcii-gipofiza Тесты для определения функции гипофиза
+V04CE v04ce-testy-dlia-opredeleniia-funktcionalnogo-sostoianiia-pecheni Тесты для определения функционального состояния печени
+V04CF v04cf-test-dlia-diagnostiki-tubekuleza Тест для диагностики тубекулеза
+V04CG v04cg-testy-dlia-opredeleniia-zheludochnoi-sekretcii Тесты для определения желудочной секреции
+V04CH v04ch-testy-dlia-opredeleniia-funktcii-pochek Тесты для определения функции почек
+V04CJ v04cj-testy-dlia-opredeleniia-funktcii-shchitovidnoi-zhelezy Тесты для определения функции щитовидной железы
+V04CK v04ck-testy-dlia-opredeleniia-funktcii-podzheludochnoi-zhelezy Тесты для определения функции поджелудочной железы
+V04CL v04cl-testy-dlia-vyiavleniia-allergicheskikh-zabolevanii Тесты для выявления аллергических заболеваний
+V04CM v04cm-testy-dlia-vyiavleniia-narushenii-reproduktivnoi-funktcii Тесты для выявления нарушений репродуктивной функции
+V04CX v04cx-prochie-diagnosticheskie-preparaty Прочие диагностические препараты
+V04CA01 v04ca01-tolbutamide Tolbutamide
+V04CA02 v04ca02-glucose Glucose
+V04CB01 v04cb01-koncentrat-vitamina-a Концентрат витамина А
+V04CC01 v04cc01-sorbitol Sorbitol
+V04CC02 v04cc02-magnesium-sulfate Magnesium sulfate
+V04CC03 v04cc03-sincalide Sincalide
+V04CC04 v04cc04-ceruletide Ceruletide
+V04CD01 v04cd01-metyrapone Metyrapone
+V04CD03 v04cd03-sermorelin Sermorelin
+V04CD04 v04cd04-corticoliberin Corticoliberin
+V04CD05 v04cd05-somatorelin Somatorelin
+V04CE01 v04ce01-galactose Galactose
+V04CE02 v04ce02-sulfobromophtalein Sulfobromophtalein
+V04CF01 v04cf01-tuberculin Tuberculin
+V04CG01 v04cg01-kationno-obmennaia-rezina Катионно-обменная резина
+V04CG02 v04cg02-betazole Betazole
+V04CG03 v04cg03-histamine Histamine
+V04CG04 v04cg04-pentagastrin Pentagastrin
+V04CG05 v04cg05-methylthioninium-shloride Methylthioninium сhloride
+V04CG30 v04cg30-caffeine-and-sodium-benzoate Caffeine and sodium benzoate
+V04CH01 v04ch01-inulin-and-other-polyfructosans Inulin and other polyfructosans
+V04CH02 v04ch02-indigo-carmine Indigo carmine
+V04CH03 v04ch03-phenolsulfonphthalein Phenolsulfonphthalein
+V04CH04 v04ch04-alsactide Alsactide
+V04CH30 v04ch30-aminohippuric-acid Aminohippuric acid
+V04CJ01 v04cj01-thyrotrophin Thyrotrophin
+V04CJ02 v04cj02-protirelin Protirelin
+V04CK01 v04ck01-secretin Secretin
+V04CK02 v04ck02-pancreozymin-cholecystokinin Pancreozymin (cholecystokinin)
+V04CK03 v04ck03-bentiromide Bentiromide

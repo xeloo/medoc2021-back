@@ -1,0 +1,56 @@
+G04B g04b-preparaty-dlia-lecheniia-urologicheskikh-zabolevanii Препараты для лечения урологических заболеваний
+G04C g04c-preparaty-dlia-lecheniia-dobrokachestvennoi-gipertrofii-predstatelnoi-zhelezy Препараты для лечения доброкачественной гипертрофии предстательной железы
+G04BA g04ba-preparaty-podkisliaiushchie-mochu Препараты, подкисляющие мочу
+G04BC g04bc-preparaty-dlia-lecheniia-nefrourolitiaza Препараты для лечения нефроуролитиаза
+G04BD g04bd-preparaty-dlia-lecheniia-uchashchennogo-mocheispuskaniia-i-nederzhaniia-mochi Препараты для лечения учащенного мочеиспускания и недержания мочи
+G04BE g04be-preparaty-dlia-lecheniia-narushenii-erektcii Препараты для лечения нарушений эрекции
+G04BX g04bx-prochie-preparaty-dlia-lecheniia-urologicheskikh-zabolevanii Прочие препараты для лечения урологических заболеваний
+G04BA01 g04ba01-ammoniia-khlorid Аммония хлорид
+G04BA03 g04ba03-kaltciia-khlorid Кальция хлорид
+G04BD01 g04bd01-emepronii Эмепроний
+G04BD02 g04bd02-flavoksat Флавоксат
+G04BD03 g04bd03-meladrazin Меладразин
+G04BD04 g04bd04-oksibutinin Оксибутинин
+G04BD05 g04bd05-terodilin Теродилин
+G04BD06 g04bd06-propiverin Пропиверин
+G04BD07 g04bd07-tolterodin Толтеродин
+G04BD08 g04bd08-solifenatcin Солифенацин
+G04BD09 g04bd09-trospiia-khlorid Троспия хлорид
+G04BD10 g04bd10-darifenatcin Дарифенацин
+G04BD11 g04bd11-fezoterodin Фезотеродин
+G04BD12 g04bd12-mirabegron Мирабегрон
+G04BE02 g04be02-papaverin Папаверин
+G04BE03 g04be03-sildenafil Силденафил
+G04BE04 g04be04-iohimbin Йохимбин
+G04BE06 g04be06-moksizilit Моксизилит
+G04BE07 g04be07-apomorfin Апоморфин
+G04BE08 g04be08-tadalafil Тадалафил
+G04BE09 g04be09-vardenafil Варденафил
+G04BE10 g04be10-avanafil Аванафил
+G04BE11 g04be11-udenafil Уденафил
+G04BE30 g04be30-kombinatcii-preparatov-dlia-lecheniia-narushenii-erektcii Комбинации препаратов для лечения нарушений эрекции
+G04BE52 g04be52-papaverin-v-kombinatcii-s-drugimi-preparatami Папаверин в комбинации с другими препаратами
+G04BX01 g04bx01-magniia-gidroksid Магния гидроксид
+G04BX03 g04bx03-atcetogidroksamovaia-kislota Ацетогидроксамовая кислота
+G04BX06 g04bx06-fenazopirimidin Феназопиримидин
+G04BX10 g04bx10-suktcinimid Сукцинимид
+G04BX11 g04bx11-kollagen Коллаген
+G04BX12 g04bx12-fenilsalitcilat Фенилсалицилат
+G04BX13 g04bx13-dimetilsulfoksid Диметилсульфоксид
+G04BX14 g04bx14-dapoksetin Дапоксетин
+G04BX15 g04bx15-pentozanpolisulfat-natriia Пентозанполисульфат натрия
+G04CA g04ca-alfa-adrenoblokatory Альфа-адреноблокаторы
+G04CB g04cb-ingibitory-5-alfa-reduktazy-testosterona Ингибиторы 5-альфа редуктазы тестостерона
+G04CX g04cx-preparaty-dlia-lecheniia-dobrokachestvennoi-gipertrofii-prostaty-drugie Препараты для лечения доброкачественной гипертрофии простаты другие
+G04CA01 g04ca01-alfuzozin Альфузозин
+G04CA02 g04ca02-tamsulozin Тамсулозин
+G04CA03 g04ca03-terazozin Теразозин
+G04CA04 g04ca04-silodozin Силодозин
+G04CA51 g04ca51-alfuzozin-i-finasterid Альфузозин и финастерид
+G04CA52 g04ca52-tamsulozin-i-dutasterid Тамсулозин и дутастерид
+G04CA53 g04ca53-tamsulozin-i-solifenatcin Тамсулозин и солифенацин
+G04CB01 g04cb01-finasterid Финастерид
+G04CB02 g04cb02-dutasterid Дутастерид
+G04CX01 g04cx01-slivy-afrikanskoi-kora Сливы африканской кора
+G04CX02 g04cx02-palmy-polzuchei-plody Пальмы ползучей плоды
+G04CX03 g04cx03-mepartritcin Мепартрицин

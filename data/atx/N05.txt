@@ -1,0 +1,201 @@
+N05A n05a-antipsihoticheskie-preparaty Антипсихотические препараты
+N05B n05b-anksiolitiki Анксиолитики
+N05C n05c-snotvornye-i-sedativnye-sredstva Снотворные и седативные средства
+N05AA n05aa-proizvodnye-fenotiazina-s-alifaticheskoi-strukturoi Производные фенотиазина с алифатической структурой
+N05AB n05ab-piperazinovye-proizvodnye-fenotiazina Пиперазиновые производные фенотиазина
+N05AC n05ac-piperidinovye-proizvodnye-fenotiazina Пиперидиновые производные фенотиазина
+N05AD n05ad-proizvodnye-butirofenona Производные бутирофенона
+N05AE n05ae-proizvodnye-indola Производные индола
+N05AF n05af-proizvodnye-tioksantena Производные тиоксантена
+N05AG n05ag-proizvodnye-difenilbutilpiperidina Производные дифенилбутилпиперидина
+N05AH n05ah-diazepiny-oksazepiny-tiazepiny-i-oksepiny Диазепины, оксазепины, тиазепины и оксепины
+N05AL n05al-benzamidy Бензамиды
+N05AN n05an-leetii Литий
+N05AX n05ax-drugie-antipsihoticheskie-preparaty Другие антипсихотические препараты
+N05AA01 n05aa01-khlorpromazin Хлорпромазин
+N05AA02 n05aa02-levomepromazin Левомепромазин
+N05AA03 n05aa03-promazin Промазин
+N05AA04 n05aa04-atcepromazin Ацепромазин
+N05AA05 n05aa05-triflupromazin Трифлупромазин
+N05AA06 n05aa06-tciamemazin Циамемазин
+N05AA07 n05aa07-khlorproetazin Хлорпроэтазин
+N05AB01 n05ab01-diksirazin Диксиразин
+N05AB02 n05ab02-flufenazin Флуфеназин
+N05AB03 n05ab03-perfenazin Перфеназин
+N05AB04 n05ab04-prokhlorperazin Прохлорперазин
+N05AB05 n05ab05-tiopropazat Тиопропазат
+N05AB06 n05ab06-trifluoperazin Трифлуоперазин
+N05AB07 n05ab07-atcetofenazin Ацетофеназин
+N05AB08 n05ab08-tioproperazin Тиопроперазин
+N05AB09 n05ab09-butaperazin Бутаперазин
+N05AB10 n05ab10-perazin Перазин
+N05AC01 n05ac01-peritciazin Перициазин
+N05AC02 n05ac02-tioridazin Тиоридазин
+N05AC03 n05ac03-mezoridazin Мезоридазин
+N05AC04 n05ac04-pipotiazin Пипотиазин
+N05AD01 n05ad01-galoperidol Галоперидол
+N05AD02 n05ad02-trifluperidol Трифлуперидол
+N05AD03 n05ad03-melperon Мелперон
+N05AD04 n05ad04-moperon Моперон
+N05AD05 n05ad05-pipamperon Пипамперон
+N05AD06 n05ad06-bromperidol Бромперидол
+N05AD07 n05ad07-benperidol Бенперидол
+N05AD08 n05ad08-droperidol Дроперидол
+N05AD09 n05ad09-fluanizon Флуанизон
+N05AE01 n05ae01-oksipertin Оксипертин
+N05AE02 n05ae02-molindon Молиндон
+N05AE03 n05ae03-sertindol Сертиндол
+N05AE04 n05ae04-ziprasidon Зипрасидон
+N05AE05 n05ae05-lurazidon Луразидон
+N05AF01 n05af01-flupentiksol Флупентиксол
+N05AF02 n05af02-clopentiksol Клопентиксол
+N05AF03 n05af03-khlorprotiksen Хлорпротиксен
+N05AF04 n05af04-tiotiksen Тиотиксен
+N05AF05 n05af05-zuclopentiksol Зуклопентиксол
+N05AG01 n05ag01-fluspirilen Флуспирилен
+N05AG02 n05ag02-pimozid Пимозид
+N05AG03 n05ag03-penfluridol Пенфлуридол
+N05AH01 n05ah01-loksapin Локсапин
+N05AH02 n05ah02-clozapin Клозапин
+N05AH03 n05ah03-olanzapin Оланзапин
+N05AH04 n05ah04-kvetiapin Кветиапин
+N05AH05 n05ah05-azenapin Азенапин
+N05AH06 n05ah06-clotiapin Клотиапин
+N05AL01 n05al01-sulpirid Сульпирид
+N05AL02 n05al02-sultoprid Сультоприд
+N05AL03 n05al03-tiaprid Тиаприд
+N05AL04 n05al04-remoksiprid Ремоксиприд
+N05AL05 n05al05-amisulprid Амисульприд
+N05AL06 n05al06-veraliprid Вералиприд
+N05AL07 n05al07-levosulpirid Левосульпирид
+N05AN01 n05an01-leetii Литий
+N05AX07 n05ax07-protipendil Протипендил
+N05AX08 n05ax08-risperidon Рисперидон
+N05AX10 n05ax10-mosapramin Мосапрамин
+N05AX11 n05ax11-zotepin Зотепин
+N05AX12 n05ax12-aripiprazol Арипипразол
+N05AX13 n05ax13-paliperidon Палиперидон
+N05AX14 n05ax14-iloperidon Илоперидон
+N05AX15 n05ax15-kariprazin Карипразин
+N05AX16 n05ax16-brekspiprazol Брекспипразол
+N05BA n05ba-proizvodnye-benzodiazepina Производные бензодиазепина
+N05BB n05bb-proizvodnye-difenilmetana Производные дифенилметана
+N05BC n05bc-karbamaty Карбаматы
+N05BD n05bd-proizvodnye-dibenzo-bitciclo-oktadiena Производные дибензо-бицикло-октадиена
+N05BE n05be-proizvodnye-azaspirodekandiona Производные азаспиродекандиона
+N05BX n05bx-prochie-anksiolitiki Прочие анксиолитики
+N05BA01 n05ba01-diazepam Диазепам
+N05BA02 n05ba02-khlordiazepoksid Хлордиазепоксид
+N05BA03 n05ba03-medazepam Медазепам
+N05BA04 n05ba04-oksazepam Оксазепам
+N05BA05 n05ba05-kaliia-clorazepat Калия клоразепат
+N05BA06 n05ba06-lorazepam Лоразепам
+N05BA07 n05ba07-adinazolam Адиназолам
+N05BA08 n05ba08-bromazepam Бромазепам
+N05BA09 n05ba09-clobazam Клобазам
+N05BA10 n05ba10-ketazolam Кетазолам
+N05BA11 n05ba11-prazepam Празепам
+N05BA12 n05ba12-alprazolam Алпразолам
+N05BA13 n05ba13-galazepam Галазепам
+N05BA14 n05ba14-pinazepam Пиназепам
+N05BA15 n05ba15-kamazepam Камазепам
+N05BA16 n05ba16-nordazepam Нордазепам
+N05BA17 n05ba17-fludiazepam Флудиазепам
+N05BA18 n05ba18-etil-loflazepat Этил лофлазепат
+N05BA19 n05ba19-etizolam Этизолам
+N05BA21 n05ba21-clotiazepam Клотиазепам
+N05BA22 n05ba22-cloksazolam Клоксазолам
+N05BA23 n05ba23-tofizopam Тофизопам
+N05BA56 n05ba56-lorazepam-v-kombinatcii-s-drugimi-preparatami Лоразепам в комбинации с другими препаратами
+N05BB01 n05bb01-gidroksizin Гидроксизин
+N05BB02 n05bb02-kaptodiam Каптодиам
+N05BB51 n05bb51-gidroksizin-v-kombinatcii-s-drugimi-preparatami Гидроксизин в комбинации с другими препаратами
+N05BC01 n05bc01-meprobamat Мепробамат
+N05BC03 n05bc03-emilkamat Эмилкамат
+N05BC04 n05bc04-mebutamat Мебутамат
+N05BC51 n05bc51-meprobamat-v-kombinatcii-s-drugimi-preparatami Мепробамат в комбинации с другими препаратами
+N05BD01 n05bd01-benzoktamin Бензоктамин
+N05BE01 n05be01-buspiron Буспирон
+N05BX01 n05bx01-mefenoksalon Мефеноксалон
+N05BX02 n05bx02-gedokarnil Гедокарнил
+N05BX03 n05bx03-etifoksin Этифоксин
+N05BX04 n05bx04-fabomotizol Фабомотизол
+N05CA n05ca-barbituraty Барбитураты
+N05CB n05cb-barbituraty-v-kombinatcii-s-drugimi-preparatami Барбитураты в комбинации с другими препаратами
+N05CC n05cc-aldegidy-i-ikh-proizvodnye Альдегиды и их производные
+N05CD n05cd-proizvodnye-benzodiazepina Производные бензодиазепина
+N05CE n05ce-proizvodnye-piperidinediona Производные пиперидинедиона
+N05CF n05cf-benzodiazepinopodobnye-sredstva Бензодиазепиноподобные средства
+N05CH n05ch-agonisty-melatoninovykh-retceptorov Агонисты мелатониновых рецепторов
+N05CM n05cm-prochie-snotvornye-i-sedativnye-preparaty Прочие снотворные и седативные препараты
+N05CX n05cx-snotvornye-i-sedativnye-preparaty-iscliuchaia-barbituraty-v-kombinatcii-s-drugimi-preparatami Снотворные и седативные препараты (исключая барбитураты), в комбинации с другими препаратами
+N05CA01 n05ca01-pentobarbital Пентобарбитал
+N05CA02 n05ca02-amobarbital Амобарбитал
+N05CA03 n05ca03-butobarbital Бутобарбитал
+N05CA04 n05ca04-barbital Барбитал
+N05CA05 n05ca05-aprobarbital Апробарбитал
+N05CA06 n05ca06-sekobarbital Секобарбитал
+N05CA07 n05ca07-talbutal Тальбутал
+N05CA08 n05ca08-vinilbital Винилбитал
+N05CA09 n05ca09-vinbarbital Винбарбитал
+N05CA10 n05ca10-tciclobarbital Циклобарбитал
+N05CA11 n05ca11-geptabarbital Гептабарбитал
+N05CA12 n05ca12-repozal Репозал
+N05CA15 n05ca15-metogeksital Метогекситал
+N05CA16 n05ca16-geksobarbital Гексобарбитал
+N05CA19 n05ca19-tiopental Тиопентал
+N05CA20 n05ca20-etallobarbital Эталлобарбитал
+N05CA21 n05ca21-allobarbital Аллобарбитал
+N05CA22 n05ca22-proksibarbal Проксибарбал
+N05CB01 n05cb01-kombinatcii-barbituratov Комбинации барбитуратов
+N05CB02 n05cb02-barbituraty-v-kombinatcii-s-drugimi-preparatami Барбитураты в комбинации с другими препаратами
+N05CC01 n05cc01-khloralgidrat Хлоральгидрат
+N05CC02 n05cc02-khloralodol Хлоралодол
+N05CC03 n05cc03-atcetilglitcinamid-khloralgidrat Ацетилглицинамид хлоральгидрат
+N05CC04 n05cc04-dikhloralfenazon Дихлоралфеназон
+N05CC05 n05cc05-paraldegid Паральдегид
+N05CD01 n05cd01-flurazepam Флуразепам
+N05CD02 n05cd02-nitrazepam Нитразепам
+N05CD03 n05cd03-flunitrazepam Флунитразепам
+N05CD04 n05cd04-estazolam Эстазолам
+N05CD05 n05cd05-triazolam Триазолам
+N05CD06 n05cd06-lormetazepam Лорметазепам
+N05CD07 n05cd07-temazepam Темазепам
+N05CD08 n05cd08-midazolam Мидазолам
+N05CD09 n05cd09-brotizolam Бротизолам
+N05CD10 n05cd10-kvazepam Квазепам
+N05CD11 n05cd11-loprazolam Лопразолам
+N05CD12 n05cd12-doksefazepam Доксефазепам
+N05CD13 n05cd13-tcinolazepam Цинолазепам
+N05CE01 n05ce01-glutetimid Глутетимид
+N05CE02 n05ce02-metiprilon Метиприлон
+N05CE03 n05ce03-piritildion Пиритилдион
+N05CF01 n05cf01-zopiclon Зопиклон
+N05CF02 n05cf02-zolpidem Золпидем
+N05CF03 n05cf03-zaleplon Залеплон
+N05CF04 n05cf04-eszopiclon Эсзопиклон
+N05CH01 n05ch01-melatonin Мелатонин
+N05CH02 n05ch02-ramelteon Рамелтеон
+N05CH03 n05ch03-tazimelteon Тазимелтеон
+N05CM01 n05cm01-metakvalon Метаквалон
+N05CM02 n05cm02-clometiazol Клометиазол
+N05CM03 n05cm03-bromizoval Бромизовал
+N05CM04 n05cm04-karbromal Карбромал
+N05CM05 n05cm05-skopolamin Скополамин
+N05CM06 n05cm06-propiomazin Пропиомазин
+N05CM07 n05cm07-triclofos Триклофос
+N05CM08 n05cm08-etkhlorvinol Этхлорвинол
+N05CM09 n05cm09-valeriany-korni Валерианы корни
+N05CM10 n05cm10-geksapropimat Гексапропимат
+N05CM11 n05cm11-bromidy Бромиды
+N05CM12 n05cm12-apronal Апронал
+N05CM13 n05cm13-valnoktamid Валноктамид
+N05CM15 n05cm15-metilpentinol Метилпентинол
+N05CM16 n05cm16-niaprazin Ниапразин
+N05CM18 n05cm18-deksmedetomidin Дексмедетомидин
+N05CX01 n05cx01-meprobamat-v-kombinatcii-s-drugimi-preparatami Мепробамат в комбинации с другими препаратами
+N05CX02 n05cx02-metakvalon-v-kombinatcii-s-drugimi-preparatami Метаквалон в комбинации с другими препаратами
+N05CX03 n05cx03-metilpentinol-v-kombinatcii-s-drugimi-preparatami Метилпентинол в комбинации с другими препаратами
+N05CX04 n05cx04-clometiazol-v-kombinatcii-s-drugimi-preparatami Клометиазол в комбинации с другими препаратами
+N05CX05 n05cx05-emepronii-v-kombinatcii-s-drugimi-preparatami Эмепроний в комбинации с другими препаратами
+N05CX06 n05cx06-dipiperonilaminoetanol-v-kombinatcii-s-drugimi-preparatami Дипиперониламиноэтанол в комбинации с другими препаратами

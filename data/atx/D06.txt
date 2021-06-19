@@ -1,0 +1,45 @@
+D06A d06a-antibiotiki-dlia-mestnogo-primeneniia Антибиотики для местного применения
+D06B d06b-himioterapevticheskie-sredstva-dlia-mestnogo-primeneniia Химиотерапевтические средства для местного применения
+D06C d06c-antibiotiki-i-himioterapevticheskie-sredstva-v-kombinatcii Антибиотики и химиотерапевтические средства в комбинации
+D06AX d06ax-prochie-antibiotiki-dlia-mestnogo-primeneniia Прочие антибиотики для местного применения
+D06AA d06aa-tetratciclin-i-ego-proizvodnye Тетрациклин и его производные
+D06AX01 d06ax01-fuzidievaia-kislota Фузидиевая кислота
+D06AX02 d06ax02-khloramfenikol Хлорамфеникол
+D06AX04 d06ax04-neomitcin Неомицин
+D06AX05 d06ax05-batcitratcin Бацитрацин
+D06AX07 d06ax07-gentamitcin Гентамицин
+D06AX08 d06ax08-tirotritcin Тиротрицин
+D06AX09 d06ax09-mupirotcin Мупироцин
+D06AX10 d06ax10-virginiamitcin Виргиниамицин
+D06AX11 d06ax11-rifaksimin Рифаксимин
+D06AX12 d06ax12-amikatcin Амикацин
+D06AX13 d06ax13-retapamulin Ретапамулин
+D06AA01 d06aa01-demeclotciclin Демеклоциклин
+D06AA02 d06aa02-khlortetratciclin Хлортетрациклин
+D06AA03 d06aa03-oksitetratciclin Окситетрациклин
+D06AA04 d06aa04-tetratciclin Тетрациклин
+D06BA d06ba-sulfanilamidy Сульфаниламиды
+D06BB d06bb-protivovirusnye-preparaty Противовирусные препараты
+D06BX d06bx-drugie-himioterapevticheskie-sredstva Другие химиотерапевтические средства
+D06BA01 d06ba01-sulfadiazin-serebra Сульфадиазин серебра
+D06BA02 d06ba02-sulfatiazol Сульфатиазол
+D06BA03 d06ba03-mafenid Мафенид
+D06BA04 d06ba04-sulfametizol Сульфаметизол
+D06BA05 d06ba05-sulfanilamid Сульфаниламид
+D06BA06 d06ba06-sulfamerazin Сульфамеразин
+D06BA51 d06ba51-sulfadiazin-serebra-v-kombinatcii-s-drugimi-preparatami Сульфадиазин серебра в комбинации с другими препаратами
+D06BB01 d06bb01-idoksuridin Идоксуридин
+D06BB02 d06bb02-tromantadin Тромантадин
+D06BB03 d06bb03-atciclovir Ацикловир
+D06BB04 d06bb04-podofillotoksin Подофиллотоксин
+D06BB05 d06bb05-inozin Инозин
+D06BB06 d06bb06-pentciclovir Пенцикловир
+D06BB07 d06bb07-leezotcim Лизоцим
+D06BB08 d06bb08-ibatcitabin Ибацитабин
+D06BB09 d06bb09-edoksudin Эдоксудин
+D06BB10 d06bb10-imihimod Имихимод
+D06BB11 d06bb11-dokozanol Докозанол
+D06BB12 d06bb12-sinekatehin Синекатехин
+D06BB53 d06bb53-atciclovir-v-kombinatcii-s-drugimi-preparatami Ацикловир в комбинации с другими препаратами
+D06BX01 d06bx01-metronidazol Метронидазол
+D06BX02 d06bx02-ingenola-mebutat Ингенола мебутат

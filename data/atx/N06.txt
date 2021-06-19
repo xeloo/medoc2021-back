@@ -1,0 +1,125 @@
+N06A n06a-antidepressanty Антидепрессанты
+N06B n06b-psihostimuliatory-sredstva-primeniaemye-pri-sindrome-defitcita-vnimaniia-s-giperaktivnostiu-i-nootropnye-preparaty Психостимуляторы, средства, применяемые при синдроме дефицита внимания с гиперактивностью, и ноотропные препараты
+N06C n06c-kombinatcii-psiholeptikov-i-psihoanaleptikov Комбинации психолептиков и психоаналептиков
+N06D n06d-preparaty-dlia-lecheniia-dementcii Препараты для лечения деменции
+N06AA n06aa-neselektivnye-ingibitory-obratnogo-zakhvata-monoaminov Неселективные ингибиторы обратного захвата моноаминов
+N06AB n06ab-celektivnye-ingibitory-obratnogo-zakhvata-serotonina Cелективные ингибиторы обратного захвата серотонина
+N06AF n06af-neselektivnye-ingibitory-monoaminoksidazy Неселективные ингибиторы моноаминоксидазы
+N06AG n06ag-ingibitory-monoaminoksidazy-tipa-a Ингибиторы моноаминоксидазы типа A
+N06AX n06ax-prochie-antidepressanty Прочие антидепрессанты
+N06AA01 n06aa01-dezipramin Дезипрамин
+N06AA02 n06aa02-imipramin Имипрамин
+N06AA03 n06aa03-imipramina-oksid Имипрамина оксид
+N06AA04 n06aa04-clomipramin Кломипрамин
+N06AA05 n06aa05-opipramol Опипрамол
+N06AA06 n06aa06-trimipramin Тримипрамин
+N06AA07 n06aa07-lofepramin Лофепрамин
+N06AA08 n06aa08-dibenzepin Дибензепин
+N06AA09 n06aa09-amitriptilin Амитриптилин
+N06AA10 n06aa10-nortriptilin Нортриптилин
+N06AA11 n06aa11-protriptilin Протриптилин
+N06AA12 n06aa12-doksepin Доксепин
+N06AA13 n06aa13-iprindol Иприндол
+N06AA14 n06aa14-melitracen Мелитрацен
+N06AA15 n06aa15-butriptilin Бутриптилин
+N06AA16 n06aa16-dosulepin Досулепин
+N06AA17 n06aa17-amoksapin Амоксапин
+N06AA18 n06aa18-dimetakrin Диметакрин
+N06AA19 n06aa19-amineptin Аминептин
+N06AA21 n06aa21-maprotilin Мапротилин
+N06AA23 n06aa23-kvinupramin Квинупрамин
+N06AB02 n06ab02-zimeldin Зимелдин
+N06AB03 n06ab03-fluoksetin Флуоксетин
+N06AB04 n06ab04-tcitalopram Циталопрам
+N06AB05 n06ab05-paroksetin Пароксетин
+N06AB06 n06ab06-sertralin Сертралин
+N06AB07 n06ab07-alaproclat Алапроклат
+N06AB08 n06ab08-fluvoksamin Флувоксамин
+N06AB09 n06ab09-etoperidon Этоперидон
+N06AB10 n06ab10-estcitalopram Эсциталопрам
+N06AF01 n06af01-izokarboksazid Изокарбоксазид
+N06AF02 n06af02-nialamid Ниаламид
+N06AF03 n06af03-fenelzin Фенелзин
+N06AF04 n06af04-traniltcipromin Транилципромин
+N06AF05 n06af05-iproniazid Ипрониазид
+N06AF06 n06af06-iproclozid Ипроклозид
+N06AG02 n06ag02-moclobemid Моклобемид
+N06AG03 n06ag03-toloksaton Толоксатон
+N06AX01 n06ax01-oksitriptan Окситриптан
+N06AX02 n06ax02-triptofan Триптофан
+N06AX03 n06ax03-mianserin Миансерин
+N06AX04 n06ax04-nomifenzin Номифензин
+N06AX05 n06ax05-trazodon Тразодон
+N06AX06 n06ax06-nefazodon Нефазодон
+N06AX07 n06ax07-minaprin Минаприн
+N06AX08 n06ax08-bifemelan Бифемелан
+N06AX09 n06ax09-viloksazin Вилоксазин
+N06AX10 n06ax10-oksaflozan Оксафлозан
+N06AX11 n06ax11-mirtazapin Миртазапин
+N06AX12 n06ax12-bupropion Бупропион
+N06AX13 n06ax13-medifoksamin Медифоксамин
+N06AX14 n06ax14-tianeptin Тианептин
+N06AX15 n06ax15-pivagabin Пивагабин
+N06AX17 n06ax17-milnatcipran Милнаципран
+N06AX18 n06ax18-reboksetin Ребоксетин
+N06AX19 n06ax19-gepiron Гепирон
+N06AX21 n06ax21-duloksetin Дулоксетин
+N06AX22 n06ax22-agomelatin Агомелатин
+N06AX23 n06ax23-desvenlafaksin Десвенлафаксин
+N06AX24 n06ax24-vilazodon Вилазодон
+N06AX25 n06ax25-zveroboia-trava Зверобоя трава
+N06AX26 n06ax26-vortioksetin Вортиоксетин
+N06BA n06ba-simpatomimetiki-centralnogo-deistviia Симпатомиметики центрального действия
+N06BC n06bc-proizvodnye-ksantina Производные ксантина
+N06BX n06bx-drugie-psihostimuliatory-i-nootropnye-preparaty Другие психостимуляторы и ноотропные препараты
+N06BA01 n06ba01-amfetamin Амфетамин
+N06BA02 n06ba02-deksamfetamin Дексамфетамин
+N06BA03 n06ba03-metamfetamin Метамфетамин
+N06BA04 n06ba04-metilfenidat Метилфенидат
+N06BA05 n06ba05-pemolin Пемолин
+N06BA07 n06ba07-modafinil Модафинил
+N06BA08 n06ba08-fenozolon Фенозолон
+N06BA09 n06ba09-atomoksetin Атомоксетин
+N06BA10 n06ba10-fenetillin Фенетиллин
+N06BA11 n06ba11-deksmetilfenidat Дексметилфенидат
+N06BA12 n06ba12-leesdeksamfetamin Лисдексамфетамин
+N06BA13 n06ba13-armodafinil Армодафинил
+N06BC01 n06bc01-kofein Кофеин
+N06BC02 n06bc02-propentofillin Пропентофиллин
+N06BX01 n06bx01-meclofenoksat Меклофеноксат
+N06BX02 n06bx02-piritinol Пиритинол
+N06BX03 n06bx03-piratcetam Пирацетам
+N06BX04 n06bx04-deanol Деанол
+N06BX05 n06bx05-fipeksid Фипексид
+N06BX06 n06bx06-tcitikolin Цитиколин
+N06BX07 n06bx07-oksiratcetam Оксирацетам
+N06BX08 n06bx08-pirisudanol Пирисуданол
+N06BX09 n06bx09-leenopirdin Линопирдин
+N06BX10 n06bx10-nizofenon Низофенон
+N06BX11 n06bx11-aniratcetam Анирацетам
+N06BX12 n06bx12-atcetilkarnitin Ацетилкарнитин
+N06BX13 n06bx13-idebenon Идебенон
+N06BX14 n06bx14-prolintan Пролинтан
+N06BX15 n06bx15-pipradrol Пипрадрол
+N06BX16 n06bx16-pramiratcetam Прамирацетам
+N06BX17 n06bx17-adrafinil Адрафинил
+N06BX18 n06bx18-vinpotcetin Винпоцетин
+N06BX21 n06bx21-mebikar Мебикар
+N06BX22 n06bx22-fenibut Фенибут
+N06CA n06ca-antidepressanty-v-kombinatcii-s-psiholeptikami Антидепрессанты в комбинации с психолептиками
+N06CB n06cb-psihostimuliatory-v-kombinatcii-s-psiholeptikami Психостимуляторы в комбинации с психолептиками
+N06CA01 n06ca01-amitriptilin-v-kombinatcii-s-psiholeptikami Амитриптилин в комбинации с психолептиками
+N06CA02 n06ca02-melitracen-v-kombinatcii-s-psiholeptikami Мелитрацен в комбинации с психолептиками
+N06CA03 n06ca03-fluoksetin-v-kombinatcii-s-psiholeptikami Флуоксетин в комбинации с психолептиками
+N06DA n06da-ingibitory-holinesterazy Ингибиторы холинэстеразы
+N06DX n06dx-prochie-preparaty-dlia-lecheniia-dementcii Прочие препараты для лечения деменции
+N06DA01 n06da01-takrin Такрин
+N06DA02 n06da02-donepezil Донепезил
+N06DA03 n06da03-rivastigmin Ривастигмин
+N06DA04 n06da04-galantamin Галантамин
+N06DA05 n06da05-ipidakrin Ипидакрин
+N06DA52 n06da52-donepezil-i-memantin Донепезил и мемантин
+N06DA53 n06da53-donepezil-memantin-i-ekstrakt-listev-ginkgo-biloba Донепезил, мемантин и экстракт листьев Гинкго Билоба
+N06DX01 n06dx01-memantin Мемантин
+N06DX02 n06dx02-ginkgo-biloba-listev-ekstrakt Гинкго Билоба листьев экстракт
+N06DX30 n06dx30-prochie-preparaty-dlia-lecheniia-dementcii-v-razlichnykh-kombinatciiakh Прочие препараты для лечения деменции в различных комбинациях

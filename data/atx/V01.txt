@@ -1,0 +1,13 @@
+V01A v01a-allergeny Аллергены
+V01AA v01aa-ekstrakty-allergenov Экстракты аллергенов
+V01AA01 v01aa01-allergeny-ptichego-pera Аллергены птичьего пера
+V01AA02 v01aa02-allergeny-pyltcy-travy Аллергены пыльцы травы
+V01AA03 v01aa03-allergeny-cleshcha-domashnei-pyli Аллергены клеща домашней пыли
+V01AA04 v01aa04-allergeny-plesnevykh-i-drozhzhevykh-gribov Аллергены плесневых и дрожжевых грибов
+V01AA05 v01aa05-allergeny-pyltcy-derevev Аллергены пыльцы деревьев
+V01AA07 v01aa07-allergeny-nasekomykh Аллергены насекомых
+V01AA08 v01aa08-allergeny-pishchevye Аллергены пищевые
+V01AA09 v01aa09-allergeny-tekstilnye Аллергены текстильные
+V01AA10 v01aa10-allergeny-tcvetov Аллергены цветов
+V01AA11 v01aa11-allergeny-zhivotnykh Аллергены животных
+V01AA20 v01aa20-prochie-allergeny Прочие аллергены

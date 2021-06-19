@@ -1,0 +1,45 @@
+N04A n04a-antiholinergicheskie-sredstva Антихолинергические средства
+N04B n04b-dopaminergicheskie-preparaty Допаминергические препараты
+N04AA n04aa-tretichnye-aminy Третичные амины
+N04AB n04ab-efiry-himicheski-blizkie-k-antigistaminnym-preparatam Эфиры, химически близкие к антигистаминным препаратам
+N04AC n04ac-tropinovye-efiry-ili-proizvodnye-tropina Тропиновые эфиры или производные тропина
+N04AA01 n04aa01-trigeksifenidil Тригексифенидил
+N04AA02 n04aa02-biperiden Бипериден
+N04AA03 n04aa03-metiksen Метиксен
+N04AA04 n04aa04-protciclidin Проциклидин
+N04AA05 n04aa05-profenamin Профенамин
+N04AA08 n04aa08-deksetimid Дексетимид
+N04AA09 n04aa09-fenglutarimidin Фенглутаримидин
+N04AA10 n04aa10-mazatikol Мазатикол
+N04AA11 n04aa11-bornaprin Борнаприн
+N04AA12 n04aa12-tropatepin Тропатепин
+N04AB01 n04ab01-etanautin Этанаутин
+N04AB02 n04ab02-orfenadrin-khlorid Орфенадрин (хлорид)
+N04AC01 n04ac01-benzatropin Бензатропин
+N04AC30 n04ac30-etibenzatropin Этибензатропин
+N04BA n04ba-dopa-i-ee-proizvodnye Допа и ее производные
+N04BB n04bb-proizvodnye-adamantana Производные адамантана
+N04BC n04bc-stimuliatory-dopaminovykh-retceptorov Стимуляторы допаминовых рецепторов
+N04BD n04bd-ingibitory-monoaminoksidazy-tipa-b Ингибиторы моноаминоксидазы типа B
+N04BX n04bx-prochie-dopaminergicheskie-preparaty Прочие допаминергические препараты
+N04BA01 n04ba01-levodopa Леводопа
+N04BA02 n04ba02-levodopa-i-ingibitor-dekarboksilazy Леводопа и ингибитор декарбоксилазы
+N04BA03 n04ba03-levodopa-ingibitor-dekarboksilazy-i-ingibitor-katehol-o-metiltransferazy Леводопа, ингибитор декарбоксилазы и ингибитор катехол-о-метилтрансферазы
+N04BA04 n04ba04-melevodopa Мелеводопа
+N04BA05 n04ba05-melevodopa-i-ingibitor-dekarboksilazy Мелеводопа и ингибитор декарбоксилазы
+N04BA06 n04ba06-etilevodopa-i-ingibitor-dekarboksilazy Этилеводопа и ингибитор декарбоксилазы
+N04BB01 n04bb01-amantadin Амантадин
+N04BC01 n04bc01-bromokriptin Бромокриптин
+N04BC02 n04bc02-pergolid Перголид
+N04BC03 n04bc03-digidroergokriptina-mezilat Дигидроэргокриптина мезилат
+N04BC04 n04bc04-ropinirol Ропинирол
+N04BC05 n04bc05-pramipeksol Прамипексол
+N04BC06 n04bc06-kabergolin Каберголин
+N04BC07 n04bc07-apomorfin Апоморфин
+N04BC08 n04bc08-piribedil Пирибедил
+N04BC09 n04bc09-rotigotin Ротиготин
+N04BD01 n04bd01-selegilin Селегилин
+N04BD02 n04bd02-razagilin Разагилин
+N04BX01 n04bx01-tolkapon Толкапон
+N04BX02 n04bx02-entakapon Энтакапон
+N04BX03 n04bx03-budipin Будипин

@@ -1,0 +1,52 @@
+B03A b03a-preparaty-zheleza Препараты железа
+B03B b03b-vitamin-b12-i-folievaia-kislota Витамин B12 и фолиевая кислота
+B03X b03x-prochie-antianemicheskie-preparaty Прочие антианемические препараты
+B03AA b03aa-zheleza-dvukhvalentnogo-preparaty-dlia-peroralnogo-naznacheniia Железа двухвалентного препараты для перорального назначения
+B03AB b03ab-zheleza-trekhvalentnogo-preparaty-dlia-peroralnogo-naznacheniia Железа трехвалентного препараты для перорального назначения
+B03AC b03ac-zheleza Железа
+B03AD b03ad-preparaty-zheleza-v-kombinatcii-s-folievoi-kislotoi Препараты железа в комбинации с фолиевой кислотой
+B03AE b03ae-preparaty-zheleza-v-kombinatcii-s-drugimi-preparatami Препараты железа в комбинации с другими препаратами
+B03AA01 b03aa01-zheleza-glitcin-sulfat Железа глицин сульфат
+B03AA02 b03aa02-zheleza-fumarat Железа фумарат
+B03AA03 b03aa03-zheleza-gliukonat Железа глюконат
+B03AA04 b03aa04-zheleza-karbonat Железа карбонат
+B03AA05 b03aa05-zheleza-khlorid Железа хлорид
+B03AA06 b03aa06-zheleza-suktcinat Железа сукцинат
+B03AA07 b03aa07-zheleza-sulfat Железа сульфат
+B03AA08 b03aa08-zheleza-tartrat Железа тартрат
+B03AA09 b03aa09-zheleza-asparat Железа аспарат
+B03AA10 b03aa10-zheleza-askorbat Железа аскорбат
+B03AA11 b03aa11-zheleza-iodid Железа йодид
+B03AB01 b03ab01-zheleza-natriia-tcitrat Железа натрия цитрат
+B03AB02 b03ab02-zheleza-gidroksid-saharoznyi-kompleks Железа гидроксид сахарозный комплекс
+B03AB03 b03ab03-natriia-feredelat Натрия феределат
+B03AB04 b03ab04-zheleza-gidroksid Железа гидроксид
+B03AB05 b03ab05-zheleza-gidroksid-polimaltozat Железа гидроксид полимальтозат
+B03AB07 b03ab07-zheleza-sulfat-hondroitina-kompleks Железа сульфат-хондроитина комплекс
+B03AB08 b03ab08-zheleza-atcetil-transferrin Железа ацетил трансферрин
+B03AB09 b03ab09-zheleza-proteinsuktcinilat Железа протеинсукцинилат
+B03AD01 b03ad01-zheleza-v-kombinatcii-s-aminokislotami-i-folievoi-kislotoi Железа в комбинации с аминокислотами и фолиевой кислотой
+B03AD02 b03ad02-zheleza-fumarat-v-kombinatcii-s-folievoi-kislotoi Железа фумарат в комбинации с фолиевой кислотой
+B03AD03 b03ad03-zheleza-sulfat-v-kombinatcii-s-folievoi-kislotoi Железа сульфат в комбинации с фолиевой кислотой
+B03AD04 b03ad04-dekstriferron Декстриферрон
+B03AE01 b03ae01-preparaty-zheleza-v-kombinatcii-s-vitaminom-b12-i-folievoi-kislotoi Препараты железа в комбинации с витамином B12 и фолиевой кислотой
+B03AE02 b03ae02-preparaty-zheleza-v-kombinatcii-s-polivitaminami-i-folievoi-kislotoi Препараты железа в комбинации с поливитаминами и фолиевой кислотой
+B03AE03 b03ae03-preparaty-zheleza-v-kombinatcii-s-polivitaminami Препараты железа в комбинации с поливитаминами
+B03AE04 b03ae04-preparaty-zheleza-v-kombinatcii-s-polivitaminami-i-mineralami Препараты железа в комбинации с поливитаминами и минералами
+B03AE10 b03ae10-preparaty-zheleza-v-kombinatcii-s-drugimi-preparatami Препараты железа в комбинации с другими препаратами
+B03BA b03ba-tcianokobalamin-i-ego-proizvodnye Цианокобаламин и его производные
+B03BB b03bb-folievaia-kislota-i-ee-proizvodnye Фолиевая кислота и ее производные
+B03BA01 b03ba01-tcianokobalamin Цианокобаламин
+B03BA02 b03ba02-tcianokobalamin-tanin-kompleks Цианокобаламин-танин комплекс
+B03BA03 b03ba03-gidroksikobalamin Гидроксикобаламин
+B03BA04 b03ba04-kobamamid Кобамамид
+B03BA05 b03ba05-mekobalamin Мекобаламин
+B03BA51 b03ba51-tcianokobalamin-v-kombinatcii-s-drugimi-preparatami Цианокобаламин в комбинации с другими препаратами
+B03BA53 b03ba53-gidroksikobalamin-v-kombinatcii-s-drugimi-preparatami Гидроксикобаламин в комбинации с другими препаратами
+B03BB01 b03bb01-folievaia-kislota Фолиевая кислота
+B03BB51 b03bb51-folievaia-kislota-v-kombinatcii-s-drugimi-preparatami Фолиевая кислота в комбинации с другими препаратами
+B03XA b03xa-preparaty-dlia-lecheniia-anemii-drugie Препараты для лечения анемии другие
+B03XA01 b03xa01-eritropoetin Эритропоэтин
+B03XA02 b03xa02-darbepoetin-alfa Дарбэпоэтин альфа
+B03XA03 b03xa03-metoksipolietilenglikol-epoetin-beta Метоксиполиэтиленгликоль эпоэтин бета
+B03XA04 b03xa04-peginesatid Пегинесатид

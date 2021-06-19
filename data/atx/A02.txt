@@ -1,0 +1,88 @@
+A02A a02a-antatcidy Антациды
+A02B a02b-protivoiazvennye-preparaty-i-preparaty-dlia-lecheniia-gastroezofagealnogo-refliuksa Противоязвенные препараты и препараты для лечения гастроэзофагеального рефлюкса
+A02X a02x-prochie-preparaty-dlia-lecheniia-zabolevanii-sviazannykh-s-narusheniem-kislotnosti Прочие препараты для лечения заболеваний, связанных с нарушением кислотности
+A02AA a02aa-preparaty-magniia Препараты магния
+A02AB a02ab-preparaty-aliuminiia Препараты алюминия
+A02AC a02ac-preparaty-kaltciia Препараты кальция
+A02AD a02ad-kombinatciia-preparatov-aliuminiia-kaltciia-i-magniia Комбинация препаратов алюминия, кальция и магния
+A02AF a02af-antatcidy-v-sochetanii-s-vetrogonnymi-preparatami Антациды в сочетании с ветрогонными препаратами
+A02AG a02ag-antatcidy-v-sochetanii-so-spazmolitikami Антациды в сочетании со спазмолитиками
+A02AH a02ah-antatcidy-v-sochetanii-s-natriia-bikarbonatom Антациды в сочетании с натрия бикарбонатом
+A02AX a02ax-antatcidy-v-sochetanii-s-drugimi-preparatami Антациды в сочетании с другими препаратами
+A02AA01 a02aa01-magniia-karbonat Магния карбонат
+A02AA02 a02aa02-magniia-oksid Магния оксид
+A02AA03 a02aa03-magniia-peroksid Магния пероксид
+A02AA04 a02aa04-magniia-gidroksid Магния гидроксид
+A02AA05 a02aa05-magniia-silikat Магния силикат
+A02AA10 a02aa10-kombinatciia-preparatov-magniia Комбинация препаратов магния
+A02AB01 a02ab01-aliuminiia-gidroksid-fosfaliugel-gel-aliuminiia-fosfata Алюминия гидроксид Фосфалюгель (гель алюминия фосфата)
+A02AB02 a02ab02-algeldrat Алгелдрат
+A02AB03 a02ab03-aliuminiia-fosfat Алюминия фосфат
+A02AB04 a02ab04-digidroksialiuminiia-natriia-karbonat-karbaldrat Дигидроксиалюминия натрия карбонат (Карбалдрат)
+A02AB05 a02ab05-aliuminiia-atcetoatcetat Алюминия ацетоацетат
+A02AB06 a02ab06-aloglutamol Алоглутамол
+A02AB07 a02ab07-aliuminiia-glitcinat Алюминия глицинат
+A02AB10 a02ab10-kombinatciia-preparatov-aliuminiia Комбинация препаратов алюминия
+A02AC01 a02ac01-kaltciia-karbonat Кальция карбонат
+A02AC02 a02ac02-kaltciia-silikat Кальция силикат
+A02AC10 a02ac10-kombinatciia-preparatov-kaltciia Комбинация препаратов кальция
+A02AD01 a02ad01-prostoe-sochetanie-solei Простое сочетание солей
+A02AD02 a02ad02-magaldrat Магалдрат
+A02AD03 a02ad03-almagat Алмагат
+A02AD04 a02ad04-gidrotaltcit Гидроталцит
+A02AD05 a02ad05-almasilat-simaldrat Алмасилат (Сималдрат)
+A02AF01 a02af01-magaldrat-i-vetrogonnye-preparaty Магалдрат и ветрогонные препараты
+A02AF02 a02af02-prostoe-sochetanie-solei-i-vetrogonnykh-preparatov Простое сочетание солей и ветрогонных препаратов
+A02BB a02bb-prostaglandiny Простагландины
+A02BC a02bc-ingibitory-protonovogo-nasosa Ингибиторы протонового насоса
+A02BD a02bd-kombinatcii-preparatov-dlia-eradikatcii-helicobacter-pylori Комбинации препаратов для эрадикации Helicobacter pylori
+A02BX a02bx-prochie-protivoiazvennye-preparaty-i-preparaty-dlia-lecheniia-gastroezofagealnogo-refliuksa Прочие противоязвенные препараты и препараты для лечения гастроэзофагеального рефлюкса
+A02BA a02ba-blokatory-h2-gistaminovykh-retceptorov Блокаторы H2-гистаминовых рецепторов 
+A02BB01 a02bb01-mizoprostol Мизопростол
+A02BB02 a02bb02-enprostil-omez-ingibitor-protonnoi-pompy Энпростил  омез, ингибитор протонной помпы
+A02BC01 a02bc01-omeprazol Омепразол
+A02BC02 a02bc02-pantoprazol Пантопразол
+A02BC03 a02bc03-lansoprazol Лансопразол
+A02BC04 a02bc04-rabeprazol Рабепразол
+A02BC05 a02bc05-ezomeprazol-ingibitor-protonnoi-pompy-ezomeprazol-neksium Эзомепразол ингибитор протонной помпы эзомепразол (нексиум)
+A02BC06 a02bc06-dekslansoprazol Декслансопразол
+A02BC07 a02bc07-deksrabeprazol Дексрабепразол
+A02BC53 a02bc53-lansoprazol-v-kombinatcii-s-drugimi-preparatami Лансопразол в комбинации с другими препаратами
+A02BC54 a02bc54-rabeprazol-v-kombinatcii-s-drugimi-preparatami Рабепразол в комбинации с другими препаратами
+A02BD01 a02bd01-omeprazol-amoksitcillin-i-metronidazol Омепразол, амоксициллин и метронидазол
+A02BD02 a02bd02-lansoprazol-tetratciclin-i-metronidazol Лансопразол, тетрациклин и метронидазол
+A02BD03 a02bd03-lansoprazol-amoksitcillin-i-metronidazol Лансопразол, амоксициллин и метронидазол
+A02BD04 a02bd04-pantoprazol-v-kombinatcii-s-amoksitcillinom-i-claritromitcinom Пантопразол в комбинации с амоксициллином и кларитромицином
+A02BD05 a02bd05-omeprazol-amoksitcillin-i-claritromitcin Омепразол, амоксициллин и кларитромицин
+A02BD06 a02bd06-ezomeprazol-amoksitcillin-i-claritromitcin Эзомепразол, амоксициллин и кларитромицин
+A02BD07 a02bd07-lansoprazol-amoksitcillin-i-claritromitcin Лансопразол, амоксициллин и кларитромицин
+A02BD08 a02bd08-vismuta-subtcitrat-tetratciclin-i-metronidazol Висмута субцитрат, тетрациклин и метронидазол
+A02BD09 a02bd09-lansoprazol-claritromitcin-i-tinidazol Лансопразол, кларитромицин и тинидазол
+A02BD10 a02bd10-lansoprazol-amoksitcillin-i-levofloksatcin Лансопразол, амоксициллин и левофлоксацин
+A02BD11 a02bd11-pantoprazol-amoksitcillin-claritromitcin-i-metronidazol Пантопразол, амоксициллин, кларитромицин и метронидазол
+A02BX01 a02bx01-karbenoksolon Карбеноксолон
+A02BX02 a02bx02-sukralfat Сукралфат
+A02BX03 a02bx03-pirenzepin Пирензепин
+A02BX04 a02bx04-metiosulfoniia-khlorid Метиосульфония хлорид
+A02BX05 a02bx05-vismuta-trikaliia-ditcitrat Висмута трикалия дицитрат
+A02BX06 a02bx06-proglumid Проглумид
+A02BX07 a02bx07-gefarnat Гефарнат
+A02BX08 a02bx08-sulglikotid Сулгликотид
+A02BX09 a02bx09-atcetoksolon Ацетоксолон
+A02BX10 a02bx10-zolmidin Золмидин
+A02BX11 a02bx11-troksipid Троксипид
+A02BX12 a02bx12-vismuta-subnitrat Висмута субнитрат
+A02BX13 a02bx13-alginovaia-kislota Альгиновая кислота
+A02BX51 a02bx51-karbenoksolon-v-sochetanii-s-drugimi-preparatami-iscliuchaia-psihotropnye-preparaty Карбеноксолон в сочетании с другими препаратами (исключая психотропные препараты)
+A02BX71 a02bx71-karbenoksolon-v-sochetanii-s-psihotropnymi-preparatami Карбеноксолон в сочетании с психотропными препаратами
+A02BX77 a02bx77-gefarnat-v-sochetanii-s-psihotropnymi-preparatami Гефарнат в сочетании с психотропными препаратами
+A02BA01 a02ba01-tcimetidin Циметидин
+A02BA02 a02ba02-ranitidin Ранитидин
+A02BA03 a02ba03-famotidin Фамотидин
+A02BA04 a02ba04-nizatidin Низатидин
+A02BA05 a02ba05-niperotidin Ниперотидин
+A02BA06 a02ba06-roksatidin-kvamatel-famotidin Роксатидин Квамател (фамотидин)
+A02BA07 a02ba07-ranitidina-vismuta-tcitrat Ранитидина висмута цитрат
+A02BA08 a02ba08-lafutidin Лафутидин
+A02BA51 a02ba51-tcimetidin-v-sochetanii-s-drugimi-preparatami Циметидин в сочетании с другими препаратами
+A02BA53 a02ba53-famotidin-v-sochetanii-s-drugimi-preparatami Фамотидин в сочетании с другими препаратами

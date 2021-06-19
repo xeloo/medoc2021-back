@@ -1,0 +1,96 @@
+D07A d07a-kortikosteroidy Кортикостероиды
+D07B d07b-kortikosteroidy-v-kombinatcii-s-antiseptikami Кортикостероиды в комбинации с антисептиками
+D07C d07c-kortikosteroidy-v-kombinatcii-s-antibiotikami Кортикостероиды в комбинации с антибиотиками
+D07X d07x-kortikosteroidy-v-kombinatcii-s-drugimi-preparatami Кортикостероиды в комбинации с другими препаратами
+D07AA d07aa-kortikosteroidy-slaboaktivnye-gruppa-i Кортикостероиды слабоактивные (группа I)
+D07AB d07ab-kortikosteroidy-umerenno-aktivnye-gruppa-ii Кортикостероиды умеренно активные (группа II)
+D07AC d07ac-kortikosteroidy-aktivnye-gruppa-iii Кортикостероиды активные (группа III)
+D07AD d07ad-kortikosteroidy-vysokoaktivnye-gruppa-iv Кортикостероиды высокоактивные (группа IV)
+D07AA01 d07aa01-metilprednizolon Метилпреднизолон
+D07AA02 d07aa02-gidrokortizon Гидрокортизон
+D07AA03 d07aa03-prednizolon Преднизолон
+D07AB01 d07ab01-clobetazol Клобетазол
+D07AB02 d07ab02-gidrokortizona-butirat Гидрокортизона бутират
+D07AB03 d07ab03-flumetazon Флуметазон
+D07AB04 d07ab04-fluokortin Флуокортин
+D07AB05 d07ab05-fluperolon Флуперолон
+D07AB06 d07ab06-fluorometolon Флуорометолон
+D07AB07 d07ab07-flupredniden Флупредниден
+D07AB08 d07ab08-desonid Десонид
+D07AB09 d07ab09-triamtcinolon Триамцинолон
+D07AB10 d07ab10-alclometazon Алклометазон
+D07AB11 d07ab11-gidrokortizona-buteprat Гидрокортизона бутепрат
+D07AB19 d07ab19-deksametazon Дексаметазон
+D07AB21 d07ab21-clokortolon Клокортолон
+D07AB30 d07ab30-kombinatcii-kortikosteroidov Комбинации кортикостероидов
+D07AC01 d07ac01-betametazon Бетаметазон
+D07AC02 d07ac02-fluclorolon Флуклоролон
+D07AC03 d07ac03-dezoksimetazon Дезоксиметазон
+D07AC04 d07ac04-fluotcinolona-atcetonid Флуоцинолона ацетонид
+D07AC05 d07ac05-fluokortolon Флуокортолон
+D07AC06 d07ac06-diflukortolon Дифлукортолон
+D07AC07 d07ac07-fludroksikortid Флудроксикортид
+D07AC08 d07ac08-fluotcinonid Флуоцинонид
+D07AC09 d07ac09-budesond Будесонд
+D07AC10 d07ac10-diflorazon Дифлоразон
+D07AC11 d07ac11-amtcinonid Амцинонид
+D07AC12 d07ac12-galometazon Галометазон
+D07AC13 d07ac13-mometazon Мометазон
+D07AC14 d07ac14-metilprednizolona-atceponat Метилпреднизолона ацепонат
+D07AC15 d07ac15-beclometazon Беклометазон
+D07AC16 d07ac16-gidrokortizona-atceponat Гидрокортизона ацепонат
+D07AC17 d07ac17-flutikazon Флутиказон
+D07AC18 d07ac18-prednikarbat Предникарбат
+D07AC19 d07ac19-difluprednat Дифлупреднат
+D07AC21 d07ac21-ulobetazol Улобетазол
+D07AD01 d07ad01-clobetazol Клобетазол
+D07AD02 d07ad02-galtcinonid Галцинонид
+D07BA d07ba-kortikosteroidy-slaboaktivnye-v-kombinatcii-s-antiseptikami Кортикостероиды слабоактивные в комбинации с антисептиками
+D07BB d07bb-kortikosteroidy-umerenno-aktivnye-v-kombinatcii-s-antiseptikami Кортикостероиды умеренно активные в комбинации с антисептиками
+D07BC d07bc-kortikosteroidy-aktivnye-v-kombinatcii-s-antiseptikami Кортикостероиды активные в комбинации с антисептиками
+D07BA01 d07ba01-prednizolon-v-kombinatcii-s-antiseptikami Преднизолон в комбинации с антисептиками
+D07BA04 d07ba04-gidrokortizon-v-kombinatcii-s-antiseptikami Гидрокортизон в комбинации с антисептиками
+D07BB01 d07bb01-flumetazon-v-kombinatcii-s-antiseptikami Флуметазон в комбинации с антисептиками
+D07BB02 d07bb02-desonid-v-kombinatcii-s-antiseptikami Десонид в комбинации с антисептиками
+D07BB03 d07bb03-triamtcinolon-v-kombinatcii-s-antiseptikami Триамцинолон в комбинации с антисептиками
+D07BB04 d07bb04-gidrokortizona-butirat-v-kombinatcii-s-antiseptikami Гидрокортизона бутират в комбинации с антисептиками
+D07BC01 d07bc01-betametazon-v-kombinatcii-s-antiseptikami Бетаметазон в комбинации с антисептиками
+D07BC02 d07bc02-fluotcinolona-atcetonid-v-kombinatcii-s-antiseptikami Флуоцинолона ацетонид в комбинации с антисептиками
+D07BC03 d07bc03-fluokortolon-v-kombinatcii-s-antiseptikami Флуокортолон в комбинации с антисептиками
+D07BC04 d07bc04-diflukortolon-v-kombinatcii-s-antiseptikami Дифлукортолон в комбинации с антисептиками
+D07CA d07ca-kortikosteroidy-slaboaktivnye-v-kombinatcii-s-antibiotikami Кортикостероиды слабоактивные в комбинации с антибиотиками
+D07CB d07cb-kortikosteroidy-umerenno-aktivnye-v-kombinatcii-s-antibiotikami Кортикостероиды умеренно активные в комбинации с антибиотиками
+D07CC d07cc-kortikosteroidy-aktivnye-v-kombinatcii-s-antibiotikami Кортикостероиды активные в комбинации с антибиотиками
+D07CD d07cd-kortikosteroidy-vysokoaktivnye-v-kombinatcii-s-antibiotikami Кортикостероиды высокоактивные в комбинации с антибиотиками
+D07CA01 d07ca01-gidrokortizon-v-kombinatcii-s-antibiotikami Гидрокортизон в комбинации с антибиотиками
+D07CA02 d07ca02-metilprednizolon-v-kombinatcii-s-antibiotikami Метилпреднизолон в комбинации с антибиотиками
+D07CA03 d07ca03-prednizolon-v-kombinatcii-s-antibiotikami Преднизолон в комбинации с антибиотиками
+D07CB01 d07cb01-triamtcinolon-v-kombinatcii-s-antibiotikami Триамцинолон в комбинации с антибиотиками
+D07CB02 d07cb02-flupredniden-v-kombinatcii-s-antibiotikami Флупредниден в комбинации с антибиотиками
+D07CB03 d07cb03-fluorometolon-v-kombinatcii-s-antibiotikami Флуорометолон в комбинации с антибиотиками
+D07CB04 d07cb04-deksametazon-v-kombinatcii-s-antibiotikami Дексаметазон в комбинации с антибиотиками
+D07CB05 d07cb05-flumetazon-v-kombinatcii-s-antibiotikami Флуметазон в комбинации с антибиотиками
+D07CC01 d07cc01-betametazon-v-kombinatcii-s-antibiotikami Бетаметазон в комбинации с антибиотиками
+D07CC02 d07cc02-fluotcinolona-atcetonid-v-kombinatcii-s-antibiotikami Флуоцинолона ацетонид в комбинации с антибиотиками
+D07CC03 d07cc03-fludroksikortid-v-kombinatcii-s-antibiotikami Флудроксикортид в комбинации с антибиотиками
+D07CC04 d07cc04-beclometazon-v-kombinatcii-s-antibiotikami Беклометазон в комбинации с антибиотиками
+D07CC05 d07cc05-fluotcinonid-v-kombinatcii-s-antibiotikami Флуоцинонид в комбинации с антибиотиками
+D07CC06 d07cc06-fluokortolon-v-kombinatcii-s-antibiotikami Флуокортолон в комбинации с антибиотиками
+D07CD01 d07cd01-clobetazol-v-kombinatcii-s-antibiotikami Клобетазол в комбинации с антибиотиками
+D07XA d07xa-kortikosteroidy-slaboaktivnye-v-kombinatcii-s-drugimi-preparatami Кортикостероиды слабоактивные в комбинации с другими препаратами
+D07XB d07xb-kortikosteroidy-umerenno-aktivnye-v-kombinatcii-s-drugimi-preparatami Кортикостероиды умеренно активные в комбинации с другими препаратами
+D07XC d07xc-kortikosteroidy-aktivnye-v-kombinatcii-s-drugimi-preparatami Кортикостероиды активные в комбинации с другими препаратами
+D07XD d07xd-kortikosteroidy-vysokoaktivnye-v-kombinatcii-s-drugimi-preparatami Кортикостероиды высокоактивные в комбинации с другими препаратами
+D07XA01 d07xa01-gidrokortizon-v-kombinatcii-s-drugimi-preparatami Гидрокортизон в комбинации с другими препаратами
+D07XA02 d07xa02-prednizolon-v-kombinatcii-s-drugimi-preparatami Преднизолон в комбинации с другими препаратами
+D07XB01 d07xb01-flumetazon-v-kombinatcii-s-drugimi-preparatami Флуметазон в комбинации с другими препаратами
+D07XB02 d07xb02-triamtcinolon-v-kombinatcii-s-drugimi-preparatami Триамцинолон в комбинации с другими препаратами
+D07XB03 d07xb03-flupredniden-v-kombinatcii-s-drugimi-preparatami Флупредниден в комбинации с другими препаратами
+D07XB04 d07xb04-fluorometolon-v-kombinatcii-s-drugimi-preparatami Флуорометолон в комбинации с другими препаратами
+D07XB05 d07xb05-deksametazon-v-kombinatcii-s-drugimi-preparatami Дексаметазон в комбинации с другими препаратами
+D07XB30 d07xb30-sochetanie-razlichnykh-kortikosteroidov-v-kombinatcii-s-drugimi-preparatami Сочетание различных кортикостероидов в комбинации с другими препаратами
+D07XC01 d07xc01-betametazon-v-kombinatcii-s-drugimi-preparatami Бетаметазон в комбинации с другими препаратами
+D07XC02 d07xc02-dezoksimetazon-v-kombinatcii-s-drugimi-preparatami Дезоксиметазон в комбинации с другими препаратами
+D07XC03 d07xc03-mometazon-v-kombinatcii-s-drugimi-preparatami Мометазон в комбинации с другими препаратами
+D07XC04 d07xc04-diflukortolon-v-kombinatcii-s-drugimi-preparatami Дифлукортолон в комбинации с другими препаратами
+D07XC05 d07xc05-fluokortolon Флуокортолон

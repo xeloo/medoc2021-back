@@ -1,0 +1,19 @@
+A08A a08a-preparaty-dlia-lecheniia-ozhireniia-iscliuchaia-dieticheskie-produkty Препараты для лечения ожирения (исключая диетические продукты)
+A08AA a08aa-preparaty-dlia-lecheniia-ozhireniia-centralnogo-deistviia Препараты для лечения ожирения центрального действия
+A08AB a08ab-preparaty-dlia-lecheniia-ozhireniia-perifericheskogo-deistviia Препараты для лечения ожирения периферического действия
+A08AX a08ax-drugie-sredstva-protiv-ozhireniia Другие средства против ожирения
+A08AA01 a08aa01-fentermin Фентермин
+A08AA02 a08aa02-fenfluramin-lindaksa-sibutramin Фенфлурамин Линдакса (сибутрамин)
+A08AA03 a08aa03-amfepramon Амфепрамон
+A08AA04 a08aa04-deksfenfluramin Дексфенфлурамин
+A08AA05 a08aa05-mazindol Мазиндол
+A08AA06 a08aa06-etilamfetamin Этиламфетамин
+A08AA07 a08aa07-katin Катин
+A08AA08 a08aa08-clobenzoreks Клобензорекс
+A08AA09 a08aa09-mefenoreks Мефенорекс
+A08AA10 a08aa10-sibutramin Сибутрамин
+A08AA11 a08aa11-lorkaserin Лоркасерин
+A08AA56 a08aa56-efedrin-v-sochetanii-s-drugimi-preparatami Эфедрин в сочетании с другими препаратами
+A08AA62 a08aa62-bupropion-i-naltrekson Бупропион и налтрексон
+A08AB01 a08ab01-orlistat Орлистат
+A08AX01 a08ax01-rimonabant Римонабант

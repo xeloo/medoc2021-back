@@ -1,0 +1,3 @@
+H04A h04a-gormony-rasshchepliaiushchie-glikogen Гормоны, расщепляющие гликоген
+H04AA h04aa-gormony-rasshchepliaiushchie-glikogen Гормоны, расщепляющие гликоген
+H04AA01 h04aa01-gliukagon Глюкагон

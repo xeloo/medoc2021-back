@@ -1,0 +1,14 @@
+A09A a09a-preparaty-sposobstvuiushchie-pishchevareniiu-vcliuchaia-fermentnye-preparaty Препараты, способствующие пищеварению (включая ферментные препараты)
+A09AA a09aa-pishchevaritelnye-fermentnye-preparaty Пищеварительные ферментные препараты
+A09AB a09ab-kisloty Кислоты
+A09AC a09ac-kombinatciia-pishchevaritelnykh-fermentnykh-preparatov-i-kislotosoderzhashchikh-preparatov Комбинация пищеварительных ферментных препаратов и кислотосодержащих препаратов
+A09AA01 a09aa01-diastaza Диастаза
+A09AA02 a09aa02-pankreatin Панкреатин
+A09AA03 a09aa03-pepsin Пепсин
+A09AA04 a09aa04-tilaktaza Тилактаза
+A09AB01 a09ab01-glutaminovoi-kisloty-gidrokhlorid Глутаминовой кислоты гидрохлорид
+A09AB02 a09ab02-betain Бетаин
+A09AB03 a09ab03-khloristovodorodnaia-kislota Хлористоводородная кислота
+A09AB04 a09ab04-leemonnaia-kislota Лимонная кислота
+A09AC01 a09ac01-pepsin-i-kislotosoderzhashchie-preparaty Пепсин и кислотосодержащие препараты
+A09AC02 a09ac02-polifermentnye-kislotosoderzhashchie-preparaty Полиферментные кислотосодержащие препараты

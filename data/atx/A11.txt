@@ -1,0 +1,56 @@
+A11A a11a-polivitaminy-v-kombinatcii-s-drugimi-preparatami Поливитамины в комбинации с другими препаратами
+A11B a11b-polivitaminy Поливитамины
+A11C a11c-vitaminy-a-i-d-i-ikh-kombinatciia Витамины A и D и их комбинация
+A11D a11d-vitamin-b1-i-ego-kombinatciia-s-vitaminami-b6-i-b12 Витамин B1 и его комбинация с витаминами B6 и B12
+A11E a11e-kompleks-vitaminov-gruppy-b-vcliuchaia-kombinatcii-s-drugimi-preparatami Комплекс витаминов группы B, включая комбинации с другими препаратами
+A11G a11g-askorbinovaia-kislota-vcliuchaia-kombinatcii-s-drugimi-preparatami Аскорбиновая кислота, включая комбинации с другими препаратами
+A11H a11h-drugie-vitaminy-v-chistom-vide Другие витамины в чистом виде
+A11J a11j-drugie-kombinatcii-vitaminov Другие комбинации витаминов
+A11AA a11aa-polivitaminy-s-mineralnymi-veshchestvami Поливитамины с минеральными веществами
+A11AB a11ab-polivitaminy-v-drugikh-kombinatciiakh Поливитамины в других комбинациях
+A11AA01 a11aa01-polivitaminy-s-zhelezom Поливитамины с железом
+A11AA02 a11aa02-polivitaminy-s-kaltciem Поливитамины с кальцием
+A11AA03 a11aa03-polivitaminy-s-prochimi-mineralami-i-ikh-kombinatciiami Поливитамины с прочими минералами и их комбинациями
+A11AA04 a11aa04-polivitaminy-v-kombinatcii-s-mikroelementami Поливитамины в комбинации с микроэлементами
+A11BA a11ba-polivitaminy Поливитамины
+A11CA a11ca-vitamin-a Витамин A
+A11CB a11cb-kombinatciia-vitaminov-a-i-d Комбинация витаминов A и D
+A11CC a11cc-vitamin-d-i-ego-proizvodnye Витамин D и его производные
+A11CA01 a11ca01-retinol Ретинол
+A11CA02 a11ca02-betakaroten Бетакаротен
+A11CC01 a11cc01-ergokaltciferol Эргокальциферол
+A11CC02 a11cc02-digidrotahisterol Дигидротахистерол
+A11CC03 a11cc03-alfakaltcidol Альфакальцидол
+A11CC04 a11cc04-kaltcitriol Кальцитриол
+A11CC05 a11cc05-kolekaltciferol Колекальциферол
+A11CC06 a11cc06-kaltcifediol Кальцифедиол
+A11CC20 a11cc20-kombinatciia-proizvodnykh-vitaminov-d Комбинация производных витаминов D
+A11DA a11da-vitamin-b1 Витамин B1
+A11DB a11db-kombinatciia-vitamina-b1-s-vitaminami-b6-i-ili-b12 Комбинация витамина B1 с витаминами B6 и/или B12
+A11DA01 a11da01-tiamin Тиамин
+A11DA02 a11da02-sulbutiamin Сулбутиамин
+A11DA03 a11da03-benfotiamin Бенфотиамин
+A11EA a11ea-vitaminy-gruppy-b Витамины группы B
+A11EB a11eb-vitaminy-gruppy-b-v-kombinatcii-s-askorbinovoi-kislotoi Витамины группы B в комбинации с аскорбиновой кислотой
+A11EC a11ec-vitaminy-gruppy-b-v-kombinatcii-s-mineralnymi-veshchestvami Витамины группы B в комбинации с минеральными веществами
+A11ED a11ed-vitaminy-gruppy-b-v-kombinatcii-s-anabolicheskimi-steroidnymi-preparatami Витамины группы B в комбинации с анаболическими стероидными препаратами
+A11EX a11ex-vitaminy-gruppy-b-v-kombinatcii-s-drugimi-preparatami Витамины группы B в комбинации с другими препаратами
+A11GA a11ga-askorbinovaia-kislota-v-chistom-vide Аскорбиновая кислота в чистом виде
+A11GB a11gb-askorbinovaia-kislota-v-kombinatcii-s-drugimi-preparatami Аскорбиновая кислота в комбинации с другими препаратами
+A11GA01 a11ga01-askorbinovaia-kislota Аскорбиновая кислота
+A11GB01 a11gb01-askorbinovaia-kislota-i-kaltcii Аскорбиновая кислота и кальций
+A11HA a11ha-drugie-vitaminy-v-chistom-vide Другие витамины в чистом виде
+A11HA01 a11ha01-nikotinamid Никотинамид
+A11HA02 a11ha02-piridoksin-vitamin-b6 Пиридоксин (витамин B6)
+A11HA03 a11ha03-tokoferol-vitamin-e Токоферол (витамин Е)
+A11HA04 a11ha04-riboflavin-vitamin-b2 Рибофлавин (витамин B2)
+A11HA05 a11ha05-biotin Биотин
+A11HA06 a11ha06-piridoksalfosfat Пиридоксальфосфат
+A11HA07 a11ha07-inozitol Инозитол
+A11HA08 a11ha08-tokofersolan Токоферсолан
+A11HA30 a11ha30-dekspantenol Декспантенол
+A11HA31 a11ha31-kaltciia-pantotenat Кальция пантотенат
+A11HA32 a11ha32-pantetin Пантетин
+A11JA a11ja-kombinatcii-vitaminov Комбинации витаминов
+A11JB a11jb-kombinatcii-vitaminov-s-mineralami Комбинации витаминов с минералами
+A11JC a11jc-drugie-kombinatcii-s-vitaminami Другие комбинации с витаминами

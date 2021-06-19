@@ -1,0 +1,15 @@
+H05A h05a-paratireoidnye-gormony-i-ikh-analogi Паратиреоидные гормоны и их аналоги
+H05B h05b-antiparatireoidnye-gormony Антипаратиреоидные гормоны
+H05AA h05aa-paratireoidnye-gormony-i-ikh-analogi Паратиреоидные гормоны и их аналоги
+H05AA01 h05aa01-parashchitovidnoi-zhelezy-ekstrakt Паращитовидной железы экстракт 
+H05AA02 h05aa02-teriparatid Терипаратид
+H05AA03 h05aa03-paratireoidnyi-gormon Паратиреоидный гормон
+H05BA h05ba-preparaty-kaltcitonina Препараты кальцитонина
+H05BX h05bx-prochie-antiparatireoidnye-sredstva Прочие антипаратиреоидные средства
+H05BA01 h05ba01-kaltcitonin-lososia-sinteticheskii Кальцитонин лосося синтетический
+H05BA02 h05ba02-kaltcitonin-svinoi-naturalnyi Кальцитонин свиной натуральный
+H05BA03 h05ba03-kaltcitonin-cheloveka-sinteticheskii Кальцитонин человека синтетический
+H05BA04 h05ba04-elkatonin Элкатонин
+H05BX01 h05bx01-tcinakaltcet Цинакальцет
+H05BX02 h05bx02-parikaltcitol Парикальцитол
+H05BX03 h05bx03-dokserkaltciferol Доксеркальциферол

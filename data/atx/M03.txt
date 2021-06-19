@@ -1,0 +1,59 @@
+M03A m03a-miorelaksanty-perifericheskogo-deistviia Миорелаксанты периферического действия
+M03B m03b-miorelaksanty-centralnogo-deistviia Миорелаксанты центрального действия
+M03C m03c-miorelaksanty-priamogo-deistviia Миорелаксанты прямого действия
+M03AA m03aa-alkaloidy-kurare Алкалоиды кураре
+M03AB m03ab-proizvodnye-holina Производные холина
+M03AC m03ac-prochie-chetvertichnye-ammonievye-soedineniia Прочие четвертичные аммониевые соединения
+M03AX m03ax-prochie-miorelaksanty-perifericheskogo-deistviia Прочие миорелаксанты периферического действия
+M03AA01 m03aa01-alkuroniia-khlorid Алкурония хлорид
+M03AA02 m03aa02-tubokurarina-khlorid Тубокурарина хлорид
+M03AA04 m03aa04-dimetiltubokurarin Диметилтубокурарин
+M03AB01 m03ab01-suksametoniia-khlorid Суксаметония хлорид
+M03AC01 m03ac01-pankuroniia-bromid Панкурония бромид
+M03AC02 m03ac02-gallamin Галламин
+M03AC03 m03ac03-vekuroniia-bromid Векурония бромид
+M03AC04 m03ac04-atrakuriia-bezilat Атракурия безилат
+M03AC05 m03ac05-geksafluronii Гексафлуроний
+M03AC06 m03ac06-pipekuroniia-bromid Пипекурония бромид
+M03AC07 m03ac07-doksakuriia-khlorid Доксакурия хлорид
+M03AC08 m03ac08-fazadiniia-bromid Фазадиния бромид
+M03AC09 m03ac09-rokuroniia-bromid Рокурония бромид
+M03AC10 m03ac10-mivakuriia-khlorid Мивакурия хлорид
+M03AC11 m03ac11-tcisatrakuriia-bezilat Цисатракурия безилат
+M03AX01 m03ax01-botulinicheskii-toksin Ботулинический токсин
+M03BA m03ba-efiry-karbaminovoi-kisloty Эфиры карбаминовой кислоты
+M03BB m03bb-proizvodnye-oksazola-tiazina-i-triazina Производные оксазола, тиазина и триазина
+M03BC m03bc-efiry-himicheski-blizkie-k-antigistaminnym-preparatam Эфиры, химически близкие к антигистаминным препаратам
+M03BX m03bx-prochie-miorelaksanty-centralnogo-deistviia Прочие миорелаксанты центрального действия
+M03BA01 m03ba01-fenprobamat Фенпробамат
+M03BA02 m03ba02-karisoprodol Карисопродол
+M03BA03 m03ba03-metokarbamol Метокарбамол
+M03BA04 m03ba04-stiramat Стирамат
+M03BA05 m03ba05-febarbamat Фебарбамат
+M03BA51 m03ba51-fenprobamat-v-kombinatcii-s-drugimi-preparatami-iscliuchaia-psiholeptiki Фенпробамат в комбинации с другими препаратами (исключая психолептики)
+M03BA52 m03ba52-karisoprodol-v-kombinatcii-s-drugimi-preparatami-iscliuchaia-psiholeptiki Карисопродол в комбинации с другими препаратами (исключая психолептики)
+M03BA53 m03ba53-metokarbamol-v-kombinatcii-s-drugimi-preparatami-iscliuchaia-psiholeptiki Метокарбамол в комбинации с другими препаратами (исключая психолептики)
+M03BA71 m03ba71-fenprobamat-v-kombinatcii-s-psiholeptikami Фенпробамат в комбинации с психолептиками
+M03BA72 m03ba72-karisoprodol-v-kombinatcii-s-psiholeptikami Карисопродол в комбинации с психолептиками
+M03BA73 m03ba73-metokarbamol-v-kombinatcii-s-psiholeptikami Метокарбамол в комбинации с психолептиками
+M03BB02 m03bb02-khlormezanon Хлормезанон
+M03BB03 m03bb03-khlorzoksazon Хлорзоксазон
+M03BB52 m03bb52-khlormezanon-v-kombinatcii-s-drugimi-preparatami-iscliuchaia-psiholeptiki Хлормезанон в комбинации с другими препаратами (исключая психолептики)
+M03BB53 m03bb53-khlorzoksazon-v-kombinatcii-s-drugimi-preparatami-iscliuchaia-psiholeptiki Хлорзоксазон в комбинации с другими препаратами (исключая психолептики)
+M03BB72 m03bb72-khlormezanon-v-kombinatcii-s-psiholeptikami Хлормезанон в комбинации с психолептиками
+M03BB73 m03bb73-khlorzoksazon-v-kombinatcii-s-psiholeptikami Хлорзоксазон в комбинации с психолептиками
+M03BC01 m03bc01-orfenadrin-tcitrat Орфенадрин (цитрат)
+M03BC51 m03bc51-orfenadrin-v-kombinatcii-s-drugimi-preparatami Орфенадрин в комбинации с другими препаратами
+M03BX01 m03bx01-baclofen Баклофен
+M03BX02 m03bx02-tizanidin Тизанидин
+M03BX03 m03bx03-pridinol Придинол
+M03BX04 m03bx04-tolperizon Толперизон
+M03BX05 m03bx05-tiokolhikozid Тиоколхикозид
+M03BX06 m03bx06-mefenezin Мефенезин
+M03BX07 m03bx07-tetrazepam Тетразепам
+M03BX08 m03bx08-tciclobenzaprin Циклобензаприн
+M03BX09 m03bx09-eperizon Эперизон
+M03BX30 m03bx30-feniramidol Фенирамидол
+M03BX55 m03bx55-tiokolhikozid-v-kombinatcii-s-drugimi-preparatami Тиоколхикозид в комбинации с другими препаратами
+M03CA m03ca-dantrolen-i-ego-proizvodnye Дантролен и его производные
+M03CA01 m03ca01-dantrolen Дантролен

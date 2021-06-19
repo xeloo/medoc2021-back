@@ -1,0 +1,62 @@
+C05A c05a-sredstva-dlia-lecheniia-analnykh-treshchin-dlia-mestnogo-primeneniia Средства для лечения анальных трещин для местного применения
+C05B c05b-preparaty-dlia-lecheniia-varikoznogo-rasshireniia-ven Препараты для лечения варикозного расширения вен
+C05C c05c-preparaty-snizhaiushchie-pronitcaemost-kapilliarov Препараты, снижающие проницаемость капилляров
+C05AA c05aa-kortikosteroidy Кортикостероиды
+C05AB c05ab-antibiotiki Антибиотики
+C05AD c05ad-mestnye-anestetiki Местные анестетики
+C05AE c05ae-miorelaksanty Миорелаксанты
+C05AX c05ax-preparaty-dlia-lecheniia-gemorroia-i-analnykh-treshchin-dlia-mestnogo-naznacheniia-drugie Препараты для лечения геморроя и анальных трещин для местного назначения другие
+C05AA01 c05aa01-gidrokortizon Гидрокортизон
+C05AA04 c05aa04-prednizolon Преднизолон
+C05AA05 c05aa05-betametazon Бетаметазон
+C05AA06 c05aa06-fluorometalon Флуорометалон
+C05AA08 c05aa08-fluokortolon Флуокортолон
+C05AA09 c05aa09-deksametazon Дексаметазон
+C05AA10 c05aa10-fluotcinolona-atcetonid Флуоцинолона ацетонид
+C05AA11 c05aa11-fliuotcinonid Флюоцинонид
+C05AA12 c05aa12-triamtcinolon Триамцинолон
+C05AD01 c05ad01-leedokain Лидокаин
+C05AD02 c05ad02-tetrakain Тетракаин
+C05AD03 c05ad03-benzokain Бензокаин
+C05AD04 c05ad04-tcinhokain Цинхокаин
+C05AD05 c05ad05-prokain Прокаин
+C05AD06 c05ad06-oksetakain Оксетакаин
+C05AD07 c05ad07-pramokain Прамокаин
+C05AE01 c05ae01-glitceril-trinitrat Глицерил тринитрат
+C05AE02 c05ae02-izosorbida-dinitrat Изосорбида динитрат
+C05AE03 c05ae03-diltiazem Дилтиазем
+C05AX01 c05ax01-preparaty-aliuminiia Препараты алюминия
+C05AX02 c05ax02-vismuta-preparaty-v-kombinatcii-s-drugimi-preparatami Висмута препараты в комбинации с другими препаратами
+C05AX03 c05ax03-preparaty-dlia-lecheniia-gemorroia-i-analnykh-treshchin-v-kombinatcii Препараты для лечения геморроя и анальных трещин в комбинации
+C05AX04 c05ax04-tcinka-preparaty Цинка препараты
+C05AX05 c05ax05-tribenozid Трибенозид
+C05BA c05ba-geparinsoderzhashchie-preparaty-dlia-mestnogo-primeneniia Гепаринсодержащие препараты для местного применения
+C05BB c05bb-venoscleroziruiushchie-preparaty Веносклерозирующие препараты
+C05BX c05bx-prochie-scleroziruiushchie-preparaty Прочие склерозирующие препараты
+C05BA01 c05ba01-geparinoidy-organicheskie Гепариноиды органические
+C05BA02 c05ba02-natriia-apolat Натрия аполат
+C05BA03 c05ba03-geparin-natriia Гепарин натрия
+C05BA04 c05ba04-pentozana-polisulfat-natriia Пентозана полисульфат натрия
+C05BA51 c05ba51-geparinoid-v-kombinatcii-s-drugimi-preparatami Гепариноид в комбинации с другими препаратами
+C05BA53 c05ba53-geparin-v-kombinatcii-s-drugimi-preparatami Гепарин в комбинации с другими препаратами
+C05BB01 c05bb01-monoetanolamina-oleat Моноэтаноламина олеат
+C05BB02 c05bb02-polidokanol Полидоканол
+C05BB03 c05bb03-invertnyi-sahar Инвертный сахар
+C05BB04 c05bb04-natriia-tetradetcilsulfat Натрия тетрадецилсульфат
+C05BB05 c05bb05-fenol Фенол
+C05BB56 c05bb56-gliukoza-v-kombinatcii-s-drugimi-preparatami Глюкоза в комбинации с другими препаратами
+C05BX01 c05bx01-kaltciia-dobezilat Кальция добезилат
+C05BX51 c05bx51-kaltciia-dobezilat-v-kombinatcii-s-drugimi-preparatami Кальция добезилат в комбинации с другими препаратами
+C05CA c05ca-bioflavonoidy Биофлавоноиды
+C05CX c05cx-prochie-preparaty-snizhaiushchie-pronitcaemost-kapilliarov Прочие препараты, снижающие проницаемость капилляров
+C05CA01 c05ca01-ruthozid Рутозид
+C05CA02 c05ca02-monokserutin Моноксерутин
+C05CA03 c05ca03-diosmin Диосмин
+C05CA04 c05ca04-trokserutin Троксерутин
+C05CA05 c05ca05-gidrosmin Гидросмин
+C05CA51 c05ca51-ruthozid-v-kombinatcii-s-drugimi-preparatami Рутозид в комбинации с другими препаратами
+C05CA53 c05ca53-diosmin-v-kombinatcii-s-drugimi-preparatami Диосмин в комбинации с другими препаратами
+C05CA54 c05ca54-trokserutin-v-kombinatcii-s-drugimi-preparatami Троксерутин в комбинации с другими препаратами
+C05CX01 c05cx01-tribenozid Трибенозид  
+C05CX02 c05cx02-naftazon Нафтазон  
+C05CX03 c05cx03-semena-kashtana-konskogo Семена каштана конского  

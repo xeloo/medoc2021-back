@@ -1,0 +1,18 @@
+J02A j02a-protivogribkovye-preparaty-dlia-sistemnogo-primeneniia Противогрибковые препараты для системного применения
+J02AA j02aa-protivogribkovye-antibiotiki Противогрибковые антибиотики
+J02AB j02ab-proizvodnye-imidazola Производные имидазола
+J02AX j02ax-prochie-protivogribkovye-preparaty-dlia-sistemnogo-primeneniia Прочие противогрибковые препараты для системного применения
+J02AC j02ac-proizvodnye-triazola Производные триазола
+J02AA01 j02aa01-amfoteritcin-v Амфотерицин В
+J02AA02 j02aa02-gahimitcin Гахимицин
+J02AB01 j02ab01-mikonazol Миконазол
+J02AB02 j02ab02-ketokonazol Кетоконазол
+J02AX01 j02ax01-flutcitozin Флуцитозин
+J02AX04 j02ax04-kaspofungin Каспофунгин
+J02AX05 j02ax05-mikafungin Микафунгин
+J02AX06 j02ax06-anidulafungin Анидулафунгин
+J02AC01 j02ac01-flukonazol Флуконазол
+J02AC02 j02ac02-itrakonazol Итраконазол
+J02AC03 j02ac03-vorikonazol Вориконазол
+J02AC04 j02ac04-pozakonazol Позаконазол
+J02AC05 j02ac05-isavukonazol Исавуконазол

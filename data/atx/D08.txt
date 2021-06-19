@@ -1,0 +1,66 @@
+D08A d08a-antiseptiki-i-dezinfitciruiushchie-preparaty Антисептики и дезинфицирующие препараты
+D08AA d08aa-proizvodnye-akridina Производные акридина
+D08AB d08ab-preparaty-aliuminiia Препараты алюминия
+D08AC d08ac-biguanidy-i-amidiny Бигуаниды и амидины
+D08AD d08ad-preparaty-bornoi-kisloty Препараты борной кислоты
+D08AE d08ae-fenol-i-ego-proizvodnye Фенол и его производные
+D08AF d08af-proizvodnye-nitrofurana Производные нитрофурана
+D08AG d08ag-preparaty-ioda Препараты йода
+D08AH d08ah-hinolina-proizvodnye Хинолина производные
+D08AJ d08aj-chetvertichnye-soedineniia-ammoniia Четвертичные соединения аммония
+D08AK d08ak-preparaty-rtuti Препараты ртути
+D08AL d08al-preparaty-serebra Препараты серебра
+D08AX d08ax-drugie-antiseptiki-i-dezinfitciruiushchie-preparaty Другие антисептики и дезинфицирующие препараты
+D08AA01 d08aa01-etakridina-laktat Этакридина лактат
+D08AA02 d08aa02-aminoakridin Аминоакридин
+D08AA03 d08aa03-euflavin Эуфлавин
+D08AC01 d08ac01-dibromopropamidin Дибромопропамидин
+D08AC02 d08ac02-khlorgeksidin Хлоргексидин
+D08AC03 d08ac03-propamidin Пропамидин
+D08AC04 d08ac04-geksamidin Гексамидин
+D08AC05 d08ac05-poligeksanid Полигексанид
+D08AC52 d08ac52-khlorgeksidin-v-kombinatcii-s-drugimi-preparatami Хлоргексидин в комбинации с другими препаратами
+D08AE01 d08ae01-geksakhlorofen Гексахлорофен
+D08AE02 d08ae02-polikrezulen Поликрезулен
+D08AE03 d08ae03-fenol Фенол
+D08AE04 d08ae04-triclozan Триклозан
+D08AE05 d08ae05-khloroksilenol Хлороксиленол
+D08AE06 d08ae06-bifenilol Бифенилол
+D08AF01 d08af01-nitrofural Нитрофурал
+D08AG01 d08ag01-iod-oktilfenoksipoliglikolefir Йод/Октилфеноксиполигликолэфир
+D08AG02 d08ag02-povidon-iod Повидон-йод
+D08AG03 d08ag03-iod Йод
+D08AG04 d08ag04-diiodogidroksipropan Дийодогидроксипропан
+D08AH01 d08ah01-dekvaliniia-khlorid Деквалиния хлорид
+D08AH02 d08ah02-khlorhinaldol Хлорхинальдол
+D08AH03 d08ah03-oksihinolin Оксихинолин
+D08AH30 d08ah30-cliohinol Клиохинол
+D08AJ01 d08aj01-benzalkoniia-khlorid Бензалкония хлорид
+D08AJ02 d08aj02-tcetrimonii Цетримоний
+D08AJ03 d08aj03-tcetilpiridiniia-khlorid Цетилпиридиния хлорид
+D08AJ04 d08aj04-tcetrimid Цетримид
+D08AJ05 d08aj05-benzoksoniia-khlorid Бензоксония хлорид
+D08AJ06 d08aj06-didetcildimetilammoniia-khlorid Дидецилдиметиламмония хлорид
+D08AJ08 d08aj08-benzetoniia-khlorid Бензетония хлорид
+D08AJ10 d08aj10-dekametoksin Декаметоксин
+D08AJ57 d08aj57-oktenidin-v-kombinatcii-s-drugimi-preparatami Октенидин в комбинации с другими препаратами
+D08AJ58 d08aj58-benzetoniia-khlorid-v-kombinatcii-s-drugimi-preparatami Бензетония хлорид в комбинации с другими препаратами
+D08AJ59 d08aj59-dodecloniia-bromid-v-kombinatcii-s-drugimi-preparatami Додеклония бромид в комбинации с другими препаратами
+D08AK01 d08ak01-rtuti-amidokhlorid Ртути амидохлорид
+D08AK02 d08ak02-fenilmerkuriia-borat-fenilrtuti-borat Фенилмеркурия борат (фенилртути борат)
+D08AK03 d08ak03-rtuti-khlorid Ртути хлорид
+D08AK04 d08ak04-merkurokhrom Меркурохром
+D08AK05 d08ak05-rtut-metallicheskaia Ртуть металлическая
+D08AK06 d08ak06-tiomersal Тиомерсал
+D08AK30 d08ak30-rtuti-iodid Ртути йодид
+D08AL01 d08al01-serebra-nitrat Серебра нитрат
+D08AL30 d08al30-serebro Серебро
+D08AX01 d08ax01-vodoroda-peroksid Водорода пероксид
+D08AX02 d08ax02-eozin Эозин
+D08AX03 d08ax03-propanol Пропанол
+D08AX04 d08ax04-tozilkhloramid-natriia Тозилхлорамид натрия
+D08AX05 d08ax05-izopropanol Изопропанол
+D08AX06 d08ax06-kaliia-permanganat Калия перманганат
+D08AX07 d08ax07-natriia-gipokhlorit Натрия гипохлорит
+D08AX08 d08ax08-etanol Этанол
+D08AX53 d08ax53-propanol-kombinatcii Пропанол, комбинации

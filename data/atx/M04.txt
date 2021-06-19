@@ -1,0 +1,18 @@
+M04A m04a-protivopodagricheskie-preparaty Противоподагрические препараты
+M04AA m04aa-ingibitory-sinteza-mochevoi-kisloty Ингибиторы синтеза мочевой кислоты
+M04AB m04ab-preparaty-uvelichivaiushchie-vyvedenie-mochevoi-kisloty Препараты, увеличивающие выведение мочевой кислоты
+M04AC m04ac-protivopodagricheskie-preparaty-ne-vliiaiushchie-na-metabolizm-mochevoi-kisloty Противоподагрические препараты, не влияющие на метаболизм мочевой кислоты
+M04AX m04ax-prochie-protivopodagricheskie-preparaty Прочие противоподагрические препараты
+M04AA01 m04aa01-allopurinol Аллопуринол
+M04AA02 m04aa02-tizopurin Тизопурин
+M04AA03 m04aa03-febuksostat Фебуксостат
+M04AA51 m04aa51-allopurinol-v-kombinatcii-s-drugimi-preparatami Аллопуринол в комбинации с другими препаратами
+M04AB01 m04ab01-probenetcid Пробенецид
+M04AB02 m04ab02-sulfinpirazon Сульфинпиразон
+M04AB03 m04ab03-benzbromaron Бензбромарон
+M04AB04 m04ab04-izobromindion Изоброминдион
+M04AB05 m04ab05-lesinurad Лесинурад
+M04AC01 m04ac01-kolhitcin Колхицин
+M04AC02 m04ac02-tcinhofen Цинхофен
+M04AX01 m04ax01-uratoksidaza Уратоксидаза
+M04AX02 m04ax02-peglotikaza Пеглотиказа

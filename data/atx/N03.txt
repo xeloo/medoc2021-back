@@ -1,0 +1,55 @@
+N03A n03a-protivoepilepticheskie-preparaty Противоэпилептические препараты
+N03AA n03aa-barbituraty-i-ikh-proizvodnye Барбитураты и их производные
+N03AB n03ab-proizvodnye-gidantoina Производные гидантоина
+N03AC n03ac-proizvodnye-oksazolidina Производные оксазолидина
+N03AD n03ad-proizvodnye-suktcinimida Производные сукцинимида
+N03AE n03ae-proizvodnye-benzodiazepina Производные бензодиазепина
+N03AF n03af-proizvodnye-karboksamida Производные карбоксамида
+N03AG n03ag-proizvodnye-zhirnykh-kislot Производные жирных кислот
+N03AX n03ax-prochie-protivoepilepticheskie-preparaty Прочие противоэпилептические препараты
+N03AA01 n03aa01-metilfenobarbital Метилфенобарбитал
+N03AA02 n03aa02-fenobarbital Фенобарбитал
+N03AA03 n03aa03-primidon Примидон
+N03AA04 n03aa04-barbeksaclon Барбексаклон
+N03AA30 n03aa30-metarbital Метарбитал
+N03AB01 n03ab01-etotoin Этотоин
+N03AB02 n03ab02-fenitoin Фенитоин
+N03AB03 n03ab03-amino-difenilgidantoin-valerianovaia-kislota Амино (дифенилгидантоин) валериановая кислота
+N03AB04 n03ab04-mefenitoin Мефенитоин
+N03AB05 n03ab05-fosfenitoin Фосфенитоин
+N03AB52 n03ab52-fenitoin-v-kombinatcii-s-drugimi-preparatami Фенитоин в комбинации с другими препаратами
+N03AB54 n03ab54-mefenitoin-v-kombinatcii-s-drugimi-preparatami Мефенитоин в комбинации с другими препаратами
+N03AC01 n03ac01-parametadion Параметадион
+N03AC02 n03ac02-trimetadion Триметадион
+N03AC03 n03ac03-etadion Этадион
+N03AD01 n03ad01-etosuksimid Этосуксимид
+N03AD02 n03ad02-fensuksimid Фенсуксимид
+N03AD03 n03ad03-mesuksimid Месуксимид
+N03AD51 n03ad51-etosuksimid-v-kombinatcii-s-drugimi-preparatami Этосуксимид в комбинации с другими препаратами
+N03AE01 n03ae01-clonazepam Клоназепам
+N03AF01 n03af01-karbamazepin Карбамазепин
+N03AF02 n03af02-okskarbazepin Окскарбазепин
+N03AF03 n03af03-rufinamid Руфинамид
+N03AF04 n03af04-eslikarbazepin Эсликарбазепин
+N03AG01 n03ag01-valproevaia-kislota Вальпроевая кислота
+N03AG02 n03ag02-valpromid Вальпромид
+N03AG03 n03ag03-gamma-aminomaslianaia-kislota Гамма-аминомасляная кислота
+N03AG04 n03ag04-vigabatrin Вигабатрин
+N03AG05 n03ag05-progabid Прогабид
+N03AG06 n03ag06-tiagabin Тиагабин
+N03AX03 n03ax03-sultiam Султиам
+N03AX07 n03ax07-fenatcemid Фенацемид
+N03AX10 n03ax10-felbamat Фелбамат
+N03AX11 n03ax11-topiramat Топирамат
+N03AX12 n03ax12-gabapentin Габапентин
+N03AX13 n03ax13-feneturid Фенетурид
+N03AX14 n03ax14-levetiratcetam Леветирацетам
+N03AX15 n03ax15-zonisamid Зонисамид
+N03AX16 n03ax16-pregabalin Прегабалин
+N03AX17 n03ax17-stiripentol Стирипентол
+N03AX18 n03ax18-lakosamid Лакосамид
+N03AX19 n03ax19-karisbamat Карисбамат
+N03AX21 n03ax21-retigabin Ретигабин
+N03AX22 n03ax22-perampanel Перампанел
+N03AX23 n03ax23-brivaratcetam Бриварацетам
+N03AX30 n03ax30-beclamid Бекламид

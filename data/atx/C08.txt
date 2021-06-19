@@ -1,0 +1,39 @@
+C08C c08c-selektivnye-blokatory-kaltcievykh-kanalov-s-preimushchestvennym-vliianiem-na-sosudy Селективные блокаторы кальциевых каналов с преимущественным влиянием на сосуды
+C08D c08d-selektivnye-blokatory-kaltcievykh-kanalov-s-priamym-vliianiem-na-serdtce Селективные блокаторы кальциевых каналов с прямым влиянием на сердце
+C08E c08e-neselektivnye-blokatory-kaltcievykh-kanalov Неселективные блокаторы кальциевых каналов
+C08G c08g-blokatory-kaltcievykh-kanalov-i-diuretiki Блокаторы кальциевых каналов и диуретики
+C08CA c08ca-digidropiridinovye-proizvodnye Дигидропиридиновые производные
+C08CX c08cx-prochie-selektivnye-blokatory-kaltcievykh-kanalov-s-preimushchestvennym-vliianiem-na-sosudy Прочие селективные блокаторы кальциевых каналов с преимущественным влиянием на сосуды
+C08CA01 c08ca01-amlodipin Амлодипин
+C08CA02 c08ca02-felodipin Фелодипин
+C08CA03 c08ca03-isradipin Исрадипин
+C08CA04 c08ca04-nikardipin Никардипин
+C08CA05 c08ca05-nifedipin Нифедипин
+C08CA06 c08ca06-nimodipin Нимодипин
+C08CA07 c08ca07-nisoldipin Нисолдипин
+C08CA08 c08ca08-nitrendipin Нитрендипин
+C08CA09 c08ca09-latcidipin Лацидипин
+C08CA10 c08ca10-nilvadipin Нилвадипин
+C08CA11 c08ca11-manidipin Манидипин
+C08CA12 c08ca12-barnidipin Барнидипин
+C08CA13 c08ca13-lerkanidipin Лерканидипин
+C08CA14 c08ca14-tcilnidipin Цилнидипин
+C08CA15 c08ca15-benidipin Бенидипин 
+C08CA16 c08ca16-clevidipin Клевидипин
+C08CA55 c08ca55-nifedipin-v-kombinatcii-s-drugimi-preparatami Нифедипин в комбинации с другими препаратами
+C08CX01 c08cx01-mibefradil Мибефрадил
+C08DA c08da-fenilalkilaminovye-proizvodnye Фенилалкиламиновые производные
+C08DB c08db-benzotiazepinovye-proizvodnye Бензотиазепиновые производные
+C08DA01 c08da01-verapamil Верапамил
+C08DA02 c08da02-gallopamil Галлопамил
+C08DA51 c08da51-verapamil-v-kombinatcii-s-drugimi-preparatami Верапамил в комбинации с другими препаратами
+C08DB01 c08db01-diltiazem Дилтиазем
+C08EA c08ea-proizvodnye-fenilalkilamina Производные фенилалкиламина
+C08EX c08ex-prochie-neselektivnye-blokatory-kaltcievykh-kanalov Прочие неселективные блокаторы кальциевых каналов
+C08EA01 c08ea01-fendilin Фендилин
+C08EA02 c08ea02-bepridil Бепридил
+C08EX01 c08ex01-leedoflazin Лидофлазин
+C08EX02 c08ex02-pergeksilin Пергексилин
+C08GA c08ga-blokatory-kaltcievykh-kanalov-i-diuretiki Блокаторы кальциевых каналов и диуретики
+C08GA01 c08ga01-nifedipin-i-diuretiki Нифедипин и диуретики
+C08GA02 c08ga02-amlodipin-i-diuretiki Амлодипин и диуретики

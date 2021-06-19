@@ -1,0 +1,38 @@
+M02A m02a-preparaty-dlia-mestnogo-primeneniia-pri-sustavnoi-i-myshechnoi-boli Препараты для местного применения при суставной и мышечной боли
+M02AA m02aa-nesteroidnye-protivovospalitelnye-preparaty-dlia-mestnogo-primeneniia Нестероидные противовоспалительные препараты для местного применения
+M02AB m02ab-kapsaitcin-i-podobnye-sredstva Капсаицин и подобные средства
+M02AC m02ac-preparaty-s-proizvodnymi-salitcilovoi-kisloty Препараты с производными салициловой кислоты
+M02AX m02ax-drugie-preparaty-dlia-mestnogo-primeneniia-pri-sustavnoi-i-myshechnoi-boli Другие препараты для местного применения при суставной и мышечной боли
+M02AA01 m02aa01-fenilbutazon Фенилбутазон
+M02AA02 m02aa02-mofebutazon Мофебутазон
+M02AA03 m02aa03-clofezon Клофезон
+M02AA04 m02aa04-oksifenbutazon Оксифенбутазон
+M02AA05 m02aa05-benzidamin Бензидамин
+M02AA06 m02aa06-etofenamat Этофенамат
+M02AA07 m02aa07-piroksikam Пироксикам
+M02AA08 m02aa08-felbinak Фелбинак
+M02AA09 m02aa09-bufeksamak Буфексамак
+M02AA10 m02aa10-ketoprofen Кетопрофен
+M02AA11 m02aa11-bendazak Бендазак
+M02AA12 m02aa12-naproksen Напроксен
+M02AA13 m02aa13-ibuprofen Ибупрофен
+M02AA14 m02aa14-fentiazak Фентиазак
+M02AA15 m02aa15-diclofenak Диклофенак
+M02AA16 m02aa16-feprazon Фепразон
+M02AA17 m02aa17-niflumovaia-kislota Нифлумовая кислота
+M02AA18 m02aa18-meclofenamovaia-kislota Меклофенамовая кислота
+M02AA19 m02aa19-flurbiprofen Флурбипрофен
+M02AA21 m02aa21-tolmetin Толметин
+M02AA22 m02aa22-suksibuzon Суксибузон
+M02AA23 m02aa23-indometatcin Индометацин
+M02AA24 m02aa24-nifenazon Нифеназон
+M02AA25 m02aa25-atceclofenak Ацеклофенак
+M02AA26 m02aa26-nimesulid Нимесулид
+M02AA27 m02aa27-deksketoprofen Декскетопрофен
+M02AB01 m02ab01-kapsaitcin Капсаицин
+M02AB02 m02ab02-zukapsaitcin Зукапсаицин
+M02AX02 m02ax02-tolazolin Толазолин
+M02AX03 m02ax03-dimetilsulfoksid Диметилсульфоксид
+M02AX05 m02ax05-idrotcilamid Идроциламид
+M02AX06 m02ax06-tolperizon Толперизон
+M02AX10 m02ax10-prochie-preparaty Прочие препараты

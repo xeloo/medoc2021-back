@@ -1,0 +1,74 @@
+B01A b01a-antikoagulianty Антикоагулянты
+B01AA b01aa-nepriamye-antikoagulianty-antagonisty-vitamina-k Непрямые антикоагулянты (антагонисты витамина K)
+B01AB b01ab-gepariny Гепарины
+B01AD b01ad-fermentnye-preparaty Ферментные препараты
+B01AE b01ae-priamye-antikoagulianty Прямые антикоагулянты
+B01AF b01af-priamye-ingibitory-faktora-ha Прямые ингибиторы фактора Ха
+B01AX b01ax-prochie-antikoagulianty Прочие антикоагулянты
+B01AC b01ac-ingibitory-agregacii-trombocitov Ингибиторы агрегации тромбоцитов (исключая гепарин) в комбинациях
+B01AA02 b01aa02-fenindion Фениндион
+B01AA03 b01aa03-varfarin Варфарин
+B01AA07 b01aa07-acenokumarol Аценокумарол
+B01AA08 b01aa08-etil-biskumatcetat Этил бискумацетат
+B01AB01 b01ab01-geparin Гепарин
+B01AB02 b01ab02-antitrombin-iii Антитромбин III
+B01AB04 b01ab04-dalteparin Далтепарин
+B01AB05 b01ab05-enoksaparin Эноксапарин
+B01AB06 b01ab06-nadroparin Надропарин
+B01AB07 b01ab07-parnaparin Парнапарин
+B01AB08 b01ab08-reviparin Ревипарин
+B01AB09 b01ab09-danaparoid Данапароид
+B01AB10 b01ab10-tinzaparin Тинзапарин
+B01AB11 b01ab11-sulodeksid Сулодексид
+B01AB12 b01ab12-bemiparin-natriia Бемипарин натрия
+B01AB51 b01ab51-geparin-v-kombinatciiakh Гепарин в комбинациях
+B01AD01 b01ad01-streptokinaza Стрептокиназа
+B01AD02 b01ad02-alteplaza Алтеплаза
+B01AD03 b01ad03-anistreplaza Анистреплаза
+B01AD04 b01ad04-urokinaza Урокиназа
+B01AD05 b01ad05-fibrinolizin Фибринолизин
+B01AD06 b01ad06-brinaza Бриназа
+B01AD07 b01ad07-reteplaza Ретеплаза
+B01AD08 b01ad08-saruplaza Саруплаза
+B01AD09 b01ad09-ankrod Анкрод
+B01AD10 b01ad10-drotrekalin-alfa-aktivirovannyi Дротрекалин альфа (активированный)
+B01AD11 b01ad11-tenekteplaza Тенектеплаза
+B01AD12 b01ad12-protein-s Протеин С
+B01AE01 b01ae01-dezirudin Дезирудин
+B01AE02 b01ae02-lepirudin Лепирудин
+B01AE03 b01ae03-argatroban Аргатробан
+B01AE04 b01ae04-melagatran Мелагатран
+B01AE05 b01ae05-ksimelagatran Ксимелагатран
+B01AE06 b01ae06-bivalirudin Бивалирудин
+B01AE07 b01ae07-dabigatran-eteksilat Дабигатран этексилат
+B01AF01 b01af01-rivaroksaban Ривароксабан
+B01AF02 b01af02-apiksaban Апиксабан
+B01AX01 b01ax01-defibrotid Дефибротид
+B01AX04 b01ax04-dermatan-sulfat Дерматан сульфат
+B01AX05 b01ax05-fondaparinuks-natriia Фондапаринукс натрия
+B01AC01 b01ac01-ditazol Дитазол
+B01AC02 b01ac02-clorikromen Клорикромен
+B01AC03 b01ac03-pikotamid Пикотамид
+B01AC04 b01ac04-clopidogrel Клопидогрел
+B01AC05 b01ac05-ticlopidin Тиклопидин
+B01AC06 b01ac06-atcetilsalitcilovaia-kislota Ацетилсалициловая кислота
+B01AC07 b01ac07-dipiridamol Дипиридамол
+B01AC08 b01ac08-karbazalat-kaltciia Карбазалат кальция
+B01AC09 b01ac09-epoprostenol Эпопростенол
+B01AC10 b01ac10-indobufen Индобуфен
+B01AC11 b01ac11-iloprost Илопрост
+B01AC13 b01ac13-abtciksimab Абциксимаб
+B01AC15 b01ac15-aloksiprin Алоксиприн
+B01AC16 b01ac16-eptifibatid Эптифибатид
+B01AC17 b01ac17-tirofiban Тирофибан
+B01AC18 b01ac18-triflusal Трифлусал
+B01AC19 b01ac19-beraprost Берапрост
+B01AC21 b01ac21-treprostinil Трепростинил
+B01AC22 b01ac22-prasugrel Прасугрел
+B01AC23 b01ac23-tcilostazol Цилостазол
+B01AC24 b01ac24-tikagrelor Тикагрелор
+B01AC25 b01ac25-kangrelor Кангрелор
+B01AC26 b01ac26-vorapaksar Ворапаксар
+B01AC27 b01ac27-seleksipag Селексипаг
+B01AC30 b01ac30-ingibitory-agregatcii-trombotcitov-iscliuchaia-geparin-v-kombinatciiakh Ингибиторы агрегации тромбоцитов (исключая гепарин) в комбинациях
+B01AC56 b01ac56-atcetilsalitcilovaia-kislota-v-kombinatcii-s-ingibitorami-protonnoi-pompy Ацетилсалициловая кислота в комбинации с ингибиторами протонной помпы

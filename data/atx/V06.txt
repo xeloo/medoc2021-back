@@ -1,0 +1,15 @@
+V06A v06a-dieticheskie-sredstva-dlia-lecheniia-ozhireniia Диетические средства для лечения ожирения
+V06B v06b-belkovye-dobavki Белковые добавки
+V06C v06c-detskie-pitatelnye-smesi Детские питательные смеси
+V06D v06d-drugie-preparaty-dlia-pitaniia Другие препараты для питания
+V06AA v06aa-nizkokaloriinye-dieticheskie-smesi Низкокалорийные диетические смеси
+V06CA v06ca-preparaty-dlia-pitaniia-bez-fenilalanina Препараты для питания без фенилаланина
+V06DA v06da-kompleks-uglevodov-belkov-mineralov-i-vitaminov Комплекс углеводов, белков, минералов и витаминов
+V06DB v06db-kompleks-belkov-zhirov-uglevodov-mineralov-i-vitaminov Комплекс белков, жиров, углеводов, минералов и витаминов
+V06DC v06dc-uglevody Углеводы
+V06DD v06dd-aminokisloty-vcliuchaia-kombinatcii-s-polipeptidami Аминокислоты, включая комбинации с полипептидами
+V06DE v06de-kompleks-aminokislot-uglevodov-mineralov-i-vitaminov Комплекс аминокислот, углеводов, минералов и витаминов
+V06DF v06df-zameniteli-moloka Заменители молока
+V06DX v06dx-prochie-kombinirovannye-preparaty-dlia-pitaniia Прочие комбинированные препараты для питания
+V06DC01 v06dc01-glucose Glucose
+V06DC02 v06dc02-fructose Fructose

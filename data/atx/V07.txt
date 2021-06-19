@@ -1,0 +1,13 @@
+V07A v07a-drugie-raznye-nelechebnye-sredstva Другие разные нелечебные средства
+V07AA v07aa-plastyri Пластыри
+V07AB v07ab-rastvoriteli-i-rastvory-dlia-razvedeniia-vcliuchaia-irrigatcionnye-rastvory Растворители и растворы для разведения, включая ирригационные растворы
+V07AC v07ac-vspomogatelnye-sredstva-dlia-gemotransfuzii Вспомогательные средства для гемотрансфузии
+V07AD v07ad-vspomogatelnye-testy-dlia-analiza-krovi Вспомогательные тесты для анализа крови
+V07AN v07an-moche-i-kalopriemniki Моче- и калоприемники
+V07AR v07ar-testy-dlia-opredeleniia-chuvstvitelnosti-mikrobov-diski-i-tabletki Тесты для определения чувствительности микробов, диски и таблетки
+V07AS v07as-oborudovanie-dlia-stom Оборудование для стом
+V07AT v07at-kosmetika Косметика
+V07AV v07av-dezinfektanty-tekhnicheskie Дезинфектанты технические
+V07AX v07ax-moiushchie-veshchestva Моющие вещества
+V07AY v07ay-prochie-vspomogatelnye-nelechebnye-sredstva Прочие вспомогательные нелечебные средства
+V07AZ v07az-himicheskie-reagenty-dlia-laboratornogo-analiza Химические реагенты для лабораторного анализа

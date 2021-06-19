@@ -1,0 +1,80 @@
+R05C r05c-otharkivaiushchie-preparaty-krome-kombinatcii-s-protivokashlevymi-sredstvami Отхаркивающие препараты, кроме комбинаций с противокашлевыми средствами
+R05D r05d-protivokashlevye-preparaty-krome-kombinatcii-s-otharkivaiushchimi-sredstvami Противокашлевые препараты, кроме комбинаций с отхаркивающими средствами
+R05F r05f-protivokashlevye-preparaty-v-kombinatcii-s-otharkivaiushchimi-preparatami Противокашлевые препараты в комбинации с отхаркивающими препаратами
+R05X r05x-drugie-protivokashlevye-preparaty Другие противокашлевые препараты
+R05CA r05ca-otharkivaiushchie-preparaty Отхаркивающие препараты
+R05CB r05cb-mukolitiki Муколитики
+R05CA01 r05ca01-tiloksapol Тилоксапол
+R05CA02 r05ca02-kaliia-iodid Калия йодид
+R05CA03 r05ca03-gvaifenezin Гвайфенезин
+R05CA04 r05ca04-ipekakuana-rvotnyi-koren Ипекакуана (рвотный корень)
+R05CA05 r05ca05-alteia-lekarstvennogo-korni Алтея лекарственного корни
+R05CA06 r05ca06-senega Сенега
+R05CA07 r05ca07-antimoniia-pentasulfid Антимония пентасульфид
+R05CA08 r05ca08-kreozot Креозот
+R05CA09 r05ca09-gvaiakolsulfonat Гваяколсульфонат
+R05CA10 r05ca10-kombinatciia-otharkivaiushchikh-preparatov Комбинация отхаркивающих препаратов
+R05CA11 r05ca11-levoverbenon Левовербенон
+R05CA12 r05ca12-leestia-pliushcha-obyknovennogo Листья плюща обыкновенного
+R05CA13 r05ca13-tcineol Цинеол
+R05CB01 r05cb01-atcetiltcistein Ацетилцистеин
+R05CB02 r05cb02-bromgeksin Бромгексин
+R05CB03 r05cb03-karbotcistein Карбоцистеин
+R05CB04 r05cb04-eprazinon Эпразинон
+R05CB05 r05cb05-mesna Месна
+R05CB06 r05cb06-ambroksol Амброксол
+R05CB07 r05cb07-sobrerol Собрерол
+R05CB08 r05cb08-domiodol Домиодол
+R05CB09 r05cb09-letostein Летостеин
+R05CB10 r05cb10-kombinirovannye-preparaty Комбинированные препараты
+R05CB11 r05cb11-stepronin Степронин
+R05CB13 r05cb13-dornaza-alfa-dezoksiribonucleaza Дорназа альфа (дезоксирибонуклеаза)
+R05CB14 r05cb14-nelteneksin Нелтенексин
+R05CB15 r05cb15-erdostein Эрдостеин
+R05CB16 r05cb16-mannitol Маннитол
+R05DA r05da-alkaloidy-opiia-i-ego-proizvodnye Алкалоиды опия и его производные
+R05DB r05db-prochie-protivokashlevye-preparaty Прочие противокашлевые препараты
+R05DA01 r05da01-etilmorfin Этилморфин
+R05DA03 r05da03-gidrokodon Гидрокодон
+R05DA04 r05da04-kodein Кодеин
+R05DA05 r05da05-alkaloidy-opiia-s-morfinom Алкалоиды опия с морфином
+R05DA06 r05da06-normetadon Норметадон
+R05DA07 r05da07-noskapin Носкапин
+R05DA08 r05da08-folkodin Фолкодин
+R05DA09 r05da09-dekstrometorfan Декстрометорфан
+R05DA10 r05da10-tebakon Тебакон
+R05DA11 r05da11-dimemorfan Димеморфан
+R05DA12 r05da12-atcetildigidrokodein Ацетилдигидрокодеин
+R05DA20 r05da20-protivokashlevye-preparaty-v-kombinatcii Противокашлевые препараты в комбинации
+R05DB01 r05db01-benzonatat Бензонатат
+R05DB02 r05db02-benproperin Бенпроперин
+R05DB03 r05db03-clobutinol Клобутинол
+R05DB04 r05db04-izoaminil Изоаминил
+R05DB05 r05db05-pentoksiverin Пентоксиверин
+R05DB07 r05db07-oksolamin Оксоламин
+R05DB09 r05db09-okseladin Окселадин
+R05DB10 r05db10-clofedanol Клофеданол
+R05DB11 r05db11-pipazetat Пипазетат
+R05DB12 r05db12-bibenzoniia-bromid Бибензония бромид
+R05DB13 r05db13-butamirat Бутамират
+R05DB14 r05db14-fedrilat Федрилат
+R05DB15 r05db15-zipeprol Зипепрол
+R05DB16 r05db16-dibunat Дибунат
+R05DB17 r05db17-droksipropin Дроксипропин
+R05DB18 r05db18-prenoksdiazin Преноксдиазин
+R05DB19 r05db19-dropropizin Дропропизин
+R05DB20 r05db20-kombinirovannye-preparaty Комбинированные препараты
+R05DB21 r05db21-cloperastin Клоперастин
+R05DB22 r05db22-meprotiksol Мепротиксол
+R05DB23 r05db23-piperidion Пиперидион
+R05DB24 r05db24-tipepidin Типепидин
+R05DB25 r05db25-morclofon Морклофон
+R05DB26 r05db26-nepinalon Непиналон
+R05DB27 r05db27-levodropropizin Леводропропизин
+R05DB28 r05db28-dimetoksanat Диметоксанат
+R05FA r05fa-proizvodnye-opiia-v-kombinatcii-s-otharkivaiushchimi-preparatami Производные опия в комбинации с отхаркивающими препаратами
+R05FB r05fb-prochie-protivokashlevye-preparaty-v-kombinatcii-s-otharkivaiushchimi-preparatami Прочие противокашлевые препараты в комбинации с отхаркивающими препаратами
+R05FA01 r05fa01-proizvodnye-opiia-v-kombinatcii-s-mukolitikami Производные опия в комбинации с муколитиками
+R05FA02 r05fa02-proizvodnye-opiia-v-kombinatcii-s-otharkivaiushchimi-preparatami Производные опия в комбинации с отхаркивающими препаратами
+R05FB01 r05fb01-protivokashlevye-preparaty-v-kombinatcii-s-mukolitikami Противокашлевые препараты в комбинации с муколитиками
+R05FB02 r05fb02-protivokashlevye-preparaty-v-kombinatcii-s-otharkivaiushchimi-preparatami Противокашлевые препараты в комбинации с отхаркивающими препаратами
