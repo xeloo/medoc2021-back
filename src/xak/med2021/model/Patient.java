@@ -19,4 +19,19 @@ public class Patient {
     public List<Procedure> treatment = new ArrayList<>();
 
 
+    public Patient copy() {
+        Patient p = new Patient();
+        p.id = id;
+        p.lastName = lastName;
+        p.firstName = firstName;
+        p.middleName = middleName;
+        p.sex = sex;
+        p.age = age;
+        p.docId = docId;
+        p.diagId = diagId;
+        p.startDate = startDate;
+        p.endDate = endDate;
+        return p;
+    }
+
 }

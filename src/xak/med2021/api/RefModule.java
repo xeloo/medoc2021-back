@@ -8,8 +8,12 @@ import java.util.ArrayList;
 import java.util.HashMap;
 import java.util.List;
 import java.util.Map;
+import java.util.stream.Collectors;
 import java.util.stream.Stream;
 
+import org.eclipse.jetty.util.ajax.JSON;
+
+import xak.med2021.model.Diagnose;
 import xak.med2021.model.Doctor;
 import xak.med2021.model.Patient;
 import xak.med2021.model.Procedure;
@@ -24,7 +28,7 @@ public class RefModule extends BaseModule {
 
     private final List<String[]> diagList = new ArrayList<>();
     private final Map<String, String> diagMap = new HashMap<>();
-    private final Map<String, List<String>> diagServiceMap = new HashMap<>();
+    private final Map<String, Map<String, String>> diagServiceMap = new HashMap<>();
 
     private final Map<String, Criteria> diagToCriteria = new HashMap<>();
 
@@ -38,6 +42,8 @@ public class RefModule extends BaseModule {
     private final Map<String, String[]> atxSearch = new HashMap<>();
     private final Map<String, List<String[]>> atxHint = new HashMap<>();
 
+    private final Object chartData;
+
     public RefModule() {
 
         readServiceList();
@@ -48,15 +54,62 @@ public class RefModule extends BaseModule {
         readDoctorList();
         readPatientList();
         readTreatmentList();
+        chartData = loadChartData();
 
         path("/api", () -> {
             method("getDiagnoseList", this::getDiagnoseList);
+            method("getDiagnose", this::getDiagnose);
             method("getCriteria", this::getCriteria);
             method("getServiceList", this::getServiceList);
             method("getDrugList", this::getDrugList);
+            method("getChartData", this::getChartData);
+            method("getDoctorList", this::getDoctorList);
+            method("getDoctor", this::getDoctor);
+            method("getPatientList", this::getPatientList);
+            method("getPatient", this::getPatient);
         });
     }
 
+    private List<Doctor> getDoctorList() {
+        return doctorList;
+    }
+
+    private Doctor getDoctor() {
+        String id = param("id").getString();
+        return doctorMap.get(id);
+    }
+
+    private List<Patient> getPatientList() {
+        return patientList.stream().map(p -> p.copy()).collect(Collectors.toList());
+    }
+
+    private Patient getPatient() {
+        String id = param("id").getString();
+        return patientMap.get(id);
+    }
+
+    private Diagnose getDiagnose() {
+        String id = param("id").getString();
+        Diagnose d = new Diagnose();
+        d.id = id;
+        d.title = diagMap.get(id);
+        d.services = diagServiceMap.get(id);
+        return d;
+    }
+
+    private Object loadChartData() {
+        try {
+            return JSON.parse(Files.readString(Path.of("data/data.json")));
+        } catch( IOException e ) {
+            e.printStackTrace();
+            System.exit(1);
+            return null;
+        }
+    }
+
+    private Object getChartData() {
+        return chartData;
+    }
 
 
     private List<String[]> getDiagnoseList() {
@@ -164,11 +217,11 @@ public class RefModule extends BaseModule {
 
                     try {
                         Files.readAllLines(file).forEach(line -> {
-                            String[] pair = line.split(" ", 2);
+                            String[] pair = line.split(" ", 3);
                             atxList.add(pair);
-                            atxMap.put(pair[0], pair[1]);
-                            String key = pair[0] + " " + pair[1];
-                            atxSearch.put(key.toLowerCase(), pair);
+                            atxMap.put(pair[0], pair[2]);
+                            String key = pair[0] + " " + pair[2];
+                            atxSearch.put(key.toLowerCase(), new String[] {pair[0], pair[2]});
                         });
                     } catch( IOException e ) {
                         e.printStackTrace();
@@ -227,8 +280,15 @@ public class RefModule extends BaseModule {
                         String diag = file.getFileName().toString();
                         diag = diag.substring(0, diag.lastIndexOf('.'));
                         List<String> servList = Files.readAllLines(file);
+                        Map<String, String> servMap = new HashMap<>();
+                        for( String serv : servList ) {
+                            String servTitle = serviceMap.get(serv);
+                            if( servTitle != null ) {
+                                servMap.put(serv, servTitle);
+                            }
+                        }
 
-                        diagServiceMap.put(diag, servList);
+                        diagServiceMap.put(diag, servMap);
                     } catch( IOException e ) {
                         e.printStackTrace();
                         System.exit(1);
@@ -260,7 +320,8 @@ public class RefModule extends BaseModule {
                             proc.code = fields[0];
                             proc.service = serviceMap.containsKey(fields[0]);
                             proc.done = fields[1].equals("1");
-                            proc.crit = Integer.parseInt(fields[2]);
+                            proc.criteria = Integer.parseInt(fields[2]);
+                            procList.add(proc);
                         }
 
                         p.treatment = procList;

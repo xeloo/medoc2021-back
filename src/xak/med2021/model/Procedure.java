@@ -5,6 +5,6 @@ public class Procedure {
     public String code;
     public boolean service;
     public boolean done;
-    public int crit;
+    public int criteria;
 
 }
